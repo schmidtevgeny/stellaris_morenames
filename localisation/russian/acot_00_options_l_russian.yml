@@ -3,53 +3,53 @@
 ### ENGLISH LOCALIZATION
  
  
-edict_acot_mod_menu_edict: "§YACOT Configuration Menu§!"
-edict_acot_mod_menu_edict_desc: "Use your reality-bending power to dictate what ACOT stuffs should or should not be allowed in this little galaxy you have decided to tamper with.\n\nSide-effects include amnesia, hair-loss, fourth-dimensional burn, terrible terrible damage and meme infestation. Do not invoke this without a class-35 singularity event."
+edict_acot_mod_menu_edict: "§YМеню конфигурации ACOT§!"
+edict_acot_mod_menu_edict_desc: "Используйте свою способность изменять реальность, чтобы диктовать, какие вещи ACOT должны или не должны быть разрешены в этой маленькой галактике, в которую вы решили вмешаться.\n\nПобочные эффекты включают амнезию, потерю волос, ожог четвертого измерения, ужасные ужасные повреждения и заражение мемами. Не вызывайте это без события сингулярности класса-35."
  
-acot_mod_options_title: "Ancient Cache of Technologies Tech Options Menu"
-acot_mod_options_desc: "This menu allows you to disable certain elements in ACOT you dislike or want to change."
+acot_mod_options_title: "Древний тайник технологий Меню технических опций"
+acot_mod_options_desc: "Это меню позволяет отключить определенные элементы в ACOT, которые вам не нравятся или которые вы хотите изменить."
  
-acot_mod_options.exit: "Exit Menu"
+acot_mod_options.exit: "Выход из меню"
 
-acot_mod_options.1: "Technology Options"
-acot_mod_options.1.tooltip: "Customize which technologies should be allowed to appear or not."
+acot_mod_options.1: "Варианты технологий"
+acot_mod_options.1.tooltip: "Настройте, какие технологии должны отображаться, а какие нет."
 
-acot_mod_options.100.name: "Technology Options"
-acot_mod_options.100.desc: "Customize which technologies should be allowed to appear or not."
+acot_mod_options.100.name: "Варианты технологий"
+acot_mod_options.100.desc: "Настройте, какие технологии должны отображаться, а какие нет."
 
-acot_mod_options.100.a: "Weapon Techs are §Genabled§!. §RDisable§!?"
-acot_mod_options.100.a.tooltip: "Disables all ACOT Dark Matter-Tier and Ascended-Tier weapon technologies. Already researched components will remain §Yavailable§!.\n\n§RWARNING§!: Certain weapons are gated behind Dark Energy Reactors and Thrusters. If those are disabled, they will also not be obtainable."
-acot_mod_options.100.a2: "Weapon Techs are §Rdisabled§!. §GEnable§!?"
-acot_mod_options.100.a2.tooltip: "Enables all ACOT Dark Matter-Tier and Ascended-Tier weapon technologies, They will become researchable provided that all other conditions are met."
+acot_mod_options.100.a: "Оружейные технологии §Gразрешены§!. §RЗапретить§!?"
+acot_mod_options.100.a.tooltip: "Отключает все оружейные технологии ACOT уровня Темной Материи и Вознесенных. Уже исследованные компоненты останутся §YДоступными§!.\n\n§RПредупреждение§! Некоторые виды оружия имеют реакторы и движители, работающие на темной энергии. Если они будут отключены, их также нельзя будет получить."
+acot_mod_options.100.a2: "Оружейные технологии §Rзапрещены§!. §GРазрешить§!?"
+acot_mod_options.100.a2.tooltip: "Включает все оружейные технологии ACOT уровня Темной материи и уровня Вознесенных. Они становятся доступными для исследования при соблюдении всех остальных условий."
  
-acot_mod_options.100.b: "Defensive Utilities components are §Genabled§!. §RDisable§!?"
-acot_mod_options.100.b.tooltip: "Disables all ACOT Dark Matter-Tier and Ascended-Tier Armor and Shield technologies. Already researched components will remain §Yavailable§!.\n\n§RWARNING§!: Shields are gated behind Dark Energy Reactors. If this is disabled, the shield will also not be obtainable."
-acot_mod_options.100.b2: "Defensive Utilities are §Rdisabled§!. §GEnable§!?"
-acot_mod_options.100.b2.tooltip: "Enables all ACOT Dark Matter-Tier and Ascended-Tier Armor and Shield technologies. They will become researchable provided that all other conditions are met."
+acot_mod_options.100.b: "Компоненты защитной системы §Gразрешены§!. §RЗапретить§!?"
+acot_mod_options.100.b.tooltip: "Запрешает все технологии брони и щитов ACOT уровня Темной материи и уровня Вознесенных. Уже исследованные компоненты останутся §Yдоступны§!.\n\n§RПредупреждение§!: Щиты задействуют реакторы темной энергии. Если это отключить, щит также нельзя будет получить."
+acot_mod_options.100.b2: "Компоненты защитной системы  §Rзапрещены§!. §GРазрешить§!?"
+acot_mod_options.100.b2.tooltip: "Включает все технологии брони и щитов ACOT уровня Темной материи и уровня Вознесенных. Они становятся доступными для исследования при соблюдении всех остальных условий."
  
-acot_mod_options.100.c: "Aux components are §Genabled§!. §RDisable§!?"
-acot_mod_options.100.c.tooltip: "Disables all ACOT auxiliary technologies, this includes the weapon cores for each weapon type. Already researched components will remain §Yavailable§!."
-acot_mod_options.100.c2: "Aux components are §Rdisabled§!. §GEnable§!?"
-acot_mod_options.100.c2.tooltip: "Enables all ACOT auxiliary technologies, this includes the weapon cores for each weapon type."
+acot_mod_options.100.c: "Вспомогательные технологии §Gразрешены§!. §RЗапретить§!?"
+acot_mod_options.100.c.tooltip: "Отключает все вспомогательные технологии ACOT, включая ядра оружия для каждого типа оружия. Уже исследованные компоненты останутся §Yдоступны§!."
+acot_mod_options.100.c2: "Вспомогательные технологии §Rзапрещены§!. §GРазрешить§!?"
+acot_mod_options.100.c2.tooltip: "Включает все вспомогательные технологии ACOT, включая ядра оружия для каждого типа оружия."
  
-acot_mod_options.100.d: "Ship components are §Genabled§!. §RDisable§!?"
-acot_mod_options.100.d.tooltip: "Disables all ACOT ship technologies, which include reactors, jump-drives, thrusters and sensors. Already researched components will remain §Yavailable§!.\n\n§RWARNING§!: disabling this will make many other ACOT technologies unavailable for research."
-acot_mod_options.100.d2: "Ship components are §Rdisabled§!. §GEnable§!?"
-acot_mod_options.100.d2.tooltip: "Enables all ACOT ship technologies, which include reactors, jump-drives, thrusters and sensors."
+acot_mod_options.100.d: "Корабельные системы §Gразрешены§!. §RЗапретить§!?"
+acot_mod_options.100.d.tooltip: "Отключает все технологии кораблей ACOT, включая реакторы, прыжковые приводы, движители и сенсоры. Уже исследованные компоненты останутся §Yдоступны§!.\n\n§RПредупреждение§!: Отключение этой функции сделает многие другие технологии ACOT недоступными для исследования."
+acot_mod_options.100.d2: "Корабельные системы §Rзапрещены§!. §GРазрешить§!?"
+acot_mod_options.100.d2.tooltip: "Включает все технологии кораблей ACOT, включая реакторы, прыжковые приводы, движители и сенсоры."
  
-acot_mod_options.100.e: "Army Technologies are §Genabled§!. §RDisable§!?"
-acot_mod_options.100.e.tooltip: "Disables all ACOT army technologies. Existing armies will remain §Yactive§!, they will haunt your empire for all eternity and there is nothing you can possibly ever hope to accomplish to end this horrible fate."
-acot_mod_options.100.e2: "Army Technologies are §Rdisabled§!. §GEnable§!?"
-acot_mod_options.100.e2.tooltip: "Enables all  ACOT army technologies, allowing your empire to recruit/build/train/morph/conjure/summon/materialize AE-tier armies."
+acot_mod_options.100.e: "Армейские технологии §Gразрешены§!. §RЗапретить§!?"
+acot_mod_options.100.e.tooltip: "Отключает все технологии армий ACOT. Существующие армии останутся §Yактивны§!, они будут преследовать вашу империю вечно, и вы не сможете ничего сделать, чтобы положить конец этой ужасной судьбе."
+acot_mod_options.100.e2: "Армейские технологии §Rзапрещены§!. §GРазрешить§!?"
+acot_mod_options.100.e2.tooltip: "Активирует все армейские технологии ACOT, позволяя вашей империи набирать/строить/тренировать/морфировать/колдовать/суммировать/материализовать армии уровня вознесенных империй."
  
-acot_mod_options.100.f: "Building Technologies are §Genabled§!. §RDisable§!?"
-acot_mod_options.100.f.tooltip: "Disables all ACOT building technologies. Already constructed buildings will remain §Yavailable§!, forcing your empire to question the reality of the galaxy, of why they can have buildings that the are not allowed to comprehend in this cycle of the galaxy, the existences of which are denied to them. Your people will soon realize the futility of existences."
-acot_mod_options.100.f2: "Building Technologies are §Rdisabled§!. §GEnable§!?"
-acot_mod_options.100.f2.tooltip: "Enables all ACOT building technologies. Congrats, you have decided to enable the techs this mod is probably most famous for...why did you disable it again? Must be Giga Fortress."
+acot_mod_options.100.f: "Технологии строительства §Gразрешены§!. §RЗапретить§!?"
+acot_mod_options.100.f.tooltip: "Отключает все строительные технологии ACOT. Уже построенные здания останутся §Yсозданными§!, заставляя вашу империю задаться вопросом о реальности галактики, о том, почему они могут иметь здания, которые им не дано постичь в этом цикле галактики, в существовании которых им отказано. Ваш народ скоро поймет тщетность существования."
+acot_mod_options.100.f2: "Технологии строительства §Rзапрещены§!. §GРазрешить§!?"
+acot_mod_options.100.f2.tooltip: "Включает все строительные технологии ACOT. Поздравляю, вы решили включить технику, которой этот мод, вероятно, наиболее известен... почему вы снова отключили ее? Наверное, это Гига Крепость."
  
-acot_mod_options.100.g: "Empire Technologies are §Genabled§!. §RDisable§!?"
+acot_mod_options.100.g: "Empire Technologies are §Gразрешены§!. §RЗапретить§!?"
 acot_mod_options.100.g.tooltip: "Disables all ACOT unique empire technologies. Already researched technologies will grant bonuses even if you have specifically tell the game to not do so,  there is no hope for you. It is over, Anakin. I have the high ground."
-acot_mod_options.100.g2: "Empire Technologies are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.100.g2: "Empire Technologies are §Rзапрещены§!. §GРазрешить§!?"
 acot_mod_options.100.g2.tooltip: "Enables all ACOT unique empire technologies. If you have already researched them, they will become buildable again. Time to waste all those influences spamming Giga Fortresses on every planets perhaps"
 
 ###################################################################################
@@ -60,34 +60,34 @@ acot_mod_options.2.tooltip: "Customize which events should be allowed to happen 
 acot_mod_options.200.name: "ACOT Event Options"
 acot_mod_options.200.desc: "Customize which events should be allowed to happen or not."
 
-acot_mod_options.200.a: "Dark Designs Events are §Genabled§!. §RDisable§!?"
+acot_mod_options.200.a: "Dark Designs Events are §Gразрешены§!. §RЗапретить§!?"
 acot_mod_options.200.a.tooltip: "Disables Dark Designs Events. Dark Design is the event chain that focus on the discoveries of the enigmatic power, the technologies utilized by the fallen empires."
-acot_mod_options.200.a2: "Dark Designs Events are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.200.a2: "Dark Designs Events are §Rзапрещены§!. §GРазрешить§!?"
 acot_mod_options.200.a2.tooltip: "Enables Dark Designs Events."
  
-acot_mod_options.200.b: "Mysteries of the Ancients Events are §Genabled§!. §RDisable§!?"
+acot_mod_options.200.b: "Mysteries of the Ancients Events are §Gразрешены§!. §RЗапретить§!?"
 acot_mod_options.200.b.tooltip: "Disables Mysteries of the Ancients Events. Mysteries of the Ancients is the event chain that focus on the understanding of the ancient histories and powers of the past that goes far beyond the basic understandings of the enigmatic technologies."
-acot_mod_options.200.b2: "Mysteries of the Ancients Events are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.200.b2: "Mysteries of the Ancients Events are §Rзапрещены§!. §GРазрешить§!?"
 acot_mod_options.200.b2.tooltip: "Enables Mysteries of the Ancients Events."
 
-acot_mod_options.200.c: "Stellar Power Events are §Genabled§!. §RDisable§!?"
+acot_mod_options.200.c: "Stellar Power Events are §Gразрешены§!. §RЗапретить§!?"
 acot_mod_options.200.c.tooltip: "Disables Stellar Power Events. Stellar Powers is the event chain that focus on the rediscoveries of the long-lost scientific fields of the ancient solar powers."
-acot_mod_options.200.c2: "Stellar Power Events are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.200.c2: "Stellar Power Events are §Rзапрещены§!. §GРазрешить§!?"
 acot_mod_options.200.c2.tooltip: "Enables Stellar Power Events."
 
-acot_mod_options.200.d: "Bombardment Events are §Genabled§!. §RDisable§!?"
+acot_mod_options.200.d: "Bombardment Events are §Gразрешены§!. §RЗапретить§!?"
 acot_mod_options.200.d.tooltip: "Disables Bombardment Events from occuring. This will turn all ACOT bombardments into generic, extremely powerful bombardments with no extra aftermatch events."
-acot_mod_options.200.d2: "Bombardment Events are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.200.d2: "Bombardment Events are §Rзапрещены§!. §GРазрешить§!?"
 acot_mod_options.200.d2.tooltip: "Enables Bombardment Events, allowing tears and destructions to occur."
  
-acot_mod_options.200.e: "Diplomacy Events are §Genabled§!. §RDisable§!?"
+acot_mod_options.200.e: "Diplomacy Events are §Gразрешены§!. §RЗапретить§!?"
 acot_mod_options.200.e.tooltip: "Disables diplomatic-related events from happening. Do this if you prefer AI empires to accept their fates in their fated inability to advance further than zero point duracell."
-acot_mod_options.200.e2: "Diplomacy Events are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.200.e2: "Diplomacy Events are §Rзапрещены§!. §GРазрешить§!?"
 acot_mod_options.200.e2.tooltip: "Enable diplomatic-related events. Do this if you believe that AIs should try their bests to find ways to earn the technologies somehow even if it means going through shady diplomatic moves."
  
-acot_mod_options.200.f: "Dangerous Events are §Genabled§!. §RDisable§!?"
+acot_mod_options.200.f: "Dangerous Events are §Gразрешены§!. §RЗапретить§!?"
 acot_mod_options.200.f.tooltip: "Disables dangerous or risk mechanics and events from technologies marked as dangerous in ACOT. Do this if you prefer a family-friendly game where your scientists can do no wrong and everything is pyro-land."
-acot_mod_options.200.f2: "Dangerous Events §Rdisabled§!. §GEnable§!?"
+acot_mod_options.200.f2: "Dangerous Events §Rзапрещены§!. §GРазрешить§!?"
 acot_mod_options.200.f2.tooltip: "Enables backs the dangerous or risk mechanics and events from dangerous technologies in ACOT. Do this if you want to experience the true nature that is power without knowledge."
  
 
@@ -131,12 +131,12 @@ acot_mod_options.400.desc: "Because more often than not, the AI will be incapabl
  
 acot_mod_options.400.a: "AI Backup Resources are §REnabled§!. §GDisable§!?"
 acot_mod_options.400.a.tooltip: "Disables to prevent AIs from getting free ACOT resources when they are miserable. This will allow players to punish the AI's inability to support the new SRs with impunity." 
-acot_mod_options.400.a2: "AI Backup Resources are §Genabled§!. §RDisable§!?"
+acot_mod_options.400.a2: "AI Backup Resources are §Gразрешены§!. §RЗапретить§!?"
 acot_mod_options.400.a2.tooltip: "Enable this option will enable a MTTH event that will check whether the AI is in shortage of any ACOT unique SR and will give some to them as needed. This will only apply to AIs who actually have the necessary technologies to harvest those resources."
 
 acot_mod_options.400.b: "AI Backup Army are §REnabled§!. §GDisable§!?"
 acot_mod_options.400.b.tooltip: "Disable this option will prevent a MTTH event that will check whether the AI has no armies for invasion. The event will then provide armies if the AI is not at war or have too low energy income."
-acot_mod_options.400.b2: "AI Backup Resources are §Genabled§!. §RDisable§!?"
+acot_mod_options.400.b2: "AI Backup Resources are §Gразрешены§!. §RЗапретить§!?"
 acot_mod_options.400.b2.tooltip: "Enable this option will enable a MTTH event that will check whether the AI has no armies for invasion. The event will then provide armies if the AI is not at war or have too low energy income."
 
 

@@ -1,50 +1,50 @@
 ﻿l_russian:
  
-col_acot_fractured_colony: "§EFractured Colony"
-col_acot_fractured_colony_desc: "A harsh and dangerous colony where only the most hardcore dark matter and energy enthusiasts dare tread."
+col_acot_fractured_colony: "§EРазбитая колония"
+col_acot_fractured_colony_desc: "Суровая и опасная колония, куда отваживаются ступать только самые закоренелые энтузиасты темной материи и энергии."
  
-col_acot_enigmopolis: "§BVoid Sphere Domain"
-col_acot_enigmopolis_desc: "Awe-inspiring domains of those who dare challenges against the void of space. Constant imperial rhythms and anthems can be heard to remind the people of the long journey they have embarked."
+col_acot_enigmopolis: "§BДомен сферы пустоты"
+col_acot_enigmopolis_desc: "Внушающие благоговение домены тех, кто отважится бросить вызов пустоте космоса. Постоянно звучат имперские ритмы и гимны, напоминающие людям о долгом пути, на который они вступили."
  
-col_acot_phanon_vault: "§RPhanon Vault"
-col_acot_phanon_vault_desc: "§RMysterious Station whose purpose is entirely unknown to others but the Phanon Corps themselves."
+col_acot_phanon_vault: "§RХранилище Фанона"
+col_acot_phanon_vault_desc: "§RТаинственная станция, назначение которой неизвестно никому, кроме самого корпуса Фанон."
  
 #### WORLD ######
  
-pc_dark_fractured: "Fractured World"
-pc_dark_fractured_desc: "Fractured Worlds are covered by violent storms and filled with many dark anomalies. Though there are spots that are now habitable, the planet remains a desolate land, barely capable of supporting any life."
+pc_dark_fractured: "Расколотый мир"
+pc_dark_fractured_desc: "Расколотые миры охвачены жестокими бурями и наполнены множеством темных аномалий. Хотя есть места, пригодные для жизни, планета остается пустынной землей, едва способной поддерживать какую-либо жизнь."
  
  
-pc_dark_fractured_ae: " Ultrafractured World"
-pc_dark_fractured_ae_desc: "Fractured Worlds are covered by violent storms and filled with many dark anomalies. Though there are spots that are now habitable, the planet remains a desolate land, barely capable of supporting any life."
+pc_dark_fractured_ae: " Сверхразломанный мир"
+pc_dark_fractured_ae_desc: "Расколотые миры охвачены жестокими бурями и наполнены множеством темных аномалий. Хотя есть места, пригодные для жизни, планета остается пустынной землей, едва способной поддерживать какую-либо жизнь."
  
-pc_dark_fractured_unstable: "Unstable Fractured World"
-pc_dark_fractured_unstable_desc: "Fractured Worlds are covered by violent storms and filled with many dark anomalies. The thick storm clouds are too dangerous to the point that ships can't tell which way is up, preventing any landing attempts."
+pc_dark_fractured_unstable: "Нестабильный расколотый мир"
+pc_dark_fractured_unstable_desc: "Расколотые миры охвачены жестокими бурями и наполнены множеством темных аномалий. Хотя есть места, пригодные для жизни, планета остается пустынной землей, едва способной поддерживать какую-либо жизнь."
  
  
-pc_dark_fractured_ae_unstable: " Unstable Ultrafractured World"
-pc_dark_fractured_ae_unstable_desc: "Fractured Worlds are covered by violent storms and filled with many dark anomalies. The thick storm clouds are too dangerous to the point that ships can't tell which way is up, preventing any landing attempts."
+pc_dark_fractured_ae_unstable: " Нестабильный ультраразломанный мир"
+pc_dark_fractured_ae_unstable_desc: "Расколотые миры охвачены жестокими бурями и наполнены множеством темных аномалий. Хотя есть места, пригодные для жизни, планета остается пустынной землей, едва способной поддерживать какую-либо жизнь."attempts."
  
-pc_acot_enigmopolis: "Void Sphere"
-pc_acot_enigmopolis_desc: "Powerful ecumenopolis powered by ancient precursor core and surrounded by archways and self-barriers."
+pc_acot_enigmopolis: "Сфера пустоты"
+pc_acot_enigmopolis_desc: "Мощный экуменополис, питающийся от древнего ядра-предшественника и окруженный арками и самобарьерами."
  
-trait_pc_dark_fractured_preference: "Darkspawn"
-trait_pc_dark_fractured_preference_desc: "They love being in black holes."
-mod_pc_dark_fractured_habitability: "Fractured World Survivability"
+trait_pc_dark_fractured_preference: "Даркспаун"
+trait_pc_dark_fractured_preference_desc: "Им нравится находиться в черных дырах?"
+mod_pc_dark_fractured_habitability: "Выживаемость в Расколотом мире"
  
-trait_pc_dark_fractured_ae_preference: "Hellspawn"
-trait_pc_dark_fractured_ae_preference_desc: "Perhaps they are the Black Hole?"
-mod_pc_dark_fractured_ae_habitability: "Utrafractured World Survivability"
+trait_pc_dark_fractured_ae_preference: "Хеллспаун"
+trait_pc_dark_fractured_ae_preference_desc: "Им нравится находиться в черных дырах?"
+mod_pc_dark_fractured_ae_habitability: "Выживаемость в мире разломов"
  
-trait_pc_acot_enigmopolis_preference: "Hellspawn"
-trait_pc_acot_enigmopolis_preference_desc: "Perhaps they are the Black Hole?"
-mod_pc_acot_enigmopolis_habitability: "Utrafractured World Survivability"
+trait_pc_acot_enigmopolis_preference: "Хеллспаун"
+trait_pc_acot_enigmopolis_preference_desc: "Им нравится находиться в черных дырах?"
+mod_pc_acot_enigmopolis_habitability: "Выживаемость в мире разломов"
  
 #### DUSTRRYCIT ######
  
-district_acot_fractured_shelter: "Delta Shelter"
-district_acot_fractured_shelter_plural: "Delta Shelters"
-district_acot_fractured_shelter_desc: "Delta Shelters provide protection and housing for brave souls working under the harsh environments of the world."
+district_acot_fractured_shelter: "Приют Дельта"
+district_acot_fractured_shelter_plural: "Приюты Дельта"
+district_acot_fractured_shelter_desc: "Приюты Дельта обеспечивают защиту и жилье для храбрых душ, работающих в суровых условиях мира."
  
 tech_acot_fractured_shelter: "Reinforced Shelter"
 tech_acot_fractured_shelter_desc: "It is not uncommon for dark energy storms to erupt on the violent skies of a fractured world. Unstable terrains and hostile elements require proper shelters to be created to defend against these hazards. "

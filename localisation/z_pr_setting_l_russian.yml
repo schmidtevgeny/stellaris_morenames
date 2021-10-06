@@ -62,8 +62,8 @@
  z_pr_option_setting_ai_construction_off:0 "AI Construction Assistance §HDisabled§!"
  
  z_pr_opt_setting_cntr_auto_mig:0 "When §GAutomatic Manpower§! Migration is active, §BProduction Revolution§! will, at specified intervals, check all owned planets' §YManpower§! and automatically migrate §YManpower§! between planets to try and achieve 100% production capacity while fulfilling the §YManpower§! needs of each planet."
- z_pr_opt_setting_cntr_auto_mig_on:0 "§RDisable§! Automatic Manpower Migration"
- z_pr_opt_setting_cntr_auto_mig_off:0 "§GEnable§! Automatic Manpower Migration"
+ z_pr_opt_setting_cntr_auto_mig_on:0 "§RЗапретить§! Automatic Manpower Migration"
+ z_pr_opt_setting_cntr_auto_mig_off:0 "§GРазрешить§! Automatic Manpower Migration"
  
  z_pr_tips_cntr_man_mig:0 "Migrates §YManpower§!on all owned planets where §YUltilization§! > §G1.19§! to planets where §YUltilization§! < §G1.0§!. Ignores Housing."
  z_pr_opt_cntr_man_mig:0 "§BMigrate all Manpower§!"
@@ -71,7 +71,7 @@
  z_pr_tips_cntr_pop_cnvt:0 "Converts all unemployed pops on all owned planets into §YManpower§!"
  z_pr_opt_cntr_pop_cnvt:0 "§BConvert all Unemployed Pops§!"
  
- z_pr_opt_test_stop:0 "The developer's own debugging function, please don't touch it if you don't know what you are doing. \nSelecting §RDisabled§! will stop all mod functions and clean up all planetary modifiers, which will cause various unexpected consequences."
+ z_pr_opt_test_stop:0 "The developer's own debugging function, please don't touch it if you don't know what you are doing. \nSelecting §Rзапрещены§! will stop all mod functions and clean up all planetary modifiers, which will cause various unexpected consequences."
  z_pr_opt_test_ongo:0 "MOD test: §GNormal§!"
  z_pr_opt_test_stop:0 "MOD test: §GDisabled§!"
 
@@ -86,9 +86,9 @@
  z_pr_option_setting_manpower_buffer_off:0 "Manpower Cache §HDefault§!"
  z_pr_option_setting_manpower_buffer:0 "Add $job_z_pr_uep$ to each colony to increase the upper limit of manpower cache, and you can temporarily store part of the unemployed as $job_z_pr_uep$. When other available jobs appear, they will be filled by $job_z_pr_uep$, which can reduce the computational consumption of manpower conversion. \nNote that some jobs have problems with the weights, which will cause no pop taking it forever. So, do not blame this mod."
 
- z_pr_option_setting_ignore_all_on:0 "§RDisable§! Production Revolution on all owned planets"
- z_pr_option_setting_ignore_all_off:0 "§GEnable§! Production Revolution on all owned planets"
- z_pr_tips_setting_ignore_all:0 "When Production Revolution is §Rdisabled§! on a planet, any new changes made to §BProduction Revolution§! will not take effect on that planet. Furthermore, population stops being converted into §YManpower§! and the economy and jobs of that planet will revert to original vanilla settings."
+ z_pr_option_setting_ignore_all_on:0 "§RЗапретить§! Production Revolution on all owned planets"
+ z_pr_option_setting_ignore_all_off:0 "§GРазрешить§! Production Revolution on all owned planets"
+ z_pr_tips_setting_ignore_all:0 "When Production Revolution is §Rзапрещены§! on a planet, any new changes made to §BProduction Revolution§! will not take effect on that planet. Furthermore, population stops being converted into §YManpower§! and the economy and jobs of that planet will revert to original vanilla settings."
 
 
 ###_[兼容补丁检视]    ############################################################z_pr_comp:0 "§YCompatibility Detection§!"
