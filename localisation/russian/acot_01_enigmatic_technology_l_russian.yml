@@ -128,7 +128,7 @@ ENIG_SENSOR_SHIP: "Delphic Sensors"
 ENIG_SENSOR_SHIP_DESC: "These advanced sensors are augmented with powerful Delphic Computers that can calculate and track enemy targets more efficiently than Tachyon Sensors."
 tech_sensors_enig: "Delphic Sensors"
 tech_sensors_enig_desc: "We have experimented on adapting Delphic computers to function as ship sensors. While its detection capabilities are on par with Tachyon Sensors, the Delphic Sensors have the added benefits of being better at tracking targets."
-TECH_UNLOCK_ENIG_SENSOR_TITLE: "§HUnlocks Component:§! Delphic Sensors"
+TECH_UNLOCK_ENIG_SENSOR_TITLE: "§HРазблокирует компонент:§! Delphic Sensors"
 TECH_UNLOCK_ENIG_SENSOR_DESC: "§HDelphic Sensors§!\n$ENIG_SENSOR_SHIP_DESC$"
  
  

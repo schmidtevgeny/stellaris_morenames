@@ -31,45 +31,45 @@ stellarite_army_desc: "Эти войска оснащены боевыми ма�
 stellarite_bomberman: "Солнечная бомба"
 stellarite_bomberman_desc: "У кого в наши дни есть время для ведения наземных боев?"
  
-tech_stellarite_bomberman: "Stellarite Shower"
-tech_stellarite_bomberman_desc: "Sometimes you just can't be bothered to invade enemy planets with troops. Why risk our soldier's lives when we can just drop a stellarite bombs on enemy fortresses?"
+tech_stellarite_bomberman: "Душ из стелларита"
+tech_stellarite_bomberman_desc: "Иногда вам просто не до того, чтобы вторгаться на вражеские планеты с войсками. Зачем рисковать жизнью наших солдат, если можно просто сбросить на вражеские крепости стелларитовые бомбы?"
  
 ################
  
-fe_omnidroid_army: "Delta Assault Unit"
-fe_omnidroid_army_plural: "Delta Assault Units"
-fe_omnidroid_army_desc: "These dark-matter powered war droids, protected in heavy armors and deflectors are able to perform any kind of complicated task like a fully sentient being. But they have no desire for free will and thus, will always be loyal to our cause."
+fe_omnidroid_army: "Штурмовое подразделение Дельта"
+fe_omnidroid_army_plural: "Штурмовые подразделения Дельта"
+fe_omnidroid_army_desc: "Эти боевые дроиды на основе темной материи, защищенные тяжелой броней и дефлекторами, способны выполнять любые сложные задачи, как полностью разумное существо. Но у них нет стремления к свободе воли, и поэтому они всегда будут верны нашему делу."
  
-fe_omnidroid_army_ae: "Alpha Assault Units"
-fe_omnidroid_army_ae_plural: "Alpha Assault Units"
-fe_omnidroid_army_ae_desc: "Even stronger than the previous model, the AAU stands as a testament of our empire's mastery over enigmatic power. They will replace any future DAU we build."
+fe_omnidroid_army_ae: "Штурмовое подразделение Альфа"
+fe_omnidroid_army_ae_plural: "Штурмовые подразделения Альфа"
+fe_omnidroid_army_ae_desc: "Еще более мощные, чем предыдущая модель, альфа служат свидетельством мастерства нашей империи над загадочной силой. Они заменят все будущие дельта, которые мы построим."
  
-fe_omnidroid_army_se: "Sigma Assault Units"
-fe_omnidroid_army_se_plural: "Sigma Assault Units"
-fe_omnidroid_army_se_desc: "Our enemies will be vanquished under the march of our SAU Legions!"
- 
- 
-tech_omnidroid: "Precursor AI Code Analysis"
-tech_omnidroid_desc: "It is amazing that there are records that the precursors have achieved such advancement in robotic technologies, records suggest their machines are as advanced as any organic life...yet they are fully loyal to their creators with no desire for independence. Perhaps there is something unique about them? We must dig deeper."
- 
-tech_omnidroid_ae: "Alpha Assault Units"
-tech_omnidroid_ae_desc: "Even stronger than the previous model, the AAU stands as a testament of our empire's mastery over enigmatic power. They will replace any future DAU we build."
- 
-tech_omnidroid_se: "Sigma Assault Units"
-tech_omnidroid_se_desc: "Our enemies will be vanquished under the march of our SAU Legions!"
+fe_omnidroid_army_se: "Штурмовое подразделение Сигма"
+fe_omnidroid_army_se_plural: "Штурмовые подразделения Сигма"
+fe_omnidroid_army_se_desc: "Наши враги будут побеждены под маршем наших легионов сигма!"
  
  
-acot_garrison_army: "Delta Black Guard"
-acot_garrison_army_plural: "Delta Black Guards"
-acot_garrison_army_desc: "Elite garrison forces from the Emissary who are sworn to protect their new homefront till their deaths."
+tech_omnidroid: "Анализ кода ИИ предтечи"
+tech_omnidroid_desc: "Удивительно, что существуют записи о том, что предтечи достигли такого прогресса в робототехнике, записи говорят о том, что их машины столь же совершенны, как и любая органическая жизнь... но при этом они полностью преданы своим создателям и не стремятся к независимости. Возможно, в них есть что-то уникальное? Мы должны копнуть глубже."
  
-acot_garrison_army_droid: "Deltron Defender"
-acot_garrison_army_droid_plural: "Deltron Defenders"
-acot_garrison_army_droid_desc: "Advanced Defense Units installed from the Emissary programmed to guard its new homefront till their destruction."
+tech_omnidroid_ae: "Штурмовые подразделения Альфа"
+tech_omnidroid_ae_desc: "Еще более мощные, чем предыдущая модель, альфа служат свидетельством мастерства нашей империи над загадочной силой. Они заменят все будущие дельта, которые мы построим."
  
-acot_garrison_army_giga: "Giga Cannon"
-acot_garrison_army_giga_plural: "Giga Cannons"
-acot_garrison_army_giga_desc: "Massive Cannons deployed from the Giga Fortress that will make short work of primitive forces."
+tech_omnidroid_se: "Штурмовые подразделения Сигма"
+tech_omnidroid_se_desc: "Наши враги будут побеждены под маршем наших легионов сигма!"
+ 
+ 
+acot_garrison_army: "Черная гвардия Дельта"
+acot_garrison_army_plural: "Черная гвардия Дельта"
+acot_garrison_army_desc: "Элитные гарнизонные силы Эмиссара, которые поклялись защищать свою новую родину до самой смерти."
+ 
+acot_garrison_army_droid: "Защитник Дельтрон"
+acot_garrison_army_droid_plural: "Защитники Дельтрон"
+acot_garrison_army_droid_desc: "Усовершенствованные единицы обороны, установленные с Эмиссара, запрограммированы охранять его новую родину до их уничтожения."
+ 
+acot_garrison_army_giga: "Гига-пушка"
+acot_garrison_army_giga_plural: "Гига-пушки"
+acot_garrison_army_giga_desc: "Массивные пушки, установленные в гигакрепости, быстро расправятся с примитивными силами."
  
 ################
  

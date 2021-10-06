@@ -217,7 +217,7 @@ COLOSSUS_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter P
  
 tech_fe_thruster_2: "Dark Matter Propulsion Refinements"
 tech_fe_thruster_2_desc: "The thrusters used by the Fallen Empires are quite old and are not nearly as powerful as they are supposed to. If we can refine the inner-workings of these thrusters, we will be able to bring back the truly powerful ship engines worthy of our power."
-TECH_UNLOCK_FE_THRUSTER_TITLE: "§HUnlocks Components:§! Apollo Thrusters"
+TECH_UNLOCK_FE_THRUSTER_TITLE: "§HРазблокирует компонентs:§! Apollo Thrusters"
 TECH_UNLOCK_FE_THRUSTER_DESC: "§HApollo Thrusters§!\nThis pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations."
  
  
@@ -250,7 +250,7 @@ STARBASE_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor improves upon the
  
 tech_dark_matter_power_core_ae: "Alpha-class Enigmatic Power"
 tech_dark_matter_power_core_ae_desc: "Now that we understand the concept of both Dark Matter and Dark Energy, it may yet be possible to create a much more powerful power source that surpasses that of even what the fallen one used. This new enigmatic reactor code-named §H"Alpha"§! will make us the envy of the stars.\n\n§RResearching this technology may agitate the fallen empires, as we are basically going to out-tech them.§!"
-TECH_UNLOCK_DARK_MATTER_POWER_AE_TITLE: "§HUnlocks Component:§! Alpha Enigmatic Reactor"
+TECH_UNLOCK_DARK_MATTER_POWER_AE_TITLE: "§HРазблокирует компонент:§! Alpha Enigmatic Reactor"
 TECH_UNLOCK_DARK_MATTER_POWER_AE_DESC: "§HAlpha Enigmatic Reactor§!\nAlpha Enigmatic Reactor improves upon the basic Dark Matter Reactor by implementing Dark Energy into the mix, creating a much more powerful power generator."
  
 ######################################################################################
@@ -299,7 +299,7 @@ AE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "The Alpha-Class Bionic Combat Compu
 AE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Defensive Bionic Combat Computer (Platform Station XBOX One)"
 AE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime. This particular version is optimized for defensive tactics."
  
-TECH_UNLOCK_BIONIC_COMPUTER_TITLE: "§HUnlocks Component:§! Bionic Interface Combat Computer"
+TECH_UNLOCK_BIONIC_COMPUTER_TITLE: "§HРазблокирует компонент:§! Bionic Interface Combat Computer"
 TECH_UNLOCK_BIONIC_COMPUTER_DESC: "A unique combat computer that forms a bionic link between organic, synthetic and delphic networks. It is impervious to all intrusion attempts and possesses unrivalled combat algorithms."
 tech_bionic_interface: "Bionic Interface System"
 tech_bionic_interface_desc: "Combining the characteristics of organic and synthetic minds open new possibilities for new generation combat computers."
@@ -348,7 +348,7 @@ AE_PSI_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Mentat Coordinators replace the
 AE_PSI_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Defensive Mentat Coordinator (Platform Station XBOX One)"
 AE_PSI_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields."
  
-TECH_UNLOCK_PSI_COMPUTER_TITLE: "§HUnlocks Component:§! Mentat Coordinator"
+TECH_UNLOCK_PSI_COMPUTER_TITLE: "§HРазблокирует компонент:§! Mentat Coordinator"
 TECH_UNLOCK_PSI_COMPUTER_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields."
 tech_ae_psi_computer: "Mentat Coordinators"
 tech_ae_psi_computer_desc: "Machines are unreliable, regardless of how advanced they are. Mind over Matter. We will train a group of powerful battlefield strategists to become Mentats, capable of working without the use of powers or any materials."
@@ -397,7 +397,7 @@ AE_HIVE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Overlord Strategizers are semi
 AE_HIVE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Defensive Overlord Strategizer (Platform Station XBOX One)"
 AE_HIVE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship internal systems and repair any damaged components."
  
-TECH_UNLOCK_HIVE_COMPUTER_TITLE: "§HUnlocks Component:§! Overlord Strategizer"
+TECH_UNLOCK_HIVE_COMPUTER_TITLE: "§HРазблокирует компонент:§! Overlord Strategizer"
 TECH_UNLOCK_HIVE_COMPUTER_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship internal systems and repair any damaged components."
 tech_ae_hive_computer: "On-board Hive Overlords"
 tech_ae_hive_computer_desc: "The Hive has long since relied on machines and a group of special drones to operate space vessels, but these are inefficient and drain the Hive's concentrations. A scheme to conceive overlords to act as semi-independent battlefield commanders can be formulated to replace the old combat computers."
@@ -449,7 +449,7 @@ ACOT_AURA_TECH_INHIBITOR_AE: "Enigmatic Network Inhibitor"
 ACOT_AURA_TECH_INHIBITOR_AE_DESC: "This powerful device interferes with enemy systems, zapping away their powers and bestows them on allied ships. All your powers are belong to us."
 tech_darkmatter_aura_energy_drainer: "Enigmatic Network Inhibitor"
 tech_darkmatter_aura_energy_drainer_desc: "This powerful device interferes with enemy systems, zapping away their powers and bestows them on allied ships. All your powers are belong to us."
-TECH_UNLOCK_ENERGY_DRAINER_AE_TITLE: "§HUnlocks Component:§! Enigmatic Network Inhibitor"
+TECH_UNLOCK_ENERGY_DRAINER_AE_TITLE: "§HРазблокирует компонент:§! Enigmatic Network Inhibitor"
 TECH_UNLOCK_ENERGY_DRAINER_AE_DESC: "§HEnigmatic Network Inhibitor§!\nThis powerful device interferes with enemy systems, zapping away their powers and bestows them on allied ships. All your powers are belong to us."
  
  
@@ -458,7 +458,7 @@ FE_SENSOR_SHIP: "Bionic Sensors"
 FE_SENSOR_SHIP_DESC: "Advanced Sensors that use bionic link technologies to detect enemy vessels. The system can detect both organics and machines alike."
 tech_sensor_fe: "Bionic Sensors"
 tech_sensor_fe_desc: "Advanced Sensors that use bionic link technologies to detect enemy vessels. The system can detect both organics and machines alike."
-TECH_UNLOCK_FE_SENSOR_TITLE: "§HUnlocks Component:§! Bionic Sensors"
+TECH_UNLOCK_FE_SENSOR_TITLE: "§HРазблокирует компонент:§! Bionic Sensors"
 TECH_UNLOCK_FE_SENSOR_DESC: "§HBionic Sensors§!\n$FE_SENSOR_SHIP$"
  
  
@@ -466,7 +466,7 @@ ENIGMATIC_DRIVE: "Alpha Translocator Drive"
 ENIGMATIC_DRIVE_DESC: "This enigmatic translocator drive uses dark matter to tear open a micro wormhole, allowing the ship to jump farther than conventional jump drive."
 tech_enigmatic_drive: "Advanced Translocation"
 tech_enigmatic_drive_desc: "Our Jump Drive is based on the principles and configurations of Zero-Point Energy. But now that we have since utilized Dark Matter Power, it is time we take our FTL travel technology to the next level."
-TECH_UNLOCK_ENIG_DRIVE: "§HUnlocks Component:§! Alpha Translocator Drive"
+TECH_UNLOCK_ENIG_DRIVE: "§HРазблокирует компонент:§! Alpha Translocator Drive"
 TECH_UNLOCK_ENIG_DRIVE_DESC: "§HAlpha Translocator Drive§!\n$ENIGMATIC_DRIVE_DESC$"
  
  
@@ -503,7 +503,7 @@ SHROUD_DRIVE: "Shroud Jump Drive"
 SHROUD_DRIVE_DESC: "This mysterious artifact forms a pact between the ship and the Shroud Entity. The Entity grants our ships extremely powerful jumping techniques at the cost of increased energy and minerals. The crew's souls are also bound to the entity."
 tech_shroud_jump_drive: "The Ferry of Shadow"
 tech_shroud_jump_drive_desc: "Yet again, a Shroud Entity has made a contact with us. This one called itself "The Ferry of Shadow", it offers a very simple deal; superior methods of ship travel for moderate energy and minerals. A rather simple deal for a Shroud entity."
-TECH_UNLOCK_SHROUDDRIVE: "§HUnlocks Components:§! Shroud Jump Drive"
+TECH_UNLOCK_SHROUDDRIVE: "§HРазблокирует компонентs:§! Shroud Jump Drive"
 TECH_UNLOCK_SHROUDDRIVE_DESC: "§HShroud Jump Drive§!\n$SHROUD_DRIVE_DESC$"
  
  

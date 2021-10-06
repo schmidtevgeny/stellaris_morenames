@@ -4,28 +4,28 @@ BASE_COMBAT_COMPUTER_COLOSSUS_OE: "Omni-Matrix Herculean Colossus Computer"
 BASE_COMBAT_COMPUTER_COLOSSUS_OE_DESC: "The Reflection of Radiance." 
  
 ### SHIP COMPONENTS TEXTS
-TECH_UNLOCK_ORIGIN_ARMOR_TITLE: "§HUnlocks Component:§! Celestial Armor"
+TECH_UNLOCK_ORIGIN_ARMOR_TITLE: "§HРазблокирует компонент:§! Celestial Armor"
 TECH_UNLOCK_ORIGIN_ARMOR_DESC: "Celestial Armors are forged from Static Light Energies to create one of the most powerful hull materials known to any civilizations."
  
-TECH_UNLOCK_ORIGIN_PLATINGS_TITLE: "§HUnlocks Component:§! Seraph Platings"
+TECH_UNLOCK_ORIGIN_PLATINGS_TITLE: "§HРазблокирует компонент:§! Seraph Platings"
 TECH_UNLOCK_ORIGIN_PLATINGS_DESC: "These platings are forged using Static Light Energies, making them not only extremely durable but also able to reshape and regenerate themselves to repair any damages done to the ship's hull."
  
-TECH_UNLOCK_ORIGIN_SHIELD_TITLE: "§HUnlocks Component:§! Divine Shield"
+TECH_UNLOCK_ORIGIN_SHIELD_TITLE: "§HРазблокирует компонент:§! Divine Shield"
 TECH_UNLOCK_ORIGIN_SHIELD_DESC: "This mysterious shield powered using Static Light is even stronger than Stellarite Shields and can easily repel against but the most powerful kinetic or disruption weapons."     
  
-TECH_UNLOCK_ORIGIN_THRUSTER_TITLE: "§HUnlocks Component:§! Omega Thrusters"
+TECH_UNLOCK_ORIGIN_THRUSTER_TITLE: "§HРазблокирует компонент:§! Omega Thrusters"
 TECH_UNLOCK_ORIGIN_THRUSTER_DESC: "Ancient yet extremely powerful ship thrusters far exceed that of other designs made by lesser empires."
       
-TECH_UNLOCK_ORIGIN_REACTOR_TITLE: "§HUnlocks Component:§! Static Light Receiver"
+TECH_UNLOCK_ORIGIN_REACTOR_TITLE: "§HРазблокирует компонент:§! Static Light Receiver"
 TECH_UNLOCK_ORIGIN_REACTOR_DESC: "Due to the immense power of the Light, only a single receiver is required to power all kinds of modern ships. The receiver is able to transmit the power of the Light throughout the whole vessel."
  
-TECH_UNLOCK_ORIGIN_OENSORS_TITLE: "§HUnlocks Component:§! Dimensional Light Sensors"
+TECH_UNLOCK_ORIGIN_OENSORS_TITLE: "§HРазблокирует компонент:§! Dimensional Light Sensors"
 TECH_UNLOCK_ORIGIN_OENSORS_DESC: "These latest detection systems determine ship movements by reading through the Light's dimensions. No evil shall escape our sight."
  
-TECH_UNLOCK_ORIGIN_CCOM_TITLE: "§HUnlocks Component:§! Omega-Class Combat Analyzer"
+TECH_UNLOCK_ORIGIN_CCOM_TITLE: "§HРазблокирует компонент:§! Omega-Class Combat Analyzer"
 TECH_UNLOCK_ORIGIN_CCOM_DESC: "The Omega-Class Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help guide our ships."
  
-TECH_UNLOCK_ORIGIN_JDRIVE_TITLE: "§HUnlocks Component:§! Omega Tidal Driver"
+TECH_UNLOCK_ORIGIN_JDRIVE_TITLE: "§HРазблокирует компонент:§! Omega Tidal Driver"
 TECH_UNLOCK_ORIGIN_JDRIVE_DESC: "Embrace the Light. Embrace Eternity. The Stars are in our grasp"
  
 ACOT_LASER_OE: "Omega Laser Cannon"
@@ -34,13 +34,13 @@ ACOT_LASER_OE_DESC: "Omega Laser utilizes Static Light energy to cleave ship pla
 ACOT_PLASMA_OE: "Light Energy Cannon"
 ACOT_PLASMA_OE_DESC: "Stellarborne's Static Light can be modified as a very powerful projectile that can eat any matter whole, creating extremely deadly anti-ship weapons."
  
-SMALL_ACOT_DISRUPTOR_OE: "Disruption Light"
+SMALL_ACOT_DISRUPTOR_OE: "Разрушающий свет"
 SMALL_ACOT_DISRUPTOR_OE_DESC: "This advanced disruptor weapon modifies Static Light into a dimensional disruption wave that deconstructs matter out of primary dimensions, deleting the enemy ship from existence, bypassing all useless armors and shields they hide behind. Stupid metal boxes."
  
-MEDIUM_ACOT_DISRUPTOR_OE: "Disruption Light"
+MEDIUM_ACOT_DISRUPTOR_OE: "Разрушающий свет"
 MEDIUM_ACOT_DISRUPTOR_OE_DESC: "This advanced disruptor weapon modifies Static Light into a dimensional disruption wave that deconstructs matter out of primary dimensions, deleting the enemy ship from existence, bypassing all useless armors and shields they hide behind. Stupid metal boxes."
  
-ACOT_DISRUPTOR_OE: "Disruption Light"
+ACOT_DISRUPTOR_OE: "Разрушающий свет"
 ACOT_DISRUPTOR_OE_DESC: "This advanced disruptor weapon modifies Static Light into a dimensional disruption wave that deconstructs matter out of primary dimensions, deleting the enemy ship from existence, bypassing all useless armors and shields they hide behind. Stupid metal boxes."
  
 ACOT_OMNI_PLASMA_OE: "Supercharged Light Energy Cannon"
@@ -254,7 +254,7 @@ tech_lightmatter_artillery_desc: "Lightbound Artillery fires an even stronger su
  
 tech_lightmatter_aura_energy_drainer: "Seraphim Network Inhibitor"
 tech_lightmatter_aura_energy_drainer_desc: "This extremely powerful device interferes with enemy systems, zapping away their powers and bestows them on allied ships. None may challenge us and live to tell the tale. Kill or be killed, Jack."
-TECH_UNLOCK_ENERGY_DRAINER_OE_TITLE: "§HUnlocks Component:§! Seraphim Network Inhibitor"
+TECH_UNLOCK_ENERGY_DRAINER_OE_TITLE: "§HРазблокирует компонент:§! Seraphim Network Inhibitor"
 TECH_UNLOCK_ENERGY_DRAINER_OE_DESC: "§HSeraphim Network Inhibitor§!\nThis extremely powerful device interferes with enemy systems, zapping away their powers and bestows them on allied ships. None may challenge us and live to tell the tale. Kill or be killed, Jack."
  
  
@@ -270,7 +270,7 @@ tech_resized_mass_accelerator_oe_desc: "I was  born for this job."
 tech_lightmatter_bomber: "Crusader Bombers"
 tech_lightmatter_bomber_desc: "State-of-the-art bombers that outperform all previous generations. Time to put on the real show."
  
-tech_lightmatter_disruptor: "Disruption Light"
+tech_lightmatter_disruptor: "Разрушающий свет"
 tech_lightmatter_disruptor_desc: "This advanced disruptor weapon modifies Static Light into a dimensional disruption wave that deconstructs matter out of primary dimensions, deleting the enemy ship from existence, bypassing all useless armors and shields they hide behind."
  
 tech_lightmatter_emitter: "Divine Storm Emitter"
@@ -295,7 +295,7 @@ tech_lightmatter_hyper_jump_drive_desc: "Additional auxiliary amplifiers can be 
  
 tech_lightmatter_inspire_aura: ""Omega Forge Network"
 tech_lightmatter_inspire_aura_desc: "A special network orchestrated from the flagship that establishes powerful artificial links between all vessel's computers within the fleet, tuning them together into an undying meme. All Memes. All passed along."
-TECH_UNLOCK_INSPIRE_AURA_OE_TITLE: "§HUnlocks Component:§! Omega Forge Network"
+TECH_UNLOCK_INSPIRE_AURA_OE_TITLE: "§HРазблокирует компонент:§! Omega Forge Network"
 TECH_UNLOCK_INSPIRE_AURA_OE_DESC: "§HOmega Forge Network§!\nA special network orchestrated from the flagship that establishes powerful artificial link between all vessel's computers within the fleet, tuning them together into an undying meme. All Memes. All passed along."
  
  
