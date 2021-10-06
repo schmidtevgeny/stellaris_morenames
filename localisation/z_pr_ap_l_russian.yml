@@ -1,0 +1,209 @@
+﻿l_russian:
+#_[面板]
+#_[第一次产业革命]
+#_[扩大化]
+#_[集成化]
+#_[科技树]
+
+
+
+
+###_[面板]
+ z_pr_title_ap: "Передовая исследовательская система"
+ z_pr_title_setting: "Меню настройки"
+
+
+
+
+###_[第一次产业革命]   区划地块/AP1/AP1建筑/AP1区划/AP1区划_多样化  #############################################
+##_[区划地块]
+ z_pr_d_dstr_exp_1:0 "$z_pr$: Географическое преимущество"
+ z_pr_d_dstr_exp_1_desc:0 "Чтобы в полной мере использовать преимущества Солнечной системы, может потребоваться пересмотреть планирование нашей колонии. Кроме того, технологический прогресс позволит нам разработать новые и лучшие районы, чтобы сделать именно это.\nЭти новые районы могут быть использованы только после завершения §Bпервой промышленной революции§!."
+ z_pr_d_dstr_exp_2:0 "$z_pr_d_dstr_exp_1$"
+ z_pr_d_dstr_exp_2_desc:0 "$z_pr_d_dstr_exp_1_desc$"
+ z_pr_d_dstr_exp_3:0 "$z_pr_d_dstr_exp_1$"
+ z_pr_d_dstr_exp_3_desc:0 "$z_pr_d_dstr_exp_1_desc$"
+ z_pr_d_dstr_exp_4:0 "$z_pr_d_dstr_exp_1$"
+ z_pr_d_dstr_exp_4_desc:0 "$z_pr_d_dstr_exp_1_desc$"
+ z_pr_d_dstr_exp_5:0 "$z_pr_d_dstr_exp_1$"
+ z_pr_d_dstr_exp_5_desc:0 "$z_pr_d_dstr_exp_1_desc$"
+ 
+ z_pr_d_dstr_div_1:0 "$z_pr$: Local Production"
+ z_pr_d_dstr_div_1_desc:0 "Different classes of planets have different geological characteristics, and a variety of production methods can be developed to better suit local conditions. \nTThese new districts can only be used after the completion of the §B$z_pr_evt_ap_1$§!. Any terraforming done to the planet will refresh Local Production Districts capacity, with a chance to increase it every time."
+ z_pr_d_dstr_div_2:0 "$z_pr_d_dstr_div_1$"
+ z_pr_d_dstr_div_2_desc:0 "$z_pr_d_dstr_div_1_desc$"
+ z_pr_d_dstr_div_3:0 "$z_pr_d_dstr_div_1$"
+ z_pr_d_dstr_div_3_desc:0 "$z_pr_d_dstr_div_1_desc$"
+ z_pr_d_dstr_div_4:0 "$z_pr_d_dstr_div_1$"
+ z_pr_d_dstr_div_4_desc:0 "$z_pr_d_dstr_div_1_desc$"
+ z_pr_d_dstr_div_5:0 "$z_pr_d_dstr_div_1$"
+ z_pr_d_dstr_div_5_desc:0 "$z_pr_d_dstr_div_1_desc$"
+ z_pr_d_dstr_div_6:0 "$z_pr_d_dstr_div_1$"
+ z_pr_d_dstr_div_6_desc:0 "$z_pr_d_dstr_div_1_desc$"
+ z_pr_d_dstr_div_7:0 "$z_pr_d_dstr_div_1$"
+ z_pr_d_dstr_div_7_desc:0 "$z_pr_d_dstr_div_1_desc$"
+ z_pr_d_dstr_div_8:0 "$z_pr_d_dstr_div_1$"
+ z_pr_d_dstr_div_8_desc:0 "$z_pr_d_dstr_div_1_desc$"
+ z_pr_d_dstr_div_10:0 "$z_pr_d_dstr_div_1$"
+ z_pr_d_dstr_div_10_desc:0 "$z_pr_d_dstr_div_1_desc$"
+ z_pr_d_dstr_div_12:0 "$z_pr_d_dstr_div_1$"
+ z_pr_d_dstr_div_12_desc:0 "$z_pr_d_dstr_div_1_desc$\nMax capacity of Local Production Districts reached."
+
+##_[AP1]
+#_evt
+ z_pr_evt_ap_1: "Первая промышленная революция"
+ z_pr_evt_ap_1_take: "§GComplete the §!$z_pr_evt_ap_1$!"
+ z_pr_evt_ap_1_non: "§HPause the §!$z_pr_evt_ap_1$"
+ z_pr_tips_ap1_non: "You may complete the $z_pr_evt_ap_1$ at a later time by clicking on the §MInfinite stellaris Settings Panel§!, clicking on $z_pr_evt_setting$ and finding Production Ascensions."
+#_btn
+ z_pr_tips_btn_ap1_locked: "To complete the §!$z_pr_evt_ap_1$, you must have researched §B$tech_self_aware_logic$§!, in addition to 6 of the following technologies: §B$tech_mining_2$, $tech_mineral_purification_2$, $tech_alloys_2$, $tech_luxuries_2$, $tech_power_plant_3$, $tech_power_hub_2$, $tech_volatile_motes$, $tech_exotic_gases$, $tech_rare_crystals$§!."
+ z_pr_tips_btn_ap1: "$z_pr_tips_btn_ap1_simp$\n\nSince the dawn of our time, the development of industry has always been at the forefront, pushing our civilization to ever greater heights. Advances in technology along with and evolving society signifies a need for changes to the way we manage our industry and production.\n\nUnlock different districts and buildings and unique production effects for different planets based on planetary characteristics. Develop and leverage the resources of star systems efficiently. Furthermore, with the ushering of a new age, different socio-economic issues will become ever more important as we decide the policies of our space-faring empire.\n\nOnwards to a new era!"
+ z_pr_tips_btn_ap1_simp: "Enable §BProduction Revolution§!'s §HManpower Economy System§!. Unemployed pops will be transformed into §YManpower§!, a value representative of all productive populations on a planet. When pops are lacking on a planet, §YManpower§! will be transformed back into pops. This is a complete overhaul of the economic system, and while the way it functions may differ quite a lot from the traditional way vanilla Stellaris handles the economy, changes to your playstyle are kept minimal, micromanagement will become less of a problem and lag, especially at later dates will be largely reduced. You may always revert to the vanilla system on any of your owned planets."
+ z_pr_tips_btn_ap1_take: "Complete the $z_pr_evt_ap_1$!\n\nNote: The way the economy functions will be largely overhauled, with a short period of lag right after, and a further period of lag a year later. These lags are necessary to set the game up for §BProduction Revolution§!, and will not happen again unless there is another large-scale population change."
+ 
+##_[AP1建筑]
+ z_pr_bldn_foundry_basic: "Obsolete Foundry"
+ z_pr_bldn_foundry_basic_desc: "An obsolete giant alloy industrial center that can satisfy the colony's £alloys£§M$alloys$§! needs, albeit at subpar productivity and void of the possibility of any future upgrades."
+ z_pr_bldn_factory_basic: "Obsolete Factory"
+ z_pr_bldn_factory_basic_desc: "An obsolete giant civilian factory that can supplement the colony's £consumer_goods£§P$consumer_goods$§! needs, albeit at subpar productivity and void of the possibility of any future upgrades."
+
+##_[AP1区划]
+ z_pr_dstr_exp_solar:0 "Solar Energy District"
+ z_pr_dstr_exp_solar_plural:0 "$z_pr_dstr_exp_solar$"
+ z_pr_dstr_exp_solar_desc:0 "Advanced solar panels maximize energy generated from stars. \nSuch divine starlight must be the blessings of the Lord of Inifity."
+ mod_z_pr_dstr_exp_solar_max:0 "$z_pr_dstr_exp_solar$"
+ z_pr_dstr_exp_solar_adv:0 "§BAdvanced§! Solar Energy District"
+ z_pr_dstr_exp_solar_adv_plural:0 "$z_pr_dstr_exp_solar_adv$"
+ z_pr_dstr_exp_solar_adv_desc:0 "$z_pr_dstr_exp_solar_desc$"
+ mod_z_pr_dstr_exp_solar_adv_max:0 "$z_pr_dstr_exp_solar_adv$"
+ z_pr_dstr_exp_astronomy:0 "Celestial Bodies Research District"
+ z_pr_dstr_exp_astronomy_plural:0 "$z_pr_dstr_exp_astronomy$"
+ z_pr_dstr_exp_astronomy_desc:0 "Highly advanced facilities help further our understanding of the ever mercurial celestial bodies.\nResearching §Y$tech_mine_dark_matter$§! will unlock the extraction of £sr_dark_matter£§E$sr_dark_matter$§!."
+ mod_z_pr_dstr_exp_astronomy_max:0 "$z_pr_dstr_exp_astronomy$"
+
+#_[AP1区划_多样化]
+ z_pr_trgr_plnt_bldn_tech_1:0 "§Y$building_institute$§! or §Y$building_supercomputer$§! will improve the research output of this district."
+ z_pr_trgr_plnt_bldn_1e_v:0 "§Y$building_energy_grid$§! buildings will improve the £energy£§Y$energy$§! output of this district."
+ z_pr_trgr_plnt_bldn_1m_v:0 "§Y$building_mineral_purification_plant$§! buildings will improve the £minerals£§R$minerals$§! output of this district."
+ z_pr_trgr_plnt_bldn_2a_v:0 "§Y$building_foundry_1$§! buildings will improve the £alloys£§M$alloys$§! output of this district."
+ z_pr_trgr_plnt_bldn_2c_v:0 "§Y$building_factory_1$§! buildings will improve the £consumer_goods£§P$consumer_goods$§! output of this district."
+
+ z_pr_dstr_div_savannah:0 "Savannah Ecology District"
+ z_pr_dstr_div_savannah_plural:0 "$z_pr_dstr_div_savannah$"
+ z_pr_dstr_div_savannah_desc:0 "Huge savannahs are extremely suitable for ecological research and agricultural development.\n§Y$tech_tomb_world_adaption$§! will not only increase cloning speed and robot assembly speed, but further improve planet habitability."
+ mod_z_pr_dstr_div_savannah_max:0 "$z_pr_dstr_div_savannah$"
+ z_pr_dstr_div_arid:0 "Wilderness Resource District"
+ z_pr_dstr_div_arid_plural:0 "$z_pr_dstr_div_arid$"
+ z_pr_dstr_div_arid_desc:0 "The dry and hot wilderness that cover this planet are suitable for building huge mines to produce high-quality minerals.\n§Y$tech_mine_volatile_motes$§! unlocks extraction of £volatile_motes£§L$volatile_motes$§!."
+ mod_z_pr_dstr_div_arid_max:0 "$z_pr_dstr_div_arid$"
+ z_pr_dstr_div_desert:0 "Oasis Industrial District"
+ z_pr_dstr_div_desert_plural:0 "$z_pr_dstr_div_desert$"
+ z_pr_dstr_div_desert_desc:0 "Establishing huge industrial districts on the oases at the edges of the vast sandseas that cover this planet allow us to make full use of the environment here allowing for construction of military fortresses and spaceports. \nFurthermore, the grueling lifestyle here means that stability is extremely important."
+ mod_z_pr_dstr_div_desert_max:0 "$z_pr_dstr_div_desert$"
+ 
+ z_pr_dstr_div_tropical:0 "Shoal Ecology District"
+ z_pr_dstr_div_tropical_plural:0 "$z_pr_dstr_div_tropical$"
+ z_pr_dstr_div_tropical_desc:0 "Temperate planets are filled with an immeasurable amount of shoals, suitable of the development of not only ecological research but also fisheries.\n§Y$tech_tomb_world_adaption$§! (technology) will not only increase cloning speed and robot assembly speed, but further improve planet habitability."
+ mod_z_pr_dstr_div_tropical_max:0 "$z_pr_dstr_div_tropical$"
+ z_pr_dstr_div_ocean:0 "Underwater Resource District"
+ z_pr_dstr_div_ocean_plural:0 "$z_pr_dstr_div_ocean$"
+ z_pr_dstr_div_ocean_desc:0 "The strong underwater currents beneath the vast seas of Ocean planets are suitable for the construction of massive hydroelectric power generation facilities.\n§Y$tech_mine_exotic_gases$§! (technology) will unlock extractions of £exotic_gases£§L$exotic_gases$§!."
+ mod_z_pr_dstr_div_ocean_max:0 "$z_pr_dstr_div_ocean$"
+ z_pr_dstr_div_continent:0 "Continental Industrial District"
+ z_pr_dstr_div_continent_plural:0 "$z_pr_dstr_div_continent$"
+ z_pr_dstr_div_continent_desc:0 "The vast continental plates that cover this planet are suitable for the development of the shipbuilding industry to support our navy along with the construction of military fortresses and spaceports. \nFurthermore, with the spread of huge industrial towns on this planet signifies a need to be mindful of our public security."
+ mod_z_pr_dstr_div_continent_max:0 "$z_pr_dstr_div_continent$"
+ 
+ z_pr_dstr_div_tundra:0 "Tundra Ecology District"
+ z_pr_dstr_div_tundra_plural:0 "$z_pr_dstr_div_tundra$"
+ z_pr_dstr_div_tundra_desc:0 "The countless wildlife that call this planet their home make this planet suitable for our ecological research and agriculture.\n§Y$tech_tomb_world_adaption$§! (technology) will not only increase cloning speed and robot assembly speed, but further improve planet habitability."
+ mod_z_pr_dstr_div_tundra_max:0 "$z_pr_dstr_div_tundra$"
+ z_pr_dstr_div_alpine:0 "Highland Resource District"
+ z_pr_dstr_div_alpine_plural:0 "$z_pr_dstr_div_alpine$"
+ z_pr_dstr_div_alpine_desc:0 "The strong wind currents that bellow constantly upon this planet make it suitable for building huge wind power generation facilities and mining rocks rich in high-quality mineral.\n$z_pr_trgr_plnt_bldn_1e_v$\n§Y$tech_mine_rare_crystals$§! (technology) will unlock extraction of £rare_crystals£§L$rare_crystals$§!."
+ mod_z_pr_dstr_div_alpine_max:0 "$z_pr_dstr_div_alpine$"
+ z_pr_dstr_div_arctic:0 "Arctic Industrial District"
+ z_pr_dstr_div_arctic_plural:0 "$z_pr_dstr_div_arctic$"
+ z_pr_dstr_div_arctic_desc:0 "The planet's frigid environment is itself a natural smelting cooling system, and the hot underground lava flow is suitable for building a geothermal power generation system, along with building military fortresses and spaceports."
+ mod_z_pr_dstr_div_arctic_max:0 "$z_pr_dstr_div_arctic$"
+
+ z_pr_dstr_div_nuked:0 "Abyss Industrial District"
+ z_pr_dstr_div_nuked_plural:0 "$z_pr_dstr_div_nuked$"
+ z_pr_dstr_div_nuked_desc:0 "Survival on such desolate worlds is to say the least, extremely difficult, but here huge industrial facilities deep beneath the planet's crust can develop unchecked. The huge and deep underground cities will become natural barrier from orbital bombing.\nAfter completion of all 3 advanced resource technologies: §Y$tech_mine_rare_crystals$§!, §Y$tech_mine_exotic_gases$§!, §Y$tech_mine_volatile_motes$§!, the abyss miner job will be unlocked."
+ mod_z_pr_dstr_div_nuked_max:0 "$z_pr_dstr_div_nuked$"
+ z_pr_dstr_div_gaia:0 "Paradise Ecology District"
+ z_pr_dstr_div_gaia_plural:0 "$z_pr_dstr_div_gaia$"
+ z_pr_dstr_div_gaia_desc:0 "This planet is an eternal eden, suitable for almost all species to survive, and is an excellent place to advance scientific research.\n$z_pr_trgr_plnt_bldn_tech_1$\n§Y$tech_tomb_world_adaption$§! (technology) will not only increase cloning speed and robot assembly speed, but further improve planet habitability.\nIf built on $pc_relic$, unlocks £minor_artifacts£§P$minor_artifacts$§! production."
+ mod_z_pr_dstr_div_gaia_max:0 "$z_pr_dstr_div_gaia$"
+ z_pr_dstr_div_sp:0 "Dense Industrial District"
+ z_pr_dstr_div_sp_plural:0 "$z_pr_dstr_div_sp$"
+ z_pr_dstr_div_sp_desc:0 "This kind of special planet is suitable for the construction of dense industrial facilities, and provided that the right conditions are met, a huge naval port can be built to support our naval construction."
+ mod_z_pr_dstr_div_sp_max:0 "$z_pr_dstr_div_sp$"
+ #_[resort]
+ z_pr_dstr_div_resort:0 "Tourist District"
+ z_pr_dstr_div_resort_plural:0 "$z_pr_dstr_div_resort$"
+ z_pr_dstr_div_resort_desc:0 "The planet is covered in artificial landscapes, recreational facilities and resorts as far as the eye (or oculular sensor) can see, it is a tourist haven that attracts the attention of numerous all year-round.\n§Y$tech_colonization_3$§! will unlock £influence£§P$influence$§! production.\n§Y$tech_tomb_world_adaption$§! (technology) will not only increase cloning speed and robot assembly speed, but further improve planet habitability.\nIf built on $pc_relic$, unlocks £minor_artifacts£§P$minor_artifacts$§! production."
+ mod_z_pr_dstr_div_resort_max:0 "$z_pr_dstr_div_resort$"
+ #_[ringworld]
+ z_pr_dstr_div_ring_mining:0 "Orbital Mining Segment"
+ z_pr_dstr_div_ring_mining_plural:0 "$z_pr_dstr_div_ring_mining$"
+ z_pr_dstr_div_ring_mining_desc:0 "Huge mining spaceports cover the outer layer of the ringworld. Mining fleets operate constantly to collect high-quality ore in outer space, and recover mined minerals with a tractor beam."
+ mod_z_pr_dstr_div_ring_mining_max:0 "$z_pr_dstr_div_ring_mining$"
+ 
+
+
+###_[第二次产业革命]   AP2/AP2_区划 #############################################
+##_[AP2]
+#_[evt]
+ z_pr_evt_ap_2: "Second Production Revolution"
+ z_pr_tips_btn_ap2: "All requirements met. The time has come for a further pursuit in the perfection of our industrial and production system.\n\nCompletion of the $z_pr_evt_ap_2$ will improve buildings and districts, and increase all production by at least 50%. In addition, many new production facilities will be unlocked along with a new §BProduction Research System§!, an automatic research system to explore and unlock new, powerful technologies from the §BProduction Revolution§! techtree.\n\nYou'll be asked to choose from one of two §BProduction Ascension§! paths."
+
+ z_pr_evt_ap_2_integration: "Choose §HIntegration§!!"
+ z_pr_evt_ap_2_expansion: "Choose §BExpansion§!!"
+ z_pr_evt_ap_2_non: "§HPause§!$z_pr_evt_ap_2$"
+ z_pr_tips_ap2_non: "You may complete the $z_pr_evt_ap_2$ at a later time by clicking on the §MInfinite stellaris Settings Panel§!, clicking on $z_pr_evt_setting$ and finding Production Ascensions."
+
+#_[btn]
+ z_pr_tips_btn_ap2_locked: "To complete the §!$z_pr_evt_ap_2$, you must have researched 7 technologies from the following technologies: §B$tech_physics_3$, $tech_zero_point_power$, $tech_society_3$, $tech_colonization_5$, $tech_manifest_destiny$, $tech_sapient_ai$, $tech_battleship_build_speed$, $tech_starbase_5$, $tech_ship_armor_5$, $tech_advanced_metallurgy_2$, $tech_engineering_3$, $tech_synthetic_workers$§!."
+
+ z_pr_tips_btn_ap2_another_way: "You have already chosen the other ascension path."
+
+ z_pr_tips_btn_ap2_expansion: "$z_pr_evt_ap_2$ Path\n\n$z_pr_tips_btn_ap2_expansion_simp$\n\nAll requirements met. The time has come for a further pursuit in the perfection of our industrial and production system.\n\nCompletion of the $z_pr_evt_ap_2$ will improve buildings and districts, and increase all production by at least 50%. In addition, many new production facilities will be unlocked along with a new §BProduction Research System§!, an automatic research system to explore and unlock new, powerful technologies from the §BProduction Revolution§! techtree.\\n\n§YExpansion§! allows us to exploit the full development potential of our colonies. Increase the maximum district cap for all colonies and allow constructing more §BLocal Production§! and §BGeographical Advantages§! Districts."
+ z_pr_tips_btn_ap2_expansion_simp: "The §YExpansion§! path allows us to fully exploit the potential of our colonies. Increase the maximum district/building cap for all colonies and allow construction of more §BLocal Production Disricts§! and §BGeographical Advantages Districts§!."
+ z_pr_tips_btn_ap2_integration: "$z_pr_evt_ap_2$ Path\n\n$z_pr_tips_btn_ap2_integration_simp$\n\nAll requirements met. The time has come for a further pursuit in the perfection of our industrial and production system.\n\nCompletion of the $z_pr_evt_ap_2$ will improve buildings and districts, and increase all production by at least 50%. In addition, many new production facilities will be unlocked along with a new §BProduction Research System§!, an automatic research system to explore and unlock new, powerful technologies from the §BProduction Revolution§! techtree." 
+ z_pr_tips_btn_ap2_integration_simp: "The §YIntegration§! path allows us to maximize the productivity of our current production facilities through better ultilization of space and means of production. This will decrease production parameters by 25% and increase output of our §YManpower§! by 33%."
+ z_pr_tips_btn_ap2_take: "Choose a path and complete the $z_pr_evt_ap_2$."
+ 
+###_[AP2_区划]
+#_[common]
+#
+# #"高级城市区"
+ z_pr_dstr_ap2_city:0 "Advanced City District"
+ z_pr_dstr_ap2_city_plural:0 "$z_pr_dstr_ap2_city$s"
+ z_pr_dstr_ap2_city_desc:0 "These massive, towering mega-cities are the very essence of our society and centers for engineering research advancement.\nEquipped with fully automated maintainance and administration systems, they provide enormous amounts of housing and amenties."
+ mod_z_pr_dstr_ap2_city_max:0 "$z_pr_dstr_ap2_city$"
+ #_[二产]
+ z_pr_dstr_ap2_industrial:0 "Advanced Industrial District"
+ z_pr_dstr_ap2_industrial_plural:0 "$z_pr_dstr_ap2_industrial$s"
+ z_pr_dstr_ap2_industrial_desc:0 "Massive, advanced mega industrial districts that form the very essence of our physics and engineering research advancement.\nEquipped with highly automated production system, consume £minerals£§R$minerals$§! to produce £consumer_goods£§P$consumer_goods$§!."
+ mod_z_pr_dstr_ap2_industrial_max:0 "$z_pr_dstr_ap2_industrial$"
+ z_pr_dstr_ap2_forge:0 "Advanced Forge District"
+ z_pr_dstr_ap2_forge_plural:0 "$z_pr_dstr_ap2_forge$s"
+ z_pr_dstr_ap2_forge_desc:0 "A colossal juggernaut of industrial activity, filled with bustling ships that dot to and fro above the horizon transporting important industrial cargo as the sounds of the mega forges can be heard from vast distances away; these districts serve as extremely important bases for physics and engineering research advancement.\nEquipped with highly automated production systems, these districts consume £minerals£§R$minerals$§! to produce £alloys£§M$alloys$§!."
+ mod_z_pr_dstr_ap2_forge_max:0 "$z_pr_dstr_ap2_forge$"
+#_[环世界]
+ z_pr_dstr_ap2_rw_city:0 "Advanced City Segment"
+ z_pr_dstr_ap2_rw_city_plural:0 "$z_pr_dstr_ap2_rw_city$s"
+ z_pr_dstr_ap2_rw_city_desc:0 "A massive section filled with advanced mega-cities, the very essence of our society and engineering research advancement.\nEquipped with fully automated maintainance and administration system, providing enormous amount housing and amenties."
+ mod_z_pr_dstr_ap2_rw_city_max:0 "$z_pr_dstr_ap2_rw_city$"
+ #_[二产]
+ z_pr_dstr_ap2_rw_industrial:0 "Advanced Industrial Segment"
+ z_pr_dstr_ap2_rw_industrial_plural:0 "$z_pr_dstr_ap2_rw_industrial$s"
+ z_pr_dstr_ap2_rw_industrial_desc:0 "A massive segment containing advanced mega industrial districts that form the very essence of our physics and engineering research advancement.\nEquipped with highly automated production system, consume £minerals£§R$minerals$§! to produce £consumer_goods£§P$consumer_goods$§!."
+ mod_z_pr_dstr_ap2_rw_industrial_max:0 "$z_pr_dstr_ap2_rw_industrial$"
+ z_pr_dstr_ap2_rw_forge:0 "Advanced Forge Segment"
+ z_pr_dstr_ap2_rw_forge_plural:0 "$z_pr_dstr_ap2_rw_forge$s"
+ z_pr_dstr_ap2_rw_forge_desc:0 "An enormous segment containing forge districts filled with bustling ships that dot to and fro above the horizon transporting important industrial cargo as the sounds of the mega forges are heard from vast distances away; these districts serve as extremely important bases for physics and engineering research advancement.\nEquipped with highly automated production systems, these districts consume £minerals£§R$minerals$§! to produce £alloys£§M$alloys$§! and strategic resources."
+ mod_z_pr_dstr_ap2_rw_forge_max:0 "$z_pr_dstr_ap2_rw_forge$"
+ 
+ 

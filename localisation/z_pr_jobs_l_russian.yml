@@ -1,0 +1,151 @@
+﻿l_russian:
+#_[修正检测]
+
+#_          原料收集
+#_[exp]     exp太阳能/exp黑洞研究
+#_[div]     div生态学家/div能源管理/div深渊矿工/div军工
+
+
+
+
+###_[修正检测]
+ job_PR_check_vanilla:0 "岗位激活"
+ job_PR_check_vanilla_plural:0 "$job_PR_check_vanilla$"
+ job_PR_check_vanilla_desc:0 ""
+ mod_job_PR_check_vanilla_add:0 "$job_PR_check_vanilla$"
+
+ job_PR_check_azl:0 "§B碧蓝航线DLC§!激活"
+ job_PR_check_azl_plural:0 "$job_PR_check_azl$"
+ job_PR_check_azl_desc:0 ""
+ mod_job_PR_check_azl_add:0 "$job_PR_check_azl$"
+ job_PR_check_wsg:0 "§B战舰少女R§!激活"
+ job_PR_check_wsg_plural:0 "$job_PR_check_wsg$"
+ job_PR_check_wsg_desc:0 ""
+ mod_job_PR_check_wsg_add:0 "$job_PR_check_wsg$"
+ job_PR_check_CG:0 "§B多彩R§!激活"
+ job_PR_check_CG_plural:0 "$job_PR_check_CG$"
+ job_PR_check_CG_desc:0 ""
+ mod_job_PR_check_CG_add:0 "$job_PR_check_CG$"
+
+ job_PR_check_SWGS:0 "§B星舰少女§!激活"
+ job_PR_check_SWGS_plural:0 "$job_PR_check_SWGS$"
+ job_PR_check_SWGS_desc:0 ""
+ mod_job_PR_check_SWGS_add:0 "$job_PR_check_SWGS$"
+ job_PR_check_ADF:0 "§B灰烬战线§!激活"
+ job_PR_check_ADF_plural:0 "$job_PR_check_ADF$"
+ job_PR_check_ADF_desc:0 ""
+ mod_job_PR_check_ADF_add:0 "$job_PR_check_ADF$"
+ job_PR_check_AG:0 "§B古代帝国§!激活"
+ job_PR_check_AG_plural:0 "$job_PR_check_AG$"
+ job_PR_check_AG_desc:0 ""
+ mod_job_PR_check_AG_add:0 "$job_PR_check_AG$"
+ job_PR_check_Nirvana:0 "§B涅槃圣权§!激活"
+ job_PR_check_Nirvana_plural:0 "$job_PR_check_Nirvana$"
+ job_PR_check_Nirvana_desc:0 ""
+ mod_job_PR_check_Nirvana_add:0 "$job_PR_check_Nirvana$"
+ job_PR_check_ULT:0 "§B终极科技§!激活"
+ job_PR_check_ULT_plural:0 "$job_PR_check_ULT$"
+ job_PR_check_ULT_desc:0 ""
+ mod_job_PR_check_ULT_add:0 "$job_PR_check_ULT$"
+ job_PR_check_NYTO:0 "§B涅托物种§!激活"
+ job_PR_check_NYTO_plural:0 "$job_PR_check_NYTO$"
+ job_PR_check_NYTO_desc:0 ""
+ mod_job_PR_check_NYTO_add:0 "$job_PR_check_NYTO$"
+ job_PR_check_DAL:0 "§B约战物种§!激活"
+ job_PR_check_DAL_plural:0 "$job_PR_check_DAL$"
+ job_PR_check_DAL_desc:0 ""
+ mod_job_PR_check_DAL_add:0 "$job_PR_check_DAL$"
+ job_PR_check_ARP:0 "§B苍蓝物种§!激活"
+ job_PR_check_ARP_plural:0 "$job_PR_check_ARP$"
+ job_PR_check_ARP_desc:0 ""
+ mod_job_PR_check_ARP_add:0 "$job_PR_check_ARP$"
+
+ job_PR_check_ACOT:0 "§BACOT§!激活"
+ job_PR_check_ACOT_plural:0 "$job_PR_check_ACOT$"
+ job_PR_check_ACOT_desc:0 ""
+ mod_job_PR_check_ACOT_add:0 "$job_PR_check_ACOT$"
+ job_PR_check_Giga:0 "§B更多巨构§!激活"
+ job_PR_check_Giga_plural:0 "$job_PR_check_Giga$"
+ job_PR_check_Giga_desc:0 ""
+ mod_job_PR_check_Giga_add:0 "$job_PR_check_Giga$"
+
+
+
+
+###_[原料收集]
+ job_pr_raw_collector:0 "Raw Materials Operator"
+ job_pr_raw_collector_plural:0 "$job_pr_raw_collector$"
+ job_pr_raw_collector_desc:0 "Specialied industrial districts are able to achieve self-sufficience and these workers are essential to the maintenence and operation of said districts as they work tirelessly to extract and process raw materials.\nResponsible for minerals extraction and energy production, along with maintaining day-to-day operations of the district."
+ mod_job_pr_raw_collector_add:0 "$job_pr_raw_collector$"
+ job_pr_raw_drone:0 "Raw Materials Operator Drone"
+ job_pr_raw_drone_plural:0 "$job_pr_raw_drone$"
+ job_pr_raw_drone_desc:0 "Specialied industrial districts are able to achieve self-sufficience and these workers are essential to the maintenence and operation of said districts as they work tirelessly to extract and process raw materials.\nResponsible for minerals extraction and energy production, along with maintaining day-to-day operations of the district."
+ mod_job_pr_raw_drone_add:0 "$job_pr_raw_drone$"
+
+
+
+
+###_[exp]   exp太阳能/exp黑洞研究   ######################################
+#_[exp太阳能]
+ job_pr_exp_solar_technician:0 "Solar Energy Technician"
+ job_pr_exp_solar_technician_plural:0 "$job_pr_exp_solar_technician$"
+ job_pr_exp_solar_technician_desc:0 "Well-versed with the operations of advanced solar energy generators, these technicians are essential for the operations of solar energy plants."
+ mod_job_pr_exp_solar_technician_add:0 "$job_pr_exp_solar_technician$"
+ job_pr_exp_solar_drone:0 "Solar Energy Technician Drone"
+ job_pr_exp_solar_drone_plural:0 "$job_pr_exp_solar_drone$"
+ job_pr_exp_solar_drone_desc:0 "Drones well-versed with the operations of advanced solar energy generators, these technicians are essential for the operations of solar energy plants."
+ mod_job_pr_exp_solar_drone_add:0 "$job_pr_exp_solar_drone$"
+
+#_[exp黑洞研究]
+ job_pr_exp_bh_researcher:0 "Astrophysics Researcher"
+ job_pr_exp_bh_researcher_plural:0 "$job_pr_exp_bh_researcher$"
+ job_pr_exp_bh_researcher_desc:0 "Even with our great technological might there are still mysteries about in the universe, waiting for us unlock and discover. These Astrophysics Researchers, with a passion borne only for the stars, tirelessly gather information and research, only seeking to walk until the end that they may finally unlock the secrets that the universe holds.\nFinishing research of §Y$tech_mine_dark_matter$§! allows extraction of £sr_dark_matter£§E$sr_dark_matter$§!."
+ mod_job_pr_exp_bh_researcher_add:0 "$job_pr_exp_bh_researcher$"
+ job_pr_exp_bh_drone:0 "Astrophysics Researcher Drone"
+ job_pr_exp_bh_drone_plural:0 "$job_pr_exp_bh_drone$"
+ job_pr_exp_bh_drone_desc:0 "Even with our great technological might there are still mysteries about in the universe, waiting for us unlock and discover. These Astrophysics Researcher Drones, with a passion borne only for the stars, tirelessly gather information and research, only seeking to walk until the end that they may finally unlock the secrets that the universe holds.\nFinishing research of §Y$tech_mine_dark_matter$§! allows extraction of £sr_dark_matter£§E$sr_dark_matter$§!."
+ mod_job_pr_exp_bh_drone_add:0 "$job_pr_exp_bh_drone$"
+
+
+
+
+###_[div]   div生态学家/div能源管理/div深渊矿工/div军工   ######################################
+#_[div生态学家]
+ job_pr_div_ecologist:0 "Habitat Ecologist"
+ job_pr_div_ecologist_plural:0 "$job_pr_div_ecologist$"
+ job_pr_div_ecologist_desc:0 "These Habitat Ecologists conduct research deep beneath the earth and high above the mountains to increase the planet's Unity output and habitability."
+ mod_job_pr_div_ecologist_add:0 "$job_pr_div_ecologist$"
+ job_pr_div_eco_drone:0 "Habitat Ecologist Drone"
+ job_pr_div_eco_drone_plural:0 "$job_pr_div_eco_drone$"
+ job_pr_div_eco_drone_desc:0 "These Habitat Ecologist Drones conduct research deep beneath the earth and high above the mountains to increase the planet's Unity output and habitability."
+ mod_job_pr_div_eco_drone_add:0 "$job_pr_div_eco_drone$"
+
+#_[div能源管理]
+ job_pr_div_res_admin:0 "Resource Administrator"
+ job_pr_div_res_admin_plural:0 "$job_pr_div_res_admin$"
+ job_pr_div_res_admin_desc:0 "Able to effectively manage resource extraction endpoints and, under different planetery conditions, extract different types of resources (with prerequisite technologies researched)."
+ mod_job_pr_div_res_admin_add:0 "$job_pr_div_res_admin$"
+ job_pr_div_res_drone:0 "Resource Administrator Drone"
+ job_pr_div_res_drone_plural:0 "$job_pr_div_res_drone$"
+ job_pr_div_res_drone_desc:0 "Able to effectively manage resource extraction endpoints and, under different planetery conditions, extract different types of resources (with prerequisite technologies researched)."
+ mod_job_pr_div_res_drone_add:0 "$job_pr_div_res_drone$"
+
+#_[div深渊矿工]
+ job_pr_div_abyss_miner:0 "Abyssal Miner"
+ job_pr_div_abyss_miner_plural:0 "$job_pr_div_abyss_miner$"
+ job_pr_div_abyss_miner_desc:0 "Adapted to the harsh and gruelling abyss mines, these workers work without rest to extract high quality minerals with overflowing passion (not)."
+ mod_job_pr_div_abyss_miner_add:0 "$job_pr_div_abyss_miner$"
+ job_pr_div_abyss_drone:0 "Abyssal Miner Drone"
+ job_pr_div_abyss_drone_plural:0 "$job_pr_div_abyss_drone$"
+ job_pr_div_abyss_drone_desc:0 "Adapted to the harsh and gruelling abyss mines, these worker drones work without rest to extract high quality minerals."
+ mod_job_pr_div_abyss_drone_add:0 "$job_pr_div_abyss_drone$"
+
+#_[div军工]
+ job_pr_div_militia:0 "Military Engineer Advisor"
+ job_pr_div_militia_plural:0 "$job_pr_div_militia$"
+ job_pr_div_militia_desc:0 "Manages Alloy production and increases Unity output.\nThese advisors also work to lower Crime Rate on certain planets."
+ mod_job_pr_div_militia_add:0 "$job_pr_div_militia$"
+ job_pr_div_milit_drone:0 "Military Engineer Overseer Drone"
+ job_pr_div_milit_drone_plural:0 "$job_pr_div_milit_drone$"
+ job_pr_div_milit_drone_desc:0 "Manages Alloy production and increases Unity output.\nThese advisors also work to lower Crime Rate on certain planets."
+ mod_job_pr_div_milit_drone_add:0 "$job_pr_div_milit_drone$"
