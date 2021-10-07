@@ -1,7 +1,7 @@
 ﻿l_russian:
  
 ### SHIP TEXTS
- 
+# TODO 
  
 acot_diplo.3.name: "Incoming Transmission from §Y[event_target:interested_buyer.GetName]§!"
 acot_diplo.3.desc.friendly: "Greetings, friend. We are impressed with your discovery of this enigmatic §EDark Matter Power§!. As your trusted allies and friends, we would like to ask you to share such incredible knowledge with us.\n\nWe are willing to pay good prices for this knowledge should you decide to help us as well.\n\nThe §Y[interested_buyer.GetName] hopes your empire will honor our friendships?"

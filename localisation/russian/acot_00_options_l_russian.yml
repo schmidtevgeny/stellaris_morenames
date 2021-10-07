@@ -46,7 +46,7 @@ acot_mod_options.100.f: "Технологии строительства §Gра
 acot_mod_options.100.f.tooltip: "Отключает все строительные технологии ACOT. Уже построенные здания останутся §Yсозданными§!, заставляя вашу империю задаться вопросом о реальности галактики, о том, почему они могут иметь здания, которые им не дано постичь в этом цикле галактики, в существовании которых им отказано. Ваш народ скоро поймет тщетность существования."
 acot_mod_options.100.f2: "Технологии строительства §Rзапрещены§!. §GРазрешить§!?"
 acot_mod_options.100.f2.tooltip: "Включает все строительные технологии ACOT. Поздравляю, вы решили включить технику, которой этот мод, вероятно, наиболее известен... почему вы снова отключили ее? Наверное, это Гига Крепость."
- 
+# TODO 
 acot_mod_options.100.g: "Empire Technologies are §Gразрешены§!. §RЗапретить§!?"
 acot_mod_options.100.g.tooltip: "Disables all ACOT unique empire technologies. Already researched technologies will grant bonuses even if you have specifically tell the game to not do so,  there is no hope for you. It is over, Anakin. I have the high ground."
 acot_mod_options.100.g2: "Empire Technologies are §Rзапрещены§!. §GРазрешить§!?"

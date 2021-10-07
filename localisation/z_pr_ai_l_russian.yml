@@ -4,14 +4,14 @@
 #_[dummy_jobs]
 
 
-
+# DONE
 
 ###_[mod_ai建设]
- z_pr_mod_plnt_ai_build_dstr_generator:0 "$z_pr$：$district_generator$§GПостроен искусственным интеллектом§!"
+ z_pr_mod_plnt_ai_build_dstr_generator:0 "$z_pr$：$district_generator$ §Gпостроен искусственным интеллектом§!"
  z_pr_mod_plnt_ai_build_dstr_generator_desc:0 "В настоящее время искусственный интеллект строит..."
- z_pr_mod_plnt_ai_build_dstr_mining:0 "$z_pr$：$district_mining$§GПостроен искусственным интеллектом§!"
+ z_pr_mod_plnt_ai_build_dstr_mining:0 "$z_pr$：$district_mining$ §Gпостроен искусственным интеллектом§!"
  z_pr_mod_plnt_ai_build_dstr_mining_desc:0 "$z_pr_mod_plnt_ai_build_dstr_generator_desc$"
- z_pr_mod_plnt_ai_build_dstr_farming:0 "$z_pr$：$district_farming$§GПостроен искусственным интеллектом§!"
+ z_pr_mod_plnt_ai_build_dstr_farming:0 "$z_pr$：$district_farming$ §Gпостроен искусственным интеллектом§!"
  z_pr_mod_plnt_ai_build_dstr_farming_desc:0 "$z_pr_mod_plnt_ai_build_dstr_generator_desc$"
 
 

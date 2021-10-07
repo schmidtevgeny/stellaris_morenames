@@ -28,8 +28,8 @@
  z_pr_d_dstr_exp_5:0 "$z_pr_d_dstr_exp_1$"
  z_pr_d_dstr_exp_5_desc:0 "$z_pr_d_dstr_exp_1_desc$"
  
- z_pr_d_dstr_div_1:0 "$z_pr$: Local Production"
- z_pr_d_dstr_div_1_desc:0 "Different classes of planets have different geological characteristics, and a variety of production methods can be developed to better suit local conditions. \nTThese new districts can only be used after the completion of the §B$z_pr_evt_ap_1$§!. Any terraforming done to the planet will refresh Local Production Districts capacity, with a chance to increase it every time."
+ z_pr_d_dstr_div_1:0 "$z_pr$: Местное производство"
+ z_pr_d_dstr_div_1_desc:0 "Разные классы планет имеют разные геологические характеристики, и можно разработать различные методы производства, чтобы лучше соответствовать местным условиям. \nЭти новые районы могут быть использованы только после завершения §B$z_pr_evt_ap_1$§! Любое терраформирование планеты будет обновлять потенциал местных производственных районов, с шансом увеличить его каждый раз."
  z_pr_d_dstr_div_2:0 "$z_pr_d_dstr_div_1$"
  z_pr_d_dstr_div_2_desc:0 "$z_pr_d_dstr_div_1_desc$"
  z_pr_d_dstr_div_3:0 "$z_pr_d_dstr_div_1$"
@@ -47,14 +47,14 @@
  z_pr_d_dstr_div_10:0 "$z_pr_d_dstr_div_1$"
  z_pr_d_dstr_div_10_desc:0 "$z_pr_d_dstr_div_1_desc$"
  z_pr_d_dstr_div_12:0 "$z_pr_d_dstr_div_1$"
- z_pr_d_dstr_div_12_desc:0 "$z_pr_d_dstr_div_1_desc$\nMax capacity of Local Production Districts reached."
-
+ z_pr_d_dstr_div_12_desc:0 "$z_pr_d_dstr_div_1_desc$\nМаксимальная мощность местных производственных районов достигнута."
+# TODO
 ##_[AP1]
 #_evt
  z_pr_evt_ap_1: "Первая промышленная революция"
- z_pr_evt_ap_1_take: "§GComplete the §!$z_pr_evt_ap_1$!"
- z_pr_evt_ap_1_non: "§HPause the §!$z_pr_evt_ap_1$"
- z_pr_tips_ap1_non: "You may complete the $z_pr_evt_ap_1$ at a later time by clicking on the §MInfinite stellaris Settings Panel§!, clicking on $z_pr_evt_setting$ and finding Production Ascensions."
+ z_pr_evt_ap_1_take: "§GЗавершена §!$z_pr_evt_ap_1$!"
+ z_pr_evt_ap_1_non: "§HПриостановка §!$z_pr_evt_ap_1$"
+ z_pr_tips_ap1_non: "Вы можете завершить $z_pr_evt_ap_1$ позже открыв §MПанель настроки Infinite stellaris§!, нажать $z_pr_evt_setting$ и найти промышленную революцию."
 #_btn
  z_pr_tips_btn_ap1_locked: "To complete the §!$z_pr_evt_ap_1$, you must have researched §B$tech_self_aware_logic$§!, in addition to 6 of the following technologies: §B$tech_mining_2$, $tech_mineral_purification_2$, $tech_alloys_2$, $tech_luxuries_2$, $tech_power_plant_3$, $tech_power_hub_2$, $tech_volatile_motes$, $tech_exotic_gases$, $tech_rare_crystals$§!."
  z_pr_tips_btn_ap1: "$z_pr_tips_btn_ap1_simp$\n\nSince the dawn of our time, the development of industry has always been at the forefront, pushing our civilization to ever greater heights. Advances in technology along with and evolving society signifies a need for changes to the way we manage our industry and production.\n\nUnlock different districts and buildings and unique production effects for different planets based on planetary characteristics. Develop and leverage the resources of star systems efficiently. Furthermore, with the ushering of a new age, different socio-economic issues will become ever more important as we decide the policies of our space-faring empire.\n\nOnwards to a new era!"
@@ -62,17 +62,17 @@
  z_pr_tips_btn_ap1_take: "Complete the $z_pr_evt_ap_1$!\n\nNote: The way the economy functions will be largely overhauled, with a short period of lag right after, and a further period of lag a year later. These lags are necessary to set the game up for §BProduction Revolution§!, and will not happen again unless there is another large-scale population change."
  
 ##_[AP1建筑]
- z_pr_bldn_foundry_basic: "Obsolete Foundry"
+ z_pr_bldn_foundry_basic: "Устаревший литейный цех"
  z_pr_bldn_foundry_basic_desc: "An obsolete giant alloy industrial center that can satisfy the colony's £alloys£§M$alloys$§! needs, albeit at subpar productivity and void of the possibility of any future upgrades."
- z_pr_bldn_factory_basic: "Obsolete Factory"
+ z_pr_bldn_factory_basic: "Устаревшая фабрика"
  z_pr_bldn_factory_basic_desc: "An obsolete giant civilian factory that can supplement the colony's £consumer_goods£§P$consumer_goods$§! needs, albeit at subpar productivity and void of the possibility of any future upgrades."
 
 ##_[AP1区划]
- z_pr_dstr_exp_solar:0 "Solar Energy District"
+ z_pr_dstr_exp_solar:0 "Район солнечной энергии"
  z_pr_dstr_exp_solar_plural:0 "$z_pr_dstr_exp_solar$"
  z_pr_dstr_exp_solar_desc:0 "Advanced solar panels maximize energy generated from stars. \nSuch divine starlight must be the blessings of the Lord of Inifity."
  mod_z_pr_dstr_exp_solar_max:0 "$z_pr_dstr_exp_solar$"
- z_pr_dstr_exp_solar_adv:0 "§BAdvanced§! Solar Energy District"
+ z_pr_dstr_exp_solar_adv:0 "§BПродвинутый§! район солнечной энергии"
  z_pr_dstr_exp_solar_adv_plural:0 "$z_pr_dstr_exp_solar_adv$"
  z_pr_dstr_exp_solar_adv_desc:0 "$z_pr_dstr_exp_solar_desc$"
  mod_z_pr_dstr_exp_solar_adv_max:0 "$z_pr_dstr_exp_solar_adv$"
@@ -127,25 +127,25 @@
  z_pr_dstr_div_arctic_desc:0 "The planet's frigid environment is itself a natural smelting cooling system, and the hot underground lava flow is suitable for building a geothermal power generation system, along with building military fortresses and spaceports."
  mod_z_pr_dstr_div_arctic_max:0 "$z_pr_dstr_div_arctic$"
 
- z_pr_dstr_div_nuked:0 "Abyss Industrial District"
+ z_pr_dstr_div_nuked:0 "Промышленный район Бездна"
  z_pr_dstr_div_nuked_plural:0 "$z_pr_dstr_div_nuked$"
  z_pr_dstr_div_nuked_desc:0 "Survival on such desolate worlds is to say the least, extremely difficult, but here huge industrial facilities deep beneath the planet's crust can develop unchecked. The huge and deep underground cities will become natural barrier from orbital bombing.\nAfter completion of all 3 advanced resource technologies: §Y$tech_mine_rare_crystals$§!, §Y$tech_mine_exotic_gases$§!, §Y$tech_mine_volatile_motes$§!, the abyss miner job will be unlocked."
  mod_z_pr_dstr_div_nuked_max:0 "$z_pr_dstr_div_nuked$"
- z_pr_dstr_div_gaia:0 "Paradise Ecology District"
+ z_pr_dstr_div_gaia:0 "Райский экологический округ"
  z_pr_dstr_div_gaia_plural:0 "$z_pr_dstr_div_gaia$"
  z_pr_dstr_div_gaia_desc:0 "This planet is an eternal eden, suitable for almost all species to survive, and is an excellent place to advance scientific research.\n$z_pr_trgr_plnt_bldn_tech_1$\n§Y$tech_tomb_world_adaption$§! (technology) will not only increase cloning speed and robot assembly speed, but further improve planet habitability.\nIf built on $pc_relic$, unlocks £minor_artifacts£§P$minor_artifacts$§! production."
  mod_z_pr_dstr_div_gaia_max:0 "$z_pr_dstr_div_gaia$"
- z_pr_dstr_div_sp:0 "Dense Industrial District"
+ z_pr_dstr_div_sp:0 "Плотный промышленный район"
  z_pr_dstr_div_sp_plural:0 "$z_pr_dstr_div_sp$"
  z_pr_dstr_div_sp_desc:0 "This kind of special planet is suitable for the construction of dense industrial facilities, and provided that the right conditions are met, a huge naval port can be built to support our naval construction."
  mod_z_pr_dstr_div_sp_max:0 "$z_pr_dstr_div_sp$"
  #_[resort]
- z_pr_dstr_div_resort:0 "Tourist District"
+ z_pr_dstr_div_resort:0 "Туристический район"
  z_pr_dstr_div_resort_plural:0 "$z_pr_dstr_div_resort$"
  z_pr_dstr_div_resort_desc:0 "The planet is covered in artificial landscapes, recreational facilities and resorts as far as the eye (or oculular sensor) can see, it is a tourist haven that attracts the attention of numerous all year-round.\n§Y$tech_colonization_3$§! will unlock £influence£§P$influence$§! production.\n§Y$tech_tomb_world_adaption$§! (technology) will not only increase cloning speed and robot assembly speed, but further improve planet habitability.\nIf built on $pc_relic$, unlocks £minor_artifacts£§P$minor_artifacts$§! production."
  mod_z_pr_dstr_div_resort_max:0 "$z_pr_dstr_div_resort$"
  #_[ringworld]
- z_pr_dstr_div_ring_mining:0 "Orbital Mining Segment"
+ z_pr_dstr_div_ring_mining:0 "Сегмент орбитальной добычи"
  z_pr_dstr_div_ring_mining_plural:0 "$z_pr_dstr_div_ring_mining$"
  z_pr_dstr_div_ring_mining_desc:0 "Huge mining spaceports cover the outer layer of the ringworld. Mining fleets operate constantly to collect high-quality ore in outer space, and recover mined minerals with a tractor beam."
  mod_z_pr_dstr_div_ring_mining_max:0 "$z_pr_dstr_div_ring_mining$"

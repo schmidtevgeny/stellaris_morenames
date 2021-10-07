@@ -1,7 +1,7 @@
 ﻿l_russian:
 
 ######### SPECIAL STUFFS FOR ORIGINS
- 
+# TODO 
 origin_tier_three_start: "Ahead of the Curve"
 origin_tier_three_start_desc: "After discovering an ancient cache of technologies near their homeworld, this empire is made aware of the myriads of dangers of the galaxy and thus decided to spearhead their technological advancements first."
 origin_tier_three_start_effect: "Starts the game as a slightly developed empire with access to all basic Tier-3 technologies and a good amount of fleets."

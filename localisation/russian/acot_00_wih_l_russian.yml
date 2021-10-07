@@ -1,5 +1,5 @@
 ﻿l_russian:
- 
+# TODO 
 acot_war_in_hell.1.name: "Incoming Transmission From [from.GetName]"
 acot_war_in_hell.1.desc.spiritualist: "Heretics! You dare defile the sacred dark matter arts with your profane and corrupted alterations!? This atrocity cannot be overlooked!\n\nAs the holy guardians of the one true faith, we demand you surrender your corrupted technologies at once, or we will bring divine punishment upon your misbegotten kind!."
 acot_war_in_hell.1.desc.materialist: "What is the meaning of this? [FallenEmpireTaskTarget.GetName], you have violated the established regulations regarding the use of dangerous technologies as per Codex GTX-3198 Page 133337-163641. §R«Under no circumstances are the class-5 technology empires permitted to make alterations to the Dark Matter-based technologies without our supervisions.»§!.\n\nWe must now enforce the law and confiscate all of your technologies. Once we can verify the potentials and dangers, you will be permitted to retain any technologies we deemed appropriate. Resist and we will use lethal forces, the technological supremacy of [from.GetName] must  prevail."

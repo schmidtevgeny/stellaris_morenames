@@ -1,5 +1,5 @@
 ﻿l_russian:
- 
+# TODO 
 stellarite_events.1.name: "Stellarite? What Stellarite???"
 stellarite_events.1.desc: "We have an interesting situation. Apparently, some of our scientists claimed to have discovered a new type of power source after spending a period of time scanning the energy signature with our advanced enigmatic sensors. These scientists claim that the power of stars can be turned into a power source that is more advanced than even Dark Matter.\n\nWe cannot yet verify the truth of this claim, as this seems to be related to solar power...which we have known even before our empires are capable of space-travel."
 stellarite_events.1.a: "Interesting, we should explore this."

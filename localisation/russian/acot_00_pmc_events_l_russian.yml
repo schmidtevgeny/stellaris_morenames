@@ -1,6 +1,6 @@
 ﻿l_russian:
  
- 
+# TODO 
 acot_pmc.0.title: "Unidentified Contact Detected!"
 acot_pmc.0.desc: "[root.GetName] has detected a large installation owned by an unknown faction within the space of [from.GetName]. The unknown fleets and starbases appear to be neutral, their weapons all aimed at our ships but not powered. The ships they used seem to have extremely advanced designs that we cannot identify. But the most shocking sight is that the star of this system appears to have been trapped within a titanic-sized spacecraft. Whoever controls this system must possess extremely ancient and powerful technologies."
 acot_pmc.0.a: "We should attempt to decipher their languages and communications." #Non phobe
