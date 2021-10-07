@@ -1,5 +1,5 @@
 ﻿l_russian:
-
+# DONE
 mod_country_resource_max_acot_sr_dark_energy_add: "Максимальная емкость хранилища темной энергии"
 mod_country_resource_max_sr_dark_matter_add: "Максимальный объем хранилища темной материи"
 
@@ -439,213 +439,213 @@ tech_dm_stronghold_desc: "Ранее местные силы обороны ра
  
 tech_ae_stronghold: "Загадочная оборонная решетка"
 tech_ae_stronghold_desc: "Хотя наши нынешние крепости могут отбиться от основных захватчиков, сами здания слишком уязвимы для крупных сил вторжения из-за ограниченного пространства и устаревшего вооружения. С этой целью мы разработали концепцию нового поколения крепостей, которые должны создать больше проблем для потенциальных захватчиков."
-# TODO
+
  
 #############################
  
-building_dark_energy_psg: "Dark Energy Planetary Shield Generator"
-building_dark_energy_psg_desc: "Utilizing enigmatic reactor allows us to create a shield generator that is not only stronger, but also much more energy-efficient than before."
+building_dark_energy_psg: "Генератор планетарного щита на основе темной энергии"
+building_dark_energy_psg_desc: "Использование загадочного реактора позволяет нам создать генератор щита, который не только сильнее, но и гораздо более энергоэффективен, чем раньше."
  
-building_ae_dark_energy_psg: "Sky Shield"
-building_ae_dark_energy_psg_desc: "Sky Shield is not just a planetary defense against orbital bombardments, it also houses various science bunkers where additional researchers can be stationed."
+building_ae_dark_energy_psg: "Небесный щит"
+building_ae_dark_energy_psg_desc: "Sky Shield - это не только планетарная защита от орбитальных бомбардировок, но и различные научные бункеры, где могут разместиться дополнительные исследователи."
  
-tech_dark_energy_psg: "Dark Energy Planetary Shield Generator"
-tech_dark_energy_psg_desc: "Now that we have developed enigmatic shielding techniques, it should be a simple task to modify our current planetary shield generator to adapt to the new systems as well."
+tech_dark_energy_psg: "Генератор планетарного щита на основе темной энергии"
+tech_dark_energy_psg_desc: "Теперь, когда мы разработали загадочные методы экранирования, модификация нашего генератора планетарного щита для адаптации к новым системам должна быть простой задачей."
  
-tech_ae_dark_energy_psg: "Sky Shield Installation"
-tech_ae_dark_energy_psg_desc: "While the Dark Energy PSG provides acceptable protection against bombardments, many of our tacticians point out that the building itself is generally useless beyond that. They suggest that we create a larger installation that not only provides even better protections, but also features science lab addons for our researchers."
+tech_ae_dark_energy_psg: "Установка небесного щита"
+tech_ae_dark_energy_psg_desc: "Хотя PSG темной энергии обеспечивает приемлемую защиту от бомбардировок, многие наши тактики отмечают, что само здание в целом бесполезно. Они предлагают создать более крупную установку, которая не только обеспечит еще лучшую защиту, но и оснастит научную лабораторию для наших исследователей."
  
 #############################
  
-building_giga_fortress: "Giga Fortress"
-building_giga_fortress_desc: "Giga Fortress is a titanic-sized, self-sustain planetary fortress armed with three battleship-sized hypervelocity batteries and various other defense systems as well as a legion of garrison forces. The mere presence of it inspires confidence in all citizens and removes any chances of unrest, for any who'd dare rebel would be swiftly annihilated."
+building_giga_fortress: "Гигакрепость"
+building_giga_fortress_desc: "Гига Крепость - это титанических размеров самодостаточная планетарная крепость, вооруженная тремя батареями гиперскорости размером с линкор и различными другими системами защиты, а также легионом гарнизонных войск. Одно ее присутствие вселяет уверенность во всех граждан и устраняет всякую возможность беспорядков, ведь любой, кто осмелится взбунтоваться, будет быстро уничтожен."
  
-building_giga_fortress_array: "Giga Fortress - Strategy Center"
-building_giga_fortress_array_desc: "The Strategy Center module connects the fortress super computers with the empire's fleets for greater coordinations. A Mentat will also be stationed to function as tactical strategic analysis."
+building_giga_fortress_array: "Гигакрепость - Центр стратегии"
+building_giga_fortress_array_desc: "Модуль Стратегического центра соединяет суперкомпьютеры крепости с флотами империи для большей координации. Здесь также будет размещен Ментат, который будет выполнять функции тактического стратегического анализа."
  
-building_giga_fortress_lab: "Giga Fortress - Seat of Power"
-building_giga_fortress_lab_desc: "The Seat of Power module moves some of our political leaders aboard the fortress, increasing our empire's unity and upper management as well as greater influence."
+building_giga_fortress_lab: "Гигакрепость - Место силы"
+building_giga_fortress_lab_desc: "Модуль "Место силы" перемещает некоторых политических лидеров на борт крепости, увеличивая единство и высшее руководство империи, а также повышая ее влияние."
  
-building_giga_fortress_obelisk: "Giga Fortress - Obelisk of Light"
-building_giga_fortress_obelisk_desc: "The installed Obelisk of Light module greatly enhances the fortress's defenses as well as providing extra training grounds for our armies. Additional generators will also be installed to provide Dark Energy and Dark Matter."
+building_giga_fortress_obelisk: "Гигакрепость - Обелиск света"
+building_giga_fortress_obelisk_desc: "Установленный модуль "Обелиск света" значительно усиливает оборону крепости, а также предоставляет дополнительные тренировочные площадки для наших армий. Также будут установлены дополнительные генераторы для получения темной энергии и темной материи."
  
-building_giga_fortress_fe: "Ancient Giga Fortress"
-building_giga_fortress_fe_desc: "An old, but still immensely powerful titanic-sized self-sustain planetary fortress armed to the teeth with anti-invasion mechanisms. Blowing up primitives or wildlifes are amongst one of the only things these hedonists still enjoy as what still passes for "jobs""
+building_giga_fortress_fe: "Древняя гигакрепость"
+building_giga_fortress_fe_desc: "Старая, но все еще чрезвычайно мощная планетарная крепость титанического размера, вооруженная до зубов механизмами защиты от вторжения. Взрывы примитивов и диких животных - одно из единственных занятий этих гедонистов, которые все еще считаются "работой"."
  
-tech_giga_fortress: "Giga Fortress Visualization"
-tech_giga_fortress_desc: "Powered by the enigmatic dark energy reactor, Giga Fortress is the deadliest, self-sustaining planetary fortress that can sweep away but the deadliest invasion forces."
+tech_giga_fortress: "Визуализация гигакрепости"
+tech_giga_fortress_desc: "Работающая на загадочном реакторе темной энергии, Гига Крепость является самой смертоносной, самоподдерживающейся планетарной крепостью, способной смести самые жестокие силы вторжения."
  
 ######################## OTHERS ########################
  
 mod_country_resource_max_consumer_goods_add: "Max Consumer Goods Add"
 
-building_fe_mansion: "Deluxe Mansion"
-building_fe_mansion_desc: "Though simple in design, the D-2 Deluxe Mansion provide elegent and refined living quarters for the people. It is also here where the meme lords provide recreational services."
+building_fe_mansion: "Особняк класса люкс"
+building_fe_mansion_desc: "Несмотря на простоту конструкции, особняк D-2 Deluxe предоставляет людям элегантные и изысканные жилые помещения. Здесь же владыки мемов предоставляют услуги по организации досуга."
  
-building_ae_mansion: "Enigmatic Penthouse"
-building_ae_mansion_desc: "From this massive towering mansion, even the poorest of the poor will live the life filled with quality and style."
+building_ae_mansion: "Загадочный пентхаус"
+building_ae_mansion_desc: "Из этого массивного особняка даже самый бедный из бедных будет жить жизнью, наполненной качеством и стилем."
  
-tech_dark_mansion: "Civilized Age"
-tech_dark_mansion_desc: "With new technology comes new lifestyles. What kings in the past used to live like, now even the poorest of the poor will bask in this civilized lifestyle, where buildings can reach the stars."
+tech_dark_mansion: "Цивилизованный век"
+tech_dark_mansion_desc: "С новыми технологиями приходит новый образ жизни. То, чем жили короли в прошлом, теперь даже самые бедные из бедных будут греться в этом цивилизованном образе жизни, где здания могут достигать звезд."
  
 tech_ae_dark_mansion: "Castlevania"
-tech_ae_dark_mansion_desc: "We are developing into a society in which all populations will have their own little castles. Soon the sight of mundane houses and towers will be gone. Our civilizations will be the envy of all plebeians."
+tech_ae_dark_mansion_desc: "Мы развиваемся в общество, в котором все население будет иметь свои собственные маленькие замки. Вскоре обычные дома и башни исчезнут. Наша цивилизация станет предметом зависти всех плебеев."
  
 #############################
  
-building_dm_ancient_cryo_chamber: "Delta Maintenance Hub"
-building_dm_ancient_cryo_chamber_desc: "This advanced building houses various maintenance bays for constant, ceremonial productivity. The Meme Harvesters are also stationed here to meme the organics."
+building_dm_ancient_cryo_chamber: "Центр технического обслуживания Дельта"
+building_dm_ancient_cryo_chamber_desc: "В этом передовом здании находятся различные отсеки технического обслуживания для постоянной, торжественной производительности. Здесь также размещены сборщики мемов для сбора органических веществ."
  
-building_ae_ancient_cryo_chamber: "Alpha Stasis Core"
-building_ae_ancient_cryo_chamber_desc: "Billions of physical bodies are prepped in advance within this building, ready to replace expired and damaged ones at a moment's notice. Building. Unit Ready."
+building_ae_ancient_cryo_chamber: "Стазис-ядро Альфа"
+building_ae_ancient_cryo_chamber_desc: "В этом здании заранее подготовлены миллиарды физических тел, готовых в любой момент заменить истекшие и поврежденные. Здание. Готовность к работе."
  
-tech_dm_ancient_cryo_chamber: "Advanced Maintenance Servitors"
-tech_dm_ancient_cryo_chamber_desc: "The old model for our maintenance depots are inefficient, and incapable of supporting large-scale unit maintenance. A new installation with sufficient servitor units is required to ensure optimal unit work rotations."
+tech_dm_ancient_cryo_chamber: "Сервиторы расширенного технического обслуживания"
+tech_dm_ancient_cryo_chamber_desc: "Старая модель наших складов технического обслуживания неэффективна и не способна поддерживать крупномасштабное обслуживание юнитов. Для обеспечения оптимального чередования работ по обслуживанию юнитов требуется новая установка с достаточным количеством сервейеров."
  
-tech_ae_ancient_cryo_chamber: "Master Servitor Modules"
-tech_ae_ancient_cryo_chamber_desc: "Assigning a Master Unit to the sub-servitors should greatly increase efficiency for the workload order, without requiring drastic and unnecessary input from the primary directive."
+tech_ae_ancient_cryo_chamber: "Модули главного сервейера"
+tech_ae_ancient_cryo_chamber_desc: "Назначение главного модуля субсервиторам должно значительно повысить эффективность порядка работы, не требуя резкого и ненужного вмешательства со стороны главной директивы."
  
 #############################
  
-building_fe_hive_depot: "Hive Spire"
-building_fe_hive_depot_desc: "Infused with Dark Energy, the Spire is capable of constantly maintaining ceremonial progressions of the Hive. The Meme Harvesters are also stationed here to meme the divided."
+building_fe_hive_depot: "Шпиль Улья"
+building_fe_hive_depot_desc: "Наполненный темной энергией, Шпиль способен постоянно поддерживать церемониальные шествия Улья. Здесь также размещены сборщики мемов, чтобы запечатлевать разделенных."
  
-building_ae_hive_depot: "Greater Hive Spire" 
-building_ae_hive_depot_desc: "Further evolved with massive exo-skeltons, the Greater Spire allows even more room to spawn new drones."
+building_ae_hive_depot: "Шпиль Большого Улья" 
+building_ae_hive_depot_desc: "Развитый благодаря массивным экзо-скелтонам, Большой Шпиль дает еще больше пространства для порождения новых дронов."
  
-tech_fe_hive_depot: "Sequence Library"
-tech_fe_hive_depot_desc: "Through the application of Dark Energy, the Hive will grow further and further by spinning sequences stored within the now expanded genetic libraries."
+tech_fe_hive_depot: "Библиотека последовательностей"
+tech_fe_hive_depot_desc: "Благодаря использованию Темной энергии, Улей будет расти все дальше и дальше, вращая последовательности, хранящиеся в расширенных генетических библиотеках."
  
-tech_ae_hive_depot: "Heart of the Swarm"
-tech_ae_hive_depot_desc: "Once the self can feel the Swarm, but now the Self will be the Swarm. Adapt, Evolve, Conquer. The Swarm will not fail."
+tech_ae_hive_depot: "Сердце Роя"
+tech_ae_hive_depot_desc: "Когда-то "Я" могло чувствовать Рой, а теперь "Я" будет Роем. Адаптироваться, эволюционировать, побеждать. Рой не потерпит поражения."
  
  
 ######################## STELLARITE ########################
  
-building_stellarite_generator: "Stellarite Generator"
-building_stellarite_generator_desc: "Magnificent, is it not? To create an artificial star, where we can extract its power to our heart's desire. All our oppositions will be burnt away into crisps. Hell yeahhh!\n\n§WARNINING!: Building multiple generators on a planet may have severe consequences§!"
+building_stellarite_generator: "Генератор Стелларита"
+building_stellarite_generator_desc: "Великолепно, не правда ли? Создать искусственную звезду, из которой мы сможем извлекать энергию по своему желанию. Вся наша оппозиция будет сожжена до хрустящей корочки. Да, черт возьми! \n\nARNINING! Строительство нескольких генераторов на планете может иметь серьезные последствия"
  
-building_stellarite_nexus: "Stellarite Energy Conduit"
-building_stellarite_nexus_desc: "Increasing the intensity of the fields to Class-10 is still technically within acceptable parameters. It's still 20 levels before the Nuclear Option."
+building_stellarite_nexus: "Стелларитовый энергопровод"
+building_stellarite_nexus_desc: "Увеличение интенсивности полей до 10 класса технически все еще находится в пределах допустимых параметров. До ядерного варианта еще 20 уровней."
  
 #############################
  
-building_stellarite_generator_ae: "Advanced Stellarite Generator"
-building_stellarite_generator_ae_desc: "Second Generation of the stellarite generator. The newly improved stellar pylon is much more stabilized and safe. It can also be further improved when built alongside a Stellarite Power Conduit."
+building_stellarite_generator_ae: "Усовершенствованный генератор стелларита"
+building_stellarite_generator_ae_desc: "Второе поколение генератора стелларита. Усовершенствованный звездный пилон гораздо более стабилизирован и безопасен. Он также может быть еще более улучшен, если построен вместе со стелларитовым энергопроводом."
  
-tech_stellarite_generator_ae: "Advanced Stellar Energy Panels"
-tech_stellarite_generator_ae_desc: "Insights into the nature of Stellarite generation from the ancient records has given us new understandings on how to efficiently generate this power efficiently and safely."
+tech_stellarite_generator_ae: "Усовершенствованные панели звездной энергии"
+tech_stellarite_generator_ae_desc: "Проникновение в природу генерации стелларита из древних записей дало нам новое понимание того, как эффективно и безопасно генерировать эту энергию."
  
  
 ######################## PRECURSOR BUILDING ########################
  
-building_ae_affluence_center: "College of Inspiration"
-building_ae_affluence_center_desc: "Let it be known to the wider galaxy that our goods are made of the most elegant designs, made by the best of our artists."
+building_ae_affluence_center: "Колледж вдохновения"
+building_ae_affluence_center_desc: "Да будет известно широкой галактике, что наши товары сделаны из самых элегантных образцов, созданных лучшими из наших художников."
  
-tech_ae_affluence_center: "The Pursuit of Artisan Perfection"
-tech_ae_affluence_center_desc: "Creating consumer goods is not just about satisfying the demands of the people, it is to satisfy them in fabulous fashions. Our work of arts and products shall be second to none."
- 
-#############################
- 
-building_ae_class_4_singularity: "Optimized Class-4 Singularity"
-building_ae_class_4_singularity_desc: "Control must be maintained. There must always be a Class-4 Singularity."
- 
-tech_ae_class_4_singularity: "Singularity Field Optimization"
-tech_ae_class_4_singularity_desc: "Progression in Alpha Field of Study allows us to further optimize upon the old precursor's containment field of Class-4 Singularity."
+tech_ae_affluence_center: "Стремление к совершенству ремесленников"
+tech_ae_affluence_center_desc: "Создание потребительских товаров - это не просто удовлетворение запросов людей, это удовлетворение их в сказочной манере. Наши произведения искусства и продукция должны быть непревзойденными."
  
 #############################
  
-building_ae_dimensional_fabricator: "Dimensional Threshold Gate"
-building_ae_dimensional_fabricator_desc: "We have the technology to draw materials from other dimensions of our empires that have already drawn materials from other dimensions of other empires that have already drawn materials from..."
+building_ae_class_4_singularity: "Оптимизированная сингулярность класса 4"
+building_ae_class_4_singularity_desc: "Контроль должен поддерживаться. Всегда должна существовать Сингулярность класса 4."
  
-tech_ae_dimensional_fabricator: "Dimensional Inception"
-tech_ae_dimensional_fabricator_desc: "In various sub-dimensions, there are others who often employ the same behaviors in stealing from the other, oblivious one. We will in  turn, take away from them what is ours. We will save the galaxy by taking things from the ones we hate, and then from the ones we love."
- 
-#############################
- 
-building_ae_sky_dome: "Star Dome"
-building_ae_sky_dome_desc: "Beyond the skies lie the stars. Stars with no beginning, stars with no end."
- 
-tech_ae_sky_dome: "Star Domes"
-tech_ae_sky_dome_desc: "Beyond the skies lie the stars. Stars with no beginning, stars with no end."
+tech_ae_class_4_singularity: "Оптимизация поля сингулярности"
+tech_ae_class_4_singularity_desc: "Продвижение в Альфа-поле исследования позволяет нам продолжать оптимизацию поля сдерживания сингулярности класса 4 старого предшественника."
  
 #############################
  
-building_ae_empyrean_shrine: "Grand Cathedral"
-building_ae_empyrean_shrine_desc: "A truly inspiring building. Each Grand Cathedral is sacred to our holy empire, their songs and chorus of faith can be heard across the stars."
+building_ae_dimensional_fabricator: "Пороговые врата измерений"
+building_ae_dimensional_fabricator_desc: "У нас есть технология, позволяющая черпать материалы из других измерений наших империй, которые уже черпали материалы из других измерений других империй, которые уже черпали материалы из..."
  
-tech_ae_empyrean_shrine: "The Chorus of Faith"
-tech_ae_empyrean_shrine_desc: "Our influences must be spread across the stars. Let the others hear of our divinity in awe and fear. Let them witness our commitment to the cause, and fall down to their knees at the mere mention of a battleship-sized cathedral."
- 
-#############################
- 
-building_ae_master_archive: "Grand Archive"
-building_ae_master_archive_desc: "Ancient histories across the galaxy, extending for over thousand of years are achieved here. Archivists work day and night to divine the secrets of the forgotten one."
- 
-tech_ae_master_archive: "The Ancient Records"
-tech_ae_master_archive_desc: "We must not look only to the future, as the past itself holds countless secrets that can be explored. We will study them, learn them, master them. Then we will eat."
+tech_ae_dimensional_fabricator: "Проникновение в измерение"
+tech_ae_dimensional_fabricator_desc: "В различных подпространствах существуют другие, которые часто используют те же модели поведения, воруя у другого, забывчивого. Мы, в свою очередь, заберем у них то, что принадлежит нам. Мы спасем галактику, отбирая вещи у тех, кого мы ненавидим, а затем у тех, кого мы любим."
  
 #############################
  
-building_ae_nano_forge: "Dimensional Forge"
-building_ae_nano_forge_desc: "Within the fiery pits of this forge, creepy people transform non-existence into existence."
+building_ae_sky_dome: "Звездный купол"
+building_ae_sky_dome_desc: "За небесами лежат звезды. Звезды без начала и без конца."
  
-tech_ae_nano_forge: "Dark Forge"
-tech_ae_nano_forge_desc: "If it exists, we will find them. If it doesn't exist, we will create them. From the codex of our engineering corps; Chapter II: Page 1337."
- 
-#############################
- 
-building_ae_nourishment_center: "Agricultural Megacomplex"
-building_ae_nourishment_center_desc: "Cooks and chefs from across the galaxy gather here to discover new ingredients and tastes. Gourmet Time!"
- 
-tech_ae_nourishment_center: "Galactic Gourmet"
-tech_ae_nourishment_center_desc: "Recently there has been an ongoing rumor that there are multiple cuisine exchanges between the empires. There are multiple good choices, but there are also terrible ones. This is unacceptable, we must make sure all the foods in our empires, regardless of sources, will always be delicious.\n\nSome do still protest to not put snailapples on pizza though."
+tech_ae_sky_dome: "Звездные купола"
+tech_ae_sky_dome_desc: "За небесами лежат звезды. Звезды без начала и без конца."
  
 #############################
  
-building_ae_ancient_cryo_chamber: "Advanced Cryo Chamber"
-building_ae_ancient_cryo_chamber_desc: "Yeah, making a ruined version of the cryo chamber was not a smart decision after all."
+building_ae_empyrean_shrine: "Великий собор"
+building_ae_empyrean_shrine_desc: "Поистине вдохновляющее здание. Каждый Большой собор священен для нашей святой империи, их песни и хор веры слышны среди звезд."
+ 
+tech_ae_empyrean_shrine: "Хор веры"
+tech_ae_empyrean_shrine_desc: "Наше влияние должно распространяться среди звезд. Пусть другие слышат о нашей божественности с благоговением и страхом. Пусть они увидят нашу преданность делу и падут на колени при одном только упоминании о соборе размером с линкор."
+ 
+#############################
+ 
+building_ae_master_archive: "Большой архив"
+building_ae_master_archive_desc: "Здесь собраны древние истории всей галактики, насчитывающие более тысячи лет. Архивариусы трудятся день и ночь, чтобы разгадать секреты забытого."
+ 
+tech_ae_master_archive: "Древние записи"
+tech_ae_master_archive_desc: "Мы не должны смотреть только в будущее, поскольку прошлое само по себе хранит бесчисленные секреты, которые можно исследовать. Мы будем изучать их, учиться им, овладевать ими. А потом мы будем есть."
+ 
+#############################
+ 
+building_ae_nano_forge: "Кузница измерений"
+building_ae_nano_forge_desc: "В огненных ямах этой кузницы жуткие люди превращают небытие в бытие."
+ 
+tech_ae_nano_forge: "Темная кузница"
+tech_ae_nano_forge_desc: "Если это существует, мы найдем их. Если не существует, мы их создадим. Из кодекса нашего инженерного корпуса; Глава II: Страница 1337."
+ 
+#############################
+ 
+building_ae_nourishment_center: "Сельскохозяйственный мегакомплекс"
+building_ae_nourishment_center_desc: "Повара и кулинары со всей галактики собираются здесь, чтобы открыть для себя новые ингредиенты и вкусы. Время гурманов!"
+ 
+tech_ae_nourishment_center: "Галактический гурман"
+tech_ae_nourishment_center_desc: "В последнее время ходят слухи, что между империями происходит множественный обмен кухнями. Есть несколько хороших вариантов, но есть и ужасные. Это неприемлемо, мы должны убедиться, что все продукты в наших империях, независимо от источника, всегда будут вкусными.\n\n\nНекоторые все еще протестуют против того, чтобы улитки не клали яблоки на пиццу."
+ 
+#############################
+ 
+building_ae_ancient_cryo_chamber: "Усовершенствованная криокамера"
+building_ae_ancient_cryo_chamber_desc: "Да, создание разрушенной версии криокамеры не было разумным решением."
  
 ######################## OLD TECH ########################
-tech_fe_galactic_trade_enclave: "Emporium of the Galaxy"
-tech_fe_galactic_trade_enclave_desc: "Our stock exchange, while already huge and provides large income to our empire, does not have proper authorization to sell dark-matter related items. While we do not plan to give these enigmatic technologies to lesser beings freely, our marketing strategists state that we can trick a lot of primitives into buying trivial trinkets or artifacts bearing the mark of the ascended one. Season passes, exclusive collector editions, pre-order, early-access; all strategies will be employed to achieve maximum profit." 
+tech_fe_galactic_trade_enclave: "Империя Галактики"
+tech_fe_galactic_trade_enclave_desc: "Наша биржа, хотя она уже огромна и приносит большой доход нашей империи, не имеет надлежащего разрешения на продажу предметов, связанных с темной материей. Хотя мы не планируем свободно передавать эти загадочные технологии низшим существам, наши маркетинговые стратеги утверждают, что мы можем обмануть множество примитивов, заставив их купить тривиальные безделушки или артефакты с клеймом вознесенного. Сезонные абонементы, эксклюзивные коллекционные издания, предварительные заказы, ранний доступ; все стратегии будут использованы для достижения максимальной прибыли." 
  
-tech_fe_heaven_dome: "Heaven Made Reality"
-tech_fe_heaven_dome_desc: "While our current model of paradise dome does it's job very well at providing accommodations and happiness for our core species, it's generator was not powerful enough to support additional sections required for new improvements. This limitation can now be eliminated with the introduction of Dark Matter Reactor and more efficient health care."
+tech_fe_heaven_dome: "Реальность, воплощенная в раю"
+tech_fe_heaven_dome_desc: "Хотя наша текущая модель райского купола очень хорошо справляется со своей работой, обеспечивая жилье и счастье для нашего основного вида, ее генератор был недостаточно мощным, чтобы поддерживать дополнительные секции, необходимые для новых улучшений. Теперь это ограничение может быть устранено с помощью реактора темной материи и более эффективного медицинского обслуживания."
  
-tech_fe_visitor_center: "Precursor Artifact Collections"
-tech_fe_visitor_center_desc: "We have studied much of the precursor artifacts in the past. Our diplomats believe we should open a new museum section to our visitor's center that showcases some of the finer things we have collected and accomplished. The message is clear, stay in their old decrepit empires, or join us for a better, brighter future."
+tech_fe_visitor_center: "Коллекции артефактов Предтеч"
+tech_fe_visitor_center_desc: "В прошлом мы изучили большую часть артефактов Предтеч. Наши дипломаты считают, что мы должны открыть новую музейную секцию в нашем центре для посетителей, где будут представлены некоторые из лучших вещей, которые мы собрали и достигли. Посыл ясен: оставайтесь в их старых дряхлых империях или присоединяйтесь к нам для лучшего, светлого будущего."
  
-tech_fe_military_academy: "First-Class Army Accommodations"
-tech_fe_military_academy_desc: "As we improve the qualities and lives of our citizens, we must not forget those of us who serve on the fields of battle. They too must be provided with the best of the best treatments while off-duty to encourage them that we are truly the one who will make the galaxy a better place."
+tech_fe_military_academy: "Первоклассные условия проживания в армии"
+tech_fe_military_academy_desc: "Улучшая качество и жизнь наших граждан, мы не должны забывать о тех, кто служит на полях сражений. Им тоже должно быть предоставлено лучшее из лучших лечение в свободное от службы время, чтобы убедить их в том, что мы действительно те, кто сделает галактику лучше."
  
-tech_fe_obelisk_of_light: "Obelisk of Light"
-tech_fe_obelisk_of_light_desc: "While we accept that in the grand schemes of things, our defense forces are not likely going to be able to fend off a full invasion supported by months and months of bombardments. However we still see potential in constructing a unique science facility that additionally serves as a powerful defensive building."
+tech_fe_obelisk_of_light: "Обелиск света"
+tech_fe_obelisk_of_light_desc: "Хотя мы признаем, что в грандиозных схемах вещей наши силы обороны, скорее всего, не смогут противостоять полному вторжению, поддерживаемому месяцами и месяцами бомбардировок. Однако мы все еще видим потенциал в строительстве уникального научного объекта, который дополнительно служит мощным оборонительным сооружением."
  
-tech_fe_assemble: "Hard-Light Assembling"
-tech_fe_assemble_desc: "<Alert> New Assembly Technology Discovered. Hard-Light Material; converting light spectrum into solid form. 100% Efficiency Increase Projected. <Recommendation> Must obtain."
+tech_fe_assemble: "Сборка на жестком свету"
+tech_fe_assemble_desc: "<Оповещение> Открыта новая технология сборки. Твердосветовые материалы; преобразование светового спектра в твердую форму. Прогнозируется увеличение эффективности на 100%. <Рекомендация> Необходимо получить."
  
-tech_fe_singularity_core: "Organic Financial Dominance"
-tech_fe_singularity_core_desc: "<Alert> Optimal probability calculation achieved. Now able to infiltrate into <organic markets> and stocks; Can manipulate <organics> into investing into <Machine Products>/// Must establish financial dominance."
+tech_fe_singularity_core: "Органическое финансовое господство"
+tech_fe_singularity_core_desc: "<Оповещение> Достигнут оптимальный расчет вероятности. Теперь может проникать на <органические рынки> и акции; может манипулировать <органиками>, заставляя их инвестировать в <Машинную продукцию>/// Должен установить финансовое господство."
  
-tech_fe_communication_nexus: "Artificial Galaxy"
-tech_fe_communication_nexus_desc: "Our science unit states that <Class-30 Singularity> may eventually come. <Cause> = Organic's illogical decisions will provoke them to cause destruction on galactic-scale. We must prepare for this inevitable stupidity caused by organic's inability to maintain their self-perseverance module."
+tech_fe_communication_nexus: "Искусственная галактика"
+tech_fe_communication_nexus_desc: "Наш научный отдел утверждает, что <Класс-30 Сингулярность> может в конце концов наступить. <Причина> = нелогичные решения <органиков> спровоцируют их на разрушения галактического масштаба. Мы должны подготовиться к этой неизбежной глупости, вызванной неспособностью органиков поддерживать свой модуль самосохранения."
  
-tech_fe_war_factory: "Precursor Combat Code Adaptations"
-tech_fe_war_factory_desc: "While our current combat codes for our invasion units are already quite efficient, they pale in comparison to the one utilized by the precursor's war machines. <Recommendation> Analyze and acquire the precursor's combat data."
+tech_fe_war_factory: "Адаптации боевых кодов Предтеч"
+tech_fe_war_factory_desc: "Хотя наши нынешние боевые коды для подразделений вторжения уже достаточно эффективны, они меркнут по сравнению с теми, которые используют боевые машины Предтеч. <Рекомендация> Проанализируйте и приобретите боевые данные предтеч."
  
-tech_infinity_engine: "Infinity Calculation"
-tech_infinity_engine_desc: "With the updated codes acquired from the precurosors, organic probability calculations are now trivial tasks. We will achieve total control of their economy. We will reach infinity."
+tech_infinity_engine: "Вычисление бесконечности"
+tech_infinity_engine_desc: "С обновленными кодами, полученными от предтеч, вычисления органической вероятности теперь являются тривиальной задачей. Мы достигнем полного контроля над их экономикой. Мы достигнем бесконечности."
  
-tech_fe_communication_nexus: "Dark Energy Distribution"
-tech_fe_communication_nexus_desc: "We have already begun installing dark matter cores into our machine units, but we have discovered that we can convert dark energies into invisible form that encompasses the surface's air. Estimated projection dictates this will improve the processing powers of all working units."
+tech_fe_communication_nexus: "Распределение темной энергии"
+tech_fe_communication_nexus_desc: "Мы уже начали устанавливать ядра темной материи в наши машинные блоки, но мы обнаружили, что можем преобразовывать темную энергию в невидимую форму, охватывающую воздух поверхности. По прогнозам, это повысит вычислительную мощность всех рабочих агрегатов."
  
 tech_fe_slave_processing: "Unsullification"
-tech_fe_slave_processing_desc: "Slaves are cheap, easy to control, but not always efficient. They also make terribly awful soldiers against seasoned armies. As an ascended empire, this can not..this WILL NOT stand. We will form a new generation of slave soldiers, trained from birth to be the ultimate representation of our invincible will against the stars."
+tech_fe_slave_processing_desc: "Рабы дешевы, ими легко управлять, но они не всегда эффективны. Из них также получаются ужасные солдаты против опытных армий. Как вознесенная империя, это не может... это НЕ ПРОДОЛЖИТСЯ. Мы сформируем новое поколение рабов-солдат, обученных с самого рождения, чтобы стать высшим представителем нашей непобедимой воли против звезд."
  
-tech_fe_betharian: "Dark Matter-Fused Betharian Stone"
-tech_fe_betharian_desc: "Betharian stones seem to have a peculiar reaction to Dark Matter. Perhaps we should explore this further, we may be able to improve our current Betharian Power Plants, which are now quite obsolete compared to our Dark Matter Power Plants."
+tech_fe_betharian: "Бетарианский камень с вкраплениями темной материи"
+tech_fe_betharian_desc: "Бетарианские камни, похоже, имеют особую реакцию на темную материю. Возможно, нам стоит изучить этот вопрос, и мы сможем улучшить наши нынешние бетарианские силовые установки, которые уже устарели по сравнению с нашими силовыми установками из темной материи."
  
-tech_fe_habitats: "The Stars Our Home"
-tech_fe_habitats_desc: "It is time we bring our enigmatic engineerings to our habitat buildings! With our advanced technology, we will eliminate any weaknesses presented within our space stations. We shall make home from wherever we tread."
+tech_fe_habitats: "Звезды - наш дом"
+tech_fe_habitats_desc: "Пришло время привнести наши загадочные инженерные разработки в здания нашего обитания! С помощью наших передовых технологий мы устраним все слабые места наших космических станций. Мы сделаем дом везде, где бы мы ни ступали."
  

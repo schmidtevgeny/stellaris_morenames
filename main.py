@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-from PyQt5 import QtWidgets
+from PyQt5 import QtWidgets, QtGui
 import sys
 import re
 
-regex = r"\s*(\S*): \"(.*)\""
+regex = r"\s*(\S*):\d* \"(.*)\""
 
 def clear(test_str):
     regex = r"§\w(.*?)§!"    
@@ -17,7 +17,14 @@ class Widget(QtWidgets.QWidget):
         super(Widget, self).__init__()
         self.lt = QtWidgets.QGridLayout(self)
         self.l = QtWidgets.QTextEdit()
+        self.l.setFont(QtGui.QFont("Hack Nerd Font", 14))
+        self.l.setWordWrapMode(True)
+        self.l.setAcceptRichText(False)
         self.r = QtWidgets.QTextEdit()
+        self.r.setFont(QtGui.QFont("Hack Nerd Font", 14))
+        self.r.setWordWrapMode(True)
+        self.r.setAcceptRichText(False)
+        
         self.l_r = QtWidgets.QPushButton('->')
         self.r_l = QtWidgets.QPushButton('<-')
         self.lt.addWidget(self.l, 0, 0, 3, 1)
@@ -44,6 +51,7 @@ class Widget(QtWidgets.QWidget):
 
     def to_right(self):
         langdata = self.l.toPlainText()
+        self.l.setText(langdata)
         matches = re.finditer(regex, langdata, re.MULTILINE)
         rdata = []
 
