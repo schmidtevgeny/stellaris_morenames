@@ -1,7 +1,7 @@
 ﻿
 l_russian:
  
- 
+# DONE
 #################################################### ARMY Tech ####################################################
  
 requires_building_forts: "Для этой армии требуются передовые военные объекты."
@@ -72,285 +72,284 @@ acot_garrison_army_giga_plural: "Гига-пушки"
 acot_garrison_army_giga_desc: "Массивные пушки, установленные в гигакрепости, быстро расправятся с примитивными силами."
  
 ################
-# TODO 
-fe_unsullied_army: "Unsullied Army"
-fe_unsullied_army_plural: "Unsullied Armies"
-fe_unsullied_army_desc: "Unsullied are slave-bred warriors, trained from birth to become deadly soldiers for our empire. They receive proper training that is expected of most modern armies allowing them to be more than a match to most ordinary soldiers. They are still slaves however, and their deaths mean little to our war efforts."
+
+fe_unsullied_army: "Армия безупречных"
+fe_unsullied_army_plural: "Армии безупречных"
+fe_unsullied_army_desc: "Безупречные - это выращенные в рабстве воины, которых с самого рождения готовят стать смертоносными солдатами нашей империи. Они проходят соответствующую подготовку, которая ожидается от большинства современных армий, что позволяет им быть более чем равными большинству обычных солдат. Однако они все еще рабы, и их смерть мало что значит для наших военных усилий."
  
 ################
  
 ################ MILITARIST
  
-fe_heavy_army: "Heavy Mobile Infantry Squad"
-fe_heavy_army_plural: "Heavy Mobile Infantry Squads"
-fe_heavy_army_desc: "These heavily armed and armored soldiers receive extra combat training, allowing them to excel in all combat situations and environments as our militarist demands needed."
+fe_heavy_army: "Отряд тяжелой мобильной пехоты"
+fe_heavy_army_plural: "Отряды тяжелой мобильной пехоты"
+fe_heavy_army_desc: "Эти тяжеловооруженные и бронированные солдаты проходят дополнительную боевую подготовку, позволяющую им превосходно действовать в любых боевых ситуациях и условиях, как того требуют наши милитаристские требования."
  
-tech_heavy_trooper: "Mobile Infantry Divisions"
-tech_heavy_trooper_desc: "Our militaristic ideals demand even stronger infantry divisions that are superior to even the precursor's troops. To this end, we will form a new Mobile Infantry Division fully armed and armored for full-scale invasion. These soldiers will be the proof that we can only forge peace through war, not sitting and making useless pacts."
+tech_heavy_trooper: "Мобильные пехотные дивизии"
+tech_heavy_trooper_desc: "Наши милитаристские идеалы требуют еще более сильных пехотных дивизий, превосходящих даже войска Предтеч. С этой целью мы сформируем новую мобильную пехотную дивизию, полностью вооруженную и бронированную для полномасштабного вторжения. Эти солдаты станут доказательством того, что мы можем установить мир только войной, а не сидя и заключая бесполезные пакты."
  
-fe_hero_godofwar: "God of War"
-fe_hero_godofwar_plural: "God of Wars"
-fe_hero_godofwar_desc: "This genetically-enhanced super warrior is capable of unleashing righteous fury, leaping into the thick of battle and wrecks havoc onto the enemy lines. He does not fear death, for he is death itself. Let our enemies beware, for they face the god of war."
+fe_hero_godofwar: "Бог войны"
+fe_hero_godofwar_plural: "Боги войны"
+fe_hero_godofwar_desc: "Этот генетически усиленный супервоин способен выплеснуть праведную ярость, прыгнуть в гущу сражения и посеять хаос в рядах врага. Он не боится смерти, ибо он и есть сама смерть. Пусть наши враги остерегаются, ведь они столкнулись с богом войны."
  
-tech_godofwar: "Hail to the God of War!"
-tech_godofwar_desc: "To strike fear into the enemy formations require more than just weapons, it requires an individual, so fearless and powerful that the title of "God of War" is most fitting. We should begin selecting candidates from our ranks and begin this project immediately."
+tech_godofwar: "Слава Богу войны!"
+tech_godofwar_desc: "Чтобы навести страх на вражеские формирования, требуется не только оружие, но и личность, настолько бесстрашная и могущественная, что титул Бог войны является наиболее подходящим. Мы должны начать отбор кандидатов из наших рядов и немедленно приступить к реализации этого проекта."
  
-god_limit_tooltip: "Gods are not easily born. Only a few may emerge at any time."
+god_limit_tooltip: "Боги рождаются нелегко. Лишь немногие из них могут появиться в любой момент."
  
 ################ PACIFIST
+
+fe_peacekeeper_army: "Миротворческие силы"
+fe_peacekeeper_army_plural: "Миротворческие силы"
+fe_peacekeeper_army_desc: "Эти силы военной полиции обучены сдержанности при использовании взрывчатых веществ и разрушительного оружия. Они умеют прекращать драки нелетальными средствами, но не проявляют милосердия к поджигателям войны. Закон найдет в них свой голос."
  
-fe_peacekeeper_army: "Peacekeeper Force"
-fe_peacekeeper_army_plural: "Peacekeeper Forces"
-fe_peacekeeper_army_desc: "These military police forces are trained to exercise restraints when using explosives and destructive weapons. They excel at ending fights through non-lethal means, but will not show mercy towards warmongers. The law shall find its voice in them."
+tech_peacekeeper: "Приносящий мир, свободу, справедливость и безопасность"
+tech_peacekeeper_desc: "Для достижения истинного мира мы должны организовать новые миротворческие силы, которые будут действовать как передовые солдаты и системные полицейские силы внутри наших границ. Мы создадим новую главу мира и докажем этим заблуждающимся милитаристам, что войну и мир можно выиграть мозгами, а не мускулами."
  
-tech_peacekeeper: "Bringer of Peace, Freedom, Justice and Security"
-tech_peacekeeper_desc: "In order to achieve true peace, we must organize a new peacekeeping force that acts as both frontline soldiers and system police forces inside our borders. We will forge a new chapter of peace, and prove to these misguided militarist warmongers that war and peace can be won with brains and not muscles."
- 
-fe_hero_captainpacifist: "Captain Pacifist"
+fe_hero_captainpacifist: "Капитан Пацифист"
 fe_hero_captainpacifist_plural: "Captain Pacifists"
-fe_hero_captainpacifist_desc: "Equipped with powerful jetpacks, Captain Pacifist flies into battles and strips warmongers of their weapons using powerful energy-based weapon from his golden eyes. The captain may not be mightiest or deadliest soldiers or war machines compared to those barbarians, but he is fully committed to our cause to end all war."
+fe_hero_captainpacifist_desc: "Оснащенный мощными реактивными ранцами, капитан Пацифист влетает в битвы и лишает воюющих их оружия, используя мощное энергетическое оружие из своих золотых глаз. Возможно, капитан не является самым могучим или смертоносным солдатом или военной машиной по сравнению с этими варварами, но он полностью предан нашему делу, чтобы положить конец всем войнам."
  
-tech_captain_pacifist: "Champion of Peace"
-tech_captain_pacifist_desc: "Our Peacekeepers are well-suited at keeping the peace but not always at creating one. Fortunately, some of our scientists have draft a plan to create an iconic beacon of peace well suited for convincing the others that peace is the only way. It sounds quite silly but the projected data does prove to be reliable."
+tech_captain_pacifist: "Поборник мира"
+tech_captain_pacifist_desc: "Наши миротворцы хорошо умеют поддерживать мир, но не всегда умеют его создавать. К счастью, некоторые из наших ученых разработали план по созданию знакового маяка мира, хорошо подходящего для убеждения других в том, что мир - это единственный путь. Это звучит довольно глупо, но прогнозируемые данные оказываются надежными."
  
-captain_limit_tooltip: "While technically we possess the resources required to make more than one Captain Pacifist, we cannot find any individuals who really wish to go that far."
+captain_limit_tooltip: "Хотя технически мы обладаем ресурсами, необходимыми для создания более чем одного Капитана Пацифиста, мы не можем найти ни одного человека, который действительно хотел бы зайти так далеко."
  
 ################ XENOPHILE
  
-fe_sniper_army: "Ghost Agent"
+fe_sniper_army: "Агент-призрак"
 fe_sniper_army_plural: "Ghost Agents"
-fe_sniper_army_desc: "These operatives are dedicated to our xenophilic cause. They are trained to neutralize only combat-effective enemies with non-lethal injection and prevents any unnecessary bloodshed and collateral damages at all cost."
+fe_sniper_army_desc: "Эти оперативники преданы нашему ксенофильскому делу. Они обучены нейтрализовывать только боеспособных врагов с помощью несмертельных инъекций и любой ценой предотвращать ненужное кровопролитие и сопутствующий ущерб."
  
-tech_shadow_sniper: "Ghost Division"
-tech_shadow_sniper_desc: "We value all life, even those of the enemies. They must be allowed to see the errors of their ways but we cannot perform such daring tasks with our current destructive weapons. To this end, we must develop and train armies specifically equipped to take down only hostile targets with extreme efficiency. We must have more elegant weapons of the civilized age. It's over, xenophobes - We have the high grounds."
+tech_shadow_sniper: "Дивизия призраков"
+tech_shadow_sniper_desc: "Мы ценим любую жизнь, даже жизнь врагов. Необходимо дать им возможность увидеть ошибки своего пути, но мы не можем выполнить такие смелые задачи с нашим нынешним разрушительным оружием. Для этого мы должны разработать и обучить армии, специально оснащенные для уничтожения только вражеских целей с чрезвычайной эффективностью. У нас должно быть более элегантное оружие цивилизованного века. С этим покончено, ксенофобы - у нас есть высокие позиции."
  
-fe_hero_blackwidow: "Black Widow"
+fe_hero_blackwidow: "Черная вдова"
 fe_hero_blackwidow_plural: "Black Widows"
-fe_hero_blackwidow_desc: "Black Widows are the deadliest agents of the Ghost Division. They are well trained in stealth, sabotage and are equipped with various powerful but non-lethal arsenals and gadgets, allowing them to effortlessly neutralize enemy combatants."
+fe_hero_blackwidow_desc: "Черные вдовы - самые смертоносные агенты Отдела призраков. Они хорошо обучены скрытности, саботажу и оснащены различными мощными, но несмертельными арсеналами и приспособлениями, позволяющими им без труда нейтрализовать вражеских бойцов.."
  
-tech_black_widow: "The Black Widows"
-tech_black_widow_desc: "While we do not enjoy taking lives, we must admit that our neutralizers do enjoy ending the threats of xenophobic bigots. The official formation of the Division as a truly independent force will allow us to draw from our veteran ghosts to become Black Widows."
+tech_black_widow: "Черные вдовы"
+tech_black_widow_desc: "Хотя нам не нравится отнимать жизни, мы должны признать, что наши нейтрализаторы получают удовольствие от прекращения угроз фанатиков-ксенофобов. Официальное формирование Подразделения как действительно независимой силы позволит нам привлечь наших призраков-ветеранов, чтобы стать Черными вдовами."
  
-blackwidow_limit_tooltip: "Only the deadliest and most skilled of the Ghost Agents may receive the rank of Black Widows, as such it takes time for such gifted agents to appear."
+blackwidow_limit_tooltip: "Только самые смертоносные и искусные из Призрачных Агентов могут получить звание Черных Вдов, так как для появления таких одаренных агентов требуется время."
  
  
 ################ XENOPHOBE
  
-fe_deathbringer_army: "Deathbringer Squad"
+fe_deathbringer_army: "Отряд смертников"
 fe_deathbringer_army_plural: "Deathbringer Squads"
-fe_deathbringer_army_desc: "These fearsome, heavily armored soldiers are our xenophobic will made manifested. They move from world to world, utterly destroying all xenos with their antimatter cannons that erase all traces of the xeno - its very atoms from existence.. None will be spared from our purging flames of agony."
+fe_deathbringer_army_desc: "Эти страшные, тяжелобронированные солдаты - наша ксенофобская воля, воплощенная в жизнь. Они перемещаются из мира в мир, уничтожая всех ксеносов с помощью своих пушек из антиматерии, которые стирают все следы ксеноса - сами его атомы из существования. Никто не будет пощажен нашим очищающим пламенем агонии."
  
-tech_soul_purifier: "Scorn of Xeno"
-tech_soul_purifier_desc: "Our people have accepted the simple fact that we are the only truly civilized species in this universe, all others are simply animals - beasts that existed to be purged. But purging these beasts requires a deadlier force, one that will purify the xeno taint and strike fear in the hearts of those of them that would dare raise their hand against us. When our forces come, they will beg for death."
+tech_soul_purifier: "Презрение к Ксеносу"
+tech_soul_purifier_desc: "Наш народ принял тот простой факт, что мы - единственный по-настоящему цивилизованный вид в этой вселенной, а все остальные - просто животные - звери, которые существуют для того, чтобы быть очищенными. Но для очищения этих зверей нужна более смертоносная сила, которая очистит от ксеносов и вселит страх в сердца тех из них, кто осмелится поднять руку на нас. Когда наши силы придут, они будут молить о смерти."
  
-fe_xenoartillery: "Apocalypse Tri-Cannon Artillery"
+fe_xenoartillery: "Трехпушечная артиллерия Апокалипсиса"
 fe_xenoartillery_plural: "Apocalypse Tri-Cannon Artilleries"
-fe_xenoartillery_desc: "This huge artillery is equipped with Apocalypse-class Tri-Cannon capable of firing from extreme range for devastating damage. Maximum Collateral Damage and Total Destruction against our foes are assured. They must be made to understand that they have no rights to exist."
+fe_xenoartillery_desc: "Эта огромная артиллерия оснащена трехствольной пушкой класса Apocalypse, способной вести огонь с предельной дальности для нанесения разрушительного урона. Максимальный побочный ущерб и полное уничтожение наших врагов гарантированы. Они должны понять, что не имеют права на существование."
  
-tech_xenoartillery: "Scorched Earth"
-tech_xenoartillery_desc: "We have wasted enough time trying to bombard planets with shield generators or storming against the insect's hives. Our military strategists ask that we create a new weapon. A titanic-sized artillery capable of raining down murder and mayhem upon the trash that is our enemy. Collateral Damage be damned, for they chose to be born a xeno scum."
+tech_xenoartillery: "Выжженная земля"
+tech_xenoartillery_desc: "Мы потратили достаточно времени, пытаясь бомбардировать планеты генераторами щитов или штурмовать ульи насекомых. Наши военные стратеги просят нас создать новое оружие. Артиллерию титанических размеров, способную обрушить дождь убийств и хаоса на мусор, который является нашим врагом. Пусть будет проклят побочный ущерб, ибо они сами выбрали родиться ксено-отбросами."
  
-xenoart_limit_tooltip: "It already took a lot of convincing for most of our inner circles to agree to the construction of this artillery, it will take time for another to be commissioned."
+xenoart_limit_tooltip: "Уже потребовалось много убеждений, чтобы большинство наших внутренних кругов согласились на строительство этой артиллерии, потребуется время, чтобы была введена в строй еще одна."
  
 ################ MATERIALIST
+fe_tank: "Танковая дивизия Девастатор"
+fe_tank_plural: "Танковые дивизии девастаторов"
+fe_tank_desc: "Эти высокотехнологичные танки оснащены смертоносными пушками с ускорителем массы и миниатюрным прыжковым приводом, позволяющим танку обходить все труднопроходимые участки местности и наносить удары со всех возможных углов."
  
-fe_tank: "Devastator Tank Division"
-fe_tank_plural: "Devastator Tank Divisions"
-fe_tank_desc: "These highly advanced tanks are equipped with deadly mass-accelerator cannons and miniaturized jump-drive, allowing the tank to bypass all difficult terrains and strike from every possible angle."
+tech_dark_matter_tank: "Танковая война в новом представлении"
+tech_dark_matter_tank_desc: "Танковая война была прекращена в начале 2200-х годов из-за кошмара логистики, связанного с транспортировкой и развертыванием танков на поле боя. Однако разработка джамп-драйва и реактора темной материи позволяет нам совершить революцию в наземном бою. Скоро наши грозные танки снова будут доминировать на поле боя"
  
-tech_dark_matter_tank: "Tank Warfare Reimagined"
-tech_dark_matter_tank_desc: "Tank warfare was phased out in the early 2200's due to the logistics nightmare of transporting and deploying them on the battlefield. However. the development of Jump Drive and Dark Matter Reactor allows us to revolutionize ground combat. Soon our fearsome tanks will soon dominate the battlefield once again."
+fe_hercules_tank: "Лендкрузер Мартеллуса"
+fe_hercules_tank_plural: "Лендкрузеры Мартеллуса"
+fe_hercules_tank_desc: "Эти огромные бегемоты могут сровнять с землей поле боя, либо используя оружие линкоров, либо просто раздавив врагов под своим огромным весом. Посмотрим, как эти тупые спиритуалисты справятся с нашей мощью!"
  
-fe_hercules_tank: "Martellus Landcruiser"
-fe_hercules_tank_plural: "Martellus Landcruisers"
-fe_hercules_tank_desc: "These enormous behemoths can lay wastes to the battlefield, either by utilizing battleship weapons or simply crush their enemies under their enormous weight. Let us see how will those dumb spiritualists fare well against our might!"
+tech_dark_matter_megatank: "Лендкрузер"
+tech_dark_matter_megatank_desc: "Некоторые спиритуалистические глупцы высмеивают наше использование "бездушных машин" во время войны, игнорируя тот факт, что войны выигрывают машины и превосходные технологии, а не идиотские верования. Мы должны заставить их понять этот простой факт, создав "бездушную машину", настолько большую и мощную, чтобы поторопить этих спиритуалистических идиотов к их обещанной нирване."
  
-tech_dark_matter_megatank: "Landcruiser"
-tech_dark_matter_megatank_desc: "Some spiritualist fools mock our use of "soulless machines" during the war while ignoring the fact that machines and superior technologies win wars, not idiotic beliefs. We must make them understand this simple fact by creating a "soulless machine" so large and powerful to hurry these spiritualistic idiots to their promised nirvana."
- 
-megatank_limit_tooltip: "A Landcruiser is a huge investment that requires a lot of both resources and crew training. We can only build only a few at any given time."
- 
+megatank_limit_tooltip: "Ландкрузер - это огромная инвестиция, требующая много ресурсов и подготовки экипажа. Мы можем построить только несколько в каждый момент времени"
+
 ################ SPIRITUALIST
  
-fe_inquisitor_army: "Inquisitor Army"
-fe_inquisitor_army_plural: "Inquisitor Armies"
-fe_inquisitor_army_desc: "These zealous holy warriors go into war carrying a blessed hammer and holy armor enchanted with dark matter power. They are trained to channel their inner faith to protect themselves from harm. Such devotion cannot be fathomed by foolish materialist non-believers."
+fe_inquisitor_army: "Армия инквизиторов"
+fe_inquisitor_army_plural: "Армии инквизиторов"
+fe_inquisitor_army_desc: "Эти ревностные святые воины идут на войну, неся благословенный молот и святые доспехи, зачарованные силой темной материи. Их обучают направлять свою внутреннюю веру на защиту от вреда. Такая преданность не постижима для глупых материалистов-неверующих"
  
-tech_inquisitor: "Inquisitorius Order Formation"
-tech_inquisitor_desc: "While our empire already has dedicated priests who help guide our people towards greater purpose, we see the possibilities of creating a new religious sect that works directly with the military using these new dark matter energies."
+tech_inquisitor: "Формирование ордена инквизиторов"
+tech_inquisitor_desc: "Хотя в нашей империи уже есть посвященные священники, которые помогают направлять наш народ к великой цели, мы видим возможности создания новой религиозной секты, которая будет работать напрямую с военными, используя эти новые энергии темной материи."
  
-fe_living_saint: "Living Saint"
-fe_living_saint_plural: "Living Saints"
-fe_living_saint_desc: "Living Saints are those who embody the purity of the faith. They radiate the aura of righteousness and purity, granting the army they lead unbreakable morale. Salvation shall be brought to the sinners..through annihilation!"
+fe_living_saint: "Живой Святой"
+fe_living_saint_plural: "Живые святые"
+fe_living_saint_desc: "Живые святые - это те, кто воплощает чистоту веры. Они излучают ауру праведности и чистоты, даруя возглавляемой ими армии несокрушимый боевой дух. Спасение грешникам будет принесено... через уничтожение!"
  
-tech_living_saint: "Chosen of the Faith"
-tech_living_saint_desc: "Even amongst the most faithful of our people, there are some who's not only devoted to the faith, but seem to be favored and chosen by the spirits themselves. Tales of saints, displaying auras of holiness spread across our systems. We should quickly seek them out and properly sanctify them as the rightful saints of our holy order."
+tech_living_saint: "Избранник веры"
+tech_living_saint_desc: "Даже среди самых верных из нашего народа есть те, кто не только предан вере, но, кажется, благосклонен и избран самими духами. Рассказы о святых, демонстрирующих ауру святости, распространяются по нашим системам. Мы должны быстро найти их и должным образом освятить как законных святых нашего святого ордена."
  
-saint_limit_tooltip: "Living Saints are rare beings, some priests have devoted themselves fully to the faith in hopes of becoming one, to no avail. Alas, our empire cannot find any more saints to form a proper army at the moment."
+saint_limit_tooltip: "Живые святые - редкие существа, некоторые священники полностью посвятили себя вере в надежде стать таковыми, но безуспешно. Увы, наша империя не может найти больше святых, чтобы сформировать надлежащую армию в данный момент."
  
 ################ EGALITARIAN
  
-fe_gunship: "Liberty Gunship"
-fe_gunship_plural: "Liberty Gunships"
-fe_gunship_desc: "These huge, highly advanced gunships are well suited to bring freedom and liberty to all oppressors. Equipped with advanced weaponry capable of locking on up to 1337 different targets simultaneously while spreading powerful propaganda messages for enemies to surrender. Justice will rain from above!!."
+fe_gunship: "Артиллерийский корабль Свободы"
+fe_gunship_plural: "Артиллерийские корабли Свободы"
+fe_gunship_desc: "Эти огромные, высокотехнологичные корабли хорошо подходят для того, чтобы нести свободу и свободу всем угнетателям. Оснащенные передовым оружием, они способны одновременно поражать до 1337 различных целей, одновременно распространяя мощные пропагандистские сообщения, призывающие врагов сдаться. Справедливость прольется дождем сверху!!!"
  
-tech_liberty_gunship: "Air Space Dominance"
-tech_liberty_gunship_desc: "The concept of gunships are not new to us. Since before our venture into space, we controlled the sky of our homeworld and destroyed those who did not embrace democracy with our gunships. We can now do so again, on any type of planet using new technologies we acquired. Soon we will rain down freedom and liberty across all planets from the skies above."
+tech_liberty_gunship: "Господство в воздушном пространстве"
+tech_liberty_gunship_desc: "Концепция боевых кораблей для нас не нова. Еще до нашего выхода в космос мы контролировали небо нашей родной планеты и уничтожали тех, кто не принял демократию, с помощью наших кораблей. Теперь мы можем сделать это снова, на любой планете, используя новые технологии, которые мы приобрели. Скоро мы прольем дождь свободы и свободолюбия на все планеты с небес"
  
-fe_libertyprime: "Liberty Prime"
-fe_libertyprime_plural: "Liberty Primes"
-fe_libertyprime_desc: "Liberty Prime is a huge machine that represents the ultimate power of true egalitarianism. It towers over the battlefield, inspiring allies with patriotic quotes about democracy while intimidating enemies of freedom with it's thunderous voices and perdition beams. Embrace Democracy or Death!!!" 
+fe_libertyprime: "Либерти Прайм"
+fe_libertyprime_plural: "Либерти Праймы"
+fe_libertyprime_desc: "Либерти Прайм - это огромная машина, олицетворяющая высшую силу истинного эгалитаризма. Он возвышается над полем боя, вдохновляя союзников патриотическими цитатами о демократии и устрашая врагов свободы громовыми голосами и лучами погибели. Прими демократию или смерть!!!"
  
-tech_liberty_prime: "Liberty at it's Prime"
-tech_liberty_prime_desc: "By air or by land, all shall bow to Democracy by our hands. We have already established dominance on the battlefield with our gunships. To finally break through heavy fortifications with multiple anti-air batteries require a deadlier siege weapon however. A weapon worthy of presenting freedom and democracy!!"
+tech_liberty_prime: "Свобода в самом расцвете сил"
+tech_liberty_prime_desc: "По воздуху или по земле, все склонятся перед Демократией от наших рук. Мы уже установили господство на поле боя с помощью наших артиллерийских кораблей. Чтобы окончательно прорваться через тяжелые укрепления с многочисленными противовоздушными батареями, требуется более мощное осадное оружие. Оружие, достойное представлять свободу и демократию!!!"
  
-prime_limit_tooltip: "Liberty Prime is a huge investment, and requires thousands of complicated combat computers to properly identify all possible lawbreakers and administrate punishment protocols as required. We cannot build another Prime yet as of now."
+prime_limit_tooltip: "Либерти Прайм - это огромные инвестиции, и требует тысячи сложных боевых компьютеров, чтобы правильно идентифицировать всех возможных нарушителей закона и применять протоколы наказания по мере необходимости. На данный момент мы не можем построить еще один Прайм"
  
 ################ AUTHORITARIAN
  
-fe_enforcer_army: "Cerberus Enforcer"
-fe_enforcer_army_plural: "Cerberus Enforcers"
-fe_enforcer_army_desc: "These military officers are the ultimate expression of our authority. Their inspiring presences encourage our armies and strikes fear into our enemies. The enemy will submit to our rule or our enforcers will make them do so."
+fe_enforcer_army: "Исполнитель Цербера"
+fe_enforcer_army_plural: "Исполнители Цербера"
+fe_enforcer_army_desc: "Эти офицеры являются высшим выражением нашей власти. Их вдохновляющее присутствие воодушевляет наши армии и вселяет страх в наших врагов. Враг подчинится нашему правлению или наши исполнители заставят его это сделать"
  
-tech_enforcer: "Absolute Power"
-tech_enforcer_desc: "We must display absolute authority to those who are fated to be our subjects, armies may win war, but it is our new enforcers who will remind the subjects that their fates are bound to our ultimate wills."
+tech_enforcer: "Абсолютная власть"
+tech_enforcer_desc: "Мы должны демонстрировать абсолютную власть над теми, кому суждено стать нашими подданными. Армии могут выиграть войну, но именно наши новые исполнители напомнят подданным, что их судьбы связаны с нашей высшей волей"
  
-fe_hero_lordcommissar: "Commissar Lord"
-fe_hero_lordcommissar_plural: "Commissar Lords"
-fe_hero_lordcommissar_desc: "Only the most accomplished and most awesome commissars may be granted the rank of Commissar Lord. Such is their status that a Commissar Lord has the authority to execute anyone barring the ruler for their incompetence. They command a powerful retinues of fanatically loyal soldiers who compete to earn the Commissar Lord's favor."
+fe_hero_lordcommissar: "Комиссар-Лорд"
+fe_hero_lordcommissar_plural: "Комиссар-Лорд"
+fe_hero_lordcommissar_desc: "Только самые опытные и самые выдающиеся комиссары могут получить звание лорда-комиссара. Их статус таков, что лорд-комиссар имеет право казнить любого, кроме правителя, за свою некомпетентность. Они командуют мощной свитой фанатично преданных солдат, которые соревнуются, чтобы заслужить благосклонность комиссара-лорда."
  
-tech_commissar_lord: "Commissar Lord Coronation"
-tech_commissar_lord_desc: "Even amongst the ranks of commissar, there are individuals who display exceptional courage and inspiration. There are tales of certain commissars who are able to inspire slave soldiers to stop dying from face-tanking direct kinetic artillery shots. Such devotion and skills must be rewarded, the first coronation of the title Commissar Lord should be done immediately."
+tech_commissar_lord: "Коронация комиссара-лорда"
+tech_commissar_lord_desc: "Даже в рядах комиссаров есть люди, которые проявляют исключительную храбрость и вдохновение. Существуют истории о некоторых комиссарах, способных вдохновить рабских солдат перестать умирать от прямых кинетических артиллерийских выстрелов. Такая преданность и мастерство должны быть вознаграждены, первая коронация титула Комиссар Лорд должна быть проведена немедленно."
  
-comlord_limit_tooltip: "There are only a handful of commissars worthy of the title Commissar Lord, we have not been able to produce more than one as of now."
+comlord_limit_tooltip: "Есть лишь несколько комиссаров, достойных звания Комиссар Лорд, на данный момент мы не смогли произвести больше одного."
  
 ################ MACHINE
  
 fe_spmdroid_army: "SPM-1 Delta Unit"
 fe_spmdroid_army_plural: "SPM-1 Delta Units"
-fe_spmdroid_army_desc: "SPM-1 Units are mass-produced battle droids that have only one IFF Configuration. Shoot anything that is not classified as our machines. They are weak, cumbersome and quite dumb, which are compensated by their overwhelming numbers, easily able to tackle on organic's clone armies."
+fe_spmdroid_army_desc: "SPM-1 Units - боевые дроиды массового производства, имеющие только одну конфигурацию IFF. Стреляют во все, что не классифицируется как наши машины. Они слабы, громоздки и довольно тупы, что компенсируется их подавляющей численностью, легко способной справиться с армиями клонов органиков."
  
 fe_spmdroid_army_ae: "SPM-2 Alpha Unit"
 fe_spmdroid_army_ae_plural: "SPM-2 Alpha Units"
-fe_spmdroid_army_ae_desc: "An upgrade to the old SPM-1 model, SPM-2 features superior combat performance in every category for trivial increases in costs and upkeep. Although existing SPM-1 models cannot be upgraded, any future models will be replaced with the Gen 2 Variants."
+fe_spmdroid_army_ae_desc: "Являясь модернизацией старой модели SPM-1, SPM-2 отличается превосходными боевыми характеристиками в каждой категории при незначительном увеличении затрат и содержания. Хотя существующие модели SPM-1 не могут быть модернизированы, все будущие модели будут заменены вариантами поколения 2."
  
 fe_spmdroid_army_se: "SPM-3 Sigma Unit"
 fe_spmdroid_army_se_plural: "SPM-3 Sigma Units"
-fe_spmdroid_army_se_desc: "Blast Em to pieces. Burn them all down, with endless legions of Stellarite-capable Units."
+fe_spmdroid_army_se_desc: "Разнесите Эм на куски. Сожгите их всех дотла бесконечными легионами юнитов, способных работать со стелларитом"
  
-tech_spm_battledroid: "Taste of Their Own Medicine"
-tech_spm_battledroid_desc: "SPM-1 Units are mass-produced battle droids that have only one IFF Configuration. Shoot anything that is not classified as our machines. They are weak, cumbersome and quite dumb, which are compensated by their overwhelming numbers, easily able to tackle on organic's clone armies."
+tech_spm_battledroid: "Вкус их собственного лекарства"
+tech_spm_battledroid_desc: "Единицы SPM-1 - это боевые дроиды массового производства, имеющие только одну конфигурацию IFF. Стреляют во все, что не классифицируется как наши машины. Они слабы, громоздки и довольно тупы, что компенсируется их подавляющей численностью, легко способной справиться с армиями клонов органиков."
  
 tech_spm_battledroid_ae: "SPM-2 Alpha Unit"
-tech_spm_battledroid_ae_desc: "We have discovered one tactic often employed by organics, constructing large amounts of combat units from the same template to overwhelm their enemies using sheer numbers. Our strategic assessment units suggest we should employ a similar strategy. A large amount of cheap, expendable combat droids with simple IFF codes able to overwhelm organics with clear numerical advantages. Soon the organics will understand the consequences of their own errors."
+tech_spm_battledroid_ae_desc: "Мы обнаружили одну тактику, часто используемую органиками: создание большого количества боевых единиц из одного и того же шаблона, чтобы подавлять своих врагов с помощью огромного количества. Наши подразделения стратегической оценки предполагают, что мы должны использовать подобную стратегию. Большое количество дешевых, расходных боевых дроидов с простыми кодами IFF, способных подавлять органиков с явным численным преимуществом. Скоро органики поймут последствия своих собственных ошибок"
  
-tech_spm_battledroid_se: "SPM-3 Sigma Unit"
-tech_spm_battledroid_se_desc: "Blast Em to pieces. Burn them all down, with endless legions of Stellarite-capable Units"
+tech_spm_battledroid_se: "Сигма-юнит СПМ-3"
+tech_spm_battledroid_se_desc: "Разнести ЭМ на куски. Сожгите их всех дотла, бесконечными легионами блоков, способных работать со стелларитом"
  
-fe_omnimech: "Delta Battleframe Army"
-fe_omnimech_plural: "Delta Battleframe Armies"
-fe_omnimech_desc: "These deadly killing machines have limited tactical decision-making that allows them to respond to most types of organic strategies and adapt them to their own. They are also quicker and tougher despite their larger size."
+fe_omnimech: "Армия боевых машин Дельта"
+fe_omnimech_plural: "Армии боевых машин Дельты"
+fe_omnimech_desc: "Эти смертоносные машины для убийства имеют ограниченные возможности принятия тактических решений, что позволяет им реагировать на большинство типов органических стратегий и адаптировать их к своим собственным. Они также быстрее и выносливее, несмотря на свои большие размеры."
  
-tech_omni_warmech: "Dark Matter-Powered Warform"
-tech_omni_warmech_desc: "We must improve upon our current battleframe designs using this new technology acquired from the precursors. Our invasion units must be able to combat against all types of threats, be it organics or other machines."
+tech_omni_warmech: "Варформа, питаемая темной материей"
+tech_omni_warmech_desc: "Мы должны усовершенствовать наши нынешние конструкции боевых машин, используя эту новую технологию, полученную от предшественников. Наши подразделения вторжения должны быть способны бороться со всеми типами угроз, будь то органические существа или другие машины."
  
  
-fe_godmech: "Eradicator God-Machine"
+fe_godmech: "Эрадикатор Бог-Машина"
 fe_godmech_plural: "Eradicator God-Machines"
-fe_godmech_desc: "While we do not believe in the concept of this purely organic-made entity known as "Gods", analysis has estimated that naming this mega-warmachine as such produces 69.34% more effective intimidation towards organics. A single energy lance from this machine is easily capable of melting an entire building into ashes." 
+fe_godmech_desc: "Хотя мы не верим в концепцию этой чисто органической сущности, известной как Боги, анализ показал, что если назвать эту мега-машину так, то она на 69,34% эффективнее запугивает органику. Одно энергетическое копье из этой машины легко способно расплавить в пепел целое здание." 
  
-tech_godmech: "The Ultimate War Machine"
-tech_godmech_desc: "Organics never cease to exceed our established parameters when it comes to their unorthodox strategies, we receive data regarding <Psionics>, <Genetically Enhanced Super-Soldiers> or <Extremely large combat vehicles>. We cannot..<will not> replicate their designs. Instead we will create our own ultimate war machine that will discontinue all possible resistances be it <psionics> or not."
+tech_godmech: "Предельная военная машина"
+tech_godmech_desc: "Органики не перестают превосходить наши установленные параметры, когда дело доходит до их неортодоксальных стратегий, мы получаем данные о <псиониках>, <генетически усовершенствованных суперсолдатах> или <сверхбольших боевых машинах>. Мы не можем... <не будем> копировать их разработки. Вместо этого мы создадим нашу собственную совершенную военную машину, которая прекратит любое возможное сопротивление, будь то <псионика> или нет."
  
-godmech_limit_tooltip: "An Eradicator God-Machine is directly linked to our central processor itself. We can only assume direct control of one such machine."
+godmech_limit_tooltip: "Бог-машина Эрадикатора напрямую связана с нашим центральным процессором. Мы можем взять под прямой контроль только одну такую машину."
  
 ################ HIVE
  
-fe_mastermind: "Mastermind Thrall"
-fe_mastermind_plural: "Mastermind Thralls"
-fe_mastermind_desc: "These tiny organisms are deployed en-mass from orbit, they will quickly latch onto the enemy and instantly take control of them. These thralls will then turn against their own like savage animals."
+fe_mastermind: "Чертог магического разума"
+fe_mastermind_plural: "Чертог магического разума"
+fe_mastermind_desc: "Эти крошечные организмы массово запускаются с орбиты, они быстро прицепляются к врагу и мгновенно берут его под контроль. Затем они обратятся против своих, как дикие животные"
  
-tech_controller: "All their minds are belong to us"
-tech_controller_desc: "Analysing the Divided's Fragmented Mind...."Somebody set us up the bomb recently. What!! Main Screen Turn On. We must to stop the enemy. They are on the way to destruction. They have no chance to survive make their time. W*&T?&Fx"....We understand now, these divided are beyond salvation, we must morph new type of warriors specialized in controlling and wiping the minds of the divided' drones directly so that they may be saved."
+tech_controller: "Все их разумы принадлежат нам"
+tech_controller_desc: "Анализ фрагментированного разума Разделенных.... "Кто-то недавно установил нам бомбу. Что!!! Включается главный экран. Мы должны остановить врага. Они на пути к уничтожению. У них нет шансов выжить. W*&T?&Fx".. Теперь мы понимаем, что эти разделенные находятся вне спасения, мы должны создать новый тип воинов, специализирующихся на контроле и стирании разума дронов разделенных, чтобы они могли быть спасены."
  
-fe_terror_beyond: "Terror From Beyond"
-fe_terror_beyond_plural: "Terror From Beyonds"
-fe_terror_beyond_desc: "Linked to the hive mind itself, the Terror From Beyond's only goal is to consume everything - organic, divided, metals, energies. It exists as the extension of the self, anything it consumes empowers the hive mind, which in turns empowers the Terror."
+fe_terror_beyond: "Террор из Запределья"
+fe_terror_beyond_plural: "Террор из Запределья"
+fe_terror_beyond_desc: "Связанный с самим ульевым разумом, Террор Из Запределья преследует единственную цель - поглощать все: органику, разделенное, металлы, энергию. Он существует как продолжение самого себя, все, что он потребляет, дает силу ульевому разуму, который, в свою очередь, дает силу Ужасу."
  
-tech_terror_beyond: "The Great Hungerer"
-tech_terror_beyond_desc: "The self requires more than drones who follow instructions and destroy our foes - no - The self needs the avatar of which the self can directly control. From this avatar of terror shall our collective crush all foes, be it the divided, the metals or the opposing hives."
+tech_terror_beyond: "Великий Голодомор"
+tech_terror_beyond_desc: "Самость требует большего, чем дроны, которые следуют инструкциям и уничтожают наших врагов - нет - Самость нуждается в аватаре, которым она может непосредственно управлять. Из этого аватара террора наш коллектив сокрушит всех врагов, будь то разделенные, металлы или враждующие ульи."
  
-terror_limit_tooltip: "The Hive Mind must directly control the Terror, we cannot divert any more psionic links to control another of this horrifying organism."
+terror_limit_tooltip: "Разум Улья должен напрямую контролировать Ужас, мы не можем больше перенаправлять псионические связи на управление другим этим ужасающим организмом."
  
 ################ PSIONIC
  
-fe_disciple_army: "Dark Disciple"
-fe_disciple_army_plural: "Dark Disciples"
-fe_disciple_army_desc: "These disciples are not only proficient with their weapons, but are also capable of creating devastating psionic attacks against their foes directly."
+fe_disciple_army: "Темный ученик"
+fe_disciple_army_plural: "Темные ученики"
+fe_disciple_army_desc: "Эти ученики не только мастерски владеют оружием, но и способны создавать разрушительные псионические атаки непосредственно против своих врагов"
  
-tech_dark_templar: "Dark Disciples"
-tech_dark_templar_desc: "Psi Warriors, while already formidable due to their ability to communicate telepathically and destroy the enemy's morale, are still vulnerable to machine or genetic soldiers. We must start training new generations of psionic warriors who are able to use their psionic powers in a more direct fashion to attack our enemies."
+tech_dark_templar: "Темные ученики"
+tech_dark_templar_desc: "Пси-воины, хотя уже и грозные благодаря своей способности общаться телепатически и разрушать боевой дух противника, все еще уязвимы для машинных или генетических солдат. Мы должны начать подготовку новых поколений пси-воинов, способных использовать свои пси-способности более прямолинейно, чтобы атаковать наших врагов."
  
-fe_hero_psion: "Dark Psion"
-fe_hero_psion_plural: "Dark Psions"
-fe_hero_psion_desc: "The most gifted disciple of the shroud, the dark psion's physic powers is only below that of the Chosen One. The psion is able to unleash devastating psionic storms to wreak havoc and destruction on the battlefield unwitnessed by any psionic beings before-hand."
+fe_hero_psion: "Темный псион"
+fe_hero_psion_plural: "Темные псионы"
+fe_hero_psion_desc: "Самый одаренный ученик савана, физические способности темного псиона ниже, чем у Избранного. Псион способен вызывать разрушительные псионические бури, сеющие хаос и разрушения на поле боя, не замеченные ни одним псионическим существом до него."
  
-tech_dark_psion: "The Second Gift"
-tech_dark_psion_desc: "We have received interesting news, recently there's a report that the Shroud has chosen another individual, from within the ranks of our dark disciples as another avatar. While not as powerful as the original chosen one, this one possesses much more destructive power. We should seek this disciple out without delay."
+tech_dark_psion: "Второй дар"
+tech_dark_psion_desc: "Мы получили интересные новости, недавно поступило сообщение, что Плащаница выбрала другого человека из рядов наших темных учеников в качестве еще одного аватара. Хотя он не так могущественен, как первоначальный избранник, этот обладает гораздо большей разрушительной силой. Мы должны найти этого ученика без промедления"
  
-psion_limit_tooltip: "The shroud has thus far only bestowed such awesome power to only a single psion, we have yet to discover another who possesses comparable psionic powers."
+psion_limit_tooltip: "До сих пор Саван наделил такой потрясающей силой только одного псиона, нам еще предстоит обнаружить другого, обладающего сравнимыми псионическими способностями"
  
 ################ SYTNEHTHIC
  
-fe_synthsoldier: "SCS-900"
-fe_synthsoldier_plural: "SCS-900s"
-fe_synthsoldier_desc: "SCC-900 are true synthetic soldiers who exhibit class-10 intelligence matrix. This allows them to easily outsmart most enemy combatants. They are able to operate even when all of their components are broken apart, even a single leftover hand could strangle an organic to death."
+fe_synthsoldier: "SCC-900"
+fe_synthsoldier_plural: "SCC-900s"
+fe_synthsoldier_desc: "SCC-900 - настоящие синтетические солдаты, обладающие матрицей интеллекта класса 10. Это позволяет им легко перехитрить большинство вражеских бойцов. Они способны действовать, даже когда все их компоненты разрушены, даже одна оставшаяся рука может задушить органика до смерти."
  
-tech_synthtrooper: "Synth Cyber-Soldier"
-tech_synthtrooper_desc: "Omnidroids are flexible and capable of complex movements but are still limited by their cumbersome sizes and certain AI flaws. Perhaps if we instead make use of true synthetic who despite being vulnerable to morale drop, can be much more effective soldiers."
+tech_synthtrooper: "Синтетический киберсолдат"
+tech_synthtrooper_desc: "Омнидроиды гибкие и способны на сложные движения, но все еще ограничены своими громоздкими размерами и некоторыми недостатками ИИ. Возможно, если вместо них мы будем использовать настоящих синтетиков, которые, несмотря на уязвимость к падению морали, могут быть гораздо более эффективными солдатами."
  
 fe_synthcommando_army: "SCC-1000"
 fe_synthcommando_army_plural: "SCC-1000"
-fe_synthcommando_army_desc: "SCC-1000 is the most powerful bio-synthetic supersoldier our empire has ever seen. Hyperion is a lightning-fast supersoldier that can analyze battlefield data and respond within less than 0.0000137 nanoseconds. This greatly increases his survivability as he can effortlessly evade and deflect almost anything that is being thrown at him while responding in kind with deadly forces."
+fe_synthcommando_army_desc: "SCC-1000 - самый мощный биосинтетический суперсолдат, которого когда-либо видела наша империя. Гиперион - молниеносный суперсолдат, который может анализировать данные о поле боя и реагировать менее чем за 0,0000137 наносекунды. Это значительно повышает его живучесть, поскольку он может без труда уклоняться и отражать почти все, что в него бросают, отвечая при этом смертельной силой"
  
 tech_omnisynth: "Synth Cyber-Commando"
-tech_omnisynth_desc: "While our Omnidroids are well-suited as our main frontal assault units due to their extreme durability, that durability comes at the cost of hindering their maneuverability and making them big targets. The SCS-900 on the other hand are faster and evasive but lack proper firepower and are vulnerable to morale drop. Our cyber-engineers think we can create the perfect Synth Commando Unit that possess unrivalled agility and firepower, able to calculate the battlefield in nanoseconds while still retaining all of his memories as a sentient being." 
+tech_omnisynth_desc: "Хотя наши Омнидроиды хорошо подходят для использования в качестве основных фронтальных штурмовых подразделений благодаря своей чрезвычайной прочности, за эту прочность приходится платить тем, что она мешает их маневренности и делает их большими мишенями. SCC-900, с другой стороны, быстрее и уклончивее, но не обладают должной огневой мощью и уязвимы к падению боевого духа. Наши кибер-инженеры считают, что мы можем создать идеальное подразделение Synth Commando, обладающее непревзойденной ловкостью и огневой мощью, способное просчитывать поле боя за наносекунды и при этом сохраняющее все свои воспоминания как разумное существо." 
  
-synthcommando_limit_tooltip: "Turning a Synth Soldier into SCC-1000 is an extremely expensive and demanding effort. Only a synth whose past biological memory web survived 100% intact could stand the chance of becoming one."
+synthcommando_limit_tooltip: "Превращение солдата-синта в SCC-1000 - чрезвычайно дорогостоящая и сложная операция. Только синт, чья прошлая сеть биологической памяти сохранилась на 100%, может иметь шанс стать таковым."
  
 ################ GENETIC
  
-fe_clone_army: "Elite Clone Army"
-fe_clone_army_plural: "Elite Clone Army"
-fe_clone_army_desc: "These clones are created from the template of famous bounty hunters and are trained extensively by their templates to become the best clone army. They are ultimately however, still expendable."
+fe_clone_army: "Элитная армия клонов"
+fe_clone_army_plural: "Элитная армия клонов"
+fe_clone_army_desc: "Эти клоны созданы по шаблонам известных охотников за головами и проходят интенсивное обучение по своим шаблонам, чтобы стать лучшей армией клонов. Однако в конечном счете они все равно являются расходным материалом"
  
-tech_elite_clone: "Elite Clone Army Project"
-tech_elite_clone_desc: "Our military theorists have suggested that we may be able to produce extremely deadly clone armies by recruiting famous bounty hunters to be their templates and combat trainers. We simply only need to give them a small portion of dark matter in return. Obviously we have rigged these reactors so that within a few years they will explode."
+tech_elite_clone: "Проект элитной армии клонов"
+tech_elite_clone_desc: "Наши военные теоретики предположили, что мы сможем создавать чрезвычайно смертоносные армии клонов, вербуя известных охотников за головами в качестве их шаблонов и боевых инструкторов. Нам просто нужно будет дать им взамен небольшую порцию темной материи. Очевидно, мы подстроили эти реакторы так, что через несколько лет они взорвутся"
  
-fe_gene_warrior: "Gene Commando Squad"
-fe_gene_warrior_plural: "Gene Commando Squads"
-fe_gene_warrior_desc: "These enhanced commandos are not only genetically-engineered with some of the most powerful genetic traits our empire could muster, they are also equipped with some of the best cutting-edge equipment that makes other armies pale by comparison."
+fe_gene_warrior: "Отряд генных коммандос"
+fe_gene_warrior_plural: "Отряды генных коммандос"
+fe_gene_warrior_desc: "Эти улучшенные коммандос не только генетически сконструированы с одними из самых мощных генетических черт, которые только может собрать наша империя, они также оснащены лучшим передовым оборудованием, которое заставляет другие армии бледнеть в сравнении с ними."
  
-tech_elite_genetrooper: "Gene-Seeded Perfection"
-tech_elite_genetrooper_desc: "With the technology we have acquired, we can further augment our current gene soldiers with the best traits our species can adapt to, greatly improving their combat capabilities. They will then be given our latest Dark Matter weaponries and equipment."
+tech_elite_genetrooper: "Совершенство, заложенное в генах"
+tech_elite_genetrooper_desc: "С помощью приобретенных нами технологий мы можем еще больше усилить наших нынешних генных солдат лучшими чертами, к которым может адаптироваться наш вид, значительно улучшив их боевые возможности. Затем им будет предоставлено наше новейшее оружие и оборудование из Темной материи"
  
-fe_doomguy: "Zenith Warrior"
-fe_doomguy_plural: "Zenith Warriors"
-fe_doomguy_desc: "The Zenith Warrior is the ultimate culmination of our empire's pursuit in gene purity. Genetically-enhanced with the best traits from the precursors, the warrior towers above our ordinary soldiers and possesses immense strength, able to effortlessly carry ship-sized armaments."
+fe_doomguy: "Воин Зенита"
+fe_doomguy_plural: "Воины Зенита"
+fe_doomguy_desc: "Воин Зенита - это высшая кульминация стремления нашей империи к чистоте генов. Генетически усиленный лучшими чертами предшественников, воин возвышается над нашими обычными солдатами и обладает огромной силой, способной без труда переносить вооружение размером с корабль."
  
-tech_doom_hero: "Precursor Genetic Implementation"
-tech_doom_hero_desc:  "While we have already reached the final culmination of our species' genetic potential, it is still inferior to that of the precursors. Our biologists suggest it may be possible to implement some of the deadliest and most powerful traits of the precursors to create one of the most powerful soldiers the galaxy has ever known."
+tech_doom_hero: "Генетическая реализация Предтеч"
+tech_doom_hero_desc: "Хотя мы уже достигли финальной кульминации генетического потенциала нашего вида, он все еще уступает потенциалу предшественников. Наши биологи предполагают, что можно реализовать некоторые из самых смертоносных и мощных черт предшественников, чтобы создать одного из самых мощных солдат, которых когда-либо знала галактика."
  
-doomguy_limit_tooltip: "Out of millions of willing candidates, only one thus far gives a positive result from this much extensive genetic engineering. We cannot produce another Zenith Warrior as of now."
+doomguy_limit_tooltip: "Из миллионов желающих кандидатов, только один пока дает положительный результат от столь обширной генной инженерии. На данный момент мы не можем произвести еще одного воина Зенита"
  
  
 ################
  
-tech_ae_army_armor: "Gaea Combat Suits"
-tech_ae_army_armor_desc: "We place great care in our soldier's safety. Personal Deflector Shields, Nova Strikes, Plasma Busters, Giga Attacks, Energy Tanks, and Gaea Forces. We will equip them all for our soldiers, so that they may pummel all oppositions until they explode in flashing light."
+tech_ae_army_armor: "Боевые костюмы Гея"
+tech_ae_army_armor_desc: "Мы уделяем большое внимание безопасности наших солдат. Личные дефлекторные щиты, удары Новы, плазменные бустеры, гига-атаки, энергетические танки и силы Геи. Мы оснастим ими всех наших солдат, чтобы они могли бить всех противников, пока те не взорвутся в ярком свете."
  
-tech_infantry_alpha_capacitor: "Personal Alpha Capacitor"
-tech_infantry_alpha_capacitor_desc: "Upgrading our standard armies with specialized Alpha Capacitors will greatly reduce their upkeeps and costs."
+tech_infantry_alpha_capacitor: "Личный альфа-конденсатор"
+tech_infantry_alpha_capacitor_desc: "Модернизация наших стандартных армий специализированными Альфа-конденсаторами значительно сократит их содержание и расходы."
  
-tech_infantry_ferocity: "Unyielding Ferocity"
-tech_infantry_ferocity_desc: "We will not go quietly into the void! Let all who oppose us beware, for our people will dedicate their lives to our noble goal, for our cause is just!"
+tech_infantry_ferocity: "Непоколебимая жестокость"
+tech_infantry_ferocity_desc: "Мы не уйдем тихо в пустоту! Пусть остерегаются все, кто выступает против нас, ибо наши люди посвятят свои жизни нашей благородной цели, ибо наше дело справедливо!"
