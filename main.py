@@ -60,7 +60,7 @@ class Widget(QtWidgets.QWidget):
         s = "\n".join(rdata)
         s = s + "\nTotal: {}".format(len(s))
         self.r.setText(s)
-        print(rdata)
+        # print(rdata)
 
 a = QtWidgets.QApplication(sys.argv)
 w = Widget()
