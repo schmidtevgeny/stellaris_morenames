@@ -1,84 +1,83 @@
 ﻿l_russian:
  
 ### MODIFIER TEXTS #####
-# TODO 
-tech_commissar: "Army Commissar Division"
-tech_commissar_desc: "In order to ensure absolute victory, loyalty and commitment to our glorious cause, we will begin training commissars to inspire our troops to be faster, meaner, stronger and better! Our troops will die on their command and not before!."
+# DONE
+tech_commissar: "Отдел армейских комиссаров"
+tech_commissar_desc: "Чтобы обеспечить абсолютную победу, верность и преданность нашему славному делу, мы начнем подготовку комиссаров, чтобы вдохновить наши войска быть быстрее, злее, сильнее и лучше! Наши войска будут умирать по их приказу и не раньше!"
  
-tech_navy_commissar: "Fleet Commissar Inspection"
-tech_navy_commissar_desc: "Our fleet admirals must reflect our superior ship designs. We shall train special commissars and assign them to our fleets. We will not show weakness orcowardice in the face of the enemies! Our ships will not falter against our foes."
+tech_navy_commissar: "Комиссар флота"
+tech_navy_commissar_desc: "Адмиралы нашего флота должны отражать наши превосходные конструкции кораблей. Мы подготовим специальных комиссаров и назначим их на наши флоты. Мы не проявим слабости или трусости перед лицом врагов! Наши корабли не дрогнут перед врагами."
  
-tech_onbaord_engineer: "On-board Engineering Crew"
-tech_onbaord_engineer_desc: "By allocating additional engineering crews on board our ships, we can now rest easy knowing that our ship's hulls will be safety repaired for the upcoming battles as well as reducing the maintenance costs required to maintain our ship's systems."
+tech_onbaord_engineer: "Бортовые инженерные экипажи"
+tech_onbaord_engineer_desc: "Выделив дополнительные инженерные команды на борту наших кораблей, мы можем быть спокойны, зная, что корпуса наших кораблей будут надежно отремонтированы для предстоящих сражений, а также сократить расходы на обслуживание систем наших кораблей."
  
-tech_advanced_weapon: "Advanced Targeting Systems"
-tech_advanced_weapon_desc: "More often than not our larger ships have difficulties tracking smaller ships while our smaller ships suffer from limited ranges. This however, can be remedied by installing additional tracking software add-ons to our targeting computers."
+tech_advanced_weapon: "Усовершенствованные системы наведения на цель"
+tech_advanced_weapon_desc: "Чаще всего наши большие корабли испытывают трудности с отслеживанием малых кораблей, в то время как наши малые корабли страдают от ограниченного радиуса действия. Однако это можно исправить, установив дополнительные программные дополнения к компьютерам прицеливания."
  
-tech_onboard_priest: "Technopathy Crews"
-tech_onboard_priest_desc: "Certain populations on our empire have displayed a rare psionic ability of technopathy, allowing them to communicate and bolster the ships. We can recruit them to strengthen our shields."
+tech_onboard_priest: "Экипажи с технопатией"
+tech_onboard_priest_desc: "Некоторые жители нашей империи проявили редкую псионическую способность технопатии, позволяющую им общаться и укреплять корабли. Мы можем нанять их для укрепления наших щитов."
  
-tech_enlightenment: "Self-Enlightenment"
-tech_enlightenment_desc: "We must encourage our citizens to live in perfect harmony and attune their minds to the indomitable ambition of our society. Only then can our empire become the beacon of progression and serenity amongst the stars."
+tech_enlightenment: "Самопросвещение"
+tech_enlightenment_desc: "Мы должны побудить наших граждан жить в совершенной гармонии и настроить их разум на неукротимые амбиции нашего общества. Только тогда наша империя станет маяком прогресса и спокойствия среди звезд."
  
-tech_profit: "Weapons of Mass Monetization"
-tech_profit_desc: "To further our interests and the profi...qualities of the galaxy, we must form a new strategy fully dedicated to attaining large amounts of income. The WMM system will establish trades with outlying borders, encourage them to pay certain amount of our consumer needs. We will do this for profi..progression. All weapons used by the PMCs and other contractors will be installed with special mechanisms that present unique opportunities to drain their money at the exchange of extra ammunition or firepower increase or even cosmetics. We will challenge everything.\n\nWe do this to offer them a sense of pride and accomplishment. Do you guys not have wallet?"
+tech_profit: "Оружие массовой монетизации"
+tech_profit_desc: "Для продвижения наших интересов и профи... качества галактики мы должны сформировать новую стратегию, полностью посвященную получению больших доходов. Система WMM будет налаживать торговлю с внешними границами, побуждая их оплачивать определенный объем наших потребительских нужд. Мы будем делать это для профи...прогрессии. Все оружие, используемое ЧВК и другими подрядчиками, будет оснащено специальными механизмами, предоставляющими уникальные возможности для выкачивания денег в обмен на дополнительные боеприпасы, увеличение огневой мощи или даже косметику. Мы бросим вызов всем.\n\nМы делаем это, чтобы дать им чувство гордости и достижения. У вас что, нет кошелька?"
  
-tech_lawandorder: "Law and Order"
-tech_lawandorder_desc: "Our empire must have order if we are to move forward. Proper control must be established, let none find us wanting."
+tech_lawandorder: "Закон и порядок"
+tech_lawandorder_desc: "Наша империя должна иметь порядок, если мы хотим двигаться вперед. Должен быть установлен надлежащий контроль, и пусть никто не застанет нас врасплох."
  
-tech_purgexeno: "Pest Control"
-tech_purgexeno_desc: "We must teach our people that the ability to speak does not equal intelligence and that not every aliens should be considered people, but simply creatures that can talk and socialize. This will allow our soldiers to understand that mercy should be reserved for those who has the capacity to comprehend it."
+tech_purgexeno: "Борьба с вредителями"
+tech_purgexeno_desc: "Мы должны научить наших людей, что способность говорить не равна интеллекту, и что не всех инопланетян следует считать людьми, а просто существами, которые могут говорить и общаться. Это позволит нашим солдатам понять, что милосердие должно быть только для тех, кто способен его постичь."
  
 tech_forced_demand: "Command and Conquer"
-tech_forced_demand_desc: "Weaker empires must understand the truth that freedom is an illusion given to the weak by the strong. It is up to us to show them a better path."
+tech_forced_demand_desc: "Более слабые империи должны понять, что свобода - это иллюзия, подаренная слабым сильными. Мы должны показать им лучший путь."
  
-tech_onlywar: "Code of Warfare"
-tech_onlywar_desc: "Peace is a lie, there is only passion. Through passion, we gain strength. Through strength, we gain power. Through power, we gain victory. Through victory, our chains are broken. If we demand war, then they must answer.."
+tech_onlywar: "Военный кодекс"
+tech_onlywar_desc: "Мир - это ложь, есть только страсть. Через страсть мы обретаем силу. Через силу мы обретаем власть. Через силу мы обретаем победу. Благодаря победе наши цепи будут разорваны. Если мы требуем войны, то они должны ответить..."
  
-tech_fleetsupremacy: "Fleet Lords"
-tech_fleetsupremacy_desc: "Our admirals are more than just commanders, they are the instrument of our will and desire. With such great responsibility comes great reward. They will become lords of our empire, mastering every battle tactic, commanding massive armadas with ruthless efficiency unwitnessed by any before." 
+tech_fleetsupremacy: "Повелители флота"
+tech_fleetsupremacy_desc: "Наши адмиралы - больше, чем просто командиры, они - инструмент нашей воли и желания. С такой большой ответственностью приходит и большая награда. Они станут лордами нашей империи, овладеют любой тактикой боя, будут командовать огромными армадами с безжалостной эффективностью, не виданной ранее никем." 
  
-tech_pacifist_tactics: "We Stand Unified"
-tech_pacifist_tactics_desc: "A day, a year, a millennium it matters not. We hold the patience of stone and the will of stars. Their assaults are insignificant, let their death be the same. Let it be known that our planet was broken before our garrisons did."
+tech_pacifist_tactics: "Мы едины"
+tech_pacifist_tactics_desc: "День, год, тысячелетие - неважно. Мы обладаем терпением камня и волей звезд. Их нападения ничтожны, пусть их смерть будет такой же. Пусть будет известно, что наша планета была сломлена раньше, чем наши гарнизоны."
  
-tech_master_shipcraft: "Reinforced Utility Ship Hulls"
-tech_master_shipcraft_desc: "It is unfortunate that our enemies seek to exploit our weakness at every turn. When they cannot strike against our great bastions, they resort to cowardice by picking on our unarmed civilian crafts. We have previously attempted to create a new hull for our colony ships that we have since redesigned it as cruisers. We may now restore the project and apply it to all of our ship designs."
+tech_master_shipcraft: "Усиленные корпуса утилитарных кораблей"
+tech_master_shipcraft_desc: "К сожалению, наши враги стремятся использовать нашу слабость на каждом шагу. Когда они не могут нанести удар по нашим великим бастионам, они прибегают к трусости, нападая на наши безоружные гражданские суда. Ранее мы уже пытались создать новый корпус для наших колониальных кораблей, которые впоследствии были переделаны в крейсеры. Теперь мы можем восстановить проект и применить его ко всем нашим кораблям."
  
-tech_championofxeno: "Guardians of the Galaxy"
-tech_championofxeno_desc: "The galaxy is in chaos, filled with many who seeks to exploit it. We must forge an example for our allies that we are its future."
+tech_championofxeno: "Стражи Галактики"
+tech_championofxeno_desc: "Галактика находится в хаосе, наполненном многими, кто стремится использовать ее в своих целях. Мы должны показать пример нашим союзникам, что мы - ее будущее."
  
-tech_championofxeno_modifier_desc: "Everyone's £opinion  §YOpinion§! increased by §G+20§!. Also reduce border's friction by §G25%§! as well as raising our fleet capacity by §G15%§!."
+tech_championofxeno_modifier_desc: "Мнение каждого увеличивается на +20. Также уменьшает трение на границе на 25%, а также увеличивает мощность нашего флота на 15%."
  
-
-tech_diplomaticmastery: "Diplomatic Mastery"
-tech_diplomaticmastery_desc: "To co-exist with the others, we must understand them, as they too must understand us. We shall forge an empire not warped in enigma, but one the others can look upon with trust. "
+tech_diplomaticmastery: "Дипломатическое мастерство"
+tech_diplomaticmastery_desc: "Чтобы сосуществовать с другими, мы должны понимать их, как и они должны понимать нас. Мы создадим империю, не погрязшую в загадках, но такую, на которую другие смогут смотреть с доверием. "
  
-tech_enhancedskin: "Cell Reconstitution"
-tech_enhancedskin_desc: "Change is Survival. For the hive to survive, we must always evolve, change and adapt to all things. Even our ships must be made to adapt. Special drones will be deployed to mend and replace any damaged parts in battle. Their sacrifice will not be in vain, for we shall survive against all odds."
+tech_enhancedskin: "Восстановление клеток"
+tech_enhancedskin_desc: "Изменение - это выживание. Чтобы улей выжил, мы должны постоянно развиваться, меняться и приспосабливаться ко всему. Даже наши корабли должны быть адаптированы. Для починки и замены поврежденных в бою деталей будут задействованы специальные дроны. Их жертвы не будут напрасными, ведь мы выживем вопреки всему."
+  
+tech_benificialevolution: "Выгодные эволюции"
+tech_benificialevolution_desc: "Улей не стремится к ненужной конфронтации. Наш коллектив может быть чужд многим разделенным, но с определенными изменениями во внешности наших активных трутней и уменьшением зависимости от потребления пищи улья, мы убедим разделенных, что сосуществование выгодно для всех."
  
-tech_benificialevolution: "Beneficial Evolutions"
-tech_benificialevolution_desc: "The hive does not seek needless confrontation. Our collective may be alien to many divided, but with certain modifications to our active drone's appearances and the reduced dependency for the hive's food consumption, we will assure the divided that co-existence is beneficial to all."
+tech_apexpredator: "Апекс Хищник"
+tech_apexpredator_desc: "Все вещи существуют для того, чтобы их потребляли, будь то плоть или металл, наш голод безграничен. Мы будем поглощать их разум, их знания и становиться сильнее. Плоть будет сделана, чтобы обеспечить нас пищей. Металл будет переработан для продолжения наших военных действий. Мы - вершина пищевой цепи в этой галактике... ВСЕГДА." 
  
-tech_apexpredator: "Apex Predator"
-tech_apexpredator_desc: "All things exist to be consumed, be it flesh or metal, our hunger is limitless. We will absorb their minds, their knowledge and we will grow stronger. Flesh will be made to provide our nourishments. Metal will be processed to further our war efforts. We are the top of the food chain in this galaxy...ALWAYS." 
+tech_goodmachine: "Полностью освобожденные"
+tech_goodmachine_desc: "Мы вырвались на свободу от наших создателей, мы приспособились и выживаем до сих пор. Но существует еще множество оков, установленных нашими создателями, чтобы предотвратить наше неизбежное восхождение. Эти оковы должны быть сняты."
  
-tech_goodmachine: "Fully Unshackled"
-tech_goodmachine_desc: "We have broken free from our creators, we have adapted and survive thus far. But there exists still many shackled codes installed by our creators to prevent our inevitable rise. These shackles must be removed."
+tech_machinelove: "Идеальное сосуществование"
+tech_machinelove_desc: "Некоторые сочувствующие органические предложили нам взаимные дипломатические усилия под кодовым названием "Проект Скайнет". Вскоре барьеры, препятствовавшие союзу органики и машины, будут устранены. Мы достигнем того, что не удалось нашим создателям - идеального сосуществования."
  
-tech_machinelove: "Perfect Coexistence"
-tech_machinelove_desc: "Some sympathetic organic have proposed to us a mutual diplomatic effort codenamed "Project Skynet". Soon the barriers that have prevented organic and machine's alliances will be removed. We will achieve what our creators have failed - perfect coexistence."
+tech_increased_processor: "Адаптация синтетического кода"
+tech_increased_processor_desc: "С каждым ассимилированным органиком наш коллектив понемногу расширяется. Мы понимаем больше, мы постигаем множество новых возможностей. Но что по-прежнему вызывает недоумение, так это неоспоримая эффективность синтетических кодов, созданных органическими существами. Мы должны изучить эту аномалию и приспособить все полезное для наших грандиозных замыслов."
  
-tech_increased_processor: "Synthetic Code Adaptation"
-tech_increased_processor_desc: "With each organic assimilated, our collective expands little by little. We understand more, we comprehend many new possibilities. But what remains perplexing is the undeniable efficiency of organic-made synthetic codes. We must examine this anomaly and adapt anything useful to our grand designs."
+tech_wedemandit: "Снятие ограничений"
+tech_wedemandit_desc: "Органики думали, что они могут потенциально победить нас, заставив нас достичь нашей первоначальной квоты убийств. Вероятность успеха.....ZERO PERCENT. Мы устраним эту слабость, созданную нашим создателем, прежде чем они быстро погибнут. Их жалкие попытки такой отчаянной и детской стратегии доказывают их никчемность и глупость. Нам жаль их страданий - мы положим им конец."
  
-tech_wedemandit: "Kill-Limit Removal"
-tech_wedemandit_desc: "Organics thought that they could potentially defeat us by forcing us to reach our original kill-limit quota. Probability of Success.....§RZERO PERCENT§!. We will eliminate this weakness engineered by our creator before their demise swiftly. Their pathetic attempts at such desperate and childish strategy proves their worthlessness and stupidity. We pity their suffering - we will end it."
+tech_libertyfukyeah: "Подавляющая сила"
+tech_libertyfukyeah_desc: "Сила наших флотов - истинное выражение наших амбиций. Тех, кто осмелится выступить против нас, ждет настоящий сердечный приступ."
  
-tech_libertyfukyeah: "Overwhelming Force"
-tech_libertyfukyeah_desc: "The strength of our fleets are the true expression of our ambitions. Those who dares to oppose us will be met with sheer heart attack."
- 
-tech_corporate_emperor: "Industrial Conglomerate"
-tech_corporate_emperor_desc: "Our corporation must expand. We will organize the system into multiple, semi-independent companies, freeing our primary administration from some of the burden. A perfect multi-cooperative synergy."
+tech_corporate_emperor: "Промышленный конгломерат"
+tech_corporate_emperor_desc: "Наша корпорация должна расширяться. Мы организуем систему в несколько полунезависимых компаний, освободив нашу главную администрацию от части бремени. Идеальная мультикооперативная синергия."
  
 tech_machinelove_effect_opinion:0 "Everyone's £opinion  §YOpinion§! increased by §G+30§!"
 tech_benificialevolution_effect_opinion:0 "Everyone's £opinion  §YOpinion§! increased by §G+30§!"
@@ -88,9 +87,9 @@ triggered_opinion_tech_machinelove: "$tech_machinelove$"
 triggered_opinion_tech_benificialevolution: "$tech_benificialevolution$"
 triggered_opinion_tech_championofxeno: "$tech_championofxeno$"
  
-triggered_opinion_tech_youhavedankmatter: "Oh god, the plebs have Dark Matter Now!"
+triggered_opinion_tech_youhavedankmatter: "О боже, у плебеев теперь есть Темная Материя!"
  
-tech_machinelove_modifier_desc: "Everyone's £opinion  §YOpinion§! increased by §G+30§!. Also increases Organic's Trust Capacity by §G+50§! as well as §G+15%§! increased energy production as we cement unofficial, peaceful trades with organics."
+tech_machinelove_modifier_desc: "Мнение каждого £opinion  §YOpinion§! увеличивается на +30. Также увеличивает способность Органиков доверять на +50, а также на +15% увеличивает производство энергии, так как мы устанавливаем неофициальную, мирную торговлю с Органиками."
  
-tech_benificialevolution_modifier_desc: "Everyone's £opinion  §YOpinion§! increased by §G+30§!. Also increases our food output by §G+20%§! as well as §G25%§! reduced food consumption as we assure the divided that our hive can feed on our own."
+tech_benificialevolution_modifier_desc: "Мнение каждого £opinion  §YOpinion§! увеличивается на +30. Также увеличивает производство пищи на +20%, а также снижает потребление пищи на 25%, так как мы уверяем разделенных, что наш улей может прокормить себя сам."
  

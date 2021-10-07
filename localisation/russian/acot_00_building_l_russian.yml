@@ -58,41 +58,41 @@ tech_acot_supercharged_reactor_desc: "Хотя Темные Литейные с�
  
 ########################
  
-decision_acot_supercharged_pylon: "Activate Supercharged Pylon"
-decision_acot_supercharged_pylon_desc: "Supercharging Pylons will allow §EDark Energy Artificers§! to produce twice the amount of §YDark Energy§! but §REnergy§! Upkeep will be increased by §R100%§! as well."
+decision_acot_supercharged_pylon: "Активировать пилон с суперзарядом"
+decision_acot_supercharged_pylon_desc: "Пилоны с суперзарядом позволяют искусникам Темной энергии производить вдвое больше Темной энергии, но при этом расход энергии увеличивается на 100%."
  
-decision_acot_end_supercharged_pylon: "Deactivate Supercharged Pylon"
-decision_acot_end_supercharged_pylon_desc: "Instruct all specialists to return to standard procedure, returning §YDark Energy§! production to normal."
+decision_acot_end_supercharged_pylon: "Деактивировать пилон с суперзарядом"
+decision_acot_end_supercharged_pylon_desc: "Прикажите всем специалистам вернуться к стандартной процедуре, вернув производство Темной энергии к норме."
  
-acot_modifier_supercharged_pylon: "Supercharged Pylon"
-acot_modifier_supercharged_pylon_desc: "All §E$job_acot_dark_energy_man$§! or their Gestalt counterparts to produce §G100%§! extra §YDark Energy§! but §REnergy§! Upkeep will be increased by §R100%§! as well."
+acot_modifier_supercharged_pylon: "Сверхзаряженный пилон"
+acot_modifier_supercharged_pylon_desc: "Все $job_acot_dark_energy_man$ или их гештальт-аналоги будут производить на 100% больше Темной энергии, но расход энергии также увеличится на 100%."
  
-tech_acot_supercharged_pylon: "Pylon Supercharging"
-tech_acot_supercharged_pylon_desc: "We are always in demand to construct additional pylons, but we may lack adequate space to do so. Experts in Dark Energy manipulation believe that we can safely increase the yield of a pylon's dark energy by charging it with external energy.\n\n§EUnlocks planetary decision to toggle on Supercharged Pylons§!"
- 
-########################
- 
-tech_acot_stacking_network: "Synchronized Network"
-tech_acot_stacking_network_desc: "To circumvent the limited spaces available to starbases, our scientists aim to increase resource output from the modules by creating a network system that will allow multiple modules of the same type to work more efficiently together."
-tech_acot_stacking_network_tooltip: "§EEnables enigmatic-based starbase modules to generate extra resources when stacked together.\n§ERemoves upkeep from the modules.."
+tech_acot_supercharged_pylon: "Сверхзарядка пилонов"
+tech_acot_supercharged_pylon_desc: "Мы всегда нуждаемся в строительстве дополнительных пилонов, но нам может не хватать места для этого. Эксперты по манипулированию темной энергией считают, что мы можем безопасно увеличить выход темной энергии пилона, зарядив его внешней энергией.\n\nУничтожить планетарное решение, чтобы включить суперзарядку пилонов."
  
 ########################
  
-tech_acot_fractured_autoharvesting: "Enigma Arrays"
-tech_acot_fractured_autoharvesting_desc: "The rich elements of the fractured worlds are too unstable to be used. But specialized arrays may be installed on various of our buildings to screen and filter them. This should potentially eliminate any maintenance costs of all enigmatic-based buildings. Using this same method, we believe that our specialists can also harvest raw dark matter and dark energy from the planet's atmosphere itself."
-tech_acot_fractured_autoharvesting_tooltip: "§EEliminates all base building upkeeps from enigmatic-based buildings in any Fractured, Ultrafractured or Void Sphere Worlds.\n\n§EIncreases Dark Matter and Dark Energy yielding from the respective Artificers and Alchemists by 100% when working on Fractured, Ultrafractured or Void Spheres Worlds."
+tech_acot_stacking_network: "Синхронизированная сеть"
+tech_acot_stacking_network_desc: "Чтобы обойти ограниченные пространства, доступные для звездных баз, наши ученые стремятся увеличить выход ресурсов из модулей путем создания сетевой системы, которая позволит нескольким модулям одного типа работать более эффективно вместе."
+tech_acot_stacking_network_tooltip: "Позволяет модулям звездной базы на базе Энигмы генерировать дополнительные ресурсы, когда они сложены вместе.\nУстраняет необходимость в обслуживании модулей..."
  
 ########################
  
-decision_open_chambers_menu: "Access Revitalization Chambers"
-decision_open_chambers_menu_desc: "The Evolution Continues"
+tech_acot_fractured_autoharvesting: "Массивы Энигмы"
+tech_acot_fractured_autoharvesting_desc: "Богатые элементы расколотых миров слишком нестабильны, чтобы их можно было использовать. Но специализированные решетки могут быть установлены на различных зданиях, чтобы отсеивать и фильтровать их. Это потенциально устранит любые затраты на обслуживание всех зданий, основанных на энигмах. Используя этот же метод, мы полагаем, что наши специалисты смогут также собирать сырую темную материю и темную энергию из самой атмосферы планеты."
+tech_acot_fractured_autoharvesting_tooltip: "Отменяет все затраты на содержание базовых зданий на основе загадок в любых мирах с Разломами, Ультраразломами и Сферами Пустоты.\n\nУвеличивает получение темной материи и темной энергии у соответствующих мастеров и алхимиков на 100% при работе в мирах с Разломами, Ультраразломами и Сферами Пустоты."
  
-decision_open_assembly_menu: "Access Nano Assembly"
-decision_open_assembly_menu_desc: "Nothing is beyond our measures of control."
+########################
  
-requires_building_fe_capital: "§RTo further improve upon this building, an enigmatic capital complex is required. Elect a Dark Palace from the Planetary Decision!§!"
-requires_building_fe_capital_machine: "§RTo further improve upon this building, an enigmatic capital complex is required. Construct a Dark Nexus from the Planetary Decision!§!"
-requires_building_fe_capital_hive: "§RTo further improve upon this building, an enigmatic capital complex is required. Evolve a Dark Cluster from the Planetary Decision!§!"
+decision_open_chambers_menu: "Доступ к камерам оживления"
+decision_open_chambers_menu_desc: "Эволюция продолжается"
+ 
+decision_open_assembly_menu: "Доступ к Наносборке"
+decision_open_assembly_menu_desc: "Ничто не может быть вне наших мер контроля."
+ 
+requires_building_fe_capital: "Для дальнейшего совершенствования этого здания необходим загадочный капитальный комплекс. Выберите Темный дворец из планетарного решения!"
+requires_building_fe_capital_machine: "Для дальнейшего совершенствования этого здания необходим загадочный капитальный комплекс. Постройте Темный Нексус из Планетарного решения!"
+requires_building_fe_capital_hive: "Для дальнейшего улучшения этого здания требуется загадочный капитальный комплекс. Эволюционируйте Темный кластер из Планетарного решения!"
   
  
  
@@ -100,282 +100,283 @@ requires_building_fe_capital_hive: "§RTo further improve upon this building, an
  
 ######################## CAPITALOS ########################
  
-building_dm_ancient_palace: "Enigmatic Palace"
-building_dm_ancient_palace_desc: "A new era calls for a new seat of power. Tne Empire must be reborn anew."
+building_dm_ancient_palace: "Загадочный дворец"
+building_dm_ancient_palace_desc: "Новая эпоха требует нового места силы. Империя должна возродиться заново."
  
-building_ae_ancient_palace: "Void Palace"
-building_ae_ancient_palace_desc: "The seat and throne of the New Galactic Order, The Void Palace is the mark of absolute power. From this throne shall it's rulers dictate the very fate of the galaxy."
+building_ae_ancient_palace: "Дворец Пустоты"
+building_ae_ancient_palace_desc: "Место и трон Нового галактического порядка, Дворец Пустоты - знак абсолютной власти. С этого трона его правители будут диктовать судьбу всей галактики."
  
-tech_dm_ancient_palace: "Enigmatic Construction Schematics"
-tech_dm_ancient_palace_desc: "Now that we have begun to grapse the secrets of the Enigma, it is time we discard the mundane and outdated constructs of old. From now on we will challenge the galaxy, the dawn of a new age is upon us!\n\n§HUnlocks the ability to transform the capital building into Enigmatic Capital via Planetary Decision!§!"
+tech_dm_ancient_palace: "Загадочные строительные схемы"
+tech_dm_ancient_palace_desc: "Теперь, когда мы начали постигать секреты Энигмы, настало время отбросить обыденные и устаревшие конструкции. Отныне мы будем бросать вызов галактике, наступил рассвет новой эры.\n\nУ нас есть возможность превратить капитальное здание в Загадочную Столицу через Планетарное Решение!"
  
-tech_ae_ancient_palace: "The New Galactic Order"
-tech_ae_ancient_palace_desc: "A New Order is at hand, our power is undeniable, and our knowledge is vast. The time has come for the empire to obtain absolute power. We are the one, we are the future. We are...Alpha."
- 
-#############################
- 
-building_dm_ancient_control_center: "Enigmatic Nexus"
-building_dm_ancient_control_center_desc: "A new era calls for a new focal of power. Tne Consensus must be reforged anew."
- 
-building_ae_ancient_control_center: "Void Nexus"
-building_ae_ancient_control_center_desc: "From this nexus, billions of artificial intelligence networks intertwine together and the overlord of the system decides what next in the machine's destiny lie ahead."
- 
-tech_dm_ancient_control_center: "Enigmatic Construction Designs"
-tech_dm_ancient_control_center_desc: "Current model of primary control center is inefficient for enigmatic technology integration. A new, superior design is required for optimal performance.\n\n§HUnlocks the ability to transform the capital building into Enigmatic Capital via Planetary Decision!§!"
- 
-tech_ae_ancient_control_center: "Machines of the Future"
-tech_ae_ancient_control_center_desc: "The age of organic supremacy has expired. The Age of Machine is at hand. For we are the future, we are the one. We are...Alpha."
+tech_ae_ancient_palace: "Новый галактический порядок"
+tech_ae_ancient_palace_desc: "Новый порядок близок, наша сила неоспорима, а наши знания огромны. Настало время для империи обрести абсолютную власть. Мы - единственные, мы - будущее. Мы... Альфа."
  
 #############################
  
-building_dm_ancient_hive_cluster: "Enigmatic Cluster"
-building_dm_ancient_hive_cluster_desc: "A new era calls for a new root of power. Tne Hive must expand anew."
+building_dm_ancient_control_center: "Загадочный Нексус"
+building_dm_ancient_control_center_desc: "Новая эра требует нового фокуса власти. Консенсус должен быть сформирован заново."
  
-building_ae_ancient_hive_cluster: "Void Cluster"
-building_ae_ancient_hive_cluster_desc: "This enormous hive cluster is filled with billions of drones, all busy working to ensure the sovereignty of the Hive. Those who adapt thrive, those that do not wither and die."
+building_ae_ancient_control_center: "Нексус Пустоты"
+building_ae_ancient_control_center_desc: "Из этого узла сплетаются миллиарды сетей искусственного интеллекта, и повелитель системы решает, что дальше ждет машину в ее судьбе."
  
-tech_dm_ancient_hive_cluster: "Enigmatic Hive Evolutions"
-tech_dm_ancient_hive_cluster_desc: "The current template of hive clusters are too weak to accept enigmatic energy processing. A new metamorphosis is required."
+tech_dm_ancient_control_center: "Загадочные строительные конструкции"
+tech_dm_ancient_control_center_desc: "Текущая модель главного центра управления неэффективна для интеграции загадочных технологий. Для оптимальной работы требуется новая, более совершенная конструкция.\n\nРазблокируйте возможность превратить капитальное здание в Энигматический Капитал через Планетарное Решение!"
  
-tech_ae_ancient_hive_cluster: "The Apex Culmination."
-tech_ae_ancient_hive_cluster_desc: "The Hive is strong, The Hive is vast. The Hive now stands ready to emerge as the Absolute Power. For we are the future, we are the one. We are...Alpha."
+tech_ae_ancient_control_center: "Машины будущего"
+tech_ae_ancient_control_center_desc: "Век органического превосходства истек. Наступила Эра Машин. Ибо мы - будущее, мы - единственные. Мы... Альфа."
+ 
+#############################
+ 
+building_dm_ancient_hive_cluster: "Загадочный кластер"
+building_dm_ancient_hive_cluster_desc: "Новая эра требует нового корня власти. Улей должен расшириться заново."
+ 
+building_ae_ancient_hive_cluster: "Кластер Пустоты"
+building_ae_ancient_hive_cluster_desc: "Этот огромный кластер-улей наполнен миллиардами дронов, которые заняты работой по обеспечению суверенитета Улья. Те, кто приспосабливается, процветают, а те, кто не приспосабливается, увядают и умирают."
+ 
+tech_dm_ancient_hive_cluster: "Загадочные эволюции ульев"
+tech_dm_ancient_hive_cluster_desc: "Нынешний шаблон кластеров-ульев слишком слаб, чтобы принять обработку загадочной энергии. Необходима новая метаморфоза."
+ 
+tech_ae_ancient_hive_cluster: "Кульминация Апекса."
+tech_ae_ancient_hive_cluster_desc: "Улей силен, Улей огромен. Теперь Улей готов к появлению Абсолютной Власти. Ибо мы - будущее, мы - единственные. Мы... Альфа."
  
  
 ######################## POPULATION ########################
  
 ### HOSPITAL ##
+ building_fe_hospital: "Центр ревитализации"
+building_fe_hospital_desc: "Хотя общая конструкция похожа на старые генные клиники, Палата ревитализации OZMA-1 управляется Апотекариями, которые обучены не только оказывать медицинскую помощь, но и устранять все неэффективности и слабости из сердец людей."
  
-building_fe_hospital: "Revitalization Center"
-building_fe_hospital_desc: "Although the overall construct is similar to the old gene clinics, the OZMA-1 Revitalization Chamber is managed by the Apothecaries, who are trained to not only provide health care, but also remove all inefficiencies and weaknesses from the hearts of the people."
+building_ae_hospital: "Комплекс нано-гипервитализации"
+building_ae_hospital_desc: "Усовершенствования нашего нового оборудования, позволяют нам в шестнадцать раз улучшить качество жизни людей. Нам всячески помогают все наши акционеры. И опять же, все это просто работает."
  
-building_ae_hospital: "Nano-Hypervitalization Complex"
-building_ae_hospital_desc: "The improvements in our new equipment, allow us to make sixteen times better quality of lives. We have all sorts of help from all of our shareholders. Again, all of this just works."
+tech_fe_hospital: "Ревитализация биоформы"
+tech_fe_hospital_desc: "С новыми загадочными технологиями приходят новые изобретения во всех научных подходах. Качество жизни наших людей постепенно будет становиться все лучше и лучше. Дальнейшие усовершенствования в этих областях позволят нам обеспечить необходимым оборудованием и мастерскими недавно созданный Аптекарский орден. Здание будет служить маяком надежды для тех, кто стремится стать свидетелем зари новой эры."
  
-tech_fe_hospital: "Bioform Revitalization"
-tech_fe_hospital_desc: "With the new enigmatic technologies, come new inventions across all scientific approaches. Quality of life for our people will gradually only get better and better as a result. Further improvements in these fields will allow us to provide necessary equipment and workshops for the newly established Apothecary Order. The building will serve as the beacon of hope for those who seek to witness a dawn of a new era."
- 
-tech_ae_hospital: "Hypervitalization Module"
-tech_ae_hospital_desc: "Installing this advanced module into our Revitalization Center will allow for a sudden and rapid recovery, bypassing all boring and lengthy procedures and operations that usually come with the old systems."
+tech_ae_hospital: "Модуль гипервитализации"
+tech_ae_hospital_desc: "Установка этого продвинутого модуля в наш Центр Оживления позволит внезапно и быстро восстанавливаться, минуя все скучные и длительные процедуры и операции, которые обычно сопровождают старые системы."
  
 ### SPAWN POOL ###
  
-building_fe_hive_pool: "Sequence Pools"
-building_fe_hive_pool_desc: "Within this enormous pool contains various genetic sequences of which the Hive can select to spawn new broods rapidly."
+building_fe_hive_pool: "Пулы последовательностей"
+building_fe_hive_pool_desc: "В этом огромном пуле содержатся различные генетические последовательности, из которых улей может выбирать для быстрого воспроизведения новых выводков."
  
-building_ae_hive_pool: "Sequence Library"
-building_ae_hive_pool_desc: "The Hive must constantly grow and evolve. We will expand until there's nothing left to expand. No minerals nor gases will be left unmined."
+building_ae_hive_pool: "Библиотека последовательностей"
+building_ae_hive_pool_desc: "Улей должен постоянно расти и развиваться. Мы будем расширяться до тех пор, пока не останется ничего другого. Ни минералы, ни газы не будут оставлены без добычи."
  
 ### ASSEMBLY ###
  
-building_super_assembly: "Delta Machine Assembly"
-building_super_assembly_desc: "Our elite cybermancers require sophisticated and advanced equipment to produce machines of the future. and this building provides that to them."
+building_super_assembly: "Сборка дельта-машин"
+building_super_assembly_desc: "Нашим элитным кибермонтажникам требуется сложное и передовое оборудование для производства машин будущего. и это здание предоставляет им его."
  
-building_ae_super_assembly: "Alpha Machine Assembly"
-building_ae_super_assembly_desc: "How is it that these cybermancers can keep building machines faster and faster??? NANO-MACHINE, Son!"
+building_ae_super_assembly: "Альфа-машинная сборка"
+building_ae_super_assembly_desc: "Как получается, что эти кибермансеры могут создавать машины все быстрее и быстрее? НАНО-МАШИНА, сынок!"
  
-building_super_assembly_machine: "Hard-Light Machine Assembly"
-building_super_assembly_machine_desc: "Employing hard-light technology allows this building to print out machine units in masses."
+building_super_assembly_machine: "Сборка машин жесткого света"
+building_super_assembly_machine_desc: "Использование технологии жесткого света позволяет этому зданию массово печатать блоки машин."
  
-building_ae_super_assembly_machine: "Alpha Machine Assembly"
-building_ae_super_assembly_machine_desc: "Introducing Alpha-Techs in the assembly lines add more space for additional protocol assembly units."
+building_ae_super_assembly_machine: "Альфа-машинная сборка"
+building_ae_super_assembly_machine_desc: "Внедрение Альфа-технологий в сборочные линии позволяет увеличить пространство для дополнительных протокольных сборочных единиц."
  
-tech_super_assembly: "Hard-Light Assembly"
-tech_super_assembly_desc: "Robotists are not given proper tools and facilities to really combat against the increasing demands of new technologies for the robots. The Super Assembly will provide support for the newly established Cybermancer Corps who will bring new heights in the robot production economy."
+tech_super_assembly: "Сборка с жестким светом"
+tech_super_assembly_desc: "Робототехникам не предоставляются надлежащие инструменты и средства для реальной борьбы с растущими требованиями новых технологий для роботов. Сверхсборка обеспечит поддержку недавно созданному корпусу кибермансеров, который принесет новые высоты в экономику производства роботов."
  
-tech_super_assembly_ae: "Alpha Assembly"
-tech_super_assembly_ae_desc: "Increasing demands for machine workforce requires further upgrades to the Assembly.\n\n§YUnlocks Alpha Assembly that can be used to remove negative traits and unlocks additional advanced machine traits."
+tech_super_assembly_ae: "Альфа Ассамблея"
+tech_super_assembly_ae_desc: "Растущие потребности в машинной рабочей силе требуют дальнейшей модернизации Ассамблеи.\n\nОткрывает Альфа Ассамблею, которая может быть использована для удаления негативных черт и открывает дополнительные продвинутые черты машин."
  
 ############################# BIO #############################
+ building_fe_clone_vats: "Био-генетическая лаборатория" 
+building_fe_clone_vats_desc: "В этой зловеще выглядящей лаборатории хранятся секреты эволюции. Именно здесь проводятся всевозможные биологические эксперименты, не подвергаясь никакому риску." 
  
-building_fe_clone_vats: "Bio-Genetic Lab" 
-building_fe_clone_vats_desc: "This ominous-looking lab houses the secrets of evolutions. It is here that all kind of biological experiments are undetaken, all risks be damned." 
+building_ae_clone_vats: "Исследовательский комплекс Мёбиуса"
+building_ae_clone_vats_desc: "Этот сотрудник Фонда Мёбиуса уполномочен Новым мировым порядком проводить все виды биологических экспериментов, при этом все вопросы морали тщательно отбрасываются, ибо будущее империи приоритетнее любых второстепенных целей."
  
-building_ae_clone_vats: "Moebius Research Complex"
-building_ae_clone_vats_desc: "This Moebius Foundation's Officer is authorized by the New World Order to conduct all types of biological experiments with all questions of moralities being carefully discarded as necessary, for the future of the empire is priority to any secondary objectives."
+tech_fe_clone_vats: "Био-генетическая лаборатория"
+tech_fe_clone_vats_desc: "Скачкообразный прогресс в биологии позволяет нам создать еще более мощную технологию клонирования, которая устраняет возрастные ограничения, позволяя нашим клонам жить столько же, сколько их оригинальные образцы. Это дает возможность в будущем пересмотреть наши армии клонов."
  
-tech_fe_clone_vats: "Bio-Genetic Lab"
-tech_fe_clone_vats_desc: "Our leaping advances in biology allows us to create an even more powerful cloning technology that eliminates the age penalty issues, allowing our clones to live as long as their original templates. This presents the future opportunity to perhaps revisit our clone armies as well."
- 
-tech_ae_clone_vats: "The Moebius Foundations"
-tech_ae_clone_vats_desc: "A special division of the Curator Enclaves called Moebius Foundations have taken up an interest in our genetic developments. They appear to be experts in this field, and will be willing to share their findings in exchange for access to Alpha equipment. They seem to not care about the status of our relationship with the Curators.\n\nOur agents are ready to present our empires to their directive board. If successful, we will have full authorization to upgrade our existing Bio-Genetic Labs with special equipment from the MF itself.\n\n§YOnce built on a planet, will unlock a new planetary decision to access various useful upgrades and augmentations.§!"
+tech_ae_clone_vats: "Фонды Мёбиуса"
+tech_ae_clone_vats_desc: "Специальное подразделение Кураторских анклавов под названием Фонда Мёбиуса заинтересовалось нашими генетическими разработками. Похоже, они являются экспертами в этой области и готовы поделиться своими находками в обмен на доступ к оборудованию Альфа. Похоже, их не волнует статус наших отношений с Кураторами.\n\nНаши агенты готовы представить наши империи их директивному совету. В случае успеха, мы получим полное разрешение на модернизацию наших существующих био-генетических лабораторий специальным оборудованием от самого МФ.\n\nПосле постройки на планете, будет разблокировано новое планетарное решение для доступа к различным полезным модернизациям и аугментациям."
  
 ############################# SYNTH #############################
  
-building_fe_synt_center: "Augmentation Center"
-building_fe_synt_center_desc: "Specialized buildings that are deployed on planets to provide upgrades to production. The building also increases the production capabilities to specialists. Efficiency is calculated based on the numbers of active population on the planet.\n\n§Y1-49 :§! 10%\n\n§Y50-99 :§! 20%\n\n§Y100-149 :§! 30%\n\n§Y150-199 :§! 40%\n\n§Y200~ :§! 50%"
+building_fe_synt_center: "Центр аугментации"
+building_fe_synt_center_desc: "Специализированные здания, которые размещаются на планетах, чтобы обеспечить модернизацию производства. Здание также увеличивает производственные возможности специалистов. Эффективность рассчитывается на основе количества активного населения на планете.\n\n1-49 : 10%\n\n50-99 : 20%\n\n100-149 : 30%\n\n150-199 : 40%\n\n200~ : 50%."
  
-building_ae_synt_center: "Cybersphere Matrix"
-building_ae_synt_center_desc: "This Novus-designed Augmentation Center provides even more upgrades and increase in specialist's production. Efficiency is calculated based on the numbers of active population on the planet.\n\n§Y1-49 :§! 20%\n\n§Y50-99 :§! 40%\n\n§Y100-149 :§! 60%\n\n§Y150-199 :§! 80%\n\n§Y200~ :§! 100%"
+building_ae_synt_center: "Матрица киберсферы"
+building_ae_synt_center_desc: "Этот центр усиления, разработанный компанией Novus, обеспечивает еще больше улучшений и увеличивает производительность специалистов. Эффективность рассчитывается на основе количества активного населения на планете.\n\n1-49 : 20%\n\n50-99 : 40%\n\n100-149 : 60%\n\n150-199 : 80%\n\n200~ : 100%"
  
-tech_fe_synt_center: "Augmentation Center"
-tech_fe_synt_center_desc: "The increasing demand for specialists in all fields of study and production necessitate the augmentations of our populations. Plans are in place to construct a specialized building that will improve the efficiency of all specialists and provide extra planet-side upgrades."
+tech_fe_synt_center: "Центр аугментации"
+tech_fe_synt_center_desc: "Растущий спрос на специалистов во всех областях обучения и производства требует увеличения численности нашего населения. Планируется построить специализированное здание, которое повысит эффективность работы всех специалистов и обеспечит дополнительные обновления на планете."
  
-tech_ae_synt_center: "Cybersphere Matrix"
-tech_ae_synt_center_desc: "An independent Curator Sub-Division called Novus Command wishes to learn more of our Alpha Project's development. In exchange, they will provide up with their own specialized augmentation tools to upgrade our existing Augmentation Centers."
+tech_ae_synt_center: "Матрица киберсферы"
+tech_ae_synt_center_desc: "Независимое подразделение Куратора под названием Novus Command желает узнать больше о развитии нашего проекта Альфа. В обмен они предоставят свои собственные специализированные инструменты аугментации для модернизации наших существующих центров аугментации."
  
 ############################# PSION #############################
  
-building_fe_psi_altar: "Altar of Psion"
-building_fe_psi_altar_desc: "A sacred shrine where those gifted in psionics gather to hone their skills. It's sturdy walls are able to withstand pyrokinesis, telekinesis, psychokinesis, technokinesis, cryokinesis, electrokinesis or even chronokinesis. It is here where new possibilities will take place."
+building_fe_psi_altar: "Алтарь псионов"
+building_fe_psi_altar_desc: "Священный храм, где собираются одаренные в псионике, чтобы отточить свои навыки. Его прочные стены способны выдержать пирокинез, телекинез, психокинез, технокинез, криокинез, электрокинез и даже хронокинез. Именно здесь откроются новые возможности."
  
-building_ae_psi_altar: "Temple of the Chosen"
-building_ae_psi_altar_desc: "Built to support those who are talented enough to enter the Shroud untainted. The Temple stands as a testament to unyielding determination of the people."
+building_ae_psi_altar: "Храм избранных"
+building_ae_psi_altar_desc: "Построен для поддержки тех, кто достаточно талантлив, чтобы войти в Плащаницу незапятнанным. Храм стоит как свидетельство непреклонной решимости людей."
  
-tech_fe_psi_altar: "Altar of Psion"
-tech_fe_psi_altar_desc: "Given the current limited understanding of the true scope of psionic powers, we were forced to conduct only minor and less-destructive use of psionics. With the introduction of hard-light materials however, it should now be possible to create long-lasting structures that can stand against the most destructive use of psionic attacks."
+tech_fe_psi_altar: "Алтарь псионов"
+tech_fe_psi_altar_desc: "Учитывая нынешнее ограниченное понимание истинного масштаба псионических способностей, мы были вынуждены проводить лишь незначительное и менее разрушительное использование псионики. Однако с появлением материалов с твердым светом теперь можно будет создавать долговечные структуры, способные противостоять самому разрушительному использованию псионических атак."
  
-tech_ae_psi_altar: "Temple of the Chosen"
-tech_ae_psi_altar_desc: "A rogue sect of Curators, known as the Alarak Cult, has recently reached out to our psionic operatives. These experts in psionics are interested in studying the compatibility between Enigmatic powers and Psionics. They are willing to trade their secrets in exchange for access to our Altar of Psions. If this relationship can be forged, we will be able to amplify and upgrade the altar even further."
+tech_ae_psi_altar: "Храм избранных"
+tech_ae_psi_altar_desc: "Нелегальная секта Кураторов, известная как Культ Аларака, недавно вышла на связь с нашими оперативниками-псиониками. Эти эксперты в области псионики заинтересованы в изучении совместимости между Загадочными силами и псионикой. Они готовы поделиться своими секретами в обмен на доступ к нашему Алтарю псионов. Если эти отношения удастся наладить, мы сможем еще больше усилить и усовершенствовать алтарь."
  
 ############################# MACHINA #############################
  
-building_fe_machine_dome: "Personality Uplink"
-building_fe_machine_dome_desc: "Specialized personality-data matrix that provides the planets with useful upgrades as well as supporting drones. The Uplink amplies both complex and simple drones's production efficiencies based on the planet's population.\n\n§YFor every 50 pop, efficiency is increased by 5% up to 25% at 200 pop."
+building_fe_machine_dome: "Подключение личности"
+building_fe_machine_dome_desc: "Специализированная матрица данных личности, которая обеспечивает планеты полезными улучшениями, а также вспомогательными дронами. Uplink увеличивает эффективность производства как сложных, так и простых дронов в зависимости от населения планеты.\n\nЗа каждые 50 жителей эффективность увеличивается на 5% и достигает 25% при 200 жителях."
  
-building_ae_machine_dome: "Infinity Core"
-building_ae_machine_dome_desc: "A joint effort by Cortex Unit of the Curator to create a better future for the machines. The Infinity Core represents the infinite consensus of the Machine God. The Core amplies both complex and simple drones's production efficiencies based on the planet's population.\n\n§YFor every 25 pop, efficiency is increased by 5% up to 50% at 200 pop."
+building_ae_machine_dome: "Бесконечное ядро"
+building_ae_machine_dome_desc: "Совместные усилия подразделения Кортекс и Куратора по созданию лучшего будущего для машин. Ядро Бесконечности представляет собой бесконечный консенсус Бога Машин. Ядро усиливает эффективность производства как сложных, так и простых дронов в зависимости от населения планеты.\n\nЗа каждые 25 жителей, эффективность увеличивается на 5% до 50% при 200 жителях."
  
-tech_fe_machine_dome: "Personality Module"
-tech_fe_machine_dome_desc: "Based on the study of ancient machines, a specialized preservation of certain personality modules of various individuals, both organic and synthetic can be preserved and installed upon selected groups of machine units. The result is a noticeable net increase in productivity of these "personified" units without creating a rift in the Consensus's Unity as a whole. This technology should be replicated or adapted for our own use."
+tech_fe_machine_dome: "Модуль личности"
+tech_fe_machine_dome_desc: "Основываясь на изучении древних машин, специализированное сохранение определенных модулей личности различных людей, как органических, так и синтетических, может быть сохранено и установлено на выбранные группы машинных единиц. Результатом является заметное чистое увеличение производительности этих "персонифицированных" единиц без создания разрыва в Единстве Консенсуса в целом. Эта технология должна быть воспроизведена или адаптирована для нашего собственного использования."
  
-tech_ae_machine_dome: "Infinity Core"
-tech_ae_machine_dome_desc: "Independent Machine-Cult of the Curators Enclave known as Cortex Unit has recently made contacts with us. They proposed an exchange of technologies, we provide them with access to Alpha equipment, they provide access to their own special artifacts. The result will be the creation of Infinity Core, to upgrade our Personality Uplink beyond our current limits. To create the very concept of "Machine God""
+tech_ae_machine_dome: "Бесконечное ядро"
+tech_ae_machine_dome_desc: "Независимый машинный культ Кураторского анклава, известный как Cortex Unit, недавно установил с нами контакт. Они предложили обмен технологиями, мы предоставляем им доступ к оборудованию Альфа, они предоставляют доступ к своим особым артефактам. В результате будет создано Ядро Бесконечности, чтобы усовершенствовать нашу Личностную Связь сверх наших нынешних пределов. Чтобы создать саму концепцию "Машинного Бога"."
  
 ############################# HIVE #############################
  
-building_fe_hive_evochamber: "Evolution Chamber"
-building_fe_hive_evochamber_desc: "A Nest of new possibilities. The Evolution Chamber contains various sequences and essences necessary for the evolution of the hive's various drones."
+building_fe_hive_evochamber: "Камера Эволюции"
+building_fe_hive_evochamber_desc: "Гнездо новых возможностей. Камера Эволюции содержит различные последовательности и эссенции, необходимые для эволюции различных дронов улья."
  
-building_ae_hive_evochamber: "Cycle Propagator"
-building_ae_hive_evochamber_desc: "With the help of the Abathur Host, the Cycle Propagator prepares the Hive for the inevitable shift in galactic evolutions so that the Hive may survive against the tides of change."
+building_ae_hive_evochamber: "Размножитель циклов"
+building_ae_hive_evochamber_desc: "С помощью Хозяина Абатура Пропагатор Циклов готовит Улей к неизбежным изменениям в галактической эволюции, чтобы Улей мог выжить в условиях приливов и отливов перемен."
  
-tech_fe_hive_evochamber: "Evolution Chamber"
-tech_fe_hive_evochamber_desc: "Amongst the myriads of genetic sequences, there are many that offer unique yet niche applications. The Hive has had trouble keeping a proper library in which these sequences can be reliably administered to specific colonies across the galaxy. A plan to create a genetical library of useful sequences has thus been conceived. The Evolution Chamber will bring necessary change to each colony, giving the nests their own unique roles to play."
+tech_fe_hive_evochamber: "Камера Эволюции"
+tech_fe_hive_evochamber_desc: "Среди мириадов генетических последовательностей есть много таких, которые предлагают уникальные, но нишевые применения. Улей испытывает трудности с поддержанием надлежащей библиотеки, в которой эти последовательности можно было бы надежно передавать конкретным колониям по всей галактике. Поэтому был разработан план по созданию генетической библиотеки полезных последовательностей. Эволюционная камера внесет необходимые изменения в каждую колонию, наделив гнезда своими уникальными функциями."
  
-tech_ae_hive_evochamber: "Cycle Propagator"
-tech_ae_hive_evochamber_desc: "The Hive has been contacted by a sub-division of Curators Entity known as The Abathur Host. This group of divided entities wish to offer their studies and knowledge of past hive minds in exchange for the access to our Alpha archives. Through this transaction, Abathur Host will provide each Evolution Chambers with necessary genetical sequences to morph into a Cycle Propagator."
+tech_ae_hive_evochamber: "Размножитель циклов"
+tech_ae_hive_evochamber_desc: "С Ульем связалось подразделение сущности Кураторов, известное как Хозяин Абатура. Эта группа разделенных сущностей хочет предложить свои исследования и знания о прошлых ульях в обмен на доступ к нашим архивам Альфа. В рамках этой сделки Абатур Хост предоставит каждому Эволюционному камертону необходимые генетические последовательности для превращения в Циклопропагатора."
  
 ######################## PRODUCTION ########################
  
-mod_country_resource_max_minerals_add: "Max Minerals Capacity Add"
+mod_country_resource_max_minerals_add: "Максимальная емкость минералов Добавить"
 
-building_fe_mineral_processing_plant: "Crystal Synthesizer"
-building_fe_mineral_processing_plant_desc: "Powerful facility that provides Crytalists necessary tools to synthesize high-yield minerals."
+
+building_fe_mineral_processing_plant: "Синтезатор кристаллов"
+building_fe_mineral_processing_plant_desc: "Мощный комплекс, предоставляющий криталистам необходимые инструменты для синтеза высокопродуктивных минералов."
  
-building_ae_mineral_processing_plant: "Crystal Diviner"
-building_ae_mineral_processing_plant_desc: "This district-sized mega-complex is able to transform even the crudest and dumbest minerals into high-quality, high yield minerals."
+building_ae_mineral_processing_plant: "Кристаллический прорицатель"
+building_ae_mineral_processing_plant_desc: "Этот мегакомплекс размером с район способен превращать даже самые грубые и тупые минералы в высококачественные и высокопродуктивные."
  
-tech_fe_mineral_processing_plant: "Crystal Synthesizing"
-tech_fe_mineral_processing_plant_desc: "Advancements in Enigmatic Sensory and Cutting-Edge technologies pave way for new minerals and crystals procurement methods. By using specialized synthesis, high-yielding minerals can be procured without the need to harvest raw natural minerals from planet surfaces or space asteroids."
+tech_fe_mineral_processing_plant: "Синтез кристаллов"
+tech_fe_mineral_processing_plant_desc: "Достижения в области загадочных сенсорных и передовых технологий прокладывают путь к новым методам добычи минералов и кристаллов. Используя специализированный синтез, можно добывать высокопродуктивные минералы без необходимости собирать сырые природные минералы с поверхности планет или космических астероидов."
  
-tech_ae_mineral_processing_plant: "Crystal Divination"
-tech_ae_mineral_processing_plant_desc: "Further study on Alpha technologies has inspired further advancements in Crystal Synthesis. The process of divination will greatly amplify the yields of our minerals."
+tech_ae_mineral_processing_plant: "Гадание по кристаллам"
+tech_ae_mineral_processing_plant_desc: "Дальнейшее изучение технологий Альфа вдохновило на дальнейшее развитие синтеза кристаллов. Процесс гадания значительно повысит урожайность наших минералов."
  
 #############################
  
-mod_country_resource_max_energy_add: "Max Energy Capacity Add"
+mod_country_resource_max_energy_add: "Максимальная энергоемкость Добавить"
 
-building_fe_power_hub: "Dark Energy Power Grid"
-building_fe_power_hub_desc: "Using synthesized dark energy, the new-generation power grid boasts much higher energy production than conventional generators."
+
+building_fe_power_hub: "Энергосеть темной энергии"
+building_fe_power_hub_desc: "Используя синтезированную темную энергию, энергосистема нового поколения может похвастаться гораздо более высокой выработкой энергии, чем обычные генераторы."
  
 building_ae_power_hub: "Alpha Master Power Nexus"
-building_ae_power_hub_desc: "Exploiting the advanced network systems of the enigmatic constructs on the planet's capitol building allows the Nexus to create a planet-wide energy network that massively increases energy production."
+building_ae_power_hub_desc: "Использование передовых сетевых систем загадочных конструкций на здании капитолия планеты позволяет Нексусу создать энергетическую сеть планетарного масштаба, которая значительно увеличивает производство энергии."
  
-tech_fe_power_hub: "Dark Matter Energy Grid"
-tech_fe_power_hub_desc: "Our scientists believe we can apply the same method used to construct and operate dark matter power plants to improve our current energy nexus template."
+tech_fe_power_hub: "Энергетическая сеть из темной материи"
+tech_fe_power_hub_desc: "Наши ученые считают, что мы можем применить тот же метод, который используется для строительства и эксплуатации электростанций из темной материи, для улучшения нашего текущего шаблона энергетического нексуса."
  
-tech_ae_power_hub: "Additional Pylon Augmentation"
-tech_ae_power_hub_desc: "Constructing an additional pylon on the Energy Grid should now be possible with new advancements without breaking safety protocols."
+tech_ae_power_hub: "Увеличение дополнительного пилона"
+tech_ae_power_hub_desc: "Строительство дополнительного пилона на Энергетической сети теперь возможно с помощью новых достижений без нарушения протоколов безопасности."
  
 #############################
- 
-mod_country_resource_max_food_add: "Max Food Capacity"
+ mod_country_resource_max_food_add: "Максимальная вместимость пищи"
 
-building_fe_food_processing_complex: "Agri Super-Complex"
-building_fe_food_processing_complex_desc: "Multiple agricultural bio-domes powered by a central dark matter facility that will ensure the planet always has fresh green apples, or whatever it is our government uses for food."
- 
-building_ae_food_processing_complex: "Agri Mega-Complex"
-building_ae_food_processing_complex_desc: "It matters not whether the planet has no green, for the green is everywhere, and that green is good."
- 
-tech_fe_food_processing: "Agri Megacomplex"
-tech_fe_food_processing_desc: "More often than not we stand under the difficult situation where some planets are just too annoying to make green apples, or the planet simply does not have any green. But with the advent of better power sources, we can create a self-sufficient mega agri-complex that should eliminate all these problems. Green Apples will be everywhere."
- 
-tech_ae_food_processing: "Citroen-Class Appetizers"
-tech_ae_food_processing_desc: "With advanced bio-engineerings and genetic manipulations, it should be possible to convert all other floras within the planet to produce exclusively green apples. This will immensely save up time that would otherwise have to be spent on rooting out these undesirable plants."
- 
-#############################
- 
-building_fe_transmutor: "Enigmatic Transmutator Dome"
-building_fe_transmutor_desc: "It is foolish to waste so much building spaces for such simple resources, a weakness that will now be corrected with the advent of the dome."
- 
-building_ae_transmutor: "Mega-Transmutator Sphere"
-building_ae_transmutor_desc: "Gases, crystals or motes. These mundane resources still have some niche applications within our empires. We will produce them all from one single building dedicated to this task."
- 
-tech_fe_transmutor: "Mega-Transmutator"
-tech_fe_transmutor_desc: "In the past, producing strategic resources required specialized buildings for each of them. This is extremely inefficient due to the limited spaces. But with our new technologies, we should be able to merge all of them into one single compact building that can transmute minerals into what we need."
- 
-tech_ae_transmutor: "Lucas-Class Super Turbine"
-tech_ae_transmutor_desc: "Transmuting is a tiresome task, especially given the declining use of these soon-to-be obsolete resources. To keep space in check, a building that is capable of handling all of these boring tasks alone will be most useful."
- 
-#############################
- 
-mod_country_resource_max_alloys_add: "Max Alloys Capacity Add"
 
-building_fe_alloy_forge: "Dark Foundry"
-building_fe_alloy_forge_desc: "Through process of eliminations, we have removed all the redundant spaces within the old foundries to make room for more fabricator machines using advanced hard-light technologies."
+building_fe_food_processing_complex: "Агро-суперкомплекс"
+building_fe_food_processing_complex_desc: "Множество сельскохозяйственных био-куполов, питаемых от центральной установки темной материи, которая обеспечит планету свежими зелеными яблоками, или тем, что наше правительство использует в качестве пищи."
  
-building_ae_alloy_forge: "Mega-Alloy Foundry"
-building_ae_alloy_forge_desc: "Efficiency is key to victory. Alloys today, Weapons of Victory Tomorrow!"
+building_ae_food_processing_complex: "Агро Мега-Комплекс"
+building_ae_food_processing_complex_desc: "Неважно, есть ли на планете зелень, ведь зелень есть везде, и эта зелень хороша."
  
-tech_fe_alloy_foundry: "Dark Foundry"
-tech_fe_alloy_foundry_desc: "The space on our planet surfaces are limited, but our need for alloys are not. We must develop further in space management for maximum efficiency."
+tech_fe_food_processing: "Агро Мегакомплекс"
+tech_fe_food_processing_desc: "Чаще всего мы оказываемся в сложной ситуации, когда некоторые планеты просто слишком надоедливы для производства зеленых яблок, или на планете просто нет зелени. Но с появлением лучших источников энергии мы сможем создать самодостаточный мега-агрокомплекс, который устранит все эти проблемы. Зеленые яблоки будут повсюду."
  
-tech_ae_alloy_foundry: "Dimensional Hyperbolic Foundry"
-tech_ae_alloy_foundry_desc: "Mastery over dimensional spaces will allow us to create a much larger workshop in an otherwise compact facility."
+tech_ae_food_processing: "Закуски класса "Ситроен"
+tech_ae_food_processing_desc: "С помощью передовой биоинженерии и генетических манипуляций можно будет преобразовать все другие флоры на планете для производства исключительно зеленых яблок. Это значительно сэкономит время, которое в противном случае пришлось бы потратить на выкорчевывание нежелательных растений."
  
 #############################
  
-building_fe_factory: "Hard-Light Materials Printer"
-building_fe_factory_desc: "It is time to eliminate the notion of having to combat against rivals who make excessive amounts of duplicated products with much lesser qualities. The new technology allows us to create goods at rates that will put all pirated stuff to shame."
+building_fe_transmutor: "Загадочный купол-трансмутатор"
+building_fe_transmutor_desc: "Глупо тратить так много строительных площадей на такие простые ресурсы, и этот недостаток теперь будет исправлен с появлением купола."
  
-building_ae_factory: "Advanced Hard-Light Materials Constructor"
-building_ae_factory_desc: "We can always allocate more resources to increase our workshop space. It is time to say goodbye to the moonmen. Goodbye~ Moonmen~"
+building_ae_transmutor: "Сфера мега-трансмутатора"
+building_ae_transmutor_desc: "Газы, кристаллы или мотыльки. Эти обыденные ресурсы все еще находят применение в наших империях. Мы будем производить их все в одном единственном здании, предназначенном для этой задачи."
  
-tech_fe_factory: "Hard-Light Material Generation"
-tech_fe_factory_desc: "Before our full understanding of Dark Matter, we could only barely draw portions enough to generate matter. Now we realize that it is possible to construct a large amount of synthetic consumer goods using pure hard-light technology from dark matter."
+tech_fe_transmutor: "Мега-трансмутатор"
+tech_fe_transmutor_desc: "В прошлом для производства стратегических ресурсов требовались специализированные здания для каждого из них. Это крайне неэффективно из-за ограниченного пространства. Но с нашими новыми технологиями мы сможем объединить их все в одно компактное здание, способное трансмутировать минералы в то, что нам нужно."
  
-tech_ae_factory: "Advanced Master Printers"
-tech_ae_factory_desc: "Advancements in Hard-Light Printing Technology will allow us to further improve the efficiency in which material goods can be produced."
+tech_ae_transmutor: "Супертурбина класса Лукас"
+tech_ae_transmutor_desc: "Трансмутация - утомительное занятие, особенно учитывая сокращение использования этих скоро устаревающих ресурсов. Чтобы не занимать много места, полезнее всего будет здание, способное выполнять все эти скучные задачи в одиночку."
+ 
+#############################
+ 
+mod_country_resource_max_alloys_add: "Максимальная вместимость сплавов Добавить"
+
+
+building_fe_alloy_forge: "Темный литейный цех"
+building_fe_alloy_forge_desc: "В процессе ликвидации мы убрали все лишние места в старых литейных цехах, чтобы освободить место для большего количества машин-изготовителей, использующих передовые технологии твердого света."
+ 
+building_ae_alloy_forge: "Литейный цех мега-сплавов"
+building_ae_alloy_forge_desc: "Эффективность - ключ к победе. Сплавы сегодня, оружие победы завтра!"
+ 
+tech_fe_alloy_foundry: "Темный литейный цех"
+tech_fe_alloy_foundry_desc: "Пространство на поверхности нашей планеты ограничено, но наши потребности в сплавах - нет. Мы должны развивать управление пространством для достижения максимальной эффективности."
+ 
+tech_ae_alloy_foundry: "Гиперболическое литейное производство"
+tech_ae_alloy_foundry_desc: "Овладение пространством измерений позволит нам создать гораздо более просторную мастерскую в компактном помещении."
+ 
+#############################
+ 
+building_fe_factory: "Принтер твердо-световых материалов"
+building_fe_factory_desc: "Пришло время избавиться от мысли о необходимости бороться с конкурентами, производящими чрезмерное количество дубликатов продукции с гораздо меньшими качествами. Новая технология позволяет нам создавать товары со скоростью, которая поставит все пиратские товары в тупик."
+ 
+building_ae_factory: "Усовершенствованный конструктор твердо-световых материалов"
+building_ae_factory_desc: "Мы всегда можем выделить больше ресурсов, чтобы увеличить площадь нашей мастерской. Пришло время попрощаться с лунными людьми. Прощайте! Лунные люди!"
+ 
+tech_fe_factory: "Генерация твердосветовых материалов"
+tech_fe_factory_desc: "До нашего полного понимания темной материи мы могли лишь с трудом черпать порции, достаточные для генерации материи. Теперь мы понимаем, что из темной материи можно создать большое количество синтетических потребительских товаров, используя чистую технологию жесткого света."
+ 
+tech_ae_factory: "Усовершенствованные мастера печати"
+tech_ae_factory_desc: "Достижения в технологии печати на жестком свете позволят нам еще больше повысить эффективность производства материальных товаров."
  
  
 ######################## DM DE ########################
  
-building_dark_energy_pylon: "Dark Energy Pylon"
-building_dark_energy_pylon_desc: "A pylon created out of crystalized rock formation that attracts dark energy. Artificers can produce usable dark energy from this building."
+building_dark_energy_pylon: "Пилон из темной энергии"
+building_dark_energy_pylon_desc: "Пилон, созданный из кристаллизованной горной породы, которая притягивает темную энергию. Искусники могут производить из этого здания полезную темную энергию."
  
-building_ae_dark_energy_pylon: "Dark Energy Spire"
-building_ae_dark_energy_pylon_desc: "This great spire contains various ports that the artificers can siphon dark energy off the pylons."
+building_ae_dark_energy_pylon: "Шпиль темной энергии"
+building_ae_dark_energy_pylon_desc: "Этот большой шпиль содержит различные порты, через которые искусники могут забирать темную энергию с пилонов."
  
-tech_dark_energy_pylon: "Dark Energy Generation"
-tech_dark_energy_pylon_desc: "In order to further develop upon the various Delta technologies, we must learn how to generate dark energy without the need for a natural black hole. We have learned that it is possible to turn a natural rock formation into a powerful conduit that serves as a powerful conduit to generate synthesized dark energy."
+tech_dark_energy_pylon: "Генерация темной энергии"
+tech_dark_energy_pylon_desc: "Для дальнейшего развития различных технологий Дельты мы должны узнать, как генерировать темную энергию, не прибегая к помощи естественной черной дыры. Мы узнали, что можно превратить естественное скальное образование в мощный канал, который служит мощным каналом для генерации синтезированной темной энергии."
  
-tech_ae_dark_energy_pylon: "Dark Energy Spire"
-tech_ae_dark_energy_pylon_desc: "We now have a much better understanding of the entire process of crystallization of the pylon as an agent to siphon dark energy. The Dark Energy Spire shall serve us well."
+tech_ae_dark_energy_pylon: "Шпиль темной энергии"
+tech_ae_dark_energy_pylon_desc: "Теперь мы гораздо лучше понимаем весь процесс кристаллизации пилона как агента для поглощения темной энергии. Шпиль темной энергии будет служить нам долго."
  
  
 #############################
  
-building_dark_matter_generator: "Dark Matter Converter"
-building_dark_matter_generator_desc: "Dark Matter Converters provides necessary tools for the alchemists to synthesize dark matter into usable resources."
+building_dark_matter_generator: "Конвертер темной материи"
+building_dark_matter_generator_desc: "Конвертер темной материи предоставляет алхимикам необходимые инструменты для синтеза темной материи в пригодные для использования ресурсы."
  
-building_ae_dark_matter_generator: "Dark Matter Mass Converter"
-building_ae_dark_matter_generator_desc: "With improved structural integrity, the Mass Converter can now support additional workshops for the alchemists."
+building_ae_dark_matter_generator: "Преобразователь массы темной материи"
+building_ae_dark_matter_generator_desc: "Благодаря улучшенной структурной целостности, Преобразователь массы теперь может поддерживать дополнительные мастерские для алхимиков."
  
-tech_dark_matter_generator: "Advanced Dark Matter Generation"
-tech_dark_matter_generator_desc: "The constant progression in science has allowed us to synthesize dark matter using the planet's own atmosphere. Though dedicated alchemists are required, the process is safe and does not drain any natural resources."
+tech_dark_matter_generator: "Усовершенствованная генерация темной материи"
+tech_dark_matter_generator_desc: "Постоянное развитие науки позволило нам синтезировать темную материю, используя собственную атмосферу планеты. Хотя для этого требуются преданные алхимики, процесс безопасен и не истощает природные ресурсы."
  
-tech_ae_dark_matter_generator: "Dark Matter Mass Conversion"
-tech_ae_dark_matter_generator_desc: "As we incorporate more and more technological adaptations of dark matter, so must we find a way to generate larger amounts of this enigmatic resource."
+tech_ae_dark_matter_generator: "Преобразование массы темной материи"
+tech_ae_dark_matter_generator_desc: "По мере того, как мы внедряем все новые и новые технологические адаптации темной материи, мы должны найти способ генерировать большее количество этого загадочного ресурса."
  
  
 #############################
