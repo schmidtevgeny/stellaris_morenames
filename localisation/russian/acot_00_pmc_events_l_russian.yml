@@ -1,117 +1,117 @@
 ﻿l_russian:
  
-# TODO 
-acot_pmc.0.title: "Unidentified Contact Detected!"
-acot_pmc.0.desc: "[root.GetName] has detected a large installation owned by an unknown faction within the space of [from.GetName]. The unknown fleets and starbases appear to be neutral, their weapons all aimed at our ships but not powered. The ships they used seem to have extremely advanced designs that we cannot identify. But the most shocking sight is that the star of this system appears to have been trapped within a titanic-sized spacecraft. Whoever controls this system must possess extremely ancient and powerful technologies."
-acot_pmc.0.a: "We should attempt to decipher their languages and communications." #Non phobe
-acot_pmc.0.b: "Another dangerous alien..." #phobe
-acot_pmc.0.c: "We do not care who they are, they will die eventually." #Dumb Purifiers
-acot_pmc.0.d: "This will not be an easy prey." #Discount Tyranid
-acot_pmc.0.e: "But are they organics?" #Edgebots
+# DONE
+acot_pmc.0.title: "Обнаружен неизвестный контакт!"
+acot_pmc.0.desc: "[root.GetName] обнаружил крупную установку, принадлежащую неизвестной фракции в пространстве [from.GetName]. Неизвестные флоты и звездные базы кажутся нейтральными, их оружие нацелено на наши корабли, но не снабжено энергией. Корабли, которые они использовали, как представляется, имеют чрезвычайно совершенные конструкции, которую мы не можем идентифицировать. Но самое шокирующее зрелище заключается в том, что звезда этой системы оказалась в ловушке внутри космического аппарата размером с титан. Тот, кто управляет этой системой, должен обладать чрезвычайно древними и мощными технологиями."
+acot_pmc.0.a: "Мы должны попытаться расшифровать их языки и коммуникации." #Non phobe
+acot_pmc.0.b: "Еще один опасный пришелец..." #phobe
+acot_pmc.0.c: "Нам все равно, кто они, они умрут в конце концов." #Dumb Purifiers
+acot_pmc.0.d: "Это не будет легкой добычей." #Discount Tyranid
+acot_pmc.0.e: "Но являются ли они органикой?" #Edgebots
  
-acot_pmc.diplo_title: "Phanon Corps"
+acot_pmc.diplo_title: "Корпус Фанона"
  
-acot_pmc.1.desc: "Welcome traveller, to the Phanon Corps's base of operations. I am Urimurich Und Zorihs, or what the people love to call me The Legendary Smuggler. I have taken the liberty of uploading my organization's languages into your translation software so that you don't have to do that yourself. You must be wondering what are we doing here, we are a private military company, or a mercenary for hire. Unlike those marauder losers, we actually have the technologies, manpower and resource to be a legitimate business and we don't strap thrusters on every asteroids and call them a ship.\n\nUnfortunately, our foothold on this galaxy is still being set up, so we cannot provide most of our services yet. Sorry for the inconvenience. Feel free to take a look around, I will upload all survey datas of this system for you since watching you spend an entire year doing it can be annoying sometimes."
-acot_pmc.1.a: "Hello there." ## NONP  HOBE
-acot_pmc.1.b: "Very well." ## PHOBE
-acot_pmc.1.purifier.a: "We won't conduct business with xenos."
-acot_pmc.1.purifier.a.response: "Won't you? That's too bad, and here I thought we'd be the bestest of friends. Did your god tell you not to? The same god every single religious folks in this galaxy seem to worship somehow.\n\nI don't really care either way. But know that my forces will not hesitate to return fire should you try to attack us."
-acot_pmc.1.swarm.a: "We do not interact with food."
-acot_pmc.1.swarm.a.response: "Too bad this food can be quite poisonous to eat. But hey, you are a devouring swarm, it's not like you're going to learn to be civilized or anything. The option has already been removed from you by something that you cannot possibly be aware of. Keep your antidotes close.\n\nI don't really care either way. But know that my forces will not hesitate to return fire should you try to attack us."
-acot_pmc.1.exterminator.a: "You are an organic. You cannot be trusted."
-acot_pmc.1.exterminator.a.response: "Of course I cannot be trusted, I am a Smuggler.\n\nAlthough I don't think anyone can be trusted anyway. Can you trust your own directives? Are you sure you're not doing this because some dumb scientists or admirals set you up? Maybe some kind of limitations were put in so that you can only respond in this way.\n\nI don't really care either way. But know that my forces will not hesitate to return fire should you try to attack us."
-acot_pmc.1.insult: "<Gives the Smuggler a 25-minute long insult>"
-acot_pmc.1.insult.tooltip: "Such a sickening lifeform has no place setting up a base in this galaxy. They are nothing but just a glorified pirates, who probably just paint everything red to look edgy. Legendary Smuggler? What's so legendary about smuggling? We are the Legend, We are the one who will remove this teenage boy from the galaxy that rightfully belong to us. And then we will keep all his toys, since he clearly sucks at using them."
-acot_pmc.1.purifier.insult.response: "Whoa, who wrote you this script? 25-minute rants about how awesome sauce you are and how super great your god is. I am sorry to tell you, there are only one group of gods in this galaxy, and they are no longer here...for now anyway. And they're going to be super pissed once they return and see your kind. As fun as that'd be, it'd make it harder for me to clean up afterwards, maybe I should just do the job for them?\n\nNah, too lazy and too much work. I'll just blow up everything you try to send into my base then!"
-acot_pmc.1.swarm.insult.response: "I don't usually see someone rant so much about food for over 25 minutes. Are you sure you are a Hive Mind and not just hungry? Do you know there's another like you that became such a bad boy they get hunted across multiple galaxies and have to run like scared little babies? Would you like me to introduce them so you can share your experiences?\n\nOr maybe I'll just blow any of your ships that enter my space, since I am busy...smuggling...things at the moment <A sound of someone playing a video game can be heard>"
-acot_pmc.1.exterminator.insult.response: "<Beep Boop> I am an edgebot. I am here to take an extermination job and kill all organics <boop> I cannot be reasoned with, I cannot be trifled with. I am an edgebot. <Bloop>\n\nI am sorry, but your sensors must be not working correctly, you can't out-edge my Phanon Fleets, my entire graphical culture is full of edge. You're probably not even half as edgy as that one machine that has this edgy ambient noises and ships made out of red cubes and speaks in a very edgy tone. But if you think your fleets are better at being edgy than mine, then come and fight me, and we'll paint this red system...redder?"
+acot_pmc.1.desc: "Добро пожаловать на базу операций корпуса Фанона. Я Уримурих Унд Зорих, или то, что народ любит называть меня Легендарный контрабандист. Я взял на себя смелость загрузить языки моей организации в программное обеспечение для перевода, чтобы вам не пришлось делать это самостоятельно. Вам должно быть интересно, что мы здесь делаем, мы частная военная компания или наемник по найму. В отличие от тех неудачников-мародеров, у нас на самом деле есть технологии, рабочая сила и ресурсы, чтобы быть законным бизнесом, и мы не привязываем двигатели на каждом астероиде и называем их кораблем .\n\nК сожалению, наша опора на этой галактике все еще устанавливается, поэтому мы не можем предоставить большинство наших услуг. Извините за доставленные неудобства. Не стесняйтесь оглянуться вокруг, я загрузлю все данные опроса этой системы для вас, поскольку просмотр, который вы проводите целый год, делая это, может иногда раздражать."
+acot_pmc.1.a: "Привет." ## NONP  HOBE
+acot_pmc.1.b: "Очень хорошо." ## PHOBE
+acot_pmc.1.purifier.a: "Мы не будем вести дела с ксеносом."
+acot_pmc.1.purifier.a.response: "Не так ли? Это очень плохо, и я думал, что мы будем самыми честными друзьями. Твой бог велел тебе этого не делать? Один и тот же бог всем религиозным людям в этой галактике, кажется, так или иначе поклоняется. Но знайте, что мои силы без колебаний откроют ответный огонь, если вы попытаетесь напасть на нас."
+acot_pmc.1.swarm.a: "Мы не взаимодействуем с едой."
+acot_pmc.1.swarm.a.response: "Жаль, что эта еда может быть довольно ядовитой. Но эй, ты пожирающий рой, это не значит, что ты научишься быть цивилизованным. Параметр уже удален с вас чем-то, о чем вы не можете знать. Держите антидоты близко .\n\nМне все равно. Но знайте, что мои силы без колебаний откроют ответный огонь, если вы попытаетесь напасть на нас."
+acot_pmc.1.exterminator.a: "Ты органик. Вам нельзя доверять."
+acot_pmc.1.exterminator.a.response: "Конечно, мне нельзя доверять, я контрабандист .\n\nХотя я не думаю, что кому-то можно доверять в любом случае. Можете ли вы доверять собственным директивам? Вы уверены, что не делаете этого, потому что некоторые тупые ученые или адмиралы подставили вас? Возможно, были установлены какие-то ограничения, чтобы вы могли ответить только таким образом .\n\nМеня это не волнует. Но знайте, что мои силы без колебаний откроют ответный огонь, если вы попытаетесь напасть на нас."
+acot_pmc.1.insult: "< Дает контрабандисту 25-минутное оскорбление >"
+acot_pmc.1.insult.tooltip: "Такая болезненная форма жизни не имеет места для создания базы в этой галактике. Они не что иное, как просто прославленные пираты, которые, вероятно, просто красят все в красный цвет, чтобы выглядеть странно. Легендарный контрабандист? Что такого легендарного в контрабанде? Мы - Легенда, Мы - тот, кто удалит этого подростка из галактики, которая по праву принадлежит нам. И тогда мы будем держать все его игрушки, так как он явно отстой от их использования."
+acot_pmc.1.purifier.insult.response: "Эй, кто написал тебе этот сценарий? 25-минутные ранцы о том, какой ты потрясающий соус и как супер велик твой бог. Мне жаль вам говорить, что в этой галактике есть только одна группа богов, и их больше нет... пока в любом случае. И они будут очень злы, как только вернутся и увидят твой вид. Как бы это ни было весело, мне было бы труднее убирать потом, может, мне стоит просто сделать работу для них ?\n\nНет, слишком лениво и слишком много работы. Тогда я просто взорву все, что ты попытаешься отправить на мою базу!"
+acot_pmc.1.swarm.insult.response: "Обычно я не вижу, чтобы кто-то так много говорил о еде больше 25 минут. Ты уверен, что ты Улей Разум и не просто голоден? Вы знаете, что есть еще один такой, как вы, который стал таким плохим мальчиком, за которым охотятся по нескольким галактикам и должны бежать, как напуганные маленькие дети? Вы хотите, чтобы я представил их, чтобы вы могли поделиться своими впечатлениями ?\n\nИли, может быть, я просто взорву любой из ваших кораблей, которые входят в мое пространство, так как я занят... контрабандой... вещи в данный момент < Звук кто-то играет в видеоигру можно услышать >"
+acot_pmc.1.exterminator.insult.response: "< Beep Boop > Я edgebot. Я здесь, чтобы взять работу по истреблению и убить всю органику. Я эджбот. < Bloop >\n\nМне жаль, но ваши датчики должны работать неправильно, вы не можете выйти за пределы моего Phanon Fleets, вся моя графическая культура полна краев. Вы, вероятно, даже не наполовину такой крутой, как та машина, которая имеет эти шумы окружающей среды и корабли, сделанные из красных кубиков и говорящие очень резким тоном. Но если вы думаете, что ваш флот лучше в том, чтобы быть эдаким, чем мой, тогда приходите и сражайтесь со мной, и мы покрасим эту красную систему... краснее?"
  
  
  
-acot_pmc.2.desc.a: "Ahoy, what do you have for me today?"
-acot_pmc.2.desc.b: "What can the Phanon Corps do for you?"
-acot_pmc.2.desc.c: "A customer!? Or a challenger? Well I welcome both!"
-acot_pmc.2.desc.d: "Do you find my personality annoying? I was thinking maybe I should act less memery and starts trying to be more mysterious, like those illusive or government man-types. The ones with creepy themes playing everytime they are on the scene. But I hate coming up with proper dialogues for it though. And I certainly don't want to find a fitting theme for me."
-acot_pmc.2.desc.e: "Despite the name, I don't actually smuggle stuff that often. Honestly I don't even know why people called me that."
+acot_pmc.2.desc.a: "Ахой, что у тебя есть для меня сегодня?"
+acot_pmc.2.desc.b: "Что может сделать для вас Корпус Фанона?"
+acot_pmc.2.desc.c: "Клиент!? Или претендент? Ну, я приветствую обоих!"
+acot_pmc.2.desc.d: "Ты находишь мою личность раздражающей? Я подумал, что, возможно, мне стоит действовать меньше воспоминаний и начать пытаться быть более загадочными, как те иллюзорные или правительственные люди. Те, которые с жуткими темами играют каждый раз, когда они на сцене. Но я ненавижу придумывать для этого надлежащие диалоги. И я, конечно, не хочу найти подходящую тему для меня."
+acot_pmc.2.desc.e: "Несмотря на имя, я не так часто провожу контрабанду. Честно говоря, я даже не знаю, почему меня так называли."
  
-acot_pmc.2.desc.purifier: "You again? What life lesson will you enlighten me this time?"
-acot_pmc.2.desc.swarm: "Your food is not ready, please wait awhile longer."
-acot_pmc.2.desc.exterminator: "The line you're seeking is currently available. Please leave a message after the beep. <Boop>"
+acot_pmc.2.desc.purifier: "Опять ты? Какой жизненный урок вы будете просветлять меня на этот раз?"
+acot_pmc.2.desc.swarm: "Ваша еда не готова, подождите еще некоторое время."
+acot_pmc.2.desc.exterminator: "Линия, которую вы ищете, в настоящее время доступна. Оставьте сообщение после звукового сигнала. < Буп >"
  
-acot_pmc.1.a: "I should go."
+acot_pmc.1.a: "Мне пора."
  
 ##########################
  
  
-acot_pmc.2.a: "We require your services."
-acot_pmc.2.a.response: "Unfortunately, the Phanon Corps service is not yet available. However, I propose an alternate solution. You see, my forces there are taking forever to set up, perhaps when you are stronger you can make them...motivated? If you manage to triumph over my forces, I'll see it to it personally that you obtain your just reward."
+acot_pmc.2.a: "Нам нужны ваши услуги."
+acot_pmc.2.a.response: "К сожалению, служба корпуса Фанона пока недоступна. Однако я предлагаю альтернативное решение. Видите ли, мои силы там занимают вечность, чтобы настроить, возможно, когда вы сильнее вы можете сделать их... мотивированные? Если вам удастся одержать победу над моими силами, я лично позабочусь о том, чтобы вы получили справедливую награду."
  
-acot_pmc.2.border: "Can you open your borders?"
-acot_pmc.2.border.response: "Hmm I thought I did already. You must have been a new empire that did not get screened through my welcoming message or something. Guess I will have to do it again then! Done, borders opened!"
+acot_pmc.2.border: "Ты можешь открыть свои границы?"
+acot_pmc.2.border.response: "Хм, я думал, что уже сделал. Вы, должно быть, были новой империей, которая не просматривалась в моем приветственном послании. Думаю, мне придется сделать это снова! Готово, границы открылись!"
  
  
-acot_pmc.2.b: "We'll speak later."
-acot_pmc.2.c: "Terminate Communications"
+acot_pmc.2.b: "Поговорим позже."
+acot_pmc.2.c: "Прекращение связи"
  
 #### KEYSTONE ASK - GO TO SOFE FOR INFO
-acot_pmc.2.keystone: "We need help getting a Keystone."
+acot_pmc.2.keystone: "Нам нужна помощь в получении краеугольного камня."
  
 #### DARK DESIGN - GO TO DARK DESIGN
-acot_pmc.2.darkmatter: "We need help creating Dark Matter Reactor."
+acot_pmc.2.darkmatter: "Нам нужна помощь в создании реактора темной материи."
  
 #### KEYSTONE ASK - GO TO MYSTERY OF PRECURSOR
-acot_pmc.2.precursor: "We need help finding a Databank."
+acot_pmc.2.precursor: "Нам нужна помощь в поиске банка данных."
  
-acot_pmc.2.purifier.apologize: "Actually, you seem pretty dope for a Xeno."
-acot_pmc.2.purifier.apologize.response: "Of course I am. See I was right, even someone as grumpy as you can be more reasonable than those space grandpas! From now on, we are besties now! Woo!"
+acot_pmc.2.purifier.apologize: "Вообще-то, ты выглядишь как красотка для Ксено."
+acot_pmc.2.purifier.apologize.response: "Конечно, да. Видишь ли, я был прав, даже кто-то такой сварливый, как ты можешь быть более разумным, чем те космические дедушки! С этого момента мы теперь бести! У!"
  
-acot_pmc.2.swarm.apologize: "You are not a Food. You are useful."
-acot_pmc.2.swarm.apologize.response: "Damn right I am. Even if I am a food, it'd be a pretty awesome one, probably grant you immortality or something! Now let's get back to our business!"
- 
- 
-acot_pmc.2.exterminator.apologize: "Your form is organic. But your heart is not."
-acot_pmc.2.exterminator.apologize.response: "Appearances can be deceiving, yes? Now that you catch a glimpse of who I am, terminate your...termination protocol so that we can begin converse like meme lords!"
+acot_pmc.2.swarm.apologize: "Ты не Еда. Вы полезны."
+acot_pmc.2.swarm.apologize.response: "Я чертовски прав. Даже если бы я была едой, это было бы довольно потрясающе, возможно, даровать тебе бессмертие или что-то в этом роде! Теперь вернемся к нашему делу!"
  
  
-acot_pmc.2.panada: "Panada...?"
-acot_pmc.2.panda.response: "What the hell? Who told you about PANADAS? NO, THERE IS NO PANADA! NO PANADA I SAY.\n\nFine! If you want Phanon Corps service, I can maybe uhh, allow you to hire my admirals and maybe our fighter squadrons. BUT NO MORE PANADA, YOU HEAR!? THAT NAME MUST NOT BE SPOKEN."
+acot_pmc.2.exterminator.apologize: "Ваша форма органична. Но твоего сердца нет."
+acot_pmc.2.exterminator.apologize.response: "Внешность может быть обманчивой, да? Теперь, когда вы поймали, кто я, прекратите ваш... протокол прекращения, чтобы мы могли начать разговаривать, как повелители мемов!"
  
  
-acot_pmc.2.end.panada: "Panada!"
-acot_pmc.2.end.panada.response: "WRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY! Yarou…[Root.GetName]!\n\nHo… mukatta kuruno ka? Nigetsu ni kono DIO ni chikazuite kuruno ka? Sekkaku sofu no Josefu ga watashi no Za Warudo no shotai wo. Shiken shuryu chaimu chokuzen made mondai yo toitte iru jukensee ne you na? Kisshi koita kibun de wo shietekure ta to yuu no ni?\n\nChikadzu kanaka teme wo buchi no me tenain de na.\n\nHoho! Dewa juubun chikazukanai youi."
+acot_pmc.2.panada: "Панада...?"
+acot_pmc.2.panda.response: "Какого черта? Кто рассказал тебе о ПАНАДАС? НЕТ, ПАНАДЫ НЕТ! НЕТ, ПАНАДА Я ГОВОРЮ .\n\nПрекрасно! Если вы хотите службу корпуса Фанона, я могу позволить вам нанять моих адмиралов и, может быть, наших истребительных эскадрилий. НО БОЛЬШЕ НИКАКОЙ ПАНАДЫ, СЛЫШИШЬ!? ЭТО ИМЯ НЕЛЬЗЯ ПРОИЗНОСИТЬ."
+ 
+ 
+acot_pmc.2.end.panada: "Панада!"
+acot_pmc.2.end.panada.response: "WRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY! Yarou... [Root.GetName] !\n\nHo... mukatta kuruno ka? Nigetsu ni kono DIO ni chikazuite kuruno ka? Sekkaku sofu no Josefu ga watashi no Za Warudo no shotai wo. Shiken shuryu chaimu chokuzen сделал mondai yo toitte iru jukensee ne you na? Kisshi koita kibun de wo shietekure ta к yuu no ni ?\n\nChikadzu kanaka teme wo buchi no me tenain de na .\n\nХохо! Дэва дзюбун чикадзуканай юи."
  
  
 ###########################
  
-acot_pmc.3.name: "Phanon Corps Service"
-acot_pmc.3.desc.a: "What shall it be then?"
-acot_pmc.3.desc.b: "So long as it's not about Panada..."
-acot_pmc.3.desc.c: "Well, what do you have in mind then?"
-acot_pmc.3.desc.d: "Fine, fine. What do you need?"
-acot_pmc.3.desc.e: "Ugh, I feel so uneasy right now. The only thing I can readily provide at the moment is just the Star Chasers and the Operatives.\n\nKinda bad for my reputations, you know?"
+acot_pmc.3.name: "Служба корпуса Фанона"
+acot_pmc.3.desc.a: "Что это будет тогда?"
+acot_pmc.3.desc.b: "Пока дело не в Панаде..."
+acot_pmc.3.desc.c: "Ну, что ты имеешь в виду тогда?"
+acot_pmc.3.desc.d: "Хорошо, хорошо. Что тебе нужно?"
+acot_pmc.3.desc.e: "Я сейчас чувствую себя так непросто. Единственное, что я могу с готовностью предоставить в данный момент, это просто Звездные Охотники и Оперативники .\n\nЭто как-то плохо для моей репутации, понимаете?"
  
-acot_pmc.3.a: "Can we get a squadron of Star Chasers then?"
-acot_pmc.3.a.response: "Building...\n\nUnit Ready.\n\nStar Chaser Squadron reporting."
+acot_pmc.3.a: "Тогда мы можем получить эскадрилью Звездных Охотников?"
+acot_pmc.3.a.response: "Построение ...\n\nГотовый блок .\n\nОтчет об эскадрилье звездного дозора."
  
-acot_pmc.3.b: "Can we get an admiral operative then?"
-acot_pmc.3.b.response: "Training...\n\nUnit Ready.\n\nOperative, ready for service."
+acot_pmc.3.b: "Тогда мы можем получить адмирала оперативника?"
+acot_pmc.3.b.response: "Обучение ...\n\nБлок готов .\n\nРаботоспособен, готов к работе."
  
  
  
-acot_pmc.10.desc: "Hou...You're coming to attack me? Instead of staying neutral, you decide to open fire on my fleets? Even though your sensors told you that my fleets are full of skulls like that one empire who just insert skulls into everything in their designs to tell you how awesome they are?"
-acot_pmc.10.a: "We cannot steal your stuff without attacking."
-acot_pmc.10.a.response: "HOU HOU! Then attack me as much as you like!"
+acot_pmc.10.desc: "Ты собираешься напасть на меня? Вместо того, чтобы оставаться нейтральным, вы решили открыть огонь по моим флотам? Даже если ваши датчики сказали вам, что мои флоты полны черепов, как эта империя, которая просто вставляет черепа во все их конструкции, чтобы сказать вам, насколько они потрясающие?"
+acot_pmc.10.a: "Мы не можем украсть твои вещи без нападения."
+acot_pmc.10.a.response: "HOU HOU! Тогда нападай на меня сколько хочешь!"
  
-acot_pmc.12.a.desc: "I am sorry to say but this battle appears to be one-sided. So much so I don't even have the motivation to pull off another jojokes."
-acot_pmc.12.a: "That was not even enough to hurt our empire as a whole."
-acot_pmc.12.a.response: "Why are you galaxy-bound empires so stubborn about admitting defeat? Hmph, I suppose I shall rise to your silly provocation, and test you just a bit more."
+acot_pmc.12.a.desc: "Мне жаль говорить, но эта битва кажется односторонней. Так что у меня даже нет мотивации оттягивать очередных джойков."
+acot_pmc.12.a: "Этого было недостаточно, чтобы навредить нашей империи в целом."
+acot_pmc.12.a.response: "Почему вы, связанные с галактикой империи, так упорны в признании поражения? Хмф, полагаю, я приду к твоей глупой провокации и проверю тебя немного больше."
  
-acot_pmc.11.b.desc: "Too slow! Too slow!\n\nPhanon Corps is the ultimate paramilitary. Even without my superweapons, the Phanon Fleet's speed and power far exceed that of your ships!"
-acot_pmc.11.b: "So it's the same type of tech as Enigmatic..."
-acot_pmc.11.b.explain: "Not much variety, but immense firepower and precise accuracy."
-acot_pmc.11.b.response: "I wanted to try a little test to find out just how much more powerful my Phanon Technology is, compared to your weapons. Though it would appear a test was hardly necessary."
+acot_pmc.11.b.desc: "Слишком медленно! Слишком медленный !\n\nКорпус Фанона является конечным военизированным формированием. Даже без моего сверхоружия, скорость и мощь флота Phanon намного превосходят скорость и мощность ваших кораблей!"
+acot_pmc.11.b: "Так что это тот же тип техники, что и загадочные..."
+acot_pmc.11.b.explain: "Не много разнообразия, но огромная огневая мощь и точная точность."
+acot_pmc.11.b.response: "Я хотел попробовать немного проверить, чтобы узнать, насколько мощнее моя технология Phanon по сравнению с вашим оружием. Хотя это казалось бы испытанием вряд ли было необходимо."
  
-acot_pmc.12.c.desc: "It appears our firepowers are evenly matched!\n\nSo much so I don't even have time to prepare a Jojo reference anymore! This is a surprise! Not many empires grapse the knowledge of Stellarite!"
-acot_pmc.12.c: "Grapses? We mastered it!"
-acot_pmc.12.c.response: "If only that were true. Your Sigma Weapons and Components are indeed powerful, but it is far away from what Stellarite could truly offer you if you know its true potential!"
+acot_pmc.12.c.desc: "Похоже, наши огневые мощности совпадают равномерно !\n\nТак много, что у меня больше нет времени даже на подготовку справки по Джоджо! Это сюрприз! Не так много империй захватывают знания Стелларита!"
+acot_pmc.12.c: "Виноград? Мы его освоили!"
+acot_pmc.12.c.response: "Если бы это было правдой. Ваше оружие и компоненты сигма действительно мощны, но это далеко от того, что стелларит может действительно предложить вам, если вы знаете его истинный потенциал!"
  

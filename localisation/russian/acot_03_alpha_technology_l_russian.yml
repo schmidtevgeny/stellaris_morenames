@@ -1,540 +1,540 @@
 ﻿l_russian:
-# TODO 
+# DONE 
 ### SHIP TEXTS
-BASE_COMBAT_COMPUTER_COLOSSUS_AE: "Bionic Herculean Colossus Computer"
-BASE_COMBAT_COMPUTER_COLOSSUS_AE_DESC: "The Darkness calls." 
+BASE_COMBAT_COMPUTER_COLOSSUS_AE: "Бионический геркулесовый колоссовый компьютер"
+BASE_COMBAT_COMPUTER_COLOSSUS_AE_DESC: "Тьма зовет." 
  
-HERCULEAN_COMBAT_COMPUTER_AE: "Bionic Interface Herculean Computer" 
-HERCULEAN_COMBAT_COMPUTER_AE_DESC: "This advanced ship utilizes a unique combat computer that forms a bionic link with the crew. It is impervious to all intrusion attempts and possesses unrivalled combat algorithms."
- 
-################################################
+HERCULEAN_COMBAT_COMPUTER_AE: "Бионический интерфейс Геркулесовый компьютер" 
+HERCULEAN_COMBAT_COMPUTER_AE_DESC: "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток вторжения и обладает непревзойденными алгоритмами ведения боя."
  
 ################################################
  
-PAC_COMBAT_COMPUTER_DEFENSE_AE: "Bionic Interface Carrier Computer (Evasive)"
-PAC_COMBAT_COMPUTER_DEFENSE_AE_DESC: "This advanced ship utilizes a unique combat computer that forms a bionic link with the crew and all strike crafts."
+################################################
  
-PAC_COMBAT_COMPUTER_OFFENSE_AE: "Bionic Interface Carrier Computer (Stationary)"
-PAC_COMBAT_COMPUTER_OFFENSE_AE_DESC: "This advanced ship utilizes a unique combat computer that forms a bionic link with the crew and all strike crafts."
+PAC_COMBAT_COMPUTER_DEFENSE_AE: "Компьютер-носитель бионического интерфейса (уклоняющийся)"
+PAC_COMBAT_COMPUTER_DEFENSE_AE_DESC: "Этот передовой корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем и всеми ударными кораблями."
+ 
+PAC_COMBAT_COMPUTER_OFFENSE_AE: "Компьютер-носитель бионического интерфейса (стационарный)"
+PAC_COMBAT_COMPUTER_OFFENSE_AE_DESC: "Этот передовой корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем и всеми ударными кораблями."
  
  
 ### WEAPONS CHECK OK #####
-SMALL_ACOT_LASER_AE: "Small Alpha Laser"
-MEDIUM_ACOT_LASER_AE: "Medium Alpha Laser"
-LARGE_ACOT_LASER_AE: "Large Alpha Laser"
-ACOT_LASER_AE: "Alpha Laser"
-ACOT_LASER_AE_DESC: "Additional calibrating to the Delta Laser focusing lens allows us to develop Alpha Laser which are even deadlier against armor platings. This is the proof of our mastery in Dark Energy Manipulation."
-tech_laser_ae: "Alpha Laser"
-tech_laser_ae_desc: "Additional calibrating to the Delta Laser focusing lens allows us to develop Alpha Laser which are even deadlier against armor platings. This is the proof of our mastery in Dark Energy Manipulation."
+SMALL_ACOT_LASER_AE: "Малый альфа-лазер"
+MEDIUM_ACOT_LASER_AE: "Средний альфа-лазер"
+LARGE_ACOT_LASER_AE: "Большой альфа-лазер"
+ACOT_LASER_AE: "Альфа-лазер"
+ACOT_LASER_AE_DESC: "Дополнительная калибровка фокусирующего объектива Delta Laser позволяет разработать Альфа Лазер, которые еще более смертоносны против броневых плит. Это доказательство нашего мастерства в манипуляции темной энергией."
+tech_laser_ae: "Альфа-лазер"
+tech_laser_ae_desc: "Дополнительная калибровка фокусирующего объектива Delta Laser позволяет разработать Альфа Лазер, которые еще более смертоносны против броневых плит. Это доказательство нашего мастерства в манипуляции темной энергией."
  
  
-SMALL_ACOT_PLASMA_AE: "Small Eclipse Plasma Cannon"
-MEDIUM_ACOT_PLASMA_AE: "Medium Eclipse Plasma Cannon"
-LARGE_ACOT_PLASMA_AE: "Large Eclipse Plasma Cannon"
-ACOT_PLASMA_AE: "Eclipse Plasma Cannon"
-ACOT_PLASMA_AE_DESC: "With the improvements to our dark power technologies, we can create an even deadlier Dark Matter Plasma that is much larger and more destructive."
-tech_plasma_ae: "Eclipse Plasma Cannon"
-tech_plasma_ae_desc: "With the improvements to our dark power technologies, we can create an even deadlier Dark Matter Plasma that is much larger and more destructive."
+SMALL_ACOT_PLASMA_AE: "Плазменная пушка малого затмения"
+MEDIUM_ACOT_PLASMA_AE: "Плазменная пушка среднего затмения"
+LARGE_ACOT_PLASMA_AE: "Большая плазменная пушка затмения"
+ACOT_PLASMA_AE: "Плазменная пушка затмения"
+ACOT_PLASMA_AE_DESC: "Благодаря усовершенствованиям наших технологий темной силы мы можем создать еще более смертоносную плазму темной материи, которая намного больше и разрушительнее."
+tech_plasma_ae: "Плазменная пушка затмения"
+tech_plasma_ae_desc: "Благодаря усовершенствованиям наших технологий темной силы мы можем создать еще более смертоносную плазму темной материи, которая намного больше и разрушительнее."
  
  
-SMALL_ACOT_DISRUPTOR_AE: "Small Pendulum Disruptor"
-MEDIUM_ACOT_DISRUPTOR_AE: "Medium Pendulum Disruptor"
-ACOT_DISRUPTOR_AE: "Pendulum Disruptor"
-ACOT_DISRUPTOR_AE_DESC: "Pendulum Disruptor fries enemy ship with extremely powerful dark energy ray stronger than its predecessor."
-tech_disruptor_ae: "Pendulum Disruptor"
-tech_disruptor_ae_desc: "Pendulum Disruptor fries enemy ship with extremely powerful dark energy ray stronger than its predecessor."
+SMALL_ACOT_DISRUPTOR_AE: "Малый маятниковый разрушитель"
+MEDIUM_ACOT_DISRUPTOR_AE: "Разрушитель среднего маятника"
+ACOT_DISRUPTOR_AE: "Маятниковый разрушитель"
+ACOT_DISRUPTOR_AE_DESC: "Маятник Нарушитель жарит вражеский корабль с чрезвычайно мощным темно-энергетическим лучом сильнее своего предшественника."
+tech_disruptor_ae: "Маятниковый разрушитель"
+tech_disruptor_ae_desc: "Маятник Нарушитель жарит вражеский корабль с чрезвычайно мощным темно-энергетическим лучом сильнее своего предшественника."
  
-ACOT_ENERGY_TORPEDO_AE: "Tempest Energy Cannon"
-ACOT_ENERGY_TORPEDO_AE_DESC: "An upgraded, stronger version of the standard Energy Cannon."
-tech_energy_torpedo_ae: "Tempest Reactor"
-tech_energy_torpedo_ae_desc: "Installing powerful energy amplifier based upon Alpha Designs should increase the destructive power of our energy cannons."
- 
- 
-ACOT_POINT_DEFENSE_AE: "Daedalus Point-Defense"
-ACOT_POINT_DEFENSE_AE_DESC: "Look...Missiles!?? MISSILES???! Our enemies hide behind Missile Strikes!! §RTHE COWARDS! THE FOOLS!§!. We..we should take away...their missiles....\n\nMISSILE STRIKES!.......FROM THEM."
-tech_point_defense_ae: "Daedalus Point-Defense"
-tech_point_defense_ae_desc: "Look...Missiles!?? MISSILES???! Our enemies hide behind Missile Strikes!! §RTHE COWARDS! THE FOOLS!§!. We..we should take away...their missiles....\n\nMISSILE STRIKES!.......FROM THEM."
+ACOT_ENERGY_TORPEDO_AE: "Энергетическая пушка Tempest"
+ACOT_ENERGY_TORPEDO_AE_DESC: "Модернизированная, более сильная версия стандартной Энергетической пушки."
+tech_energy_torpedo_ae: "Бурный реактор"
+tech_energy_torpedo_ae_desc: "Установка мощного усилителя энергии на основе Alpha Designs должна увеличить разрушительную силу наших энергетических пушек."
  
  
-SMALL_ACOT_MASS_DRIVER_AE: "Small Crucio Cannon"
-MEDIUM_ACOT_MASS_DRIVER_AE: "Medium Crucio Cannon"
-LARGE_ACOT_MASS_DRIVER_AE: "Large Crucio Cannon"
-ACOT_MASS_DRIVER_AE: "Crucio Cannon"
-ACOT_MASS_DRIVER_AE_DESC: "An upgrade to Arclite Cannon, Crucio-class Cannon utilizes built-in matter generators to further increase the effectiveness of the projectile, allowing it to penetrate shields with ease."
-tech_mass_driver_ae: "Crucio Cannon"
-tech_mass_driver_ae_desc: "An upgrade to Arclite Cannon, Crucio-class Cannon utilizes built-in matter generators to further increase the effectiveness of the projectile, allowing it to penetrate shields with ease."
- 
-ACOT_AUTOCANNON_AE: "Reaper Autocannon"
-ACOT_AUTOCANNON_AE_DESC: "Reaper Autocannon uses hard-light projectiles to quickly chew through enemy shields and targets weak point in their hull."
-tech_autocannons_ae: "Reaper-class Targeting Sensors"
-tech_autocannons_ae_desc: "Updating Stalker Cannons with specialized targeting softwares that pinpoint critical weak points will greatly increase the damage output of our dakka cannons."
- 
-ACOT_ARTILLERY_AE: "Apocalypse Artillery"
-ACOT_ARTILLERY_AE_DESC: "Apocalypse-class Artillery utilizes an even stronger hard-light material made possible with our superior designs. This updated template eliminates almost all weaknesses presented in previous artilleries."
-tech_kinetic_artillery_ae: "Apocalypse Artillery"
-tech_kinetic_artillery_ae_desc: "Apocalypse-class Artillery utilizes an even stronger hard-light material made possible with our superior designs. This updated template eliminates almost all weaknesses presented in previous artilleries."
+ACOT_POINT_DEFENSE_AE: "Дедал-Пойнт-Дефенс"
+ACOT_POINT_DEFENSE_AE_DESC: "Смотри... Ракеты!?? РАКЕТЫ???! Наши враги прячутся за ракетными ударами!! ТРУСЫ! Мы... мы должны отобрать... их ракеты ....\n\nРАКЕТНЫЕ УДАРЫ!....... У НИХ."
+tech_point_defense_ae: "Дедал-Пойнт-Дефенс"
+tech_point_defense_ae_desc: "Смотри... Ракеты!?? РАКЕТЫ???! Наши враги прячутся за ракетными ударами!! ТРУСЫ! Мы... мы должны отобрать... их ракеты ....\n\nРАКЕТНЫЕ УДАРЫ!....... У НИХ."
  
  
-ACOT_FLAK_CANNON_AE: "Inferno Defense Matrix"
-ACOT_FLAK_CANNON_AE_DESC: "Inferno Defense Matrix is equipped with advanced bionic sensors. The mental link between our advanced computers and dedicated class-12 intellect gunners makes Inferno Flak deadly accurate in its targeting and tracking."
-tech_flak_batteries_ae: "Inferno Defense Matrix"
-tech_flak_batteries_ae_desc: "Inferno Defense Matrix is equipped with advanced bionic sensors. The mental link between our advanced computers and dedicated class-12 intellect gunners makes Inferno Flak deadly accurate in its targeting and tracking."
+SMALL_ACOT_MASS_DRIVER_AE: "Малая пушка Крусио"
+MEDIUM_ACOT_MASS_DRIVER_AE: "Средняя пушка Crucio"
+LARGE_ACOT_MASS_DRIVER_AE: "Большая пушка Крусио"
+ACOT_MASS_DRIVER_AE: "Пушка Крусио"
+ACOT_MASS_DRIVER_AE_DESC: "Модернизация до Arclite Cannon, Crucio-класса Cannon использует встроенные генераторы вещества для дальнейшего повышения эффективности снаряда, позволяя ему легко проникать в щиты."
+tech_mass_driver_ae: "Пушка Крусио"
+tech_mass_driver_ae_desc: "Модернизация до Arclite Cannon, Crucio-класса Cannon использует встроенные генераторы вещества для дальнейшего повышения эффективности снаряда, позволяя ему легко проникать в щиты."
+ 
+ACOT_AUTOCANNON_AE: "Жнец автоканнон"
+ACOT_AUTOCANNON_AE_DESC: "Reaper Autocannon использует жёсткие снаряды для быстрого пережевывания вражеских щитов и целей слабого места в их корпусе."
+tech_autocannons_ae: "Датчики нацеливания класса Reaper"
+tech_autocannons_ae_desc: "Обновление Stalker Cannons с помощью специализированного программного обеспечения для нацеливания, которое позволяет выявить критические слабые места, значительно увеличит ущерб наших пушек дакка."
+ 
+ACOT_ARTILLERY_AE: "Апокалипсическая артиллерия"
+ACOT_ARTILLERY_AE_DESC: "Артиллерия класса Apocalypse использует еще более прочный жесткий легкий материал, сделанный возможным благодаря нашим превосходным конструкциям. Этот обновленный шаблон устраняет практически все слабые места, представленные в предыдущих артиллериях."
+tech_kinetic_artillery_ae: "Апокалипсическая артиллерия"
+tech_kinetic_artillery_ae_desc: "Артиллерия класса Apocalypse использует еще более прочный жесткий легкий материал, сделанный возможным благодаря нашим превосходным конструкциям. Этот обновленный шаблон устраняет практически все слабые места, представленные в предыдущих артиллериях."
  
  
-ACOT_MISSILE_AE: "Dawnbreaker Missiles"
-ACOT_MISSILE_AE_DESC: "Dawnbreaker Missiles utilize miniaturized dark energies as warheads, making it superior to older generations. The improvements to our thrusters also greatly increase their speeds."
-tech_missile_ae: "Dawnbreaker Missiles"
-tech_missile_ae_desc: "Dawnbreaker Missiles utilize miniaturized dark energies as warheads, making it superior to older generations. The improvements to our thrusters also greatly increase their speeds."
+ACOT_FLAK_CANNON_AE: "Матрица защиты Inferno"
+ACOT_FLAK_CANNON_AE_DESC: "Inferno Defense Matrix оснащен усовершенствованными бионическими датчиками. Умственная связь между нашими передовыми компьютерами и специально выделенными охотниками за интеллектом класса 12 делает Inferno Flak смертельно опасным в его нацеливании и отслеживании."
+tech_flak_batteries_ae: "Матрица защиты Inferno"
+tech_flak_batteries_ae_desc: "Inferno Defense Matrix оснащен усовершенствованными бионическими датчиками. Умственная связь между нашими передовыми компьютерами и специально выделенными охотниками за интеллектом класса 12 делает Inferno Flak смертельно опасным в его нацеливании и отслеживании."
  
  
-ACOT_TORPEDO_AE: "Exodus Torpedoes"
-ACOT_TORPEDO_AE_DESC: "An improvement over Paradox Torpedoes, Exodus Torpedoes wrecks havoc on enemy fleet formations with extremely powerful refined dark energy warheads and hard-light materials."
-tech_torpedo_ae: "Exodus Torpedoes"
-tech_torpedo_ae_desc: "Superior to Paradox Torpedoes, Exodus Torpedoes wrecks havoc on enemy fleet formations with extremely powerful refined dark energy warheads and hard-light materials."
+ACOT_MISSILE_AE: "Ракеты Dawnbreaker"
+ACOT_MISSILE_AE_DESC: "Ракеты Dawnbreaker используют миниатюрные темные энергии в качестве боеголовок, что делает их превосходящими старые поколения. Усовершенствования наших двигателей также значительно увеличивают их скорость."
+tech_missile_ae: "Ракеты Dawnbreaker"
+tech_missile_ae_desc: "Ракеты Dawnbreaker используют миниатюрные темные энергии в качестве боеголовок, что делает их превосходящими старые поколения. Усовершенствования наших двигателей также значительно увеличивают их скорость."
  
  
-ACOT_SWARMER_MISSILES_AE: "Lucifer Cluster Missiles"
-ACOT_SWARMER_MISSILES_AE_DESC: "Lucifer Cluster Missiles utilizes a prototype computing system based from an extremely ancient precursor date of unknown origin, superior to that of Bionic Sensors."
-tech_swarmer_missile_ae: "Lucifer Cluster Missiles"
-tech_swarmer_missile_ae_desc: "Lucifer Cluster Missiles utilizes a prototype computing system based from an extremely ancient precursor date of unknown origin, superior to that of Bionic Sensors."
+ACOT_TORPEDO_AE: "Исход торпедовцев"
+ACOT_TORPEDO_AE_DESC: "Улучшение по сравнению с Paradox Torpedoes, Exodus Torpedoes разрушает соединения флота противника с чрезвычайно мощными усовершенствованными темно-энергетическими боеголовками и жёсткими материалами."
+tech_torpedo_ae: "Исход торпедовцев"
+tech_torpedo_ae_desc: "Превосходя «Paradox Torpedoes», «Exodus Torpedoes» обрушивает хаос на соединения флота противника с чрезвычайно мощными усовершенствованными тёмно-энергетическими боеголовками и твёрдыми материалами."
  
  
-ACOT_MISSILE_BARRAGE_AE: "Medusa Rocket Barrage System"
-ACOT_MISSILE_BARRAGE_AE_DESC: "Deadly long-range rocket systems launched from a quad-launcher that sacrifices tracking capabilities for increased firepower."
-tech_barrage_missile_ae: "Medusa-Class RBS"
-tech_barrage_missile_ae_desc: "Gorgon was the solid beginning, now we move to the next playing field of explosives. The Medusa combines the ingenuity of the previous Gorgon with the increased firepowers enabled by the Dawnbringer Missiles."
- 
-ACOT_MISSILE_XL_AE: "Permafrost Missile Battery"
-ACOT_MISSILE_XL_AE_DESC: "Powerful spinal-based missile system that fires a pair of high-speed, deadly accurate missiles with high tracking capabilities."
-tech_xl_missile_ae: "Permafrost XLMBS"
-tech_xl_missile_ae_desc: "Following the success of Alpha Project and the upgrades made to our explosive and guidance technologies. We can now apply the same principal to the old Delta-based Quicksilver. The scientists are running out of ideas for the weapon's name, so  they did a vote and Permafrost won due to it being the lead project's idea."
- 
-ACOT_MISSILE_NUKE_AE: "Aqua Giga-Warhead Launcher"
-ACOT_MISSILE_NUKE_AE_DESC: "Massive warhead launcher designed to take out capital ships through heavy ordinances. Has a minimum range of 100."
-tech_missile_nuke_ae: "Blue Bomb of Bombification"
-tech_missile_nuke_ae_desc: "The next episode of Project Megumin. Through the explooosion will be less flashy due to it being all blue, the poor fellows who will be eating the resulting impact will suffer some terrible, terrible damage!"
- 
-ACOT_PARTICLE_LANCE_AE: "Twilight Lance"
-ACOT_PARTICLE_LANCE_AE_DESC: "Refinements in our Dark Matter and Energy allows us to create an even stronger Dark Energy Lance. The enemy shall burn under the searing energy of the Twilight Lance."
-tech_energy_lance_ae: "Twilight Lance"
-tech_energy_lance_ae_desc: "Refinements in our Dark Matter and Energy allows us to create an even stronger Dark Energy Lance. The enemy shall burn under the searing energy of the Twilight Lance."
+ACOT_SWARMER_MISSILES_AE: "Кассетные ракеты Lucifer"
+ACOT_SWARMER_MISSILES_AE_DESC: "Lucifer Cluster Missiles использует прототип вычислительной системы, основанной на чрезвычайно древней дате-предшественнике неизвестного происхождения, превосходящей модель Bionic Sensors."
+tech_swarmer_missile_ae: "Кассетные ракеты Lucifer"
+tech_swarmer_missile_ae_desc: "Lucifer Cluster Missiles использует прототип вычислительной системы, основанной на чрезвычайно древней дате-предшественнике неизвестного происхождения, превосходящей модель Bionic Sensors."
  
  
-ACOT_ARC_EMITTER_AE: "Nova Emitter"
-ACOT_ARC_EMITTER_AE_DESC: "Nova Emitter improves upon the Dark Energy Emitter, its frightening light will pierce through enemy fleets like storms that blackens the skies of our homeworld."
-tech_arc_emitter_ae: "Nova Emitter"
-tech_arc_emitter_ae_desc: "Nova Emitter improves upon the Dark Energy Emitter, its frightening light will pierce through enemy fleets like storms that blackens the skies of our homeworld."
+ACOT_MISSILE_BARRAGE_AE: "Ракетно-заградительная система «Медуза»"
+ACOT_MISSILE_BARRAGE_AE_DESC: "Смертоносные ракетные системы дальнего радиуса действия запускаются с четырехгранника, который жертвует возможностями слежения за возросшей огневой мощью."
+tech_barrage_missile_ae: "RBS класса «Медуза»"
+tech_barrage_missile_ae_desc: "Горгон был твердым началом, теперь мы переходим к следующему игровому полю взрывчатки. «Медуза» сочетает в себе изобретательность предыдущего «Горгона» с возросшими огневыми мощностями, которые дают «Ракеты Доунбрингер»."
+ 
+ACOT_MISSILE_XL_AE: "Ракетная батарея вечной мерзлоты"
+ACOT_MISSILE_XL_AE_DESC: "Мощный ракетный комплекс спинального базирования, который запускает пару высокоскоростных, смертоносных точных ракет с высокими возможностями слежения."
+tech_xl_missile_ae: "Вечная мерзлота XLMBS"
+tech_xl_missile_ae_desc: "После успеха Alpha Project и модернизации наших взрывных и направляющих технологий. Теперь мы можем применить того же самого участника к старому Quicksilver на базе Delta. У ученых заканчиваются идеи названия оружия, поэтому они сделали голосование, и Вечная мерзлота победила, потому что это была идея ведущего проекта."
+ 
+ACOT_MISSILE_NUKE_AE: "Пусковая установка Aqua Giga-Warhead"
+ACOT_MISSILE_NUKE_AE_DESC: "Массированная боеголовка, предназначенная для вывоза капитальных кораблей с помощью тяжелых боеприпасов. Имеет минимальный диапазон 100."
+tech_missile_nuke_ae: "Голубая бомба бомбардировки"
+tech_missile_nuke_ae_desc: "Следующий эпизод проекта «Мегумин». Через взрыв будет менее вспыхнуло из-за того, что он весь синий, бедные ребята, которые будут есть в результате удара будет нанесен какой-то ужасный, ужасный ущерб!"
+ 
+ACOT_PARTICLE_LANCE_AE: "Сумеречная лань"
+ACOT_PARTICLE_LANCE_AE_DESC: "Уточнения в нашей Темной Материи и Энергии позволяют нам создать еще более сильную Темную Энергетическую Ланцу. Враг будет гореть под страшной энергией Сумеречной Ланцы."
+tech_energy_lance_ae: "Сумеречная лань"
+tech_energy_lance_ae_desc: "Уточнения в нашей Темной Материи и Энергии позволяют нам создать еще более сильную Темную Энергетическую Ланцу. Враг будет гореть под страшной энергией Сумеречной Ланцы."
  
  
-ACOT_MASS_ACCELERATOR_AE: "Alpha Cannon"
-ACOT_MASS_ACCELERATOR_AE_DESC: "Alpha Cannon uses an even larger spinal-artillery platform made possible due to our perfection in hard-light and dark matter technology. Even the most advanced shields cannot withstand a direct hit from this behemoth for long."
-tech_mass_accelerator_ae: "Alpha Mass Accelerator Cannon "
-tech_mass_accelerator_ae_desc: "Alpha Cannon uses an even larger spinal-artillery platform made possible due to our perfection in hard-light and dark matter technology. Even the most advanced shields cannot withstand a direct hit from this behemoth for long."
+ACOT_ARC_EMITTER_AE: "Нова-Эмиттер"
+ACOT_ARC_EMITTER_AE_DESC: "Новый Излучатель совершенствует Излучатель Темной Энергии, его пугающий свет пронесется сквозь вражеские флоты, как штормы, которые чернеют небо нашего родного мира."
+tech_arc_emitter_ae: "Нова-Эмиттер"
+tech_arc_emitter_ae_desc: "Новый Излучатель совершенствует Излучатель Темной Энергии, его пугающий свет пронесется сквозь вражеские флоты, как штормы, которые чернеют небо нашего родного мира."
  
  
-ACOT_PERDITION_BEAM_AE: "Vanquisher Beam"
-ACOT_PERDITION_BEAM_AE_DESC: "True to its name, the Vanquisher-Class Cannon fires a fully-channeled and focused dark energy beam that will utterly destroy an entire ship."
-tech_perdition_beam_ae: "Vanquisher Beam"
-tech_perdition_beam_ae_desc: "True to its name, the Vanquisher-Class Cannon fires a fully-channeled and focused dark energy beam that will utterly destroy an entire ship."
+ACOT_MASS_ACCELERATOR_AE: "Альфа-пушка"
+ACOT_MASS_ACCELERATOR_AE_DESC: "Alpha Cannon использует еще более крупную спинально-артиллерийскую платформу, сделанную возможной благодаря нашему совершенству в технологии жёсткого света и темной материи. Даже самые продвинутые щиты долго не выдерживают прямого попадания от этого бегемота."
+tech_mass_accelerator_ae: "Пушка ускорителя альфа-массы"
+tech_mass_accelerator_ae_desc: "Alpha Cannon использует еще более крупную спинально-артиллерийскую платформу, сделанную возможной благодаря нашему совершенству в технологии жёсткого света и темной материи. Даже самые продвинутые щиты долго не выдерживают прямого попадания от этого бегемота."
  
  
-ACOT_FIGHTERS_HANGAR_AE: "Daredevil Interceptors"
-ACOT_FIGHTERS_HANGAR_AE_DESC: "Equipped with twin pulse auto-cannons, these new interceptors can chew through armor and missiles in no time."
-ACOT_BOMBERS_HANGAR_AE: "Nemesis Bombers"
-ACOT_BOMBERS_HANGAR_AE_DESC: "Armed with powerful explosive energy torpedoesa, these new bombers can make short work of larger ships."
-ACOT_GUNSHIP_HANGAR_AE: "Athena Gunships"
-ACOT_GUNSHIP_HANGAR_AE_DESC: "Athena Gunships are specialized strike crafts that excel at supporting larger ships with long-range fire supports. They are deployed in a few numbers and take significant longer time to reinforce however."
-tech_strike_craft_bomber_ae: "Advanced Avionics Augmentations"
-tech_strike_craft_bomber_ae_desc: "Further upgrades can now be made to strike crafts with the introduction of Alpha Reactor, Thrusters and defense systems."
-tech_strike_craft_gunship_ae: "Athena Gunship"
-tech_strike_craft_gunship_ae_desc: "While the roles of strike crafts have been well defined by bombers and interceptors, there are certain problems. Both these types of strike crafts take a significant amount of time to reach striking distances. In many battles, the carriers are long destroyed before these nimble strike crafts even get to make their first runs. Plans are being made to create a specialized long-range strike crafts instead."
- 
-ACOT_PARTICLE_LANCE_AE_LARGE: "Twilight Caster"
-ACOT_PARTICLE_LANCE_AE_LARGE_DESC: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Twilight Lance, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
-tech_resized_energy_lance_ae: "Twilight Energy Caster"
-tech_resized_energy_lance_ae_desc: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Twilight Lance, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
+ACOT_PERDITION_BEAM_AE: "Балка Ванкишера"
+ACOT_PERDITION_BEAM_AE_DESC: "Верная своему названию, Пушка класса Vanquisher запускает полностью канальный и сфокусированный пучок темной энергии, который полностью уничтожит целый корабль."
+tech_perdition_beam_ae: "Балка Ванкишера"
+tech_perdition_beam_ae_desc: "Верная своему названию, Пушка класса Vanquisher запускает полностью канальный и сфокусированный пучок темной энергии, который полностью уничтожит целый корабль."
  
  
-ACOT_ARC_EMITTER_AE_LARGE: "Nova Coil"
-ACOT_ARC_EMITTER_AE_LARGE_DESC: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Nova Emitter, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
-tech_resized_arc_emitter_ae: "Nova Emitter Coil"
-tech_resized_arc_emitter_ae_desc: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Nova Emitter, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
+ACOT_FIGHTERS_HANGAR_AE: "Сорвиголовы перехватчики"
+ACOT_FIGHTERS_HANGAR_AE_DESC: "Оснащенные сдвоенными импульсными автопушками, эти новые перехватчики могут в кратчайшие сроки пережевывать броню и ракеты."
+ACOT_BOMBERS_HANGAR_AE: "Бомбардировщики Nemesis"
+ACOT_BOMBERS_HANGAR_AE_DESC: "Вооруженные мощными взрывными энергетическими торпедами, эти новые бомбардировщики могут сделать короткую работу более крупных кораблей."
+ACOT_GUNSHIP_HANGAR_AE: "Афина Гуншипс"
+ACOT_GUNSHIP_HANGAR_AE_DESC: "Athena Gunships - специализированные ударные ремесла, превосходящие по поддержке более крупных кораблей с дальними огневыми опорами. Они развернуты в небольшом количестве и, однако, требуют значительно больше времени для их укрепления."
+tech_strike_craft_bomber_ae: "Усовершенствования авионики"
+tech_strike_craft_bomber_ae_desc: "В настоящее время возможна дальнейшая модернизация для нанесения ударов по ремеслам с внедрением альфа-реактора, двигателей малой тяги и систем обороны."
+tech_strike_craft_gunship_ae: "Афина Гуншип"
+tech_strike_craft_gunship_ae_desc: "Хотя роль ударных судов четко определена бомбардировщиками и перехватчиками, существуют определенные проблемы. Оба этих типа ударных промыслов занимают значительное количество времени для достижения поражающих дистанций. Во многих боях носители долго уничтожаются, прежде чем эти ловкие ударные промыслы даже доберутся до первых пробежек. В настоящее время разрабатываются планы по созданию специализированного ударного промысла дальнего действия."
+ 
+ACOT_PARTICLE_LANCE_AE_LARGE: "Сумерки Кастер"
+ACOT_PARTICLE_LANCE_AE_LARGE_DESC: "Достижения в наших манипуляциях с жёстким светом позволяют нам создавать башенки, достаточно сильные для размещения Сумеречного Ланца, снимая ограничения на установку позвоночника. Однако это достигается за счет значительного снижения дальности, точности и огневой мощи по сравнению с первоначальной конструкцией."
+tech_resized_energy_lance_ae: "Сумеречная энергия Caster"
+tech_resized_energy_lance_ae_desc: "Достижения в наших манипуляциях с жёстким светом позволяют нам создавать башенки, достаточно сильные для размещения Сумеречного Ланца, снимая ограничения на установку позвоночника. Однако это достигается за счет значительного снижения дальности, точности и огневой мощи по сравнению с первоначальной конструкцией."
  
  
-ACOT_MASS_ACCELERATOR_AE_LARGE: "Alpha Macrocannon"
-ACOT_MASS_ACCELERATOR_AE_LARGE_DESC: "Kick it into high-gear!"
-tech_resized_mass_accelerator_ae: "Alpha Macrocannon"
-tech_resized_mass_accelerator_ae_desc: "Spin'em up, unload!"
- 
-ACOT_TITAN_EMITTER_AE: "Titan Nova Emitter"
-ACOT_TITAN_EMITTER_AE_DESC: "Like its predecessor, this titanic emitter sacrifices range for raw power."
-tech_titan_emitter_ae: "Titan Nova Emitter"
-tech_titan_emitter_ae_desc: "We can improve the old Titanic Emitter to utilize the Nova-Class Discharger instead."
+ACOT_ARC_EMITTER_AE_LARGE: "Нова-Койл"
+ACOT_ARC_EMITTER_AE_LARGE_DESC: "Достижения в наших манипуляциях с жёстким светом позволяют нам создавать башенки, достаточно прочные для размещения Nova Emitter, снимая ограничения на установку позвоночника. Однако это достигается за счет значительного снижения дальности, точности и огневой мощи по сравнению с первоначальной конструкцией."
+tech_resized_arc_emitter_ae: "Катушка эмиттера Nova"
+tech_resized_arc_emitter_ae_desc: "Достижения в наших манипуляциях с жёстким светом позволяют нам создавать башенки, достаточно прочные для размещения Nova Emitter, снимая ограничения на установку позвоночника. Однако это достигается за счет значительного снижения дальности, точности и огневой мощи по сравнению с первоначальной конструкцией."
  
  
-ACOT_TITAN_ACCELERATOR_AE: "Titan Alpha Accelerator Cannon"
-ACOT_TITAN_ACCELERATOR_AE_DESC: "Titanic-scaled Mass Accelerator capable of hitting targets across extreme distances for massive damage."
-tech_titan_accelerator_ae: "Quad Accelerator Railways"
-tech_titan_accelerator_ae_desc: "Doubling the Railgun Accelerators can now be safely done without risking hull damage with the advent of advanced hard-light engineering."
+ACOT_MASS_ACCELERATOR_AE_LARGE: "Альфа Макроканнон"
+ACOT_MASS_ACCELERATOR_AE_LARGE_DESC: "Пинай его в высокие передачи!"
+tech_resized_mass_accelerator_ae: "Альфа Макроканнон"
+tech_resized_mass_accelerator_ae_desc: "Раскрутите, разгрузите!"
+ 
+ACOT_TITAN_EMITTER_AE: "Титан Нова Эмиттер"
+ACOT_TITAN_EMITTER_AE_DESC: "Как и его предшественник, этот титанический излучатель жертвует диапазоном для сырой мощности."
+tech_titan_emitter_ae: "Титан Нова Эмиттер"
+tech_titan_emitter_ae_desc: "Мы можем усовершенствовать старый Титанический излучатель, чтобы использовать разрядник Нова-класса."
+ 
+ 
+ACOT_TITAN_ACCELERATOR_AE: "Титан Альфа Ускоритель Пушка"
+ACOT_TITAN_ACCELERATOR_AE_DESC: "Массовый ускоритель с титаническим масштабом, способный поражать цели на крайних расстояниях для нанесения огромных повреждений."
+tech_titan_accelerator_ae: "Железные дороги Quad Accelerator"
+tech_titan_accelerator_ae_desc: "Удвоение Railgun Accelerators теперь можно безопасно сделать без риска повреждения корпуса с появлением передовой жёсткой легкой техники."
  
 ######## ARMOR HERE
-SMALL_ACOT_ARMOR_AE: "Small Abyss Armor"
-MEDIUM_ACOT_ARMOR_AE: "Medium Abyss Armor"
-LARGE_ACOT_ARMOR_AE: "Large Abyss Armor"
-ACOT_ARMOR_AE: "Abyss Armor"
-ACOT_ARMOR_AE_DESC: "Abyss Armor is imbued with a small amount of Dark Energy Shield, allowing it to fare better against anti-armor weapons should the primary shield generator fail."
-tech_armor_ae: "Abyss Armor"
-tech_armor_ae_desc: "Abyss Armor is imbued with a small amount of Dark Energy Shield, allowing it to fare better against anti-armor weapons should the primary shield generator fail."
+SMALL_ACOT_ARMOR_AE: "Малая пропасть доспехов"
+MEDIUM_ACOT_ARMOR_AE: "Броня средней пропасти"
+LARGE_ACOT_ARMOR_AE: "Большая бездна доспехов"
+ACOT_ARMOR_AE: "Бездна доспехов"
+ACOT_ARMOR_AE_DESC: "Abyss Armor проникнут небольшим количеством Dark Energy Shield, что позволяет ему лучше бороться с противоброневым оружием в случае отказа генератора первичного щита."
+tech_armor_ae: "Бездна доспехов"
+tech_armor_ae_desc: "Abyss Armor проникнут небольшим количеством Dark Energy Shield, что позволяет ему лучше бороться с противоброневым оружием в случае отказа генератора первичного щита."
  
  
-SMALL_ACOT_ENIGMATIC_SHIELD_AE: "Small Dark Energy Deflectors"
-MEDIUM_ACOT_ENIGMATIC_SHIELD_AE: "Medium Dark Energy Deflectors"
-LARGE_ACOT_ENIGMATIC_SHIELD_AE: "Large Dark Energy Deflectors"
-ACOT_ENIGMATIC_SHIELD_AE: "Dark Energy Deflectors"
-ACOT_ENIGMATIC_SHIELD_AE_DESC: "Dark Energy Deflectors are notably stronger than Dark Matter variants, but also require Dark Energy to power instead as a result."
-tech_dark_matter_deflector_ae: "Dark Energy Deflectors"
-tech_dark_matter_deflector_ae_desc: "Dark Energy Deflectors are notably stronger than Dark Matter variants, but also require Dark Energy to power instead as a result."
+SMALL_ACOT_ENIGMATIC_SHIELD_AE: "Малые дефлекторы темной энергии"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_AE: "Дефлекторы средней темной энергии"
+LARGE_ACOT_ENIGMATIC_SHIELD_AE: "Большие дефлекторы темной энергии"
+ACOT_ENIGMATIC_SHIELD_AE: "Дефлекторы темной энергии"
+ACOT_ENIGMATIC_SHIELD_AE_DESC: "Дефлекторы темной энергии значительно сильнее, чем варианты темной материи, но в результате им также требуется питание темной энергии."
+tech_dark_matter_deflector_ae: "Дефлекторы темной энергии"
+tech_dark_matter_deflector_ae_desc: "Дефлекторы темной энергии значительно сильнее, чем варианты темной материи, но в результате им также требуется питание темной энергии."
  
  
 ######## OTHER STUFFS HERE
-SHIP_THRUSTER_AE: "Apollo Thrusters"
-SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations."
+SHIP_THRUSTER_AE: "Толкачи Аполлона"
+SHIP_THRUSTER_AE_DESC: "Эта нетронутая и полностью оптимизированная двигательная установка темной материи, возможно, самая сильная в галактике, легко превосходящая все предыдущие поколения."
  
-DESTROYER_SHIP_THRUSTER_AE: "Apollo Thrusters"
-DESTROYER_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations."
+DESTROYER_SHIP_THRUSTER_AE: "Толкачи Аполлона"
+DESTROYER_SHIP_THRUSTER_AE_DESC: "Эта нетронутая и полностью оптимизированная двигательная установка темной материи, возможно, самая сильная в галактике, легко превосходящая все предыдущие поколения."
  
-CRUISER_SHIP_THRUSTER_AE: "Apollo Thrusters"
-CRUISER_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations."
+CRUISER_SHIP_THRUSTER_AE: "Толкачи Аполлона"
+CRUISER_SHIP_THRUSTER_AE_DESC: "Эта нетронутая и полностью оптимизированная двигательная установка темной материи, возможно, самая сильная в галактике, легко превосходящая все предыдущие поколения."
  
-BATTLESHIP_SHIP_THRUSTER_AE: "Apollo Thrusters"
-BATTLESHIP_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations."
+BATTLESHIP_SHIP_THRUSTER_AE: "Толкачи Аполлона"
+BATTLESHIP_SHIP_THRUSTER_AE_DESC: "Эта нетронутая и полностью оптимизированная двигательная установка темной материи, возможно, самая сильная в галактике, легко превосходящая все предыдущие поколения."
  
-TITAN_SHIP_THRUSTER_AE: "Apollo Thrusters"
-TITAN_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations."
+TITAN_SHIP_THRUSTER_AE: "Толкачи Аполлона"
+TITAN_SHIP_THRUSTER_AE_DESC: "Эта нетронутая и полностью оптимизированная двигательная установка темной материи, возможно, самая сильная в галактике, легко превосходящая все предыдущие поколения."
  
-COLOSSUS_SHIP_THRUSTER_AE: "Apollo Thrusters"
-COLOSSUS_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations."
+COLOSSUS_SHIP_THRUSTER_AE: "Толкачи Аполлона"
+COLOSSUS_SHIP_THRUSTER_AE_DESC: "Эта нетронутая и полностью оптимизированная двигательная установка темной материи, возможно, самая сильная в галактике, легко превосходящая все предыдущие поколения."
  
-tech_fe_thruster_2: "Dark Matter Propulsion Refinements"
-tech_fe_thruster_2_desc: "The thrusters used by the Fallen Empires are quite old and are not nearly as powerful as they are supposed to. If we can refine the inner-workings of these thrusters, we will be able to bring back the truly powerful ship engines worthy of our power."
-TECH_UNLOCK_FE_THRUSTER_TITLE: "§HРазблокирует компонентs:§! Apollo Thrusters"
-TECH_UNLOCK_FE_THRUSTER_DESC: "§HApollo Thrusters§!\nThis pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations."
+tech_fe_thruster_2: "Уточнение движения темной материи"
+tech_fe_thruster_2_desc: "Двигатели, используемые Падшими Империями, довольно старые и не настолько мощные, как предполагалось. Если мы сможем усовершенствовать внутренние работы этих двигателей, мы сможем вернуть действительно мощные двигатели, достойные нашей мощности."
+TECH_UNLOCK_FE_THRUSTER_TITLE: "Разблокирует компонентs: Толкачи Аполлона"
+TECH_UNLOCK_FE_THRUSTER_DESC: "Эта нетронутая и полностью оптимизированная двигательная установка темной материи, возможно, самая сильная в галактике, легко превосходящая все предыдущие поколения."
  
  
-CORVETTE_DARK_MATTER_REACTOR_AE: "Alpha Reactor"
-CORVETTE_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor improves upon the basic Dark Matter Reactor by implementing Dark Energy into the mix, creating a much more powerful power generator."
+CORVETTE_DARK_MATTER_REACTOR_AE: "Альфа-реактор"
+CORVETTE_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor улучшает базовый реактор темной материи, внедряя в смесь темную энергию, создавая гораздо более мощный генератор энергии."
  
-DESTROYER_DARK_MATTER_REACTOR_AE: "Alpha Reactor"
-DESTROYER_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor improves upon the basic Dark Matter Reactor by implementing Dark Energy into the mix, creating a much more powerful power generator."
+DESTROYER_DARK_MATTER_REACTOR_AE: "Альфа-реактор"
+DESTROYER_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor улучшает базовый реактор темной материи, внедряя в смесь темную энергию, создавая гораздо более мощный генератор энергии."
  
-CRUISER_DARK_MATTER_REACTOR_AE: "Alpha Reactor"
-CRUISER_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor improves upon the basic Dark Matter Reactor by implementing Dark Energy into the mix, creating a much more powerful power generator."
+CRUISER_DARK_MATTER_REACTOR_AE: "Альфа-реактор"
+CRUISER_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor улучшает базовый реактор темной материи, внедряя в смесь темную энергию, создавая гораздо более мощный генератор энергии."
  
-BATTLESHIP_DARK_MATTER_REACTOR_AE: "Alpha Reactor"
-BATTLESHIP_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor improves upon the basic Dark Matter Reactor by implementing Dark Energy into the mix, creating a much more powerful power generator."
+BATTLESHIP_DARK_MATTER_REACTOR_AE: "Альфа-реактор"
+BATTLESHIP_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor улучшает базовый реактор темной материи, внедряя в смесь темную энергию, создавая гораздо более мощный генератор энергии."
  
-TITAN_DARK_MATTER_REACTOR_AE: "Alpha Reactor"
-TITAN_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor improves upon the basic Dark Matter Reactor by implementing Dark Energy into the mix, creating a much more powerful power generator."
+TITAN_DARK_MATTER_REACTOR_AE: "Альфа-реактор"
+TITAN_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor улучшает базовый реактор темной материи, внедряя в смесь темную энергию, создавая гораздо более мощный генератор энергии."
  
-COLOSSUS_DARK_MATTER_REACTOR_AE: "Alpha Reactor"
-COLOSSUS_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor improves upon the basic Dark Matter Reactor by implementing Dark Energy into the mix, creating a much more powerful power generator."
+COLOSSUS_DARK_MATTER_REACTOR_AE: "Альфа-реактор"
+COLOSSUS_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor улучшает базовый реактор темной материи, внедряя в смесь темную энергию, создавая гораздо более мощный генератор энергии."
  
-PLATFORM_DARK_MATTER_REACTOR_AE: "Alpha Reactor"
-PLATFORM_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor improves upon the basic Dark Matter Reactor by implementing Dark Energy into the mix, creating a much more powerful power generator."
+PLATFORM_DARK_MATTER_REACTOR_AE: "Альфа-реактор"
+PLATFORM_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor улучшает базовый реактор темной материи, внедряя в смесь темную энергию, создавая гораздо более мощный генератор энергии."
  
-ION_CANNON_DARK_MATTER_REACTOR_AE: "Alpha Reactor"
-ION_CANNON_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor improves upon the basic Dark Matter Reactor by implementing Dark Energy into the mix, creating a much more powerful power generator."
+ION_CANNON_DARK_MATTER_REACTOR_AE: "Альфа-реактор"
+ION_CANNON_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor улучшает базовый реактор темной материи, внедряя в смесь темную энергию, создавая гораздо более мощный генератор энергии."
  
-STARBASE_DARK_MATTER_REACTOR_AE: "Alpha Reactor"
-STARBASE_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor improves upon the basic Dark Matter Reactor by implementing Dark Energy into the mix, creating a much more powerful power generator.r"
+STARBASE_DARK_MATTER_REACTOR_AE: "Альфа-реактор"
+STARBASE_DARK_MATTER_REACTOR_AE_DESC: "Альфа Энигматический реактор улучшает базовый Реактор Темной Материи, внедряя Темную Энергию в смесь, создавая гораздо более мощный генератор.r"
  
-tech_dark_matter_power_core_ae: "Alpha-class Enigmatic Power"
-tech_dark_matter_power_core_ae_desc: "Now that we understand the concept of both Dark Matter and Dark Energy, it may yet be possible to create a much more powerful power source that surpasses that of even what the fallen one used. This new enigmatic reactor code-named §H"Alpha"§! will make us the envy of the stars.\n\n§RResearching this technology may agitate the fallen empires, as we are basically going to out-tech them.§!"
-TECH_UNLOCK_DARK_MATTER_POWER_AE_TITLE: "§HРазблокирует компонент:§! Alpha Enigmatic Reactor"
-TECH_UNLOCK_DARK_MATTER_POWER_AE_DESC: "§HAlpha Enigmatic Reactor§!\nAlpha Enigmatic Reactor improves upon the basic Dark Matter Reactor by implementing Dark Energy into the mix, creating a much more powerful power generator."
+tech_dark_matter_power_core_ae: "Энигматическая сила альфа-класса"
+tech_dark_matter_power_core_ae_desc: "Теперь, когда мы понимаем концепцию как Темной Материи, так и Темной Энергии, возможно, еще можно создать гораздо более мощный источник энергии, который превосходит даже тот, что использовал падший. Этот новый загадочный реактор под кодовым названием «Альфа» заставит нас завидовать звездам .\n\nИсследование этой технологии может взбудоражить упавшие империи, так как мы в основном собираемся их освоить."
+TECH_UNLOCK_DARK_MATTER_POWER_AE_TITLE: "Разблокирует компонент: Альфа Энигматический реактор"
+TECH_UNLOCK_DARK_MATTER_POWER_AE_DESC: "Альфа Enigmatic Reactor\nАльфа Enigmatic Reactor улучшает базовый реактор темной материи, внедряя Dark Energy в смесь, создавая гораздо более мощный генератор энергии."
  
 ######################################################################################
 ###
 #####################################################################################
  
-AE_OFFENSIVE_COMBAT_COMPUTER: "Offensive Bionic Combat Computer (Small Ships)"
-AE_OFFENSIVE_COMBAT_COMPUTER_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime. This particular version is optimized for offensive tactics."
+AE_OFFENSIVE_COMBAT_COMPUTER: "Наступательный бионический боевой компьютер (малые корабли)"
+AE_OFFENSIVE_COMBAT_COMPUTER_DESC: "Alpha-Class Bionic Combat Computer - чрезвычайно продвинутый бионический боевой компьютер, образующий мощные связи между органическими (или синтетическими) операторами с корабельным Дельфийским компьютером. Эта сеть позволяет выдавать команды с небольшим временем простоя или без него. Именно эта версия оптимизирована для наступательной тактики."
  
-AE_BALANCE_COMBAT_COMPUTER: "Balanced Bionic Combat Computer (Small Ships)"
-AE_BALANCE_COMBAT_COMPUTER_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime."
+AE_BALANCE_COMBAT_COMPUTER: "Сбалансированный бионический боевой компьютер (малые корабли)"
+AE_BALANCE_COMBAT_COMPUTER_DESC: "Alpha-Class Bionic Combat Computer - чрезвычайно продвинутый бионический боевой компьютер, образующий мощные связи между органическими (или синтетическими) операторами с корабельным Дельфийским компьютером. Эта сеть позволяет выдавать команды с небольшим временем простоя или без него."
  
-AE_DEFENSIVE_COMBAT_COMPUTER: "Defensive Bionic Combat Computer (Small Ships)"
-AE_DEFENSIVE_COMBAT_COMPUTER_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime. This particular version is optimized for defensive tactics."
+AE_DEFENSIVE_COMBAT_COMPUTER: "Оборонительный бионический боевой компьютер (малые корабли)"
+AE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Alpha-Class Bionic Combat Computer - чрезвычайно продвинутый бионический боевой компьютер, образующий мощные связи между органическими (или синтетическими) операторами с корабельным Дельфийским компьютером. Эта сеть позволяет выдавать команды с небольшим временем простоя или без него. Именно эта версия оптимизирована для оборонительной тактики."
  
-AE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Offensive Bionic Combat Computer (Large Ships)"
-AE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime. This particular version is optimized for offensive tactics."
+AE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Наступательный бионический боевой компьютер (большие корабли)"
+AE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Alpha-Class Bionic Combat Computer - чрезвычайно продвинутый бионический боевой компьютер, образующий мощные связи между органическими (или синтетическими) операторами с корабельным Дельфийским компьютером. Эта сеть позволяет выдавать команды с небольшим временем простоя или без него. Именно эта версия оптимизирована для наступательной тактики."
  
-AE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "Balanced Bionic Combat Computer (Large Ships)"
-AE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime."
+AE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "Сбалансированный бионический боевой компьютер (большие корабли)"
+AE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Alpha-Class Bionic Combat Computer - чрезвычайно продвинутый бионический боевой компьютер, образующий мощные связи между органическими (или синтетическими) операторами с корабельным Дельфийским компьютером. Эта сеть позволяет выдавать команды с небольшим временем простоя или без него."
  
-AE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Defensive Bionic Combat Computer (Large Ships)"
-AE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime. This particular version is optimized for defensive tactics."
+AE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Оборонительный бионический боевой компьютер (большие корабли)"
+AE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Alpha-Class Bionic Combat Computer - чрезвычайно продвинутый бионический боевой компьютер, образующий мощные связи между органическими (или синтетическими) операторами с корабельным Дельфийским компьютером. Эта сеть позволяет выдавать команды с небольшим временем простоя или без него. Именно эта версия оптимизирована для оборонительной тактики."
  
-AE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "Offensive Bionic Combat Computer (Titanic Ships)"
-AE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime. This particular version is optimized for offensive tactics."
+AE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "Наступательный бионический боевой компьютер (титанические корабли)"
+AE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Alpha-Class Bionic Combat Computer - чрезвычайно продвинутый бионический боевой компьютер, образующий мощные связи между органическими (или синтетическими) операторами с корабельным Дельфийским компьютером. Эта сеть позволяет выдавать команды с небольшим временем простоя или без него. Именно эта версия оптимизирована для наступательной тактики."
  
-AE_BALANCE_COMBAT_COMPUTER_TITAN: "Balanced Bionic Combat Computer (Titanic Ships)"
-AE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime."
+AE_BALANCE_COMBAT_COMPUTER_TITAN: "Сбалансированный бионический боевой компьютер (титанические корабли)"
+AE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "Alpha-Class Bionic Combat Computer - чрезвычайно продвинутый бионический боевой компьютер, образующий мощные связи между органическими (или синтетическими) операторами с корабельным Дельфийским компьютером. Эта сеть позволяет выдавать команды с небольшим временем простоя или без него."
  
-AE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "Defensive Bionic Combat Computer (Titanic Ships)"
-AE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime. This particular version is optimized for defensive tactics."
+AE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "Оборонительный бионический боевой компьютер (титанические корабли)"
+AE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Alpha-Class Bionic Combat Computer - чрезвычайно продвинутый бионический боевой компьютер, образующий мощные связи между органическими (или синтетическими) операторами с корабельным Дельфийским компьютером. Эта сеть позволяет выдавать команды с небольшим временем простоя или без него. Именно эта версия оптимизирована для оборонительной тактики."
  
-AE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "Offensive Bionic Combat Computer (Capital Ships)"
-AE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime. This particular version is optimized for offensive tactics."
+AE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "Наступательный бионический боевой компьютер (капитальные корабли)"
+AE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Alpha-Class Bionic Combat Computer - чрезвычайно продвинутый бионический боевой компьютер, образующий мощные связи между органическими (или синтетическими) операторами с корабельным Дельфийским компьютером. Эта сеть позволяет выдавать команды с небольшим временем простоя или без него. Именно эта версия оптимизирована для наступательной тактики."
  
-AE_BALANCE_COMBAT_COMPUTER_GOLIATH: "Balanced Bionic Combat Computer (Capital Ships)"
-AE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime."
+AE_BALANCE_COMBAT_COMPUTER_GOLIATH: "Сбалансированный бионический боевой компьютер (капитальные корабли)"
+AE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "Alpha-Class Bionic Combat Computer - чрезвычайно продвинутый бионический боевой компьютер, образующий мощные связи между органическими (или синтетическими) операторами с корабельным Дельфийским компьютером. Эта сеть позволяет выдавать команды с небольшим временем простоя или без него."
  
-AE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "Defensive Bionic Combat Computer (Capital Ships)"
-AE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime. This particular version is optimized for defensive tactics."
+AE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "Оборонительный бионический боевой компьютер (капитальные корабли)"
+AE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Alpha-Class Bionic Combat Computer - чрезвычайно продвинутый бионический боевой компьютер, образующий мощные связи между органическими (или синтетическими) операторами с корабельным Дельфийским компьютером. Эта сеть позволяет выдавать команды с небольшим временем простоя или без него. Именно эта версия оптимизирована для оборонительной тактики."
  
-AE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Offensive Bionic Combat Computer (Station)"
-AE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime. This particular version is optimized for offensive tactics."
+AE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Наступательный бионический боевой компьютер (станция)"
+AE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Alpha-Class Bionic Combat Computer - чрезвычайно продвинутый бионический боевой компьютер, образующий мощные связи между органическими (или синтетическими) операторами с корабельным Дельфийским компьютером. Эта сеть позволяет выдавать команды с небольшим временем простоя или без него. Именно эта версия оптимизирована для наступательной тактики."
  
-AE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Defensive Bionic Combat Computer (Platform Station XBOX One)"
-AE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "The Alpha-Class Bionic Combat Computer is an extremely advanced bionic combat computer that forms powerful links between organic (or synthetic) operators with the ship's Delphic Computer. This network allows commands to be issued with little to no downtime. This particular version is optimized for defensive tactics."
+AE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Оборонительный бионический боевой компьютер (Platform Station XBOX One)"
+AE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Alpha-Class Bionic Combat Computer - чрезвычайно продвинутый бионический боевой компьютер, образующий мощные связи между органическими (или синтетическими) операторами с корабельным Дельфийским компьютером. Эта сеть позволяет выдавать команды с небольшим временем простоя или без него. Именно эта версия оптимизирована для оборонительной тактики."
  
-TECH_UNLOCK_BIONIC_COMPUTER_TITLE: "§HРазблокирует компонент:§! Bionic Interface Combat Computer"
-TECH_UNLOCK_BIONIC_COMPUTER_DESC: "A unique combat computer that forms a bionic link between organic, synthetic and delphic networks. It is impervious to all intrusion attempts and possesses unrivalled combat algorithms."
-tech_bionic_interface: "Bionic Interface System"
-tech_bionic_interface_desc: "Combining the characteristics of organic and synthetic minds open new possibilities for new generation combat computers."
- 
-################################################
- 
-AE_PSI_OFFENSIVE_COMBAT_COMPUTER: "Offensive Mentat Coordinator (Small Ships)"
-AE_PSI_OFFENSIVE_COMBAT_COMPUTER_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields. This particular Mentat is adapted to offensive tactics."
- 
-AE_PSI_BALANCE_COMBAT_COMPUTER: "Balanced Mentat Coordinator (Small Ships)"
-AE_PSI_BALANCE_COMBAT_COMPUTER_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields."
- 
-AE_PSI_DEFENSIVE_COMBAT_COMPUTER: "Defensive Mentat Coordinator (Small Ships)"
-AE_PSI_DEFENSIVE_COMBAT_COMPUTER_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields. This particular Mentat is adapted to defensive tactics."
- 
-AE_PSI_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Offensive Mentat Coordinator (Large Ships)"
-AE_PSI_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields. This particular Mentat is adapted to offensive tactics."
- 
-AE_PSI_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "Balanced Mentat Coordinator (Large Ships)"
-AE_PSI_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields."
- 
-AE_PSI_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Defensive Mentat Coordinator (Large Ships)"
-AE_PSI_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields. This particular Mentat is adapted to defensive tactics."
- 
-AE_PSI_OFFENSIVE_COMBAT_COMPUTER_TITAN: "Offensive Mentat Coordinator (Titanic Ships)"
-AE_PSI_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields. This particular Mentat is adapted to offensive tactics."
- 
-AE_PSI_BALANCE_COMBAT_COMPUTER_TITAN: "Balanced Bionic Combat Computer (Titanic Ships)"
-AE_PSI_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields."
- 
-AE_PSI_DEFENSIVE_COMBAT_COMPUTER_TITAN: "Defensive Mentat Coordinator (Titanic Ships)"
-AE_PSI_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields. This particular Mentat is adapted to defensive tactics."
- 
-AE_PSI_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "Offensive Mentat Coordinator (Capital Ships)"
-AE_PSI_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields. This particular Mentat is adapted to offensive tactics."
- 
-AE_PSI_BALANCE_COMBAT_COMPUTER_GOLIATH: "Balanced Mentat Coordinator (Capital Ships)"
-AE_PSI_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields."
- 
-AE_PSI_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "Defensive Mentat Coordinator (Capital Ships)"
-AE_PSI_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields. This particular Mentat is adapted to defensive tactics."
- 
-AE_PSI_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Offensive Mentat Coordinator (Station)"
-AE_PSI_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields."
- 
-AE_PSI_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Defensive Mentat Coordinator (Platform Station XBOX One)"
-AE_PSI_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields."
- 
-TECH_UNLOCK_PSI_COMPUTER_TITLE: "§HРазблокирует компонент:§! Mentat Coordinator"
-TECH_UNLOCK_PSI_COMPUTER_DESC: "Mentat Coordinators replace the roles of conventional ship computers, they read the minds of the ship's captain and will the ships to act accordingly. They are very proficient at evading attacks and generating powerful psionic shields."
-tech_ae_psi_computer: "Mentat Coordinators"
-tech_ae_psi_computer_desc: "Machines are unreliable, regardless of how advanced they are. Mind over Matter. We will train a group of powerful battlefield strategists to become Mentats, capable of working without the use of powers or any materials."
+TECH_UNLOCK_BIONIC_COMPUTER_TITLE: "Разблокирует компонент: Боевой компьютер с бионическим интерфейсом"
+TECH_UNLOCK_BIONIC_COMPUTER_DESC: "Уникальный боевой компьютер, формирующий бионическую связь между органическими, синтетическими и дельфийскими сетями. Он непроницаем для всех попыток вторжения и обладает непревзойденными алгоритмами ведения боя."
+tech_bionic_interface: "Система бионического интерфейса"
+tech_bionic_interface_desc: "Сочетание характеристик органического и синтетического разума открывает новые возможности для боевых компьютеров нового поколения."
  
 ################################################
  
-AE_HIVE_OFFENSIVE_COMBAT_COMPUTER: "Offensive Overlord Strategizer (Small Ships)"
-AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship's internal systems and repair any damaged components. This particular one is evolved for offensive tactics."
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER: "Координатор наступательных операций (малые корабли)"
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты. Именно этот Ментат приспособлен к наступательной тактике."
  
-AE_HIVE_BALANCE_COMBAT_COMPUTER: "Balanced Overlord Strategizer (Small Ships)"
-AE_HIVE_BALANCE_COMBAT_COMPUTER_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship internal systems and repair any damaged components."
+AE_PSI_BALANCE_COMBAT_COMPUTER: "Координатор сбалансированного ментата (малые суда)"
+AE_PSI_BALANCE_COMBAT_COMPUTER_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты."
  
-AE_HIVE_DEFENSIVE_COMBAT_COMPUTER: "Defensive Overlord Strategizer (Small Ships)"
-AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship internal systems and repair any damaged components."
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER: "Координатор оборонительного ментата (малые корабли)"
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты. Именно этот Ментат приспособлен к оборонительной тактике."
  
-AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Offensive Overlord Strategizer (Large Ships)"
-AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship's internal systems and repair any damaged components. This particular one is evolved for offensive tactics."
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Координатор наступательных операций (большие корабли)"
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты. Именно этот Ментат приспособлен к наступательной тактике."
  
-AE_HIVE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "Balanced Overlord Strategizer (Large Ships)"
-AE_HIVE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship internal systems and repair any damaged components."
+AE_PSI_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "Координатор сбалансированного ментата (большие суда)"
+AE_PSI_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты."
  
-AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Defensive Overlord Strategizer (Large Ships)"
-AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship's internal systems and repair any damaged components. This particular one is evolved for defensive tactics."
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Координатор оборонительного ментата (большие корабли)"
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты. Именно этот Ментат приспособлен к оборонительной тактике."
  
-AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "Offensive Overlord Strategizer (Titanic Ships)"
-AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship's internal systems and repair any damaged components. This particular one is evolved for offensive tactics."
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER_TITAN: "Координатор наступательных ментатов (корабли «Титаник»)"
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты. Именно этот Ментат приспособлен к наступательной тактике."
  
-AE_HIVE_BALANCE_COMBAT_COMPUTE_TITANR: "Balanced Overlord Strategizer (Titanic Ships)"
-AE_HIVE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship internal systems and repair any damaged components."
+AE_PSI_BALANCE_COMBAT_COMPUTER_TITAN: "Сбалансированный бионический боевой компьютер (титанические корабли)"
+AE_PSI_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты."
  
-AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "Defensive Overlord Strategizer (Titanic Ships)"
-AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship's internal systems and repair any damaged components. This particular one is evolved for defensive tactics."
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER_TITAN: "Координатор оборонительного ментата («Титанические корабли»)"
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты. Именно этот Ментат приспособлен к оборонительной тактике."
  
-AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "Offensive Overlord Strategizer (Capital Ships)"
-AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship's internal systems and repair any damaged components. This particular one is evolved for offensive tactics."
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "Координатор наступательных операций (капитальные суда)"
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты. Именно этот Ментат приспособлен к наступательной тактике."
  
-AE_HIVE_BALANCE_COMBAT_COMPUTER_GOLIATH: "Balanced Overlord Strategizer (Capital Ships)"
-AE_HIVE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship internal systems and repair any damaged components."
+AE_PSI_BALANCE_COMBAT_COMPUTER_GOLIATH: "Координатор сбалансированного ментата (капитальные суда)"
+AE_PSI_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты."
  
-AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "Defensive Overlord Strategizer (Capital Ships)"
-AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship internal systems and repair any damaged components. This particular one is evolved for defensive tactics."
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "Координатор оборонительного ментата (капитальные суда)"
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты. Именно этот Ментат приспособлен к оборонительной тактике."
  
-AE_HIVE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Offensive Overlord Strategizer (Station)"
-AE_HIVE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship internal systems and repair any damaged components."
+AE_PSI_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Координатор наступательного ментата (станция)"
+AE_PSI_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты."
  
-AE_HIVE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Defensive Overlord Strategizer (Platform Station XBOX One)"
-AE_HIVE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship internal systems and repair any damaged components."
+AE_PSI_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Координатор оборонительного ментата (платформенная станция XBOX One)"
+AE_PSI_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты."
  
-TECH_UNLOCK_HIVE_COMPUTER_TITLE: "§HРазблокирует компонент:§! Overlord Strategizer"
-TECH_UNLOCK_HIVE_COMPUTER_DESC: "Overlord Strategizers are semi-sapient battlefield commanders that can issue their own orders without relying on higher entities. They are able to interface with the ship internal systems and repair any damaged components."
-tech_ae_hive_computer: "On-board Hive Overlords"
-tech_ae_hive_computer_desc: "The Hive has long since relied on machines and a group of special drones to operate space vessels, but these are inefficient and drain the Hive's concentrations. A scheme to conceive overlords to act as semi-independent battlefield commanders can be formulated to replace the old combat computers."
+TECH_UNLOCK_PSI_COMPUTER_TITLE: "Разблокирует компонент: Координатор ментата"
+TECH_UNLOCK_PSI_COMPUTER_DESC: "Координаторы Ментата заменяют роли обычных корабельных компьютеров, они читают умы капитана корабля и будут действовать соответственно кораблям. Они очень хорошо умеют уклоняться от атак и создавать мощные псионические щиты."
+tech_ae_psi_computer: "Координаторы ментата"
+tech_ae_psi_computer_desc: "Машины ненадежны, независимо от того, насколько они продвинуты. Разум над Материей. Мы обучим группу мощных стратегов поля боя стать ментатами, способными работать без использования сил или каких-либо материалов."
+ 
+################################################
+ 
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER: "Стратегизатор наступательных оверлордов (малые корабли)"
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты. Именно этот развит для наступательной тактики."
+ 
+AE_HIVE_BALANCE_COMBAT_COMPUTER: "Balanced Overlord Strategizer (малые суда)"
+AE_HIVE_BALANCE_COMBAT_COMPUTER_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты."
+ 
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER: "Оборонительный Суперлорд Стратегайзер (малые корабли)"
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты."
+ 
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Стратегизатор наступления (большие корабли)"
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты. Именно этот развит для наступательной тактики."
+ 
+AE_HIVE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "Balanced Overlord Strategizer (большие корабли)"
+AE_HIVE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты."
+ 
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Оборонительный Суперлорд Стратегайзер (большие корабли)"
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты. Именно этот развит для оборонительной тактики."
+ 
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "Суперлорд стратегии наступления (Титанические корабли)"
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты. Именно этот развит для наступательной тактики."
+ 
+AE_HIVE_BALANCE_COMBAT_COMPUTE_TITANR: "Balanced Overlord Strategizer (Титанические корабли)"
+AE_HIVE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты."
+ 
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "Оборонительный Суперлорд Стратегайзер (Титанические корабли)"
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты. Именно этот развит для оборонительной тактики."
+ 
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "Суперлорд стратегии наступления (капитальные суда)"
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты. Именно этот развит для наступательной тактики."
+ 
+AE_HIVE_BALANCE_COMBAT_COMPUTER_GOLIATH: "Balanced Overlord Strategizer (капитальные суда)"
+AE_HIVE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты."
+ 
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "Оборонительный Суперлорд Стратегайзер (Капитальные корабли)"
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты. Именно этот развит для оборонительной тактики."
+ 
+AE_HIVE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Стратегизатор Оверлорда наступления (станция)"
+AE_HIVE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты."
+ 
+AE_HIVE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Защитная стратегия оверлорда (платформенная станция XBOX One)"
+AE_HIVE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты."
+ 
+TECH_UNLOCK_HIVE_COMPUTER_TITLE: "Разблокирует компонент: Superlord Strategizer"
+TECH_UNLOCK_HIVE_COMPUTER_DESC: "Superlord Strategizers - это полумаятные командиры на полях сражений, которые могут отдавать собственные приказы, не полагаясь на высшие образования. Они способны взаимодействовать с внутренними системами корабля и ремонтировать любые поврежденные компоненты."
+tech_ae_hive_computer: "Надзиратели бортового улья"
+tech_ae_hive_computer_desc: "Улей уже давно полагается на машины и группу специальных беспилотников для эксплуатации космических судов, но они неэффективны и истощают концентрации Улей. Для замены старых боевых компьютеров может быть сформулирована схема, предполагающая, что суперлорды будут действовать как полунезависимые полевые командиры."
  
  
 ################################################################################################################################################
  
-ACOT_AFTERBURNERS_AE: "Apollo Afterburners"
-ACOT_AFTERBURNERS_AE_DESC: "In the events that the thrusters alone are still not enough for the ship to go fast. Apollo Afterburners can be used to increase the ship's top speed."
-tech_darkmatter_afterburners: "Apollo-Class Afterburners"
-tech_darkmatter_afterburners_desc: "In the events that the thrusters alone are still not enough for the ship to go fast. Apollo Afterburners can be used to increase the ship's top speed."
+ACOT_AFTERBURNERS_AE: "Форсажные камеры Аполлона"
+ACOT_AFTERBURNERS_AE_DESC: "В событиях, что одних только двигателей до сих пор недостаточно, чтобы корабль шел быстро. Форсажные камеры Apollo могут использоваться для увеличения верхней скорости судна."
+tech_darkmatter_afterburners: "Форсажные камеры аполлонового класса"
+tech_darkmatter_afterburners_desc: "В событиях, что одних только двигателей до сих пор недостаточно, чтобы корабль шел быстро. Форсажные камеры Apollo могут использоваться для увеличения верхней скорости судна."
  
  
-ACOT_HYPERCHARGED_JUMPER_AE: "Supercharged Hyperdrive Amplifier"
-ACOT_HYPERCHARGED_JUMPER_AE_DESC: "Additional auxiliary amplifiers can be installed on the jump drive's modular turbines to increase their performance. The module draws power from the FTL component however, and will slow the ship's FTL windup time down."
-ACOT_AURA_HYPERJUMPDRIVE_AE: "Jump Stabilizer"
-ACOT_AURA_HYPERJUMPDRIVE_AE_DESC: "Jump Stabilizers can be installed on capital ships with proper modules to increase the fleet's jumping range."
-tech_darkmatter_hyper_jump_drive: "Advanced Hyperdrive Augmentations"
-tech_darkmatter_hyper_jump_drive_desc: "Additional auxiliary amplifiers can be installed on the FTL drive's modular turbines to increase their performance. The module draws power from the FTL systems however, and will slow down the ship's FTL windup time."
-friendly_jumpdrive_aura: "Jump Stabilizer"
-friendly_jumpdrive_aura_desc: "Increases the fleet's jumping range."
+ACOT_HYPERCHARGED_JUMPER_AE: "Усилитель гипердвигателя с наддувом"
+ACOT_HYPERCHARGED_JUMPER_AE_DESC: "Дополнительные вспомогательные усилители могут быть установлены на модульных турбинах скачкового привода для повышения их производительности. Однако модуль получает питание от компонента FTL и замедляет время наматывания FTL корабля."
+ACOT_AURA_HYPERJUMPDRIVE_AE: "Стабилизатор прыжка"
+ACOT_AURA_HYPERJUMPDRIVE_AE_DESC: "Jump Stabilizers могут устанавливаться на капитальные суда с соответствующими модулями для увеличения дальности прыжков флота."
+tech_darkmatter_hyper_jump_drive: "Расширенные дополнения гипердвигателя"
+tech_darkmatter_hyper_jump_drive_desc: "Дополнительные вспомогательные усилители могут быть установлены на модульных турбинах привода FTL для повышения их производительности. Однако модуль получает питание от систем FTL и замедляет время срабатывания FTL корабля."
+friendly_jumpdrive_aura: "Стабилизатор прыжка"
+friendly_jumpdrive_aura_desc: "Увеличивает дальность прыжков флота."
  
  
-ACOT_REPAIR_COUNTERMEASURES_AE: "Alpha Reactive Countermeasure Drones"
-ACOT_REPAIR_COUNTERMEASURES_AE_DESC: "The Alpha-Class Reactive Countermeasure Drones provide higher armor resistances and greater repair capabilities."
-tech_darkmatter_reactive_drone: "Alpha Reactive Countermeasure Systems"
-tech_darkmatter_reactive_drone_desc: "Adapting limited Delphic Intelligence to the Drones to read from ship technician's bionic links should make them operate with greater efficiencies."
+ACOT_REPAIR_COUNTERMEASURES_AE: "Альфа Реактивные Беспилотные летательные аппараты"
+ACOT_REPAIR_COUNTERMEASURES_AE_DESC: "Реактивные дроны класса альфа обеспечивают более высокое сопротивление брони и более широкие возможности по ремонту."
+tech_darkmatter_reactive_drone: "Альфа реактивные системы противодействия"
+tech_darkmatter_reactive_drone_desc: "Адаптация ограниченного дельфийского интеллекта к дронам для считывания из бионических связей судового техника должна сделать их работу с большей эффективностью."
  
  
-ACOT_REACTOR_BOOSTER_AE: "Alpha Auxiliary Power Amplifier"
-ACOT_REACTOR_BOOSTER_AE_DESC: "AAPA provides additional backup powers in case the main reactor is not sufficiently powerful enough. Furthermore, the module reduces the overall cost of the ship by a small margin."
-tech_darkmatter_reactor_booster: "Alpha-Class Auxiliary Power Amplifier"
-tech_darkmatter_reactor_booster_desc: "AAPA provides additional backup powers in case the main reactor is not sufficiently powerful enough. Furthermore, the module reduces the overall cost of the ship by a small margin."
+ACOT_REACTOR_BOOSTER_AE: "Альфа вспомогательный усилитель мощности"
+ACOT_REACTOR_BOOSTER_AE_DESC: "AAPA обеспечивает дополнительные резервные мощности в случае недостаточной мощности основного реактора. Кроме того, модуль снижает общую стоимость судна с небольшим запасом."
+tech_darkmatter_reactor_booster: "Вспомогательный усилитель мощности альфа-класса"
+tech_darkmatter_reactor_booster_desc: "AAPA обеспечивает дополнительные резервные мощности в случае недостаточной мощности основного реактора. Кроме того, модуль снижает общую стоимость судна с небольшим запасом."
  
  
-ACOT_SHIELD_BOOSTER_AE: "Alpha Supercharged Barriers"
-ACOT_SHIELD_BOOSTER_AE_DESC: "Supercharging barriers grant the ship's shield generators extremely increased potency at the cost of power consumption."
-tech_darkmatter_shield_supercharger: "Alpha Supercharged Barriers"
-tech_darkmatter_shield_supercharger_desc: "Supercharging barriers grant the ship's shield generators extremely increased potency at the cost of power consumption."
+ACOT_SHIELD_BOOSTER_AE: "Альфа-барьеры с наддувом"
+ACOT_SHIELD_BOOSTER_AE_DESC: "Барьеры наддува обеспечивают генераторам щита корабля чрезвычайно повышенную эффективность при стоимости потребления энергии."
+tech_darkmatter_shield_supercharger: "Альфа-барьеры с наддувом"
+tech_darkmatter_shield_supercharger_desc: "Барьеры наддува обеспечивают генераторам щита корабля чрезвычайно повышенную эффективность при стоимости потребления энергии."
  
  
-ACOT_STARCHARTER_AE: "Alpha Star Charter"
-ACOT_STARCHARTER_AE_DESC: "A special auxiliary chamber containing multiple sensor units that allows the ship to function as a mobile sentry array."
-tech_darkmatter_star_charter: "Alpha Star Charter Module"
-tech_darkmatter_star_charter_desc: "A special auxiliary chamber containing multiple sensor units that allows the ship to function as a mobile sentry array."
+ACOT_STARCHARTER_AE: "Устав Альфа-Звезды"
+ACOT_STARCHARTER_AE_DESC: "Специальная вспомогательная камера, содержащая множество сенсорных блоков, которые позволяют кораблю функционировать в качестве мобильной сторожевой решетки."
+tech_darkmatter_star_charter: "Модуль Alpha Star Charter"
+tech_darkmatter_star_charter_desc: "Специальная вспомогательная камера, содержащая множество сенсорных блоков, которые позволяют кораблю функционировать в качестве мобильной сторожевой решетки."
  
  
-ACOT_AURA_TECH_INHIBITOR_AE: "Enigmatic Network Inhibitor"
-ACOT_AURA_TECH_INHIBITOR_AE_DESC: "This powerful device interferes with enemy systems, zapping away their powers and bestows them on allied ships. All your powers are belong to us."
-tech_darkmatter_aura_energy_drainer: "Enigmatic Network Inhibitor"
-tech_darkmatter_aura_energy_drainer_desc: "This powerful device interferes with enemy systems, zapping away their powers and bestows them on allied ships. All your powers are belong to us."
-TECH_UNLOCK_ENERGY_DRAINER_AE_TITLE: "§HРазблокирует компонент:§! Enigmatic Network Inhibitor"
-TECH_UNLOCK_ENERGY_DRAINER_AE_DESC: "§HEnigmatic Network Inhibitor§!\nThis powerful device interferes with enemy systems, zapping away their powers and bestows them on allied ships. All your powers are belong to us."
+ACOT_AURA_TECH_INHIBITOR_AE: "Ингибитор энигматической сети"
+ACOT_AURA_TECH_INHIBITOR_AE_DESC: "Это мощное устройство мешает вражеским системам, отрывая их силы и даруя их союзным кораблям. Все твои силы принадлежат нам."
+tech_darkmatter_aura_energy_drainer: "Ингибитор энигматической сети"
+tech_darkmatter_aura_energy_drainer_desc: "Это мощное устройство мешает вражеским системам, отрывая их силы и даруя их союзным кораблям. Все твои силы принадлежат нам."
+TECH_UNLOCK_ENERGY_DRAINER_AE_TITLE: "Разблокирует компонент: Энигматический сетевой ингибитор"
+TECH_UNLOCK_ENERGY_DRAINER_AE_DESC: "Enigmatic Network Inhitor\nЭто мощное устройство мешает вражеским системам, отрывая их силы и даруя их союзным кораблям. Все твои силы принадлежат нам."
  
  
  
-FE_SENSOR_SHIP: "Bionic Sensors"
-FE_SENSOR_SHIP_DESC: "Advanced Sensors that use bionic link technologies to detect enemy vessels. The system can detect both organics and machines alike."
-tech_sensor_fe: "Bionic Sensors"
-tech_sensor_fe_desc: "Advanced Sensors that use bionic link technologies to detect enemy vessels. The system can detect both organics and machines alike."
-TECH_UNLOCK_FE_SENSOR_TITLE: "§HРазблокирует компонент:§! Bionic Sensors"
-TECH_UNLOCK_FE_SENSOR_DESC: "§HBionic Sensors§!\n$FE_SENSOR_SHIP$"
+FE_SENSOR_SHIP: "Бионические датчики"
+FE_SENSOR_SHIP_DESC: "Усовершенствованные датчики, использующие технологии бионических связей для обнаружения вражеских судов. Система может обнаруживать как органику, так и машины."
+tech_sensor_fe: "Бионические датчики"
+tech_sensor_fe_desc: "Усовершенствованные датчики, использующие технологии бионических связей для обнаружения вражеских судов. Система может обнаруживать как органику, так и машины."
+TECH_UNLOCK_FE_SENSOR_TITLE: "Разблокирует компонент: Бионические датчики"
+TECH_UNLOCK_FE_SENSOR_DESC: "Бионические датчики\n $FE_SENSOR_SHIP$"
  
  
-ENIGMATIC_DRIVE: "Alpha Translocator Drive"
-ENIGMATIC_DRIVE_DESC: "This enigmatic translocator drive uses dark matter to tear open a micro wormhole, allowing the ship to jump farther than conventional jump drive."
-tech_enigmatic_drive: "Advanced Translocation"
-tech_enigmatic_drive_desc: "Our Jump Drive is based on the principles and configurations of Zero-Point Energy. But now that we have since utilized Dark Matter Power, it is time we take our FTL travel technology to the next level."
-TECH_UNLOCK_ENIG_DRIVE: "§HРазблокирует компонент:§! Alpha Translocator Drive"
-TECH_UNLOCK_ENIG_DRIVE_DESC: "§HAlpha Translocator Drive§!\n$ENIGMATIC_DRIVE_DESC$"
+ENIGMATIC_DRIVE: "Привод альфа-транслокатора"
+ENIGMATIC_DRIVE_DESC: "Этот загадочный транслокаторный привод использует темную материю, чтобы разорвать микро-червоточину, позволяя кораблю прыгать дальше, чем обычный прыжковый привод."
+tech_enigmatic_drive: "Расширенная транслокация"
+tech_enigmatic_drive_desc: "Наш Jump Drive основан на принципах и конфигурациях Zero-Point Energy. Но теперь, когда мы использовали Dark Matter Power, пришло время вывести нашу технологию путешествий FTL на следующий уровень."
+TECH_UNLOCK_ENIG_DRIVE: "Разблокирует компонент: Alpha Translocator Drive"
+TECH_UNLOCK_ENIG_DRIVE_DESC: "Диск альфа-транслокатора\n $ENIGMATIC_DRIVE_DESC$"
  
  
  
 #####WEAPON CORES###
  
-WEAPON_EXPLOSIVE_CORE: "Dark Matter Missile Pre-Igniter"
-WEAPON_EXPLOSIVE_CORE_DESC: "Utilizing Dark Matter to fuel and ignite our guided missile systems can increase the missile's impact power and fire rate."
-tech_missile_core: "Dark Matter Missile Pre-Ignition"
-tech_missile_core_desc: "As we explore deeper and deeper into Dark Matter's applications, we discover that it is also possible to increase the firepower and ignition speeds of our missiles using the same principle as Dark Matter Thrusters."
+WEAPON_EXPLOSIVE_CORE: "Предварительный воспламенитель ракеты Dark Matter"
+WEAPON_EXPLOSIVE_CORE_DESC: "Использование Dark Matter для подпитки и воспламенения наших систем управляемых ракет может увеличить ударную мощность ракеты и скорострельность."
+tech_missile_core: "Ракета с темной материей перед зажиганием"
+tech_missile_core_desc: "По мере того, как мы все глубже и глубже изучаем приложения Dark Matter, мы обнаруживаем, что также можно увеличить огневую мощь и скорости зажигания наших ракет, используя тот же принцип, что и Dark Matter Thrusters."
  
  
-WEAPON_KINETIC_CORE: "Hard-light Kinetic Payload"
-WEAPON_KINETIC_CORE_DESC: "A complicated micro-factory that quickly generates hard-light munitions that are both stronger and faster."
-tech_kinetic_core: "Hard-Light Projectile Kinetic System"
-tech_kinetic_core_desc: "Hard-Light Materials are quite durable and fast to produce. Perhaps they can be used as kinetic shells for our artillery, if we're willing to invest additional power required to operate them."
+WEAPON_KINETIC_CORE: "Кинетическая полезная нагрузка с жестким светом"
+WEAPON_KINETIC_CORE_DESC: "Сложная микро-фабрика, которая быстро вырабатывает жесткие легкие боеприпасы, которые как сильнее, так и быстрее."
+tech_kinetic_core: "Кинетическая система снаряда с жестким светом"
+tech_kinetic_core_desc: "Hard-Light материалы достаточно прочны и быстры в производстве. Возможно, они могут быть использованы в качестве кинетических снарядов для нашей артиллерии, если мы готовы вложить дополнительную энергию, необходимую для их эксплуатации."
  
  
-WEAPON_ENERGY_CORE: "Energy Counter Distortion Manifold"
-WEAPON_ENERGY_CORE_DESC: "This micro-sphere houses powerful enigmatic energy that directly improves the ship's energy weapon systems by bending space-time and defying various laws of physics."
-tech_energy_core: "Energy Counter Distortion Matrix"
-tech_energy_core_desc: "Most energy weapons suffer from distortion due to gravity making them unfocused and unstable. With the invention of a spherical device capable of bending space-time and neutralizing all distortion effects, our energy weapons will achieve their full potential."
+WEAPON_ENERGY_CORE: "Коллектор искажения счетчика энергии"
+WEAPON_ENERGY_CORE_DESC: "Эта микро-сфера содержит мощную загадочную энергию, которая непосредственно улучшает энергетические системы оружия корабля, изгибая пространство-время и игнорируя различные законы физики."
+tech_energy_core: "Матрица искажения счетчика энергии"
+tech_energy_core_desc: "Большинство энергетических вооружений страдают от искажения из-за гравитации, что делает их неприцельными и нестабильными. С изобретением сферического устройства, способного изгибать пространство-время и нейтрализовать все эффекты искажения, наше энергетическое оружие достигнет своего полного потенциала."
  
  
-WEAPON_FIGHTER_CORE: "Bionic-Interface Hanger Uplink"
-WEAPON_FIGHTER_CORE_DESC: "This powerful Bionic-Interface Uplink allows the mothership carrier to coordinate the strike crafts with ruthless efficiency, pinpointing the target's all potential weaknesses at real-time."
-tech_fighter_core: "Bionic Interface Strike Craft Network"
-tech_fighter_core_desc: "According to the blueprints of the precursors, Bionic Interface Computers form a mental link between the ship and the crews. Strike Crafts are however too small for the computer, but perhaps they can be coordinated more effectively from the mothership?"
+WEAPON_FIGHTER_CORE: "Восходящая линия подвески бионического интерфейса"
+WEAPON_FIGHTER_CORE_DESC: "Эта мощная линия связи Bionic-Interface Uplink позволяет несущему станции координировать ударные действия с безжалостной эффективностью, выявляя все потенциальные слабые стороны цели в реальном времени."
+tech_fighter_core: "Bionic Interface Strike Craft Network (Сеть ударных судов с бионическим интерфейсом"
+tech_fighter_core_desc: "Согласно чертежам предшественников, Bionic Interface Computers образуют ментальную связь между кораблем и экипажами. Однако Strike Crafts слишком малы для компьютера, но, возможно, они могут быть скоординированы более эффективно от материнской компании?"
  
  
 ##############PSIO STUFFIOSU
  
-SHROUD_DRIVE: "Shroud Jump Drive"
-SHROUD_DRIVE_DESC: "This mysterious artifact forms a pact between the ship and the Shroud Entity. The Entity grants our ships extremely powerful jumping techniques at the cost of increased energy and minerals. The crew's souls are also bound to the entity."
-tech_shroud_jump_drive: "The Ferry of Shadow"
-tech_shroud_jump_drive_desc: "Yet again, a Shroud Entity has made a contact with us. This one called itself "The Ferry of Shadow", it offers a very simple deal; superior methods of ship travel for moderate energy and minerals. A rather simple deal for a Shroud entity."
-TECH_UNLOCK_SHROUDDRIVE: "§HРазблокирует компонентs:§! Shroud Jump Drive"
-TECH_UNLOCK_SHROUDDRIVE_DESC: "§HShroud Jump Drive§!\n$SHROUD_DRIVE_DESC$"
+SHROUD_DRIVE: "Диск для прыжка с бандажом"
+SHROUD_DRIVE_DESC: "Этот таинственный артефакт образует пакт между кораблём и Плащаницей. Организация предоставляет нашим судам чрезвычайно мощные методы прыжков за счет увеличения энергии и полезных ископаемых. Души экипажа также связаны с сущностью."
+tech_shroud_jump_drive: "Паром тени"
+tech_shroud_jump_drive_desc: "Yet again, a Shroud Entity has made a contact with us. This one called itself "Паром тени", it offers a very simple deal; superior methods of ship travel for moderate energy and minerals. A rather simple deal for a Shroud entity."
+TECH_UNLOCK_SHROUDDRIVE: "Разблокирует компонентs: Shroud Jump Drive"
+TECH_UNLOCK_SHROUDDRIVE_DESC: "\ n$SHROUD_DRIVE_DESC$"
  
  
-ACOT_PSI_STORM: "Shroud Storm"
-ACOT_PSI_STORM_DESC: "We channel the hatred of our enemies into a very very powerful storm of death. Power! Unlimited Power!!!"
+ACOT_PSI_STORM: "Буря плащаниц"
+ACOT_PSI_STORM_DESC: "Мы направляем ненависть наших врагов в очень сильную бурю смерти. Сила! Неограниченная сила!!!"
  
-ACOT_CLOUDBALL_SHROUD: "Psionic Thrall"
-ACOT_CLOUDBALL_SHROUD_DESC: "A small psionic cloud that is subjected to our will. It will shock and whip enemies into shape."
+ACOT_CLOUDBALL_SHROUD: "Псионик Тролл"
+ACOT_CLOUDBALL_SHROUD_DESC: "Небольшое псионическое облако, которое подвергается нашей воле. Это будет шокировать и хлестать врагов в форму."
  
-ACOT_MISSILE_SHROUD_XL: "Shroud Swarm"
-ACOT_MISSILE_SHROUD_XL_DESC: "With our masteries over psionic powers, we can now force lesser shroud entities to lend its power to our will. But since it's an XL-slot, we can throw six of them at once, awesome right?"
+ACOT_MISSILE_SHROUD_XL: "Рой плащаницы"
+ACOT_MISSILE_SHROUD_XL_DESC: "Благодаря нашему владычеству над псионическими силами, мы теперь можем заставить меньшие по площади образования отдавать свою власть нашей воле. Но так как это XL-слот, мы можем бросить их сразу шесть, потрясающе, верно?"
  
-ACOT_MISSILE_SHROUD: "Shroud Bolt"
-ACOT_MISSILE_SHROUD_DESC: "With our masteries over psionic powers, we can now force lesser shroud entities to lend its power to our will."
+ACOT_MISSILE_SHROUD: "Болт бандажа"
+ACOT_MISSILE_SHROUD_DESC: "Благодаря нашему владычеству над псионическими силами, мы теперь можем заставить меньшие по площади образования отдавать свою власть нашей воле."
  
-tech_shroud_missile: "Binding Will"
-tech_shroud_missile_desc: "We have begun to master our true psionic powers, and we are learning quickly how to dominate lesser shroud entities. We can use their powers to create powerful psionic bolts made out of sheer destructive will."
+tech_shroud_missile: "Обязывающее завещание"
+tech_shroud_missile_desc: "Мы начали овладевать нашими истинными псионическими силами, и мы быстро учимся господствовать над менее окутанными сущностями. Мы можем использовать их силы для создания мощных псионических болтов, изготовленных из самой разрушительной воли."
  
-tech_shroud_hanger: "The Ball of Death"
-tech_shroud_hanger_desc: "It is the nature that the strong will lord over the weak. Even though we do not yet understand the true nature of the Shroud, we know enough of its denizens. With our current power, we should be able to dominate some of the lesser beings within the void and make them serve our causes."
+tech_shroud_hanger: "Бал смерти"
+tech_shroud_hanger_desc: "Это природа, что сильные будут владычествовать над слабыми. Несмотря на то, что мы еще не понимаем истинную природу Плащаницы, мы знаем достаточно ее осквернений. С нашей нынешней силой мы должны иметь возможность доминировать над некоторыми из меньших существ в пустоте и заставлять их служить нашим причинам."
  
-tech_shroud_storm: "Winds of Destruction"
-tech_shroud_storm_desc: "The Master commands, and the Shroud must answer the call. The enemy will be vaporized by our awesome power."
+tech_shroud_storm: "Ветры разрушения"
+tech_shroud_storm_desc: "Команды Master и Shroud должны ответить на вызов. Враг будет испарен нашей потрясающей силой."
  
 #################
  
-tech_reinforced_starbase: "Delta-Class Starbase Platings"
-tech_reinforced_starbase_desc: "As weapons become deadlier and stronger, our stations become less and less effective at dealing with them. Certain improvements can be made to increase their longevity by supplementing the outer layers with additional hard-light materials and upgrades their weapon systems."
-tech_reinforced_starbase_ae: "Alpha-Class Starbase Platings"
-tech_reinforced_starbase_ae_desc: "Mastery over both Dark Matter and Dark Energy allows us to improve our starbase's hard-light platings and weapons further, increasing their fortitudes and longevity."
-tech_reinforced_starbase_se: "Sigma-Class Starbase Platings"
-tech_reinforced_starbase_se_desc: "Our fortresses will not succumb to the likes of lesser foes. They can throw a swarm of corvettes at us, and we will still eat them."
+tech_reinforced_starbase: "Платинги звездной базы Дельта-класса"
+tech_reinforced_starbase_desc: "По мере того как оружие становится все смертоноснее и сильнее, наши станции становятся все менее эффективными в борьбе с ним. Некоторые улучшения могут быть сделаны для увеличения их долговечности путем дополнения внешних слоев дополнительными твердыми легкими материалами и модернизации их систем вооружений."
+tech_reinforced_starbase_ae: "Платинги звездной базы альфа-класса"
+tech_reinforced_starbase_ae_desc: "Мастерство над Темной Материей и Темной Энергией позволяет нам еще больше улучшить жёсткие ладьи и оружие нашей звездной базы, увеличивая их силы и долговечность."
+tech_reinforced_starbase_se: "Платинги звездной базы класса Сигма"
+tech_reinforced_starbase_se_desc: "Наши крепости не поддадутся подобным меньшим врагам. Они могут бросить в нас рой корветов, и мы все равно будем их есть."
  
  

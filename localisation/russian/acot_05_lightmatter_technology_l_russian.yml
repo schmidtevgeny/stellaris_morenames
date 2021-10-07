@@ -1,368 +1,368 @@
 ﻿l_russian:
-# TODO 
-BASE_COMBAT_COMPUTER_COLOSSUS_OE: "Omni-Matrix Herculean Colossus Computer"
-BASE_COMBAT_COMPUTER_COLOSSUS_OE_DESC: "The Reflection of Radiance." 
+# DONE 
+BASE_COMBAT_COMPUTER_COLOSSUS_OE: "Компьютер Omni-Matrix Herculean Colossus"
+BASE_COMBAT_COMPUTER_COLOSSUS_OE_DESC: "Отражение сияния." 
  
 ### SHIP COMPONENTS TEXTS
-TECH_UNLOCK_ORIGIN_ARMOR_TITLE: "§HРазблокирует компонент:§! Celestial Armor"
-TECH_UNLOCK_ORIGIN_ARMOR_DESC: "Celestial Armors are forged from Static Light Energies to create one of the most powerful hull materials known to any civilizations."
+TECH_UNLOCK_ORIGIN_ARMOR_TITLE: "Разблокирует компонент: Небесная броня"
+TECH_UNLOCK_ORIGIN_ARMOR_DESC: "Небесные доспехи подделываются из статических световых энергий для создания одного из самых мощных материалов корпуса, известных любым цивилизациям."
  
-TECH_UNLOCK_ORIGIN_PLATINGS_TITLE: "§HРазблокирует компонент:§! Seraph Platings"
-TECH_UNLOCK_ORIGIN_PLATINGS_DESC: "These platings are forged using Static Light Energies, making them not only extremely durable but also able to reshape and regenerate themselves to repair any damages done to the ship's hull."
+TECH_UNLOCK_ORIGIN_PLATINGS_TITLE: "Разблокирует компонент: Платинги Серафа"
+TECH_UNLOCK_ORIGIN_PLATINGS_DESC: "Эти плиты кованые с использованием статических световых энергий, что делает их не только чрезвычайно прочными, но и способными изменять форму и регенерировать себя для устранения любых повреждений корпуса судна."
  
-TECH_UNLOCK_ORIGIN_SHIELD_TITLE: "§HРазблокирует компонент:§! Divine Shield"
-TECH_UNLOCK_ORIGIN_SHIELD_DESC: "This mysterious shield powered using Static Light is even stronger than Stellarite Shields and can easily repel against but the most powerful kinetic or disruption weapons."     
+TECH_UNLOCK_ORIGIN_SHIELD_TITLE: "Разблокирует компонент: Божественный щит"
+TECH_UNLOCK_ORIGIN_SHIELD_DESC: "Этот таинственный щит, питаемый с помощью Статического Света, даже сильнее, чем Stellarite Shields, и может легко отбить, но самое мощное кинетическое или разрушительное оружие."     
  
-TECH_UNLOCK_ORIGIN_THRUSTER_TITLE: "§HРазблокирует компонент:§! Omega Thrusters"
-TECH_UNLOCK_ORIGIN_THRUSTER_DESC: "Ancient yet extremely powerful ship thrusters far exceed that of other designs made by lesser empires."
+TECH_UNLOCK_ORIGIN_THRUSTER_TITLE: "Разблокирует компонент: Омега Трюстеры"
+TECH_UNLOCK_ORIGIN_THRUSTER_DESC: "Древние, но чрезвычайно мощные судовые двигатели намного превосходят другие конструкции, созданные меньшими империями."
       
-TECH_UNLOCK_ORIGIN_REACTOR_TITLE: "§HРазблокирует компонент:§! Static Light Receiver"
-TECH_UNLOCK_ORIGIN_REACTOR_DESC: "Due to the immense power of the Light, only a single receiver is required to power all kinds of modern ships. The receiver is able to transmit the power of the Light throughout the whole vessel."
+TECH_UNLOCK_ORIGIN_REACTOR_TITLE: "Разблокирует компонент: Статический светоприемник"
+TECH_UNLOCK_ORIGIN_REACTOR_DESC: "Из-за огромной мощности Света для питания всех видов современных кораблей требуется только один приемник. Приемник способен передавать мощность Света по всему судну."
  
-TECH_UNLOCK_ORIGIN_OENSORS_TITLE: "§HРазблокирует компонент:§! Dimensional Light Sensors"
-TECH_UNLOCK_ORIGIN_OENSORS_DESC: "These latest detection systems determine ship movements by reading through the Light's dimensions. No evil shall escape our sight."
+TECH_UNLOCK_ORIGIN_OENSORS_TITLE: "Разблокирует компонент: Датчики размерного света"
+TECH_UNLOCK_ORIGIN_OENSORS_DESC: "Эти новейшие системы обнаружения определяют движения корабля, считывая размеры Света. Ни одно зло не избежит нашего взгляда."
  
-TECH_UNLOCK_ORIGIN_CCOM_TITLE: "§HРазблокирует компонент:§! Omega-Class Combat Analyzer"
-TECH_UNLOCK_ORIGIN_CCOM_DESC: "The Omega-Class Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help guide our ships."
+TECH_UNLOCK_ORIGIN_CCOM_TITLE: "Разблокирует компонент: Combat Analyzer класса Omega"
+TECH_UNLOCK_ORIGIN_CCOM_DESC: "Combat Analyzer класса Omega заимствует силы и мудрость дозорных Stellarborns, чтобы помочь направлять наши корабли."
  
-TECH_UNLOCK_ORIGIN_JDRIVE_TITLE: "§HРазблокирует компонент:§! Omega Tidal Driver"
-TECH_UNLOCK_ORIGIN_JDRIVE_DESC: "Embrace the Light. Embrace Eternity. The Stars are in our grasp"
+TECH_UNLOCK_ORIGIN_JDRIVE_TITLE: "Разблокирует компонент: драйвер Omega Tidal"
+TECH_UNLOCK_ORIGIN_JDRIVE_DESC: "Обнимай Свет. Обнимай Вечность. Звезды в нашем распоряжении"
  
-ACOT_LASER_OE: "Omega Laser Cannon"
-ACOT_LASER_OE_DESC: "Omega Laser utilizes Static Light energy to cleave ship platings like butter. it is far superior to any other previously known laser weaponry."
+ACOT_LASER_OE: "Лазерная пушка Омега"
+ACOT_LASER_OE_DESC: "Omega Laser использует энергию статического света для расщепления плит, таких как масло. он намного превосходит любое другое ранее известное лазерное оружие."
  
-ACOT_PLASMA_OE: "Light Energy Cannon"
-ACOT_PLASMA_OE_DESC: "Stellarborne's Static Light can be modified as a very powerful projectile that can eat any matter whole, creating extremely deadly anti-ship weapons."
+ACOT_PLASMA_OE: "Легкая энергетическая пушка"
+ACOT_PLASMA_OE_DESC: "Статический свет Стелларборна может быть модифицирован как очень мощный снаряд, который может съесть любое вещество целиком, создавая чрезвычайно смертоносное противокорабельное оружие."
  
 SMALL_ACOT_DISRUPTOR_OE: "Разрушающий свет"
-SMALL_ACOT_DISRUPTOR_OE_DESC: "This advanced disruptor weapon modifies Static Light into a dimensional disruption wave that deconstructs matter out of primary dimensions, deleting the enemy ship from existence, bypassing all useless armors and shields they hide behind. Stupid metal boxes."
+SMALL_ACOT_DISRUPTOR_OE_DESC: "Это передовое оружие-нарушитель модифицирует Статический Свет в размерную волну разрушения, которая деконструирует материю из первичных размеров, удаляя вражеский корабль из существования, обходя все бесполезные брони и щиты, за которыми они прячутся. Дурацкие металлические коробки."
  
 MEDIUM_ACOT_DISRUPTOR_OE: "Разрушающий свет"
-MEDIUM_ACOT_DISRUPTOR_OE_DESC: "This advanced disruptor weapon modifies Static Light into a dimensional disruption wave that deconstructs matter out of primary dimensions, deleting the enemy ship from existence, bypassing all useless armors and shields they hide behind. Stupid metal boxes."
+MEDIUM_ACOT_DISRUPTOR_OE_DESC: "Это передовое оружие-нарушитель модифицирует Статический Свет в размерную волну разрушения, которая деконструирует материю из первичных размеров, удаляя вражеский корабль из существования, обходя все бесполезные брони и щиты, за которыми они прячутся. Дурацкие металлические коробки."
  
 ACOT_DISRUPTOR_OE: "Разрушающий свет"
-ACOT_DISRUPTOR_OE_DESC: "This advanced disruptor weapon modifies Static Light into a dimensional disruption wave that deconstructs matter out of primary dimensions, deleting the enemy ship from existence, bypassing all useless armors and shields they hide behind. Stupid metal boxes."
+ACOT_DISRUPTOR_OE_DESC: "Это передовое оружие-нарушитель модифицирует Статический Свет в размерную волну разрушения, которая деконструирует материю из первичных размеров, удаляя вражеский корабль из существования, обходя все бесполезные брони и щиты, за которыми они прячутся. Дурацкие металлические коробки."
  
-ACOT_OMNI_PLASMA_OE: "Supercharged Light Energy Cannon"
-ACOT_OMNI_PLASMA_OE_DESC: "Based on the same concept as previous design, the weapon is able to fire an even deadlier static light energy sphere over a longer distance."
+ACOT_OMNI_PLASMA_OE: "Легкая энергетическая пушка с наддувом"
+ACOT_OMNI_PLASMA_OE_DESC: "Основываясь на той же концепции, что и предыдущая конструкция, оружие способно вести огонь ещё более смертоносной статической световой энергетической сферой на большее расстояние."
  
-ACOT_PARTICLE_LANCE_OE: "Searing Prismatic Lance"
-ACOT_PARTICLE_LANCE_OE_DESC: "This spinal amplifier weapon fires a continuous stream of light energy through a prismatic lens and light crystal to devastate enemy formations."
+ACOT_PARTICLE_LANCE_OE: "Призматическая лань"
+ACOT_PARTICLE_LANCE_OE_DESC: "Это оружие спинального усилителя запускает непрерывный поток световой энергии через призматическую линзу и световой кристалл, чтобы опустошить вражеские формирования."
  
-ACOT_POINT_DEFENSE_OE: "Phalanx Defense System"
-ACOT_POINT_DEFENSE_OE_DESC: "A special type of Static Light Weapon designed to function as a formidable anti-projectile defense matrix. The Phalanx is able to fire an equivalent micro-lance energy weapon. The effect is destructive to all targets, especially compared to other PDS by standards."
+ACOT_POINT_DEFENSE_OE: "Система защиты фаланги"
+ACOT_POINT_DEFENSE_OE_DESC: "Особый тип статического лёгкого оружия, предназначенный для функционирования в качестве грозной матрицы противоракетной обороны. Фаланга способна стрелять эквивалентным микро-ланцевым энергетическим оружием. Эффект разрушителен для всех целей, особенно по сравнению с другими ПДС по стандартам."
  
-ACOT_ARC_EMITTER_OE: "Divine Storm Discharger"
-ACOT_ARC_EMITTER_OE_TITAN: "Focused Divine Storm Discharger"
-ACOT_ARC_EMITTER_OE_DESC: "Divine Storm Discharger cleaves through enemy ships with extremely deadly energy weapons made out of Static Light's emitter adaptation."
+ACOT_ARC_EMITTER_OE: "Божественный штормовой разрядник"
+ACOT_ARC_EMITTER_OE_TITAN: "Сфокусированный божественный штормовой разрядник"
+ACOT_ARC_EMITTER_OE_DESC: "Божественный Штормовой Разрядник раскалывается через вражеские корабли с чрезвычайно смертоносным энергетическим оружием, сделанным из адаптации излучателя Статического Света."
  
-ACOT_PERDITION_BEAM_OE: "Light of Pacification"
-ACOT_PERDITION_BEAM_OE_DESC: "A weapon forged to nullify larger ships. This destructive energy beam infuses the operator's willn into a powerful weapon."
+ACOT_PERDITION_BEAM_OE: "Свет умиротворения"
+ACOT_PERDITION_BEAM_OE_DESC: "Оружие, выкованное, чтобы свести на нет более крупные корабли. Этот разрушительный энергетический пучок вливает волю оператора в мощное оружие."
  
-ACOT_AUTOCANNON_OE: "Light Pulse-Cannon"
-ACOT_AUTOCANNON_OE_DESC: "This short-ranged anti-shield automatic weapon utilizes special ammunition loaded with static light canisters that explodes on contact with extremely deadly precision and kinetic force."
+ACOT_AUTOCANNON_OE: "Легкий пульс-пушка"
+ACOT_AUTOCANNON_OE_DESC: "Это противощитовое автоматическое оружие малой дальности использует специальные боеприпасы, заряженные статическими световыми баллончиками, которые взрываются при контакте с чрезвычайно смертоносной точностью и кинетической силой."
  
-ACOT_MASS_DRIVER_OE: "Starbreaker Cannon"
-ACOT_MASS_DRIVER_OE_DESC: "Starbreaker Cannon are designed based on modern kinetic weapons. It is capable of firing deadly solid light projectiles across long distances."
+ACOT_MASS_DRIVER_OE: "Пушка Старбрейкера"
+ACOT_MASS_DRIVER_OE_DESC: "Starbreaker Cannon спроектированы на основе современного кинетического оружия. Он способен стрелять смертоносными цельными легкими снарядами на большие расстояния."
  
-ACOT_FLAK_CANNON_OE: "Omega Kinetic Defense System"
-ACOT_FLAK_CANNON_OE_DESC: "Omega-class KDS is an adaptation of Static Light technology to fulfill the role of kinetic point defenses. Though the range may be limited, it is compensated by exceptionally high rate of fire and accuracy.."
+ACOT_FLAK_CANNON_OE: "Система кинетической защиты Omega"
+ACOT_FLAK_CANNON_OE_DESC: "KDS класса Omega - адаптация технологии Static Light для выполнения роли кинетических точечных защит. Хотя дальность может быть ограничена, она компенсируется исключительно высокой скорострельностью и точностью."
  
-ACOT_ARTILLERY_OE: "Lightbound Hypervelocity Artillery"
-ACOT_ARTILLERY_OE_DESC: "Lightbound Artillery fires an even stronger super-accelerated light-infused energy projectile that can make short work of enemy ships across massive distances without losing density and force."
+ACOT_ARTILLERY_OE: "Зажигаемая гиперскоростная артиллерия"
+ACOT_ARTILLERY_OE_DESC: "Lightbound Artillery выпускает ещё более сильный сверхразгонный легкий энергетический снаряд, который может сделать короткую работу вражеских кораблей на огромных расстояниях без потери плотности и силы."
  
-ACOT_MASS_ACCELERATOR_OE: "Gatecrasher Warp Cannon"
-ACOT_MASS_ACCELERATOR_OE_DESC: "Gatecrasher Warp Cannon fires an enormous slug encased with light energy that wraps itself into enemy ships via micro-wormhole, bypassing travelling distance while still maintaining the full kinetic force, speed and velocity. Our ships can even look away while doing it, because cool guys don't look at explosions."
+ACOT_MASS_ACCELERATOR_OE: "Варп-пушка Gatecrasher"
+ACOT_MASS_ACCELERATOR_OE_DESC: "Gatecrasher Warp Cannon выпускает огромную пробку, заключенную в световую энергию, которая оборачивается вражескими кораблями через микро-червоточину, минуя дистанцию, сохраняя при этом полную кинетическую силу, скорость и скорость. Наши корабли могут даже смотреть в сторону, потому что крутые парни не смотрят на взрывы."
  
-ACOT_MISSILE_OE: "Dual Lightbringer Blasters"
-ACOT_MISSILE_OE_DESC: "Lightbringer Blaster Missiles are not not only more destructive than Starviper, but are also fired in pairs. This makes them much harder to take down while doubling their firepowers."
+ACOT_MISSILE_OE: "Двойные осветительные бластеры"
+ACOT_MISSILE_OE_DESC: "Ракеты Lightbringer Blaster не только разрушительнее Starviper, но и выпускаются парами. Это делает их гораздо труднее уничтожить, в то время как удвоить их огневые мощи."
  
-ACOT_MISSILE_BARRAGE_OE: "Helios Rocket Barrage System"
-ACOT_MISSILE_BARRAGE_OE_DESC: "Deadly long-range rocket systems launched from a quad-launcher that sacrifices tracking capabilities for increased firepower."
+ACOT_MISSILE_BARRAGE_OE: "Ракетная заградительная система Helios"
+ACOT_MISSILE_BARRAGE_OE_DESC: "Смертоносные ракетные системы дальнего радиуса действия запускаются с четырехгранника, который жертвует возможностями слежения за возросшей огневой мощью."
 tech_barrage_missile_oe: "Helios RBS"
-tech_barrage_missile_oe_desc: "One of the few creations that we ourselves invented through our understanding of Static Light. With the blessings of the Stellarborne, we have been granted the opportunity to create weapons that the gods themselves did not think to use before, and we shall be the one to prove them our creativity."
+tech_barrage_missile_oe_desc: "Одно из немногих творений, которые мы сами изобрели через наше понимание Статического Света. С благословений Stellarborne, мы получили возможность создать оружие, которое сами боги не думали использовать раньше, и мы будем тем, кто докажет им наше творчество."
  
-ACOT_MISSILE_XL_OE: "Speedwagon Missile Battery"
-ACOT_MISSILE_XL_OE_DESC: "Powerful spinal-based missile system that fires a pair of high-speed, deadly accurate missiles with high tracking capabilities. "
-tech_xl_missile_oe: "Speedwagon XLMBS"
-tech_xl_missile_oe_desc: "The fastest missiles we have ever conceived through our questionably sane minds. The SPEEDO-WAGON, or Speedwagon XLMBS is the final answer to any ships who have too high evasions for their own good."
- 
- 
-ACOT_MISSILE_NUKE_OE: "Megumin Giga-Warhead Launcher"
-ACOT_MISSILE_NUKE_OE_DESC: "Massive warhead launcher designed to take out capital ships through heavy ordinances. Has a minimum range of 100."
-tech_missile_nuke_oe: "Megumin Xplooosion!"
-tech_missile_nuke_oe_desc: "At long last..."
+ACOT_MISSILE_XL_OE: "Ракетная батарея Speedwagon"
+ACOT_MISSILE_XL_OE_DESC: "Мощный ракетный комплекс спинального базирования, который запускает пару высокоскоростных, смертоносных точных ракет с высокими возможностями слежения."
+tech_xl_missile_oe: "Скоростной вагон XLMBS"
+tech_xl_missile_oe_desc: "Самые быстрые ракеты, которые мы когда-либо задумывали через наши сомнительно здравые умы. SPEEDO-WAGON, или Speedwagon XLMBS - окончательный ответ любым судам, у которых слишком высокие уклонения ради собственного блага."
  
  
- 
-ACOT_FIGHTERS_HANGAR_OE: "Paladin Interceptor"
-ACOT_FIGHTERS_HANGAR_OE_DESC: "State-of-the-art interceptors that outperform all crappier generations. Let the hunt begins."
- 
-ACOT_BOMBERS_HANGAR_OE: "Crusader Bomber"
-ACOT_BOMBERS_HANGAR_OE_DESC: "State-of-the-art bombers that outperform all crappier generations. Time to put on the real show."
- 
-ACOT_GUNSHIP_HANGAR_OE: "Tempest Gunship"
-ACOT_GUNSHIP_HANGAR_OE_DESC: "The Tempest  improves upon the Firestorm-Class Gunship, featuring even better protection and firepower."
- 
-ACOT_ARMOR_OE: "Celestial Armor"
-ACOT_ARMOR_OE_DESC: "Celestial Armor is forged from the power of Light Energy to create one of the most powerful hull materials known to any civilizations."
-ACOT_ENIGMATIC_SHIELD_OE: "Divine Shield"
-ACOT_ENIGMATIC_SHIELD_OE_DESC: "This Light Energy shield is even stronger than Stellarite Shields as the shields are reinforced with extra layers of both dimensional energy and kinetic absorption fields."
- 
-SMALL_ACOT_ARMOR_OE: "Small Celestial Armor"
-SMALL_ACOT_ARMOR_OE_DESC: "Celestial Armor is forged from the power of Light Energy to create one of the most powerful hull materials known to any civilizations."
- 
-MEDIUM_ACOT_ARMOR_OE: "Medium Celestial Armor"
-MEDIUM_ACOT_ARMOR_OE_DESC: "Celestial Armor is forged from the power of Light Energy to create one of the most powerful hull materials known to any civilizations."
- 
-LARGE_ACOT_ARMOR_OE: "Large Celestial Armor"
-LARGE_ACOT_ARMOR_OE_DESC: "Celestial Armor is forged from the power of Light Energy to create one of the most powerful hull materials known to any civilizations."
- 
-SMALL_ACOT_ENIGMATIC_SHIELD_OE: "Small Divine Shield"
-SMALL_ACOT_ENIGMATIC_SHIELD_OE_DESC: "This Light Energy shield is even stronger than Stellarite Shields as the shields are reinforced with extra layers of both dimensional energy and kinetic absorption fields."
- 
-MEDIUM_ACOT_ENIGMATIC_SHIELD_OE: "Medium Divine Shield"
-MEDIUM_ACOT_ENIGMATIC_SHIELD_OE_DESC: "This Light Energy shield is even stronger than Stellarite Shields as the shields are reinforced with extra layers of both dimensional energy and kinetic absorption fields."
- 
-LARGE_ACOT_ENIGMATIC_SHIELD_OE: "Large Divine Shield"
-LARGE_ACOT_ENIGMATIC_SHIELD_OE_DESC: "This Light Energy shield is even stronger than Stellarite Shields as the shields are reinforced with extra layers of both dimensional energy and kinetic absorption fields."
- 
-STELLARITE_DRIVE_OE: "Omega Tidal Driver"
-STELLARITE_DRIVE_OE_DESC: "Embrace the Light, and travel anywhere across the galaxy."
- 
-SHIP_THRUSTER_OE: "Omega Thrusters"
-SHIP_THRUSTER_OE_DESC: "Extremely powerful ship thrusters utilizing the Light's power to move at incredible speed."
- 
-DESTROYER_SHIP_THRUSTER_OE: "Omega Thrusters"
-DESTROYER_SHIP_THRUSTER_OE_DESC: "Extremely powerful ship thrusters utilizing the Light's power to move at incredible speed."
- 
-CRUISER_SHIP_THRUSTER_OE: "Omega Thrusters"
-CRUISER_SHIP_THRUSTER_OE_DESC: "Extremely powerful ship thrusters utilizing the Light's power to move at incridible speed."
- 
-BATTLESHIP_SHIP_THRUSTER_OE: "Omega Thrusters"
-BATTLESHIP_SHIP_THRUSTER_OE_DESC: "Extremely powerful ship thrusters utilizing the Light's power to move at incredible speed."
- 
-TITAN_SHIP_THRUSTER_OE: "Omega Thrusters"
-TITAN_SHIP_THRUSTER_OE_DESC: "Extremely powerful ship thrusters utilizing the Light's power to move at incredible speed."
- 
-COLOSSUS_SHIP_THRUSTER_OE: "Omega Thrusters"
-COLOSSUS_SHIP_THRUSTER_OE_DESC: "Extremely powerful ship thrusters utilizing the Light's power to move at incredible speed."
- 
-OE_SENSOR_SHIP: "Dimensional Light Sensors"
-OE_SENSOR_SHIP_DESC: "These latest detection systems determine ship movements by reading through the Light's dimensions. No evil shall escape our sight."
- 
-LIGHT_MATTER_REACTOR_OE: "Static Light Receiver"
-LIGHT_MATTER_REACTOR_OE_DESC: "Due to the immense power of the Light, only a single receiver is required to power all kinds of modern ships. The receiver is able to transmit the power of the Light throughout the whole vessel."
- 
-OE_OFFENSIVE_COMBAT_COMPUTER: "Offensive Omega-Class Combat Analyzer (Small Ships)"
-OE_OFFENSIVE_COMBAT_COMPUTER_DESC: "The Omni-Matrix Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle. Their ability to see through the Light's Dimension makes them almost unrivalled in power. This variation is adapted to offensive tactics."
- 
-OE_BALANCE_COMBAT_COMPUTER: "Balanced Omega-Class Combat Analyzer (Small Ships)"
-OE_BALANCE_COMBAT_COMPUTER_DESC: "The Omni-Matrix Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle. Their ability to see through the Light's Dimension makes them almost unrivalled in power."
- 
-OE_DEFENSIVE_COMBAT_COMPUTER: "Defensive Omega-Class Combat Analyzer (Small Ships)"
-OE_DEFENSIVE_COMBAT_COMPUTER_DESC: "The Omni-Matrix Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle. Their ability to see through the Light's Dimension makes them almost unrivalled in power. This variation is adapted to defensive tactics."
+ACOT_MISSILE_NUKE_OE: "Пусковая установка Мегумин Гига-Боеголовка"
+ACOT_MISSILE_NUKE_OE_DESC: "Массированная боеголовка, предназначенная для вывоза капитальных кораблей с помощью тяжелых боеприпасов. Имеет минимальный диапазон 100."
+tech_missile_nuke_oe: "Мегумин Xplooosion!"
+tech_missile_nuke_oe_desc: "Наконец-то..."
  
  
-OE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Offensive Omega-Class Combat Analyzer (Large Ships)"
-OE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "The Omni-Matrix Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle. Their ability to see through the Light's Dimension makes them almost unrivalled in power. This variation is adapted to offensive tactics."
  
-OE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "Balanced Omega-Class Combat Analyzer (Large Ships"
-OE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "The Omni-Matrix Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle. Their ability to see through the Light's Dimension makes them almost unrivalled in power."
+ACOT_FIGHTERS_HANGAR_OE: "Перехватчик Паладина"
+ACOT_FIGHTERS_HANGAR_OE_DESC: "Современные перехватчики, которые превосходят все поколения crappier. Пусть начинается охота."
  
-OE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Defensive Omega-Class Combat Analyzer (Large Ships)"
-OE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "The Omni-Matrix Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle. Their ability to see through the Light's Dimension makes them almost unrivalled in power. This variation is adapted to defensive tactics."
+ACOT_BOMBERS_HANGAR_OE: "Бомбардировщик-крестоносец"
+ACOT_BOMBERS_HANGAR_OE_DESC: "Самые современные бомбардировщики, которые превосходят все поколения crappier. Пора поставить настоящее шоу."
+ 
+ACOT_GUNSHIP_HANGAR_OE: "Бурный корабль"
+ACOT_GUNSHIP_HANGAR_OE_DESC: "«Буря» совершенствуется над «Огненным кораблем» класса Firestorm, обладая еще лучшей защитой и огневой мощью."
+ 
+ACOT_ARMOR_OE: "Небесная броня"
+ACOT_ARMOR_OE_DESC: "Небесная броня выкована из силы Световой Энергии для создания одного из самых мощных материалов корпуса, известных любым цивилизациям."
+ACOT_ENIGMATIC_SHIELD_OE: "Божественный щит"
+ACOT_ENIGMATIC_SHIELD_OE_DESC: "Этот светоэнергетический щит даже сильнее, чем щиты Стелларита, так как щиты усилены дополнительными слоями как размерной энергии, так и кинетических полей поглощения."
+ 
+SMALL_ACOT_ARMOR_OE: "Малая небесная броня"
+SMALL_ACOT_ARMOR_OE_DESC: "Небесная броня выкована из силы Световой Энергии для создания одного из самых мощных материалов корпуса, известных любым цивилизациям."
+ 
+MEDIUM_ACOT_ARMOR_OE: "Средняя небесная броня"
+MEDIUM_ACOT_ARMOR_OE_DESC: "Небесная броня выкована из силы Световой Энергии для создания одного из самых мощных материалов корпуса, известных любым цивилизациям."
+ 
+LARGE_ACOT_ARMOR_OE: "Большая небесная броня"
+LARGE_ACOT_ARMOR_OE_DESC: "Небесная броня выкована из силы Световой Энергии для создания одного из самых мощных материалов корпуса, известных любым цивилизациям."
+ 
+SMALL_ACOT_ENIGMATIC_SHIELD_OE: "Малый божественный щит"
+SMALL_ACOT_ENIGMATIC_SHIELD_OE_DESC: "Этот светоэнергетический щит даже сильнее, чем щиты Стелларита, так как щиты усилены дополнительными слоями как размерной энергии, так и кинетических полей поглощения."
+ 
+MEDIUM_ACOT_ENIGMATIC_SHIELD_OE: "Средний Божественный щит"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_OE_DESC: "Этот светоэнергетический щит даже сильнее, чем щиты Стелларита, так как щиты усилены дополнительными слоями как размерной энергии, так и кинетических полей поглощения."
+ 
+LARGE_ACOT_ENIGMATIC_SHIELD_OE: "Большой божественный щит"
+LARGE_ACOT_ENIGMATIC_SHIELD_OE_DESC: "Этот светоэнергетический щит даже сильнее, чем щиты Стелларита, так как щиты усилены дополнительными слоями как размерной энергии, так и кинетических полей поглощения."
+ 
+STELLARITE_DRIVE_OE: "Приливный драйвер Omega"
+STELLARITE_DRIVE_OE_DESC: "Обнимайте Свет и путешествуйте по всей галактике."
+ 
+SHIP_THRUSTER_OE: "Мотороллеры Омега"
+SHIP_THRUSTER_OE_DESC: "Чрезвычайно мощные корабельные двигатели, использующие силу Света, чтобы двигаться с невероятной скоростью."
+ 
+DESTROYER_SHIP_THRUSTER_OE: "Мотороллеры Омега"
+DESTROYER_SHIP_THRUSTER_OE_DESC: "Чрезвычайно мощные корабельные двигатели, использующие силу Света, чтобы двигаться с невероятной скоростью."
+ 
+CRUISER_SHIP_THRUSTER_OE: "Мотороллеры Омега"
+CRUISER_SHIP_THRUSTER_OE_DESC: "Чрезвычайно мощные корабельные двигатели, использующие силу Света, чтобы двигаться с невероятной скоростью."
+ 
+BATTLESHIP_SHIP_THRUSTER_OE: "Мотороллеры Омега"
+BATTLESHIP_SHIP_THRUSTER_OE_DESC: "Чрезвычайно мощные корабельные двигатели, использующие силу Света, чтобы двигаться с невероятной скоростью."
+ 
+TITAN_SHIP_THRUSTER_OE: "Мотороллеры Омега"
+TITAN_SHIP_THRUSTER_OE_DESC: "Чрезвычайно мощные корабельные двигатели, использующие силу Света, чтобы двигаться с невероятной скоростью."
+ 
+COLOSSUS_SHIP_THRUSTER_OE: "Мотороллеры Омега"
+COLOSSUS_SHIP_THRUSTER_OE_DESC: "Чрезвычайно мощные корабельные двигатели, использующие силу Света, чтобы двигаться с невероятной скоростью."
+ 
+OE_SENSOR_SHIP: "Измерительные датчики света"
+OE_SENSOR_SHIP_DESC: "Эти новейшие системы обнаружения определяют движения корабля, считывая размеры Света. Ни одно зло не избежит нашего взгляда."
+ 
+LIGHT_MATTER_REACTOR_OE: "Статический светоприемник"
+LIGHT_MATTER_REACTOR_OE_DESC: "Из-за огромной мощности Света для питания всех видов современных кораблей требуется только один приемник. Приемник способен передавать мощность Света по всему судну."
+ 
+OE_OFFENSIVE_COMBAT_COMPUTER: "Боевой анализатор наступательного класса Omega (малые корабли)"
+OE_OFFENSIVE_COMBAT_COMPUTER_DESC: "Omni-Matrix Combat Analyzer заимствует силы и мудрости Стражи Стелларборна, чтобы помочь нам сражаться в бою. Их способность видеть сквозь Измерение Света делает их почти непревзойденными во власти. Эта вариация адаптирована к наступательной тактике."
+ 
+OE_BALANCE_COMBAT_COMPUTER: "Сбалансированный боевой анализатор класса Omega (малые корабли)"
+OE_BALANCE_COMBAT_COMPUTER_DESC: "Omni-Matrix Combat Analyzer заимствует силы и мудрости Стражи Стелларборна, чтобы помочь нам сражаться в бою. Их способность видеть сквозь Измерение Света делает их почти непревзойденными во власти."
+ 
+OE_DEFENSIVE_COMBAT_COMPUTER: "Оборонительный боевой анализатор класса Omega (малые корабли)"
+OE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Omni-Matrix Combat Analyzer заимствует силы и мудрости Стражи Стелларборна, чтобы помочь нам сражаться в бою. Их способность видеть сквозь Измерение Света делает их почти непревзойденными во власти. Эта вариация адаптирована к оборонительной тактике."
  
  
-OE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "Offensive Omega-Class Combat Analyzer (Titanic Ships)"
-OE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "The Omni-Matrix Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle. Their ability to see through the Light's Dimension makes them almost unrivalled in power. This variation is adapted to offensive tactics."
+OE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Боевой анализатор наступательного класса Omega (большие корабли)"
+OE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Omni-Matrix Combat Analyzer заимствует силы и мудрости Стражи Стелларборна, чтобы помочь нам сражаться в бою. Их способность видеть сквозь Измерение Света делает их почти непревзойденными во власти. Эта вариация адаптирована к наступательной тактике."
  
-OE_BALANCE_COMBAT_COMPUTER_TITAN: "Balanced Omega-Class Combat Analyzer (Titanic Ships)"
-OE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "The Omni-Matrix Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle. Their ability to see through the Light's Dimension makes them almost unrivalled in power."
+OE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "Сбалансированный боевой анализатор класса Omega (большие корабли"
+OE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Omni-Matrix Combat Analyzer заимствует силы и мудрости Стражи Стелларборна, чтобы помочь нам сражаться в бою. Их способность видеть сквозь Измерение Света делает их почти непревзойденными во власти."
  
-OE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "Defensive Omega-Class Combat Analyzer (Titanic Ships)"
-OE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "The Omni-Matrix Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle. Their ability to see through the Light's Dimension makes them almost unrivalled in power. This variation is adapted to defensive tactics."
+OE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Оборонительный боевой анализатор класса Omega (большие корабли)"
+OE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Omni-Matrix Combat Analyzer заимствует силы и мудрости Стражи Стелларборна, чтобы помочь нам сражаться в бою. Их способность видеть сквозь Измерение Света делает их почти непревзойденными во власти. Эта вариация адаптирована к оборонительной тактике."
  
  
-OE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "Offensive Omega-Class Combat Analyzer (Goliath)"
-OE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "The Omni-Matrix Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle. Their ability to see through the Light's Dimension makes them almost unrivalled in power. This variation is adapted to offensive tactics."
+OE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "Боевой анализатор наступательного класса «Омега» (корабли «Титаник»)"
+OE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Omni-Matrix Combat Analyzer заимствует силы и мудрости Стражи Стелларборна, чтобы помочь нам сражаться в бою. Их способность видеть сквозь Измерение Света делает их почти непревзойденными во власти. Эта вариация адаптирована к наступательной тактике."
  
-OE_BALANCE_COMBAT_COMPUTER_GOLIATH: "Balanced Omega-Class Combat Analyzer (Goliath)"
-OE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "The Omni-Matrix Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle. Their ability to see through the Light's Dimension makes them almost unrivalled in power."
+OE_BALANCE_COMBAT_COMPUTER_TITAN: "Balanced Omega-class Combat Analyzer (Титанические корабли)"
+OE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "Omni-Matrix Combat Analyzer заимствует силы и мудрости Стражи Стелларборна, чтобы помочь нам сражаться в бою. Их способность видеть сквозь Измерение Света делает их почти непревзойденными во власти."
  
-OE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "Defensive Omega-Class Combat Analyzer (Goliath)"
-OE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "The Omni-Matrix Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle. Their ability to see through the Light's Dimension makes them almost unrivalled in power. This variation is adapted to defensive tactics."
+OE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "Оборонительный боевой анализатор класса «Омега» (корабли «Титаник»)"
+OE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Omni-Matrix Combat Analyzer заимствует силы и мудрости Стражи Стелларборна, чтобы помочь нам сражаться в бою. Их способность видеть сквозь Измерение Света делает их почти непревзойденными во власти. Эта вариация адаптирована к оборонительной тактике."
  
-OE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Offensive Omega-Class Combat Analyzer (Station)"
-OE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "The Omni-Matrix Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle. Their ability to see through the Light's Dimension makes them almost unrivalled in power. This variation is adapted to offensive tactics."
  
-OE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Defensive Omega-Class Combat Analyzer (Platform Station XBOX One)"
-OE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "The Omni-Matrix Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle. Their ability to see through the Light's Dimension makes them almost unrivalled in power. This variation is adapted to defensive tactics."
+OE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "Боевой анализатор наступательного класса Omega (Голиаф)"
+OE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Omni-Matrix Combat Analyzer заимствует силы и мудрости Стражи Стелларборна, чтобы помочь нам сражаться в бою. Их способность видеть сквозь Измерение Света делает их почти непревзойденными во власти. Эта вариация адаптирована к наступательной тактике."
  
-PAC_COMBAT_COMPUTER_DEFENSE_OE: "Omega-Class Carrier Combat Analyzer (Evasive)"
-PAC_COMBAT_COMPUTER_DEFENSE_OE_DESC: "This marvelous ship utilizes a unique Omega-Class Combat Analyzer specifically optimized for carriers."
+OE_BALANCE_COMBAT_COMPUTER_GOLIATH: "Сбалансированный боевой анализатор класса Omega (Голиаф)"
+OE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "Omni-Matrix Combat Analyzer заимствует силы и мудрости Стражи Стелларборна, чтобы помочь нам сражаться в бою. Их способность видеть сквозь Измерение Света делает их почти непревзойденными во власти."
  
-PAC_COMBAT_COMPUTER_OFFENSE_OE: "Omega-Class Carrier Combat Analyzer (Stationary)"
-PAC_COMBAT_COMPUTER_OFFENSE_OE_DESC: "This marvelous ship utilizes a unique Omega-Class Combat Analyzer specifically optimized for carriers."
+OE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "Оборонительный боевой анализатор класса Omega (Голиаф)"
+OE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Omni-Matrix Combat Analyzer заимствует силы и мудрости Стражи Стелларборна, чтобы помочь нам сражаться в бою. Их способность видеть сквозь Измерение Света делает их почти непревзойденными во власти. Эта вариация адаптирована к оборонительной тактике."
  
-HERCULEAN_COMBAT_COMPUTER_OE: "Herculean Omega Combat Analyzer"
-HERCULEAN_COMBAT_COMPUTER_OE_DESC: "The Omega-Class Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship. This variation is adapted to defensive tactics."
+OE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Боевой анализатор наступательного класса Omega (станция)"
+OE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Omni-Matrix Combat Analyzer заимствует силы и мудрости Стражи Стелларборна, чтобы помочь нам сражаться в бою. Их способность видеть сквозь Измерение Света делает их почти непревзойденными во власти. Эта вариация адаптирована к наступательной тактике."
+ 
+OE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Оборонительный боевой анализатор класса Omega (платформа станция XBOX One)"
+OE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Omni-Matrix Combat Analyzer заимствует силы и мудрости Стражи Стелларборна, чтобы помочь нам сражаться в бою. Их способность видеть сквозь Измерение Света делает их почти непревзойденными во власти. Эта вариация адаптирована к оборонительной тактике."
+ 
+PAC_COMBAT_COMPUTER_DEFENSE_OE: "Боевой анализатор несущей Omega-класса (уклоняющийся)"
+PAC_COMBAT_COMPUTER_DEFENSE_OE_DESC: "Этот замечательный корабль использует уникальный Omega-Class Combat Analyzer специально оптимизированный для носителей."
+ 
+PAC_COMBAT_COMPUTER_OFFENSE_OE: "Боевой анализатор носителя класса Omega (стационарный)"
+PAC_COMBAT_COMPUTER_OFFENSE_OE_DESC: "Этот замечательный корабль использует уникальный Omega-Class Combat Analyzer специально оптимизированный для носителей."
+ 
+HERCULEAN_COMBAT_COMPUTER_OE: "Боевой анализатор Herculean Omega"
+HERCULEAN_COMBAT_COMPUTER_OE_DESC: "Omega-Class Combat Analyzer является самым передовым биосинтетическим боевым компьютерным адаптером, когда-либо разработанным. Система эффективно увеличивает количество действующих экипажей в два и более раза, фактически не занимая пространство корабля. Эта вариация адаптирована к оборонительной тактике."
  
 #####################################################################################
  
-ACOT_AFTERBURNERS_OE: "Omega Afterburners"
-ACOT_AFTERBURNERS_OE_DESC: "In the events that the thrusters alone are still not enough for the ship to go fast. Omega Afterburners can be used to further increase the speed, breaking the limits!"
+ACOT_AFTERBURNERS_OE: "Форсажные камеры Omega"
+ACOT_AFTERBURNERS_OE_DESC: "В событиях, что одних только двигателей до сих пор недостаточно, чтобы корабль шел быстро. Форсажные камеры Omega можно использовать для дальнейшего увеличения скорости, нарушая ограничения!"
  
-ACOT_HYPERCHARGED_JUMPER_OE: "Omega Supercharged Hyperdrive Amplifier "
-ACOT_HYPERCHARGED_JUMPER_OE_DESC: "Additional auxiliary amplifiers can be installed on the jump drive's modular turbines to increase their performance. This model requires almost no burden on the FTL driver. Useful for performing Tactical Espionage Action."
+ACOT_HYPERCHARGED_JUMPER_OE: "Усилитель гипердвигателя с наддувом Omega"
+ACOT_HYPERCHARGED_JUMPER_OE_DESC: "Дополнительные вспомогательные усилители могут быть установлены на модульных турбинах скачкового привода для повышения их производительности. Эта модель почти не требует нагрузки на драйвер FTL. Полезен для выполнения тактической шпионской акции."
  
-ACOT_AURA_HYPERJUMPDRIVE_OE: "Starbender Waypoint"
-ACOT_AURA_HYPERJUMPDRIVE_OE_DESC: "Utilizing a special mechanism, the Waypoint can be used to quickly transport all fleets assigned to the capital ship into a new location."
+ACOT_AURA_HYPERJUMPDRIVE_OE: "Старбендер-Уэйпойнт"
+ACOT_AURA_HYPERJUMPDRIVE_OE_DESC: "Используя специальный механизм, «ППМ» может использоваться для быстрой транспортировки всех флотов, назначенных капитальному кораблю, в новое место."
  
-ACOT_REPAIR_COUNTERMEASURES_OE: "Omega Reactive Countermeasure Drones"
-ACOT_REPAIR_COUNTERMEASURES_OE_DESC: "The most sophisticated and durable of all UMDs, the Omega-Class provides the best protection, deterrances and maintenance. Their services will be honored in the archives of our empire."
+ACOT_REPAIR_COUNTERMEASURES_OE: "Реактивные беспилотные летательные аппараты Omega"
+ACOT_REPAIR_COUNTERMEASURES_OE_DESC: "Самый сложный и долговечный из всех UMD, Omega-Class обеспечивает наилучшую защиту, сдерживание и техническое обслуживание. Их заслуги будут чествоваться в архивах нашей империи."
  
-ACOT_SHIELD_BOOSTER_OE: "Omega Supercharged Barrier"
-ACOT_SHIELD_BOOSTER_OE_DESC: "Supercharging barriers grant the ship's shield generators almost twice as much strength, far exceeding older generations."
+ACOT_SHIELD_BOOSTER_OE: "Омега с наддувом"
+ACOT_SHIELD_BOOSTER_OE_DESC: "Барьеры наддува обеспечивают генераторам щита корабля почти вдвое большую прочность, намного превышающую старые поколения."
  
-ACOT_WEAPONS_CORE_OE: "Omega Auxiliary Corps"
-ACOT_WEAPONS_CORE_OE_DESC: "This specialized weapon core converts excess energies from surrounding materials to amplify the ship's weapon systems for even greater performance than before."
+ACOT_WEAPONS_CORE_OE: "Вспомогательный корпус Омеги"
+ACOT_WEAPONS_CORE_OE_DESC: "Это специализированное оружейное ядро преобразует избыточные энергии из окружающих материалов для усиления систем вооружения корабля для еще более высокой производительности, чем раньше."
  
-ACOT_AURA_TECH_INHIBITOR_OE: "Seraphim Network Inhibitor"
-ACOT_AURA_TECH_INHIBITOR_OE_DESC: "This extremely powerful device interferes with enemy systems, zapping away their powers and bestows them on allied ships. None may challenge us and live to tell the tale."
+ACOT_AURA_TECH_INHIBITOR_OE: "Ингибитор сети Серафима"
+ACOT_AURA_TECH_INHIBITOR_OE_DESC: "Это чрезвычайно мощное устройство мешает вражеским системам, отрывая их силы и даруя их союзным кораблям. Никто не может бросить нам вызов и дожить до рассказа."
  
-ACOT_AURA_SUPERAURA_OE: "Omega Forge Network"
-ACOT_AURA_SUPERAURA_OE_DESC: "A special network orchestrated from the flagship that  establishes powerful artificial links between all vessel's computers within the fleet, tuning them together into an undying meme. All Memes. All passed along."
+ACOT_AURA_SUPERAURA_OE: "Сеть кузниц Омега"
+ACOT_AURA_SUPERAURA_OE_DESC: "Специальная сеть, организованная из флагмана, которая устанавливает мощные искусственные связи между всеми компьютерами судна в составе флота, настраивая их вместе в неувядающий мем. Все Мемы. Все прошло."
  
-ACOT_AUX_ENIGMATIC_AI: "Omega Archive Database"
-ACOT_AUX_ENIGMATIC_AI_DESC: "This database contains all the information regarding all weak points, flaws and exploitable mechanics of various ancient designs in full detail that can be uploaded to all ship's weapon systems."
+ACOT_AUX_ENIGMATIC_AI: "Архивная база данных Omega"
+ACOT_AUX_ENIGMATIC_AI_DESC: "Эта база данных содержит всю информацию, касающуюся всех слабых мест, недостатков и эксплуатируемой механики различных древних конструкций в полном объеме, которая может быть загружена во все системы корабельного оружия."
  
-aura_origin: "Concentrated Network"
-friendly_tech_inhibitor_aura: "Hostile Network Inhibitor"
-hostile_tech_inhibitor_aura: "Friendly Network Amplifier"
+aura_origin: "Концентрированная сеть"
+friendly_tech_inhibitor_aura: "Ингибитор враждебной сети"
+hostile_tech_inhibitor_aura: "Дружественный сетевой усилитель"
  
-shipsize_colossus_hull_add: "Colossus Hull Add"
+shipsize_colossus_hull_add: "Колосс Халл Добавить"
  
-tech_lightmatter_afterburners: "Omega Afterburners"
-tech_lightmatter_afterburners_desc: "In the events that the thrusters alone are still not enough for the ship to go fast. Omega Afterburners can be used to further increase the speed, breaking the limits!"
+tech_lightmatter_afterburners: "Форсажные камеры Omega"
+tech_lightmatter_afterburners_desc: "В событиях, что одних только двигателей до сих пор недостаточно, чтобы корабль шел быстро. Форсажные камеры Omega можно использовать для дальнейшего увеличения скорости, нарушая ограничения!"
  
-tech_lightmatter_armor: "Celestial Armor"
-tech_lightmatter_armor_desc: "Celestial Armor is forged from the power of Light Energy to create one of the most powerful hull materials known to any civilizations."
+tech_lightmatter_armor: "Небесная броня"
+tech_lightmatter_armor_desc: "Небесная броня выкована из силы Световой Энергии для создания одного из самых мощных материалов корпуса, известных любым цивилизациям."
  
-tech_lightmatter_artillery: "Lightbound Hypervelocity Artillery"
-tech_lightmatter_artillery_desc: "Lightbound Artillery fires an even stronger super-accelerated light-infused energy projectile that can make short work of enemy ships across massive distances without losing density and force."
+tech_lightmatter_artillery: "Зажигаемая гиперскоростная артиллерия"
+tech_lightmatter_artillery_desc: "Lightbound Artillery выпускает ещё более сильный сверхразгонный легкий энергетический снаряд, который может сделать короткую работу вражеских кораблей на огромных расстояниях без потери плотности и силы."
  
-tech_lightmatter_aura_energy_drainer: "Seraphim Network Inhibitor"
-tech_lightmatter_aura_energy_drainer_desc: "This extremely powerful device interferes with enemy systems, zapping away their powers and bestows them on allied ships. None may challenge us and live to tell the tale. Kill or be killed, Jack."
-TECH_UNLOCK_ENERGY_DRAINER_OE_TITLE: "§HРазблокирует компонент:§! Seraphim Network Inhibitor"
-TECH_UNLOCK_ENERGY_DRAINER_OE_DESC: "§HSeraphim Network Inhibitor§!\nThis extremely powerful device interferes with enemy systems, zapping away their powers and bestows them on allied ships. None may challenge us and live to tell the tale. Kill or be killed, Jack."
+tech_lightmatter_aura_energy_drainer: "Ингибитор сети Серафима"
+tech_lightmatter_aura_energy_drainer_desc: "Это чрезвычайно мощное устройство мешает вражеским системам, отрывая их силы и даруя их союзным кораблям. Никто не может бросить нам вызов и дожить до рассказа. Убей или будь убит, Джек."
+TECH_UNLOCK_ENERGY_DRAINER_OE_TITLE: "Разблокирует компонент: Серафимовский сетевой ингибитор"
+TECH_UNLOCK_ENERGY_DRAINER_OE_DESC: "Серафимовский сетевой ингибитор\nЭто чрезвычайно мощное устройство мешает вражеским системам, оттягивая их силы и даруя их союзным кораблям. Никто не может бросить нам вызов и дожить до рассказа. Убей или будь убит, Джек."
  
  
-tech_lightmatter_autocannon: "Light Pulse-Cannon"
-tech_lightmatter_autocannon_desc: "This short-ranged anti-shield automatic weapon utilizes special ammunition loaded with static light canisters that explodes on contact with extremely deadly precision and kinetic force."
+tech_lightmatter_autocannon: "Легкий пульс-пушка"
+tech_lightmatter_autocannon_desc: "Это противощитовое автоматическое оружие малой дальности использует специальные боеприпасы, заряженные статическими световыми баллончиками, которые взрываются при контакте с чрезвычайно смертоносной точностью и кинетической силой."
  
-tech_lightmatter_lance: "Searing Prismatic Lance"
-tech_lightmatter_lance_desc: "This spinal amplifier weapon fires a continuous stream of light energy through a prismatic lens and light crystal to devastate enemy formations."
+tech_lightmatter_lance: "Призматическая лань"
+tech_lightmatter_lance_desc: "Это оружие спинального усилителя запускает непрерывный поток световой энергии через призматическую линзу и световой кристалл, чтобы опустошить вражеские формирования."
  
-tech_resized_mass_accelerator_oe: "Omega Sun Cannon"
-tech_resized_mass_accelerator_oe_desc: "I was  born for this job."
+tech_resized_mass_accelerator_oe: "Солнечная пушка Омега"
+tech_resized_mass_accelerator_oe_desc: "Я родился для этой работы."
  
-tech_lightmatter_bomber: "Crusader Bombers"
-tech_lightmatter_bomber_desc: "State-of-the-art bombers that outperform all previous generations. Time to put on the real show."
+tech_lightmatter_bomber: "Бомбардировщики крестоносцев"
+tech_lightmatter_bomber_desc: "Самые современные бомбардировщики, превосходящие все предыдущие поколения. Пора поставить настоящее шоу."
  
 tech_lightmatter_disruptor: "Разрушающий свет"
-tech_lightmatter_disruptor_desc: "This advanced disruptor weapon modifies Static Light into a dimensional disruption wave that deconstructs matter out of primary dimensions, deleting the enemy ship from existence, bypassing all useless armors and shields they hide behind."
+tech_lightmatter_disruptor_desc: "Это передовое оружие-нарушитель модифицирует Статический Свет в размерную волну разрушения, которая деконструирует материю из первичных размеров, удаляя вражеский корабль из существования, обходя все бесполезные брони и щиты, за которыми они прячутся."
  
-tech_lightmatter_emitter: "Divine Storm Emitter"
-tech_lightmatter_emitter_desc: "Divine Storm Discharger cleaves through enemy ships with extremely deadly energy weapons made out of Static Light's emitter adaptation."
-tech_titan_lightmatter_emitter: "Titanic Storm"
-tech_titan_lightmatter_emitter_desc: "Warning, Weather Storm created. Unit lost Unit Lost Unit Lost. Mission Failed.\n\nThat's what the enemies will be hearing."
+tech_lightmatter_emitter: "Излучатель божественного шторма"
+tech_lightmatter_emitter_desc: "Божественный Штормовой Разрядник раскалывается через вражеские корабли с чрезвычайно смертоносным энергетическим оружием, сделанным из адаптации излучателя Статического Света."
+tech_titan_lightmatter_emitter: "Титанический шторм"
+tech_titan_lightmatter_emitter_desc: "Предупреждение, Погодный Шторм создан. Потерянная потерянная единица Потерянная единица. Миссия не выполнена .\n\nВот что услышат враги."
  
-tech_lightmatter_fighter: "Paladin Interceptors"
-tech_lightmatter_fighter_desc: "State-of-the-art interceptors that outperform all previous generations. Let the hunt begins."
+tech_lightmatter_fighter: "Перехватчики Паладина"
+tech_lightmatter_fighter_desc: "Современные перехватчики, которые превосходят все предыдущие поколения. Пусть начинается охота."
  
-tech_lightmatter_flak: "Omega Kinetic Defense System"
-tech_lightmatter_flak_desc: "Omega-class KDS is an improved version of the previous model, featuring even more potent defensive mechanisms unrivalled by any."
+tech_lightmatter_flak: "Система кинетической защиты Omega"
+tech_lightmatter_flak_desc: "Omega-class KDS - усовершенствованная версия предыдущей модели, обладающая еще более мощными защитными механизмами, непревзойденными любыми."
  
-tech_lightmatter_gauss: "Starbreaker Cannon"
-tech_lightmatter_gauss_desc: "Starbreaker Cannon are designed based on modern kinetic weapons. It is capable of firing deadly solid light projectiles across long distances."
+tech_lightmatter_gauss: "Пушка Старбрейкера"
+tech_lightmatter_gauss_desc: "Starbreaker Cannon спроектированы на основе современного кинетического оружия. Он способен стрелять смертоносными цельными легкими снарядами на большие расстояния."
  
-tech_lightmatter_gunship: "Tempest Gunship"
-tech_lightmatter_gunship_desc: "The Tempest improves upon the Firestorm-Class Gunship, featuring even better protection and firepower."
+tech_lightmatter_gunship: "Бурный корабль"
+tech_lightmatter_gunship_desc: "«Буря» совершенствуется над «Огненным кораблем» класса Firestorm, обладая еще лучшей защитой и огневой мощью."
  
-tech_lightmatter_hyper_jump_drive: "Omega Supercharged Hyperdrive Amplifier"
-tech_lightmatter_hyper_jump_drive_desc: "Additional auxiliary amplifiers can be installed on the jump drive's modular turbines to increase their performance. This model requires almost no burden on the FTL driver. Useful for performing Tactical Espionage Action."
+tech_lightmatter_hyper_jump_drive: "Усилитель гипердвигателя с наддувом Omega"
+tech_lightmatter_hyper_jump_drive_desc: "Дополнительные вспомогательные усилители могут быть установлены на модульных турбинах скачкового привода для повышения их производительности. Эта модель почти не требует нагрузки на драйвер FTL. Полезен для выполнения тактической шпионской акции."
  
-tech_lightmatter_inspire_aura: ""Omega Forge Network"
-tech_lightmatter_inspire_aura_desc: "A special network orchestrated from the flagship that establishes powerful artificial links between all vessel's computers within the fleet, tuning them together into an undying meme. All Memes. All passed along."
-TECH_UNLOCK_INSPIRE_AURA_OE_TITLE: "§HРазблокирует компонент:§! Omega Forge Network"
-TECH_UNLOCK_INSPIRE_AURA_OE_DESC: "§HOmega Forge Network§!\nA special network orchestrated from the flagship that establishes powerful artificial link between all vessel's computers within the fleet, tuning them together into an undying meme. All Memes. All passed along."
+tech_lightmatter_inspire_aura: ""Сеть кузниц Омега"
+tech_lightmatter_inspire_aura_desc: "Специальная сеть, организованная из флагмана, которая устанавливает мощные искусственные связи между всеми компьютерами судна в составе флота, настраивая их вместе в неувядающий мем. Все Мемы. Все прошло."
+TECH_UNLOCK_INSPIRE_AURA_OE_TITLE: "Разблокирует компонент: Кузнечная сеть Омега"
+TECH_UNLOCK_INSPIRE_AURA_OE_DESC: "Omega Forge Network\nСпециальная сеть, организованная из флагмана, которая устанавливает мощную искусственную связь между всеми компьютерами судна в составе флота, настраивая их вместе в непрекращающийся мем. Все Мемы. Все прошло."
  
  
-tech_lightmatter_jump_drive: "Omega Tidal Driver"
-tech_lightmatter_jump_drive_desc: "The special driver allows the ship to temporarily enter into the Light's Dimension for a short period of time to effortlessly travel through time and space to reach a new destination.."
+tech_lightmatter_jump_drive: "Приливный драйвер Omega"
+tech_lightmatter_jump_drive_desc: "Специальный водитель позволяет кораблю временно войти в Измерение Света в течение короткого периода времени, чтобы легко путешествовать по времени и пространству, чтобы достичь нового пункта назначения.."
  
-tech_lightmatter_laser: "Omega Laser Beam"
-tech_lightmatter_laser_desc: "Omega Laser utilizes Static Light energy to cleave ship platings like butter. it is far superior to any other previously known laser weaponry."
+tech_lightmatter_laser: "Лазерный луч Omega"
+tech_lightmatter_laser_desc: "Omega Laser использует энергию статического света для расщепления плит, таких как масло. он намного превосходит любое другое ранее известное лазерное оружие."
  
-tech_lightmatter_missile: "Dual Lightbringer Missiles"
-tech_lightmatter_missile_desc: "Lightbringer Missiles are not not only more destructive than Starviper, but are also fired in pairs. This makes them much harder to take down while doubling their firepowers."
+tech_lightmatter_missile: "Двойные ракеты Lightbringer"
+tech_lightmatter_missile_desc: "Ракеты Lightbringer не только более разрушительны, чем Starviper, но и выпускаются парами. Это делает их гораздо труднее уничтожить, в то время как удвоить их огневые мощи."
  
-tech_lightmatter_photon: "Light Energy Cannon"
-tech_lightmatter_photon_desc: "Stellarborne's Static Light can be modified as a very powerful corrosive-like projectile that can eat away other materials whole, creating extremely deadly anti-ship weapons."
+tech_lightmatter_photon: "Легкая энергетическая пушка"
+tech_lightmatter_photon_desc: "Stellarborne's Static Light может быть модифицирован как очень мощный коррозионно-подобный снаряд, который может съедать другие материалы целиком, создавая чрезвычайно смертоносное противокорабельное оружие."
  
-tech_lightmatter_plasma_cannon: "Supercharged Light Energy Cannon"
-tech_lightmatter_plasma_cannon_desc: "Based on the same concept as previous design, the weapon is able to fire an even deadlier light energy sphere over a longer distance."
+tech_lightmatter_plasma_cannon: "Легкая энергетическая пушка с наддувом"
+tech_lightmatter_plasma_cannon_desc: "Основываясь на той же концепции, что и предыдущая конструкция, оружие способно вести огонь ещё более смертоносной светоэнергетической сферой на большее расстояние."
  
-tech_lightmatter_point_defence: "Omega Point Defense System"
-tech_lightmatter_point_defence_desc: "A special type of Static Light Weapon designed to function as a formidable anti-projectile defense matrix. The Phalanx is able to fire an equivalent micro-lance energy weapon. The effect is destructive to all targets, especially compared to other PDS by standards."
+tech_lightmatter_point_defence: "Система защиты Omega Point"
+tech_lightmatter_point_defence_desc: "Особый тип статического лёгкого оружия, предназначенный для функционирования в качестве грозной матрицы противоракетной обороны. Фаланга способна стрелять эквивалентным микро-ланцевым энергетическим оружием. Эффект разрушителен для всех целей, особенно по сравнению с другими ПДС по стандартам."
  
-tech_lightmatter_reactive_drone: "Omega-Class Reactive Drone Platings"
-tech_lightmatter_reactive_drone_desc: "The most sophisticated and durable of all UMDs, the Omega-Class provides the best protection, deterrances and maintenance. Their services will be honored in the archives of our empire."
+tech_lightmatter_reactive_drone: "Реактивные плиты дронов класса Омега"
+tech_lightmatter_reactive_drone_desc: "Самый сложный и долговечный из всех UMD, Omega-Class обеспечивает наилучшую защиту, сдерживание и техническое обслуживание. Их заслуги будут чествоваться в архивах нашей империи."
  
-tech_lightmatter_reactor: "Static Light Adaptation"
-tech_lightmatter_reactor_desc: "Using the Stellarborne's base template of Static Light, this highly adaptable and extremely powerful yet limitless power sources can be used to power almost any piece of technologies known to this galaxy...no...this universe.\n\nThe device we are about to acquire, is a receiver made by the Stellarborne for lower-dimensional empires such as ours in order to allow our various technologies to utilize the power of the Light."
+tech_lightmatter_reactor: "Адаптация статического света"
+tech_lightmatter_reactor_desc: "Используя базовый шаблон Stellarborne Статического Света, этот очень адаптируемый и чрезвычайно мощный, но безграничный источник энергии может быть использован для питания почти любой части технологий, известных этой галактике... нет... этой вселенной .\n\nУстройство, которое мы собираемся приобрести, это приемник, изготовленный Stellarborne для низкоммерных империй, таких как наша, чтобы позволить нашим различным технологиям использовать силу Света."
  
-tech_lightmatter_sensors: "Dimensional Light Sensors"
-tech_lightmatter_sensors_desc: "This latest detection system determines ship movements by reading through the Light's dimensions. No evil shall escape our sight."
+tech_lightmatter_sensors: "Измерительные датчики света"
+tech_lightmatter_sensors_desc: "Эта новейшая система обнаружения определяет движения корабля, считывая размеры Света. Ни одно зло не избежит нашего взгляда."
  
-tech_lightmatter_shield: "Divine Shields"
-tech_lightmatter_shield_desc: "This Light Energy shield is even stronger than Stellarite Shields as the shields are reinforced with extra layers of both dimensional energy and kinetic absorption fields."
+tech_lightmatter_shield: "Божественные щиты"
+tech_lightmatter_shield_desc: "Этот светоэнергетический щит даже сильнее, чем щиты Стелларита, так как щиты усилены дополнительными слоями как размерной энергии, так и кинетических полей поглощения."
  
-tech_lightmatter_shield_supercharger: "Omega Supercharged Barrier"
-tech_lightmatter_shield_supercharger_desc: "Supercharging barriers grant the ship's shield generators almost twice as much strengths, far exceeding older generations."
+tech_lightmatter_shield_supercharger: "Омега с наддувом"
+tech_lightmatter_shield_supercharger_desc: "Барьеры наддува обеспечивают генераторам щита корабля почти вдвое большую прочность, намного превосходя старые поколения."
  
-tech_lightmatter_thruster: "Omega Thrusters"
-tech_lightmatter_thruster_desc: "Extremely powerful ship thrusters utilizing the Light's power to move at incredible speed."
+tech_lightmatter_thruster: "Мотороллеры Омега"
+tech_lightmatter_thruster_desc: "Чрезвычайно мощные корабельные двигатели, использующие силу Света, чтобы двигаться с невероятной скоростью."
  
-tech_lightmatter_titan_beam: "Light of Pacification"
-tech_lightmatter_titan_beam_desc: ""A weapon forged to nullify larger ships. This destructive energy beam infuses the operator's willn into a powerful weapon."
+tech_lightmatter_titan_beam: "Свет умиротворения"
+tech_lightmatter_titan_beam_desc: ""Оружие, выкованное, чтобы свести на нет более крупные корабли. Этот разрушительный энергетический пучок вливает волю оператора в мощное оружие."
  
-tech_lightmatter_weapon_core: "Omega Auxiliary Core"
-tech_lightmatter_weapon_core_desc: "This specialized weapon core converts excess energies from surrounding materials to amplify the ship's weapon systems for even greater performance than before."
+tech_lightmatter_weapon_core: "Вспомогательный сердечник Omega"
+tech_lightmatter_weapon_core_desc: "Это специализированное оружейное ядро преобразует избыточные энергии из окружающих материалов для усиления систем вооружения корабля для еще более высокой производительности, чем раньше."
  
-tech_warp_lightmatter_cannon: "Gatecrusher Warp Cannon"
-tech_warp_lightmatter_cannon_desc: ""Gatecrusher Warp Cannon fires an enormous slug encased with light energy that warps itself into enemy ships via micro-wormhole, bypassing travelling dinstance while still maintaining the full kinetic force, speed and velocity. Our ships can even look away while doing it, because cool guys don't look at explosions."
+tech_warp_lightmatter_cannon: "Варп-пушка Gatecrusher"
+tech_warp_lightmatter_cannon_desc: ""Gatecrusher Warp Cannon выпускает огромную пробку, заключенную в световую энергию, которая деформируется в вражеские корабли через микро-червоточину, минуя бегущую дистанцию, сохраняя при этом полную кинетическую силу, скорость и скорость. Наши корабли могут даже смотреть в сторону, потому что крутые парни не смотрят на взрывы."
  
-tech_lightmatter_titan_accelerator: "Tidebringer Warp Stellarcannon"
-tech_lightmatter_titan_accelerator_desc: "Based upon similar techniques used in the previous model, but applies slightly different. Tidebringer Cannon warps in a device loaded with powerful Light energies that not only causes massive destruction, but will also spread itself further across the ship's interiors, turning the entire ship into a fireball of light."
+tech_lightmatter_titan_accelerator: "Стелларканнон, Тидебрингер Варп"
+tech_lightmatter_titan_accelerator_desc: "На основе аналогичных методов, использованных в предыдущей модели, но применяется несколько иначе. Tidebringer Cannon деформируется в устройстве, нагруженном мощными энергиями Света, которое не только вызывает массовые разрушения, но и распространится дальше по интерьерам корабля, превращая весь корабль в огненный шар света."
  
-ACOT_TITAN_CANNON_OE: "Tidebringer Warp Stellarcannon"
-ACOT_TITAN_CANNON_OE_DESC: "Like bringing a tidal wave of destruction upon the enemy ship, except its a wave of pure Light energies."
+ACOT_TITAN_CANNON_OE: "Стелларканнон, Тидебрингер Варп"
+ACOT_TITAN_CANNON_OE_DESC: "Подобно тому, как приносить приливную волну разрушения на вражеский корабль, за исключением его волны чистых энергий Света."
  
-tech_computer_lightmatter: "Omega-Class Combat Analyzer"
-tech_computer_lightmatter_desc: "The Omega-Class Combat Analyzer borrows the powers and wisdoms of the Stellarborne's Sentinels to help us fight in battle."
+tech_computer_lightmatter: "Боевой анализатор класса Omega"
+tech_computer_lightmatter_desc: "Combat Analyzer класса Омега заимствует силы и мудрость Стражников Стелларборна, чтобы помочь нам сражаться в бою."
  
-tech_lightmatter_analyzer_ai: "Omega Archive Database"
-tech_lightmatter_analyzer_ai_desc: "This database contains all the information regarding all weak points, flaws and exploitable mechanics of various ancient designs in full detail that can be uploaded to all ship's weapon systems."
-ACOT_AURA_SHITTY_SE: "Bald and F00lish Aura"
-ACOT_AURA_SHITTY_SE_DESC: "A Temporary Aura meant for the bald and f00lish empires who try to generate designs for the ships they can't build. Words cannot express how mad the entity known as Chirumiru ShiRoz is right now as he mash the keyboards to make this stupid and totally redundant aura because the god-awful AIs keeps generating error logs because it wants to design a ship that it doesn't even know how to build.\n\n200% MAD."
+tech_lightmatter_analyzer_ai: "Архивная база данных Omega"
+tech_lightmatter_analyzer_ai_desc: "Эта база данных содержит всю информацию, касающуюся всех слабых мест, недостатков и эксплуатируемой механики различных древних конструкций в полном объеме, которая может быть загружена во все системы корабельного оружия."
+ACOT_AURA_SHITTY_SE: "Лысая и F00lish Аура"
+ACOT_AURA_SHITTY_SE_DESC: "Временная Аура предназначалась для лысых и грязных империй, которые пытаются создать проекты для кораблей, которые они не могут построить. Слова не могут выразить, насколько безумна сущность, известная как Chirumiru ShiRoz, сейчас, когда он разбивает клавиатуры, чтобы сделать эту глупую и полностью избыточную ауру, потому что богобоязненные AI продолжают создавать журналы ошибок, потому что он хочет спроектировать корабль, который он даже не умеет строить .\n\n200% MAD."
  
-BASE_STELLARITE_COMBAT_COMPUTER: "Prototype Stellar-Matrix Computer"
-BASE_STELLARITE_COMBAT_COMPUTER_DESC: "Every advanced computer has a humble beginning."
+BASE_STELLARITE_COMBAT_COMPUTER: "Прототип компьютера со звездной матрицей"
+BASE_STELLARITE_COMBAT_COMPUTER_DESC: "У каждого продвинутого компьютера есть смиренное начало."
  
-BASE_STELLARITE_THRUSTER: "Prototype Stellar Thruster"
-BASE_STELLARITE_THRUSTER_DESC: "The first of the engines that move our crafts."
+BASE_STELLARITE_THRUSTER: "Прототип звездного подруливающего двигателя"
+BASE_STELLARITE_THRUSTER_DESC: "Первый двигатель, который двигает наши поделки."
  
-BASE_STELLARITE_REACTOR: "Prototype Stellarite Reactor"
-BASE_STELLARITE_REACTOR_DESC: "Simple yet respectable reactor of our dawn."
+BASE_STELLARITE_REACTOR: "Прототип стелларитного реактора"
+BASE_STELLARITE_REACTOR_DESC: "Простой, но респектабельный реактор нашего рассвета."

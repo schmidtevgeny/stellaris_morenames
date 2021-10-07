@@ -1,193 +1,193 @@
 ﻿l_russian:
  
 ### WEAPONS CHECK OK #####
-# TODO 
-SMALL_ACOT_LASER_ENIG: "Small Prototype Pulse Laser"
-MEDIUM_ACOT_LASER_ENIG: "Medium Prototype Pulse Laser"
-LARGE_ACOT_LASER_ENIG: "Large Prototype Pulse Laser"
-ACOT_LASER_ENIG: "Enigmatic Laser"
-ACOT_LASER_ENIG_DESC: "Pulse Laser Cannons fire powerful enigmatic energy beams on a much higher frequency and firepower than Gamma Lasers."
-tech_laser_enig: "Enigmatic Laser Beam"
-tech_laser_enig_desc: "Pulse Laser Cannons fire powerful enigmatic energy beams on a much higher frequency and firepower than Gamma Lasers. This prototype should lead us closer to understanding power utilized by the precursors. We are moving past the boundaries of our previous understandings."
+# DONE
+SMALL_ACOT_LASER_ENIG: "Малый прототип импульсного лазера"
+MEDIUM_ACOT_LASER_ENIG: "Средний прототип импульсного лазера"
+LARGE_ACOT_LASER_ENIG: "Большой прототип импульсного лазера"
+ACOT_LASER_ENIG: "Энигматический лазер"
+ACOT_LASER_ENIG_DESC: "Импульсные лазерные пушки производят мощные пучки энергии на гораздо более высокой частоте и огневой мощи, чем гамма-лазеры."
+tech_laser_enig: "Загадочный лазерный луч"
+tech_laser_enig_desc: "Импульсные лазерные пушки производят мощные пучки энергии на гораздо более высокой частоте и огневой мощи, чем гамма-лазеры. Этот прототип должен приблизить нас к пониманию силы, используемой предшественниками. Мы переходим границы наших прежних пониманий."
  
  
-SMALL_ACOT_PLASMA_ENIG: "Small Enigmatic Plasma Cannon"
-MEDIUM_ACOT_PLASMA_ENIG: "Medium Enigmatic Plasma Cannon"
-LARGE_ACOT_PLASMA_ENIG: "Large Enigmatic Plasma Cannon"
-ACOT_PLASMA_ENIG: "Enigmatic Plasma Cannon"
-ACOT_PLASMA_ENIG_DESC: "Deadly plasma-based weapon that excels at destroying targets unprotected by shields."
-tech_plasma_enig: "Enigmatic Plasma Cannon"
-tech_plasma_enig_desc: "Enigmatic Plasma Cannons are similar to the plasma cannon technologies we have at hand, although the projectile fired from these cannons seem to be much different and seem to be heavily related to Dark Matter."
+SMALL_ACOT_PLASMA_ENIG: "Малая энигматическая плазменная пушка"
+MEDIUM_ACOT_PLASMA_ENIG: "Средняя энигматическая плазменная пушка"
+LARGE_ACOT_PLASMA_ENIG: "Большая энигматическая плазменная пушка"
+ACOT_PLASMA_ENIG: "Энигматическая плазменная пушка"
+ACOT_PLASMA_ENIG_DESC: "Смертоносное оружие на основе плазмы, которое превосходит по уничтожению целей, незащищенных щитами."
+tech_plasma_enig: "Энигматическая плазменная пушка"
+tech_plasma_enig_desc: "Enigmatic Plasma Cannons аналогичны технологиям плазменных пушек, которые мы имеем под рукой, хотя снаряд, выпущенный из этих пушек, кажется, сильно отличается и, похоже, сильно связан с Dark Matter."
  
  
-SMALL_ACOT_DISRUPTOR_ENIG: "Small Enigmatic Disruptor"
-MEDIUM_ACOT_DISRUPTOR_ENIG: "Medium Enigmatic Disruptor"
-ACOT_DISRUPTOR_ENIG: "Enigmatic Disruptor"
-ACOT_DISRUPTOR_ENIG_DESC: "Drawing upon the enigmatic energies utilized by the precursors, this prototype disruptor can deal even higher damage than before."
-tech_disruptor_enig: "Enigmatic Disruptor"
-tech_disruptor_enig_desc: "Drawing upon the enigmatic energies utilized by the precursors, this prototype disruptor can deal even higher damage than before."
+SMALL_ACOT_DISRUPTOR_ENIG: "Малый загадочный разрушитель"
+MEDIUM_ACOT_DISRUPTOR_ENIG: "Средний загадочный разрушитель"
+ACOT_DISRUPTOR_ENIG: "Загадочный нарушитель"
+ACOT_DISRUPTOR_ENIG_DESC: "Используя загадочные энергии, используемые предшественниками, этот прототип разрушителя может нанести еще больший ущерб, чем раньше."
+tech_disruptor_enig: "Загадочный нарушитель"
+tech_disruptor_enig_desc: "Используя загадочные энергии, используемые предшественниками, этот прототип разрушителя может нанести еще больший ущерб, чем раньше."
  
  
-ACOT_ENERGY_TORPEDO_ENIG: "Enigmatic Plasma Torpedo"
-ACOT_ENERGY_TORPEDO_ENIG_DESC: "Highly corrosive, these torpedoes will make short work of enemy armor and hull, provided that their shields have failed."
-tech_energy_torpedo_enig: "Enigmatic Plasma Torpedo"
-tech_energy_torpedo_enig_desc: "Records suggest that precursors of the past have utilized plasma torpedoes that are not too dissimilar to our Neutron Torpedoes, only stronger."
+ACOT_ENERGY_TORPEDO_ENIG: "Энигматическая плазменная торпеда"
+ACOT_ENERGY_TORPEDO_ENIG_DESC: "Сильно коррозионные, эти торпеды будут делать короткую работу брони и корпуса противника, при условии, что их щиты вышли из строя."
+tech_energy_torpedo_enig: "Энигматическая плазменная торпеда"
+tech_energy_torpedo_enig_desc: "Записи показывают, что предшественники прошлого использовали плазменные торпеды, которые не слишком отличаются от наших нейтронных торпед, только сильнее."
  
  
-ACOT_POINT_DEFENSE_ENIG: "Enigmatic Point-Defense"
-ACOT_POINT_DEFENSE_ENIG_DESC: "Enigmatic Point-Defense fires a concentrated beam of energy to neutralize enemy missiles."
-tech_point_defense_enig: "Enigmatic Point-Defense"
-tech_point_defense_enig_desc: "We are getting closer to understanding the various technological marvels of the past, the pulse beams can be modified to serve as potent point defenses suitable for screening missiles and strikecrafts."
+ACOT_POINT_DEFENSE_ENIG: "Энигматическая точечная оборона"
+ACOT_POINT_DEFENSE_ENIG_DESC: "Enigmatic Point-Defense запускает концентрированный пучок энергии для нейтрализации вражеских ракет."
+tech_point_defense_enig: "Энигматическая точечная оборона"
+tech_point_defense_enig_desc: "Мы приближаемся к пониманию различных технологических чудес прошлого, импульсные лучи могут быть модифицированы, чтобы служить мощной точечной защитой, пригодной для экранирования ракет и ударных снарядов."
  
  
-SMALL_ACOT_MASS_DRIVER_ENIG: "Small Shock Cannon"
-MEDIUM_ACOT_MASS_DRIVER_ENIG: "Medium Shock Cannon"
-LARGE_ACOT_MASS_DRIVER_ENIG: "Large Shock Cannon"
-ACOT_MASS_DRIVER_ENIG: "Shock Cannon"
-ACOT_MASS_DRIVER_ENIG_DESC: "Shock Cannon relies less on the ability to fire fast projectiles like Gauss Cannons , and more on the actual ability to generate powerful rounds that can hit the targets."
-tech_mass_driver_enig: "Shock Cannon"
-tech_mass_driver_enig_desc: "There is only so far Kinetic weapons can go before we reach the limits. Records indicate that in the past, precursor empires tend to focus less on railgun-technology and more on the ability to generate hard-light rounds that can be fired at moderately high speed, while dealing significant damage, just by the virtue of the rounds being extremely deadly themselves. With advanced guiding systems, the rounds can also be fired from long range without needing to have precise targeting accuracy."
+SMALL_ACOT_MASS_DRIVER_ENIG: "Малая ударная пушка"
+MEDIUM_ACOT_MASS_DRIVER_ENIG: "Средняя ударная пушка"
+LARGE_ACOT_MASS_DRIVER_ENIG: "Большая ударная пушка"
+ACOT_MASS_DRIVER_ENIG: "Ударная пушка"
+ACOT_MASS_DRIVER_ENIG_DESC: "Shock Cannon меньше полагается на способность стрелять быстрыми снарядами вроде Gauss Cannons, а больше на фактическую способность генерировать мощные патроны, способные поражать цели."
+tech_mass_driver_enig: "Ударная пушка"
+tech_mass_driver_enig_desc: "Есть только пока кинетическое оружие может пойти до того, как мы достигнем пределов. Данные свидетельствуют о том, что в прошлом империи-предшественники, как правило, уделяли меньше внимания железнодорожным технологиям и в большей степени способности генерировать жесткие легкие снаряды, которые могут выстреливаться с умеренно высокой скоростью, нанося при этом значительный ущерб, как раз в силу того, что снаряды сами по себе являются чрезвычайно смертоносными. С помощью усовершенствованных систем наведения снаряды также могут выстреливаться с большой дальности без необходимости иметь точную точность прицеливания."
  
  
-ACOT_AUTOCANNON_ENIG: "Scorpion Autocannon"
-ACOT_AUTOCANNON_ENIG_DESC: "Scorpion Autocannon uses prototype hard-light projectiles to quickly chew through enemy shields."
-tech_autocannons_enig: "Scorpion Autocannon"
-tech_autocannons_enig_desc: "Based upon the concepts of the Shock Cannon, autocannon variants for this new hard-light based projectiles can be developed as well."
+ACOT_AUTOCANNON_ENIG: "Скорпион Автоканнон"
+ACOT_AUTOCANNON_ENIG_DESC: "Scorpion Autocannon использует прототипы жёстко-лёгких снарядов для быстрого пережевывания вражеских щитов."
+tech_autocannons_enig: "Скорпион Автоканнон"
+tech_autocannons_enig_desc: "На основе концепций Ударной пушки могут быть также разработаны автоканонные варианты для этих новых снарядов на жёсткой основе."
  
  
-ACOT_ARTILLERY_ENIG: "Prototype HLA"
-ACOT_ARTILLERY_ENIG_DESC: "Prototype Hard-Light Artilleries as the name suggests, fire projectiles made out of hard-light materials."
-tech_kinetic_artillery_enig: "Prototype Hard-Light Artillery"
-tech_kinetic_artillery_enig_desc: "It is time we finally begin preparations for actual long-range hard-light-based artillery systems. The first prototype should be ready for field testing soon."
+ACOT_ARTILLERY_ENIG: "Прототип HLA"
+ACOT_ARTILLERY_ENIG_DESC: "Прототип Hard-Light Artilleries, как предполагает название, огневые снаряды, изготовленные из жёстко-легких материалов."
+tech_kinetic_artillery_enig: "Прототип жёстко-лёгкой артиллерии"
+tech_kinetic_artillery_enig_desc: "Пора, наконец, начать подготовку к реальным дальнобойным артиллерийским системам жёсткого лёгкого базирования. Первый прототип должен быть готов к полевым испытаниям в ближайшее время."
  
  
-ACOT_FLAK_CANNON_ENIG: "Enigmatic Sentry Turret"
-ACOT_FLAK_CANNON_ENIG_DESC: "Powerful kinetic defense systems that excel at mowing down pesky strike crafts and missiles."
-tech_flak_batteries_enig: "Delphic Targeting Computers"
-tech_flak_batteries_enig_desc: "Updating our current kinetic defenses with powerful and enigmatic delphic combat computers will greatly make the system much more capable than the old Flak Cannons."
+ACOT_FLAK_CANNON_ENIG: "Загадочная часовая турель"
+ACOT_FLAK_CANNON_ENIG_DESC: "Мощные кинетические системы защиты, которые превосходят в косах ударные поделки и ракеты."
+tech_flak_batteries_enig: "Дельфийские целевые компьютеры"
+tech_flak_batteries_enig_desc: "Обновление нашей нынешней кинетической обороны мощными и загадочными дельфийскими боевыми компьютерами значительно сделает систему гораздо более дееспособной, чем старые Flak Cannons."
  
  
-ACOT_MISSILE_ENIG: "Ghost Missiles"
-ACOT_MISSILE_ENIG_DESC: "Ghost Missiles are stronger than Marauder Missiles, well they are Ghosts, not Reapers or Marines. They should beat Marauders."
-tech_missile_enig: "Ghost Missiles"
-tech_missile_enig_desc: "Marauder Missiles can be upgraded into Ghost Missiles which have stronger materials and higher explosive yields."
+ACOT_MISSILE_ENIG: "Ракеты-призраки"
+ACOT_MISSILE_ENIG_DESC: "Ракеты-призраки сильнее, чем ракеты Мародера, ну это призраки, а не Жнецы или морские пехотинцы. Они должны победить Мараудерс."
+tech_missile_enig: "Ракеты-призраки"
+tech_missile_enig_desc: "Ракеты Marauder можно модернизировать до ракет-призраков, которые имеют более прочные материалы и более высокую урожайность взрывчатого вещества."
  
  
-ACOT_TORPEDO_ENIG: "Bison-Class Torpedoes"
-ACOT_TORPEDO_ENIG_DESC: "When in doubt, add more explosives Explosions!."
-tech_torpedo_enig: "Bison-Class Torpedoes"
-tech_torpedo_enig_desc: "When in doubt, add more explosives. Explosions!"
+ACOT_TORPEDO_ENIG: "Торпеды класса «Бизон»"
+ACOT_TORPEDO_ENIG_DESC: "Если есть сомнения, добавьте больше взрывчатых веществ Взрывы!."
+tech_torpedo_enig: "Торпеды класса «Бизон»"
+tech_torpedo_enig_desc: "Если есть сомнения, добавьте больше взрывчатых веществ. Взрывы!"
  
  
-ACOT_SWARMER_MISSILES_ENIG: "Tornado Cluster Missiles"
-ACOT_SWARMER_MISSILES_ENIG_DESC: "Tornado Cluster Missiles are guided with Delphic Sensors that can track targets while performing evasive maneuvers without hitting each other."
-tech_swarmer_missile_enig: "Delphic-Guided Cluster Missiles"
-tech_swarmer_missile_enig_desc: "Currently, our swarmer missiles utilize a limited guiding system that is accurate but not very good at performing independent maneuvering and tracking. Simply put, they can't evade attacks and hit their targets at the same time, especially when they are clumped together. The introduction of independent Delphic Guiding Computers may solve this weakness."
+ACOT_SWARMER_MISSILES_ENIG: "Кассетные ракеты «Торнадо»"
+ACOT_SWARMER_MISSILES_ENIG_DESC: "Ракеты Tornado Cluster наведены дельфийскими датчиками, которые могут отслеживать цели при выполнении маневров уклонения, не поражая друг друга."
+tech_swarmer_missile_enig: "Кассетные ракеты с дельфийским наведением"
+tech_swarmer_missile_enig_desc: "В настоящее время наши роющие ракеты используют ограниченную систему наведения, которая является точной, но не очень хорошей в выполнении независимого маневрирования и слежения. Проще говоря, они не могут уклоняться от атак и поражать свои цели одновременно, особенно когда они скомканны. Внедрение независимых Delphic Guiding Computers может решить эту проблему."
  
  
-ACOT_PARTICLE_LANCE_ENIG: "Enigmatic Lance"
-ACOT_PARTICLE_LANCE_ENIG_DESC: "Enigmatic Lance pierces through enemy armor with focused enigmatic beam."
-tech_energy_lance_enig: "Enigmatic Lance"
-tech_energy_lance_enig_desc: "Enigmatic Lance pierces through enemy armor with focused enigmatic beam. A considerable improvement over the old Tachyon Lance."
+ACOT_PARTICLE_LANCE_ENIG: "Загадочная лань"
+ACOT_PARTICLE_LANCE_ENIG_DESC: "Энигматичный Ланс пронзает вражескую броню сфокусированным загадочным лучом."
+tech_energy_lance_enig: "Загадочная лань"
+tech_energy_lance_enig_desc: "Энигматичный Ланс пронзает вражескую броню сфокусированным загадочным лучом. Значительное улучшение по сравнению со старым Tachyon Lance."
  
  
-ACOT_ARC_EMITTER_ENIG: "Enigmatic Emitter"
-ACOT_ARC_EMITTER_ENIG_DESC: "This spinal weapon utilizes enigmatic energy to create a very deadly emitter weapon that can damage an enemy ship's internal systems. Unfortunately, due to our current limitations, it has a lower range than the Focused Arc Emitter."
-tech_arc_emitter_enig: "Enigmatic Emitter"
-tech_arc_emitter_enig_desc: "Using the same enigmatic energies to supercharge our current Focused Arc Emitter is possible, but until we truly understand how to wield Dark Energy, the prototype Enigmatic Emitter will have slightly lower effective range than the Focused Arc Emitter."
+ACOT_ARC_EMITTER_ENIG: "Энигматический излучатель"
+ACOT_ARC_EMITTER_ENIG_DESC: "Это спинальное оружие использует загадочную энергию для создания очень смертоносного эмиттерного оружия, которое может повредить внутренние системы корабля противника. К сожалению, из-за наших текущих ограничений он имеет меньший диапазон, чем излучатель сфокусированной дуги."
+tech_arc_emitter_enig: "Энигматический излучатель"
+tech_arc_emitter_enig_desc: "Использование тех же самых загадочных энергий для наддува нашего текущего Сфокусированного Излучателя Дуги возможно, но пока мы действительно не поймем, как использовать Темную Энергию, прототип Энигматического Излучателя будет иметь несколько более низкий эффективный диапазон, чем Сфокусированный Излучатель Дуги."
  
  
-ACOT_MASS_ACCELERATOR_ENIG: "Paragon Mass Accelerator Cannon"
-ACOT_MASS_ACCELERATOR_ENIG_DESC: "Stronger than the old Giga Cannon, the Paragon-Class MAC can punch through all kinds of shields with brutal efficiencies."
-tech_mass_accelerator_enig: "Prototype Super-Mass Accelerator"
-tech_mass_accelerator_enig_desc: "Following the same concepts of creating stronger and deadlier hard-light projectiles of Shock Cannons, the new MAC should prove to be a formidable weapon that will surpass our current Giga Cannon."
+ACOT_MASS_ACCELERATOR_ENIG: "Пушка-массовый ускоритель Paragon"
+ACOT_MASS_ACCELERATOR_ENIG_DESC: "Сильнее старого Giga Cannon, Paragon-Class MAC может пробивать все виды щитов с жестокой эффективностью."
+tech_mass_accelerator_enig: "Прототип супермассового ускорителя"
+tech_mass_accelerator_enig_desc: "Следуя тем же концепциям создания более сильных и смертоносных реактивных снарядов ударных пушек, новый MAC должен оказаться грозным оружием, которое превзойдет нашу нынешнюю Giga Cannon."
  
  
-ACOT_PERDITION_BEAM_ENIG: "Enigmatic Perdition Beam"
-ACOT_PERDITION_BEAM_ENIG_DESC: "While not nearly as good as whatever it is the precursors have been using, this new Enigmatic Beam should be a sufficient upgrade to the old Ion Perdition Beam."
-tech_perdition_beam_enig: "Enigmatic Perdition Beam"
-tech_perdition_beam_enig_desc: "With our new understandings, augmentations of the old Perdition Ion Beams are now pending. We await only the approval. Success in this field should open ways to new types of titanic weapons in the future: provided that we can understand Dark Matter better."
+ACOT_PERDITION_BEAM_ENIG: "Энигматическая пердиционная балка"
+ACOT_PERDITION_BEAM_ENIG_DESC: "Хотя эта новая Энигматическая балка не так хороша, как ее предшественники, она должна быть достаточной модернизацией до старой ионной лучи."
+tech_perdition_beam_enig: "Энигматическая пердиционная балка"
+tech_perdition_beam_enig_desc: "Благодаря нашему новому пониманию, в настоящее время ожидаются дополнения старых ионных пучков. Мы ждем только одобрения. Успех в этой области должен открыть пути к новым типам титанического оружия в будущем: при условии, что мы сможем лучше понять Темную Материю."
  
-ACOT_FIGHTERS_HANGAR_ENIG: "Raptor-Class Interceptors"
-ACOT_FIGHTERS_HANGAR_ENIG_DESC: "No more useless scouts, interceptors are designed to shoot down other strike crafts and missiles, while also excelling at weakening larger ship's shields."
-ACOT_BOMBERS_HANGAR_ENIG: "Aurora-Class Bombers"
-ACOT_BOMBERS_HANGAR_ENIG_DESC: "Dedicated bombers that not only have much higher firepower, but also improved durability, speed and pilots."
-tech_strike_craft_bomber_enig: "Strike Craft Revisions"
-tech_strike_craft_bomber_enig_desc: "Our strategists believe it is a mistake to have forsaken the developments of fighters, especially considering the Scouts can't...actually scout which makes their existence pointless. We can easily correct these mistakes, and finally begin developing an actual formidable set of strike crafts that perform various roles."
+ACOT_FIGHTERS_HANGAR_ENIG: "Перехватчики класса Raptor"
+ACOT_FIGHTERS_HANGAR_ENIG_DESC: "Не более бесполезные разведчики, перехватчики предназначены для сбивания других ударных ремёсел и ракет, одновременно превосходя ослабление щитов более крупных кораблей."
+ACOT_BOMBERS_HANGAR_ENIG: "Бомбардировщики класса «Аврора»"
+ACOT_BOMBERS_HANGAR_ENIG_DESC: "Выделенные бомбардировщики, которые обладают не только гораздо более высокой огневой мощью, но и улучшенной долговечностью, скоростью и пилотами."
+tech_strike_craft_bomber_enig: "Страйк Craft Revisions (Страй"
+tech_strike_craft_bomber_enig_desc: "Наши стратеги считают ошибкой отказаться от разработок бойцов, особенно учитывая, что скауты не могут... на самом деле разведать, что делает их существование бессмысленным. Мы можем легко исправить эти ошибки, и, наконец, начать разработку реально грозного набора ударных ремесел, которые выполняют различные роли."
  
-SMALL_ACOT_ARMOR_ENIG: "Small Hard-Light Layer"
-MEDIUM_ACOT_ARMOR_ENIG: "Medium Hard-Light Layer"
-LARGE_ACOT_ARMOR_ENIG: "Large Hard-Light Layer"
-ACOT_ARMOR_ENIG: "Hard-Light Layer"
-ACOT_ARMOR_ENIG_DESC: "Composite Neutronium Armor protected by an additional layer made out of Hard-Light construct."
-tech_armor_enig: "Hard-Light Constructs"
-tech_armor_enig_desc: "Although our current understanding of Hard-Light is quite limited, we are still confident that we can make a light-layer of Hard Light to supplement our current Neutronium Armor."
- 
- 
-ENIG_SENSOR_SHIP: "Delphic Sensors"
-ENIG_SENSOR_SHIP_DESC: "These advanced sensors are augmented with powerful Delphic Computers that can calculate and track enemy targets more efficiently than Tachyon Sensors."
-tech_sensors_enig: "Delphic Sensors"
-tech_sensors_enig_desc: "We have experimented on adapting Delphic computers to function as ship sensors. While its detection capabilities are on par with Tachyon Sensors, the Delphic Sensors have the added benefits of being better at tracking targets."
-TECH_UNLOCK_ENIG_SENSOR_TITLE: "§HРазблокирует компонент:§! Delphic Sensors"
-TECH_UNLOCK_ENIG_SENSOR_DESC: "§HDelphic Sensors§!\n$ENIG_SENSOR_SHIP_DESC$"
+SMALL_ACOT_ARMOR_ENIG: "Малый слой жесткого света"
+MEDIUM_ACOT_ARMOR_ENIG: "Средний слой жесткого света"
+LARGE_ACOT_ARMOR_ENIG: "Большой слой жесткого света"
+ACOT_ARMOR_ENIG: "Слой жесткого света"
+ACOT_ARMOR_ENIG_DESC: "Композитная нейтрониевая броня защищена дополнительным слоем, выполненным из конструкции Hard-Light."
+tech_armor_enig: "Конструкции с жестким светом"
+tech_armor_enig_desc: "Хотя наше текущее понимание Hard-Light довольно ограничено, мы по-прежнему уверены, что можем сделать светлый слой Hard Light, чтобы дополнить нашу нынешнюю Нейтрониевую броню."
  
  
-SHIP_THRUSTER_ENIG: "Prototype Enigmatic Thrusters"
-SHIP_THRUSTER_ENIG_DESC: "Advanced Thrusters equipped with limited Delphic Computers that can perform short bursts of accelerations to increase evasions.."
- 
-DESTROYER_SHIP_THRUSTER_ENIG: "Prototype Enigmatic Thrusters"
-DESTROYER_SHIP_THRUSTER_ENIG_DESC: "Advanced Thrusters equipped with limited Delphic Computers that can perform short bursts of accelerations to increase evasions.."
- 
-CRUISER_SHIP_THRUSTER_ENIG: "Prototype Enigmatic Thrusters"
-CRUISER_SHIP_THRUSTER_ENIG_DESC: "Advanced Thrusters equipped with limited Delphic Computers that can perform short bursts of accelerations to increase evasions.."
- 
-BATTLESHIP_SHIP_THRUSTER_ENIG: "Prototype Enigmatic Thrusters"
-BATTLESHIP_SHIP_THRUSTER_ENIG_DESC: "Advanced Thrusters equipped with limited Delphic Computers that can perform short bursts of accelerations to increase evasions.."
- 
-TITAN_SHIP_THRUSTER_ENIG: "Prototype Enigmatic Thrusters"
-TITAN_SHIP_THRUSTER_ENIG_DESC: "Advanced Thrusters equipped with limited Delphic Computers that can perform short bursts of accelerations to increase evasions.."
- 
-COLOSSUS_SHIP_THRUSTER_ENIG: "Prototype Enigmatic Thrusters"
-COLOSSUS_SHIP_THRUSTER_ENIG_DESC: "Advanced Thrusters equipped with limited Delphic Computers that can perform short bursts of accelerations to increase evasions."
-tech_enigmatic_thruster: "Prototype Enigmatic Thrusters"
-tech_enigmatic_thruster_desc: "We can't yet develop any new propulsion systems that can surpass Impulse Thrusters. But with some additional tweaks, our engineers believe we can add in delphic reactive systems into our thrusters that will allow the ship to enter a sudden short burst of acceleration that will increase the ship's ability to evade incoming attacks."
+ENIG_SENSOR_SHIP: "Дельфийские датчики"
+ENIG_SENSOR_SHIP_DESC: "Эти усовершенствованные датчики дополняются мощными Delphic Computers, которые могут вычислять и отслеживать цели противника более эффективно, чем Tachyon Sensors."
+tech_sensors_enig: "Дельфийские датчики"
+tech_sensors_enig_desc: "Мы экспериментировали над адаптацией дельфийских компьютеров для работы в качестве корабельных датчиков. В то время как его возможности обнаружения совпадают с возможностями датчиков Tachyon, Дельфийские датчики имеют дополнительные преимущества, так как они лучше отслеживают цели."
+TECH_UNLOCK_ENIG_SENSOR_TITLE: "Разблокирует компонент: Дельфийские датчики"
+TECH_UNLOCK_ENIG_SENSOR_DESC: "Дельфийские датчики\n $ ENIG _ SENSOR _ SHIP _ DESC $"
  
  
-SMALL_ACOT_ENIGMATIC_SHIELD_ENIG: "Small Prototype Enigmatic Shields"
-MEDIUM_ACOT_ENIGMATIC_SHIELD_ENIG: "Medium Prototype Enigmatic Shields"
-LARGE_ACOT_ENIGMATIC_SHIELD_ENIG: "Large Prototype Enigmatic Shields"
-ACOT_ENIGMATIC_SHIELD: "Prototype Enigmatic Shields"
-ACOT_ENIGMATIC_SHIELD_DESC: "Although suffering from high power usage and low recharging capabilities relative to its yield, the new Prototype should be much stronger than the old designs."
-tech_enigmatic_shields: "Prototype Enigmatic Shields"
-tech_enigmatic_shields_desc: "After multiple failed attempts, our scientists must sadly conclude that we cannot yet create a shield that can both surpass Hypercharged Shields in both strengths and regeneration without risking system overload. That said, the shields can be safety maintained if we forego any improvements to their recharging capabilities."
+SHIP_THRUSTER_ENIG: "Прототип энигматических двигателей"
+SHIP_THRUSTER_ENIG_DESC: "Advanced Thrusters оснащены ограниченными Delphic Computers, которые могут выполнять короткие всплески ускорений для увеличения уклонений.."
+ 
+DESTROYER_SHIP_THRUSTER_ENIG: "Прототип энигматических двигателей"
+DESTROYER_SHIP_THRUSTER_ENIG_DESC: "Advanced Thrusters оснащены ограниченными Delphic Computers, которые могут выполнять короткие всплески ускорений для увеличения уклонений.."
+ 
+CRUISER_SHIP_THRUSTER_ENIG: "Прототип энигматических двигателей"
+CRUISER_SHIP_THRUSTER_ENIG_DESC: "Advanced Thrusters оснащены ограниченными Delphic Computers, которые могут выполнять короткие всплески ускорений для увеличения уклонений.."
+ 
+BATTLESHIP_SHIP_THRUSTER_ENIG: "Прототип энигматических двигателей"
+BATTLESHIP_SHIP_THRUSTER_ENIG_DESC: "Advanced Thrusters оснащены ограниченными Delphic Computers, которые могут выполнять короткие всплески ускорений для увеличения уклонений.."
+ 
+TITAN_SHIP_THRUSTER_ENIG: "Прототип энигматических двигателей"
+TITAN_SHIP_THRUSTER_ENIG_DESC: "Advanced Thrusters оснащены ограниченными Delphic Computers, которые могут выполнять короткие всплески ускорений для увеличения уклонений.."
+ 
+COLOSSUS_SHIP_THRUSTER_ENIG: "Прототип энигматических двигателей"
+COLOSSUS_SHIP_THRUSTER_ENIG_DESC: "Advanced Thrusters оснащены ограниченными Delphic Computers, которые могут выполнять короткие всплески ускорений для увеличения уклонений."
+tech_enigmatic_thruster: "Прототип энигматических двигателей"
+tech_enigmatic_thruster_desc: "Мы пока не можем разработать новые двигательные установки, которые могут превзойти Импульсные двигатели. Но с некоторыми дополнительными изменениями, наши инженеры считают, что мы можем добавить дельфийские реактивные системы в наши двигатели, которые позволят кораблю войти в внезапный короткий всплеск ускорения, который увеличит способность корабля уклоняться от входящих атак."
  
  
-CORVETTE_DARK_MATTER_REACTOR_ENIG: "Prototype Enigmatic Reactor"
-CORVETTE_DARK_MATTER_REACTOR_ENIG_DESC: "Unstable yet powerful, the Enigmatic Reactor is a proof of concept that our empires are reaching into a new era. Though its power capacity may not be high enough to support the many technologies associated with the technology, it is an important milestone for our ongoing developments."
+SMALL_ACOT_ENIGMATIC_SHIELD_ENIG: "Малый прототип энигматических щитов"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_ENIG: "Средний прототип Enigmatic Shields"
+LARGE_ACOT_ENIGMATIC_SHIELD_ENIG: "Большой прототип Enigmatic Shields"
+ACOT_ENIGMATIC_SHIELD: "Прототип энигматических щитов"
+ACOT_ENIGMATIC_SHIELD_DESC: "Несмотря на высокую потребляемую мощность и низкие возможности подзарядки по сравнению с выходом, новый прототип должен быть намного сильнее старых конструкций."
+tech_enigmatic_shields: "Прототип энигматических щитов"
+tech_enigmatic_shields_desc: "После нескольких неудачных попыток наши ученые, к сожалению, должны прийти к выводу, что мы еще не можем создать щит, который может превзойти Гиперподпряженные щиты как по силе, так и по регенерации, не рискуя перегрузкой системы. Тем не менее, щиты можно поддерживать в безопасности, если мы откажемся от каких-либо улучшений их возможностей подзарядки."
  
-DESTROYER_DARK_MATTER_REACTOR_ENIG: "Prototype Enigmatic Reactor"
-DESTROYER_DARK_MATTER_REACTOR_ENIG_DESC: "Unstable yet powerful, the Enigmatic Reactor is a proof of concept that our empires are reaching into a new era. Though its power capacity may not be high enough to support the many technologies associated with the technology, it is an important milestone for our ongoing developments."
  
-CRUISER_DARK_MATTER_REACTOR_ENIG: "Prototype Enigmatic Reactor"
-CRUISER_DARK_MATTER_REACTOR_ENIG_DESC: "Unstable yet powerful, the Enigmatic Reactor is a proof of concept that our empires are reaching into a new era. Though its power capacity may not be high enough to support the many technologies associated with the technology, it is an important milestone for our ongoing developments."
+CORVETTE_DARK_MATTER_REACTOR_ENIG: "Прототип энигматического реактора"
+CORVETTE_DARK_MATTER_REACTOR_ENIG_DESC: "Нестабильный, но мощный Энигматический реактор является доказательством того, что наши империи вступают в новую эру. Хотя его мощность может быть недостаточно высокой для поддержки многих технологий, связанных с технологией, она является важной вехой для наших текущих разработок."
  
-BATTLESHIP_DARK_MATTER_REACTOR_ENIG: "Prototype Enigmatic Reactor"
-BATTLESHIP_DARK_MATTER_REACTOR_ENIG_DESC: "Unstable yet powerful, the Enigmatic Reactor is a proof of concept that our empires are reaching into a new era. Though its power capacity may not be high enough to support the many technologies associated with the technology, it is an important milestone for our ongoing developments."
+DESTROYER_DARK_MATTER_REACTOR_ENIG: "Прототип энигматического реактора"
+DESTROYER_DARK_MATTER_REACTOR_ENIG_DESC: "Нестабильный, но мощный Энигматический реактор является доказательством того, что наши империи вступают в новую эру. Хотя его мощность может быть недостаточно высокой для поддержки многих технологий, связанных с технологией, она является важной вехой для наших текущих разработок."
  
-TITAN_DARK_MATTER_REACTOR_ENIG: "Prototype Enigmatic Reactor"
-TITAN_DARK_MATTER_REACTOR_ENIG_DESC: "Unstable yet powerful, the Enigmatic Reactor is a proof of concept that our empires are reaching into a new era. Though its power capacity may not be high enough to support the many technologies associated with the technology, it is an important milestone for our ongoing developments."
+CRUISER_DARK_MATTER_REACTOR_ENIG: "Прототип энигматического реактора"
+CRUISER_DARK_MATTER_REACTOR_ENIG_DESC: "Нестабильный, но мощный Энигматический реактор является доказательством того, что наши империи вступают в новую эру. Хотя его мощность может быть недостаточно высокой для поддержки многих технологий, связанных с технологией, она является важной вехой для наших текущих разработок."
  
-COLOSSUS_DARK_MATTER_REACTOR_ENIG: "Prototype Enigmatic Reactor"
-COLOSSUS_DARK_MATTER_REACTOR_ENIG_DESC: "Unstable yet powerful, the Enigmatic Reactor is a proof of concept that our empires are reaching into a new era. Though its power capacity may not be high enough to support the many technologies associated with the technology, it is an important milestone for our ongoing developments."
+BATTLESHIP_DARK_MATTER_REACTOR_ENIG: "Прототип энигматического реактора"
+BATTLESHIP_DARK_MATTER_REACTOR_ENIG_DESC: "Нестабильный, но мощный Энигматический реактор является доказательством того, что наши империи вступают в новую эру. Хотя его мощность может быть недостаточно высокой для поддержки многих технологий, связанных с технологией, она является важной вехой для наших текущих разработок."
  
-PLATFORM_DARK_MATTER_REACTOR_ENIG: "Prototype Enigmatic Reactor"
-PLATFORM_DARK_MATTER_REACTOR_ENIG_DESC: "Unstable yet powerful, the Enigmatic Reactor is a proof of concept that our empires are reaching into a new era. Though its power capacity may not be high enough to support the many technologies associated with the technology, it is an important milestone for our ongoing developments."
+TITAN_DARK_MATTER_REACTOR_ENIG: "Прототип энигматического реактора"
+TITAN_DARK_MATTER_REACTOR_ENIG_DESC: "Нестабильный, но мощный Энигматический реактор является доказательством того, что наши империи вступают в новую эру. Хотя его мощность может быть недостаточно высокой для поддержки многих технологий, связанных с технологией, она является важной вехой для наших текущих разработок."
  
-ION_CANNON_DARK_MATTER_REACTOR_ENIG: "Prototype Enigmatic Reactor"
-ION_CANNON_DARK_MATTER_REACTOR_ENIG_DESC: "Unstable yet powerful, the Enigmatic Reactor is a proof of concept that our empires are reaching into a new era. Though its power capacity may not be high enough to support the many technologies associated with the technology, it is an important milestone for our ongoing developments."
+COLOSSUS_DARK_MATTER_REACTOR_ENIG: "Прототип энигматического реактора"
+COLOSSUS_DARK_MATTER_REACTOR_ENIG_DESC: "Нестабильный, но мощный Энигматический реактор является доказательством того, что наши империи вступают в новую эру. Хотя его мощность может быть недостаточно высокой для поддержки многих технологий, связанных с технологией, она является важной вехой для наших текущих разработок."
  
-STARBASE_DARK_MATTER_REACTOR_ENIG: "Prototype Enigmatic Reactor"
-STARBASE_DARK_MATTER_REACTOR_ENIG_DESC: "Unstable yet powerful, the Enigmatic Reactor is a proof of concept that our empires are reaching into a new era. Though its power capacity may not be high enough to support the many technologies associated with the technology, it is an important milestone for our ongoing developments."
+PLATFORM_DARK_MATTER_REACTOR_ENIG: "Прототип энигматического реактора"
+PLATFORM_DARK_MATTER_REACTOR_ENIG_DESC: "Нестабильный, но мощный Энигматический реактор является доказательством того, что наши империи вступают в новую эру. Хотя его мощность может быть недостаточно высокой для поддержки многих технологий, связанных с технологией, она является важной вехой для наших текущих разработок."
  
-tech_enigmatic_power_core: "Enigmatic Energy Experiment"
-tech_enigmatic_power_core_desc: "It would seem that Zero Point Energy is the most powerful reactor of the modern age, but records and studies seem to suggest that the precursors have utilized something much more powerful. We believe that we can begin making some of our experiments to enter a new era that none has crossed before."
+ION_CANNON_DARK_MATTER_REACTOR_ENIG: "Прототип энигматического реактора"
+ION_CANNON_DARK_MATTER_REACTOR_ENIG_DESC: "Нестабильный, но мощный Энигматический реактор является доказательством того, что наши империи вступают в новую эру. Хотя его мощность может быть недостаточно высокой для поддержки многих технологий, связанных с технологией, она является важной вехой для наших текущих разработок."
+ 
+STARBASE_DARK_MATTER_REACTOR_ENIG: "Прототип энигматического реактора"
+STARBASE_DARK_MATTER_REACTOR_ENIG_DESC: "Нестабильный, но мощный Энигматический реактор является доказательством того, что наши империи вступают в новую эру. Хотя его мощность может быть недостаточно высокой для поддержки многих технологий, связанных с технологией, она является важной вехой для наших текущих разработок."
+ 
+tech_enigmatic_power_core: "Энигматический энергетический эксперимент"
+tech_enigmatic_power_core_desc: "Казалось бы, Zero Point Energy - самый мощный реактор современной эпохи, но записи и исследования, похоже, свидетельствуют о том, что предшественники использовали что-то гораздо более мощное. Мы считаем, что мы можем начать некоторые из наших экспериментов, чтобы вступить в новую эру, которую никто раньше не преодолевал."
