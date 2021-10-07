@@ -1,281 +1,281 @@
 ﻿l_russian:
  
 ### SHIP TEXTS
-# TODO 
+# DONE 
  
-acot_diplo.3.name: "Incoming Transmission from §Y[event_target:interested_buyer.GetName]§!"
-acot_diplo.3.desc.friendly: "Greetings, friend. We are impressed with your discovery of this enigmatic §EDark Matter Power§!. As your trusted allies and friends, we would like to ask you to share such incredible knowledge with us.\n\nWe are willing to pay good prices for this knowledge should you decide to help us as well.\n\nThe §Y[interested_buyer.GetName] hopes your empire will honor our friendships?"
-acot_diplo.3.desc.neutral: "Greetings, §Y[root.GetName]§!.\n\nWe have recently learned of your empire's advancements in technology, specifically this new power source called "§EDark Matter Power§!". Our empire wishes to learn more about this power. Perhaps you may be interested to share such knowledge with us? We are willing to pay good prices for this knowledge should you decide to help us."
+acot_diplo.3.name: "Входящая передача от [event_target:interested_buyer.GetName]"
+acot_diplo.3.desc.friendly: "Приветствую тебя, друг. Мы впечатлены вашим открытием этой загадочной Силы Темной Материи. Как ваши надежные союзники и друзья, мы хотели бы попросить вас поделиться с нами столь невероятными знаниями.\n\nМы готовы заплатить хорошую цену за эти знания, если вы решите помочь и нам.\n\nНадеемся, что ваша империя будет чтить наши дружеские отношения.§Y[заинтересованный_покупатель.GetName]?"
+acot_diplo.3.desc.neutral: "Приветствую, [root.GetName]\n\n Мы недавно узнали о технологическом прогрессе вашей империи, в частности, о новом источнике энергии под названием "Сила Темной Материи". Наша империя хотела бы узнать больше об этой силе. Возможно, вам будет интересно поделиться с нами этими знаниями? Мы готовы заплатить хорошую цену за эти знания, если вы решите помочь нам."
  
-acot_diplo.3.a: "You have but to ask! We will send a science team to help!"
-acot_diplo.3.a.response: "Most generous of you!. §Y[interested_buyer.GetRulerName]§! will never forget the kindness §Y[root.GetRulerName]§! has shown to our empire this day. We are honored to have you as our allies, friend!."
+acot_diplo.3.a: "Вам стоит только попросить! Мы пришлем научную команду, чтобы помочь!"
+acot_diplo.3.a.response: "Очень щедро с вашей стороны! [заинтересованный_покупатель.GetRulerName] никогда не забудет доброту, которую [root.GetRulerName] проявил к нашей империи в этот день. Для нас большая честь иметь вас в союзниках, друг!"."
  
-acot_diplo.3.b: "But of course, the §Y[interested_buyer.GetName]§! are our friends."
-acot_diplo.3.b.response: "Thank you. §Y[interested_buyer.GetRulerName]§! will never forget the kindness §Y[root.GetRulerName]§! has shown to our empire this day. May our relationships prosper and our powers reign supreme together!."
+acot_diplo.3.b: "Но, конечно, [заинтересованный_покупатель.GetName] - наши друзья."
+acot_diplo.3.b.response: "Спасибо. [interested_buyer.GetRulerName] никогда не забудет доброту, которую [root.GetRulerName] проявил к нашей империи в этот день. Пусть наши отношения процветают, а наши силы правят вместе!"
  
-acot_diplo.3.c: "We can teach your scientists the proper skills."
-acot_diplo.3.c.response: "That is reasonable enough. It may take awhile, but with some fortune we too will be able to develop such powers. We thank you for the help."
+acot_diplo.3.c: "Мы можем обучить ваших ученых соответствующим навыкам."
+acot_diplo.3.c.response: "Это достаточно разумно. Это может занять некоторое время, но с некоторой удачей мы тоже сможем развить такие способности. Мы благодарим вас за помощь."
  
-acot_diplo.3.d: "Unfortunately, your terms are not acceptable."
-acot_diplo.3.d.response: "I see...so you have shown your true colors at last. You are no different from the Fallen Empires! We will not forget this."
+acot_diplo.3.d: "К сожалению, ваши условия неприемлемы."
+acot_diplo.3.d.response: "Понятно... значит, вы наконец-то показали свое истинное лицо. Вы ничем не отличаетесь от Павших Империй! Мы этого не забудем."
  
-acot_diplo.3.drisma: "This technology requires more study first."
-acot_diplo.3.drisma.response: "You may be right, perhaps we are too reckless. Very well, we'll wait, but please consider our proposals, as allies you have nothing to fear from us."
+acot_diplo.3.drisma: "Эта технология требует дополнительного изучения."
+acot_diplo.3.drisma.response: "Возможно, вы правы, возможно, мы слишком безрассудны. Хорошо, мы подождем, но, пожалуйста, рассмотрите наши предложения, как союзники, вам нечего бояться нас."
  
-acot_diplo.3.e: "Go away, plebs."
-acot_diplo.3.e.response: "Wha...How dare you!\n\n[root.GetName]!...[root.GetName]!!!!!?!WRYYYYYYYYYYY!"
+acot_diplo.3.e: "Уходите, плебеи."
+acot_diplo.3.e.response: "Да как вы смеете! \n\n[root.GetName]!...[root.GetName]!!!!!?! WRYYYYYYYYYYY!"
  
-acot_diplo.3.f: "We will trade it for your L-Gate System instead."
-acot_diplo.3.f.response: "Hmmm...a reasonable proposition. Very well, we will trade the Dark Matter Knowledge for the system that holds one of the L-Gates."
-acot_diplo.3.g: "Perhaps we will trade for the Outer Gate instead?"
-acot_diplo.3.g.response: "This is an acceptable offer. We don't know what to do with the stupid gate anyway. We accept this trade."
+acot_diplo.3.f: "Мы обменяем его на вашу систему L-врат."
+acot_diplo.3.f.response: "Хммм... разумное предложение. Хорошо, мы обменяем Знания о темной материи на систему, содержащую одни из L-врат."
+acot_diplo.3.g: "Возможно, мы обменяем их на Внешние Врата?"
+acot_diplo.3.g.response: "Это приемлемое предложение. Мы все равно не знаем, что делать с этими дурацкими вратами. Мы принимаем эту сделку."
  
-acot_diplo.5.name: "Science Ship Ambushed!"
-acot_diplo.5.desc: "One of our science ships has been ambushed by an unknown group of pirates! Reports indicated that these pirates have been hired by another empire. We have lost all contacts with our science team.\n\nIt is likely that the pirates have stolen our science ship's valuable data and are likely heading towards the one who hired them. WE must stop them before they reach their destinations!"
-acot_diplo.5.a: "Contact the pirates."
+acot_diplo.5.name: "Научный корабль попал в засаду!"
+acot_diplo.5.desc: "Один из наших научных кораблей попал в засаду неизвестной группы пиратов! По сообщениям, эти пираты были наняты другой империей. Мы потеряли все контакты с нашей научной командой.\n\nВероятно, пираты украли ценные данные нашего научного корабля и направляются к тому, кто их нанял. Мы должны остановить их, пока они не достигли цели!"
+acot_diplo.5.a: "Свяжитесь с пиратами."
  
-acot_diplo.8.name: "Incoming Trollsmission"
-acot_diplo.8.desc.a: "Attenshun, toadlickars!\n\nThis ish §YKapatan Parbge§!, raidbozz of the §REpik Legendz§! of the §EGoodnite Pubstompah§!. Me arrr told to stompa this tiny litty shippy becuz there rr sum greeny glowy fhing in eet.\n\nMe not kare wot is inside, but me got paid gooodz. Vary goooodz. That is all, toadlickars!\n\nUhhhh...how turn off this zhinng?"
-acot_diplo.8.desc.b: "Good day, Mr. Fancypants!\n\nI am §YTasklord Geo-Man §!, commander of the §RCliche Engine§! of the §EMeme Raiders§!, Master of Hounds, Lash of the Old Khan, Pillager of Thousand Memes, Stealer of Genes, Dealer of Destruction, Hunter of Plantoids, Eater of Fungoids, Bane of Tiyankis. Love of Dorayakis\n\nYou, and ALL your kind are cowards! Lowly lickspittles! You must be emulating that pile of trash you call [root.GetRulerTitle]! You are as dead and as useless as him...or her...or it...whatever! Know that I just ate your science ship, [ROOT.GetName], yet you do NOTHING! I see your precious craft, hanging in orbit carrying priceless artifacts! I am here! FACE ME, IF YOU DARE!"
-acot_diplo.8.desc.c: "Look! Science Ship! SCIENCE SHIP!\n\nOur enemies hide in metal boxes!\n\nTHE COWARDS! THE FOOLS!\n\nWe...we should take away their metal boxes!.\n\nIf we die this day, we die with glory...we die heroes's deaths...\n\nBUT NO...\n\nWe shall not die. It is you who will taste death and defeat! AS YOU KNOW!\n\nOur pirates are stationed in space, prepare to steal your techs!."
+acot_diplo.8.name: "Входящая передача троллей"
+acot_diplo.8.desc.a: "Внимание, тодликары! \n\nЭто Капатан Парбге, рейдбоз Эпик Легендз из Гуднайта Пабстомпа. Мне велели растоптать этот крошечный кораблик, потому что в нем много зеленой светящейся фигни.\n\n\nЯ не знаю, что там внутри, но мне заплатили хорошо. Разные деньги. Вот и все, жаболицы!\n\n\nУххх... как выключить эту штуку?"
+acot_diplo.8.desc.b: "Добрый день, мистер Фэнсипантс!\n\n\nЯ - Тасклорд Гео-Мэн, командир Клишированного Двигателя Рейдеров Мемов, Хозяин Гончих, Плеть Старого Хана, Пилюльщик Тысячи Мемов, Крадущий Гены, Дилер Разрушения, Охотник на Плантоидов, Пожиратель Фунгоидов, Бич Тиянкиса. Любовь Дораякиса\n\n\nТы, и все тебе подобные - трусы! Ничтожные лизоблюды! Вы подражаете той куче мусора, которую вы называете [root.GetRulerTitle]! Вы такие же мертвые и бесполезные, как он... или она... или оно... неважно! Знай, что я только что съел твой научный корабль, [ROOT.GetName], а ты ничего не делаешь! Я вижу ваш драгоценный корабль, висящий на орбите с бесценными артефактами! Я здесь! СМОТРИТЕ МНЕ В ЛИЦО, ЕСЛИ ОСМЕЛИТЕСЬ!"
+acot_diplo.8.desc.c: "Смотрите! Научный корабль! Научный корабль!\n\nНаши враги прячутся в металлических ящиках!\n\nТрусы! Глупцы!\n\nМы... мы должны забрать их металлические ящики!\n\nЕсли мы умрем в этот день, мы умрем со славой... мы умрем смертью героев...\n\nНо нет...\n\nМы не умрем. Это вы почувствуете вкус смерти и поражения! Как вы знаете!\n\nНаши пираты находятся в космосе и готовятся украсть ваши технологии!"
  
-acot_diplo.8.a: "You will pay for this, criminal scum!"
-acot_diplo.8.tooltip: "We must intercept and destroy the pirates before they reach their destinations, or our enemies will acquire our secrets...however it may also be wise to track their destinations so that we can determine who is hiring them."
-acot_diplo.8.b: "You dare??? YOU DARE???"
+acot_diplo.8.a: "Вы заплатите за это, преступная мразь!"
+acot_diplo.8.tooltip: "Мы должны перехватить и уничтожить пиратов до того, как они достигнут места назначения, иначе наши враги завладеют нашими секретами... однако было бы разумно отследить их местонахождение, чтобы мы могли определить, кто их нанимает."
+acot_diplo.8.b: "Вы смеете??? ВЫ СМЕЕТЕ????"
 ########## MODIFIERS ###############
  
  
  
-dm_with_assist_tooltip: "This will improve relationships between our allies but will greatly upset others who dislike §Y[event_target:interested_buyer.GetName]§!."
+dm_with_assist_tooltip: "Это улучшит отношения между нашими союзниками, но сильно расстроит тех, кому не нравится [event_target:interested_buyer.GetName]."
  
-triggered_opinion_give_dm_with_assist: "Dark Matter Knowledge Taught"
+triggered_opinion_give_dm_with_assist: "Обучение знаниям о темной материи"
  
-triggered_opinion_give_dm_with_assist_neighbour: "Gave Dark Matter Knowledge to an ally"
+triggered_opinion_give_dm_with_assist_neighbour: "Дал союзнику знания о темной материи."
  
-triggered_opinion_give_dm_normal: "Dark Matter Power Taught"
+triggered_opinion_give_dm_normal: "Обучение силе темной материи"
  
-triggered_opinion_give_dm_normal_neighbour: "Gave Dark Matter Knowledge to an ally"
+triggered_opinion_give_dm_normal_neighbour: "Дал союзнику знания о темной материи."
  
-triggered_opinion_refuse_dm_friendly: "Denied knowledge of Dark Matter from an ally"
+triggered_opinion_refuse_dm_friendly: "Отказал союзнику в получении знаний о темной материи"
  
-triggered_opinion_give_dm_to_enemy: "Gave Dark Matter Knowledge to the enemy."
+triggered_opinion_give_dm_to_enemy: "Передал знания о Темной материи врагу."
  
-triggered_opinion_refuse_dm_friendly_others: "Betrayed our trust."
+triggered_opinion_refuse_dm_friendly_others: "Предал наше доверие."
  
-triggered_opinion_refuse_dm_neutral: "Denied Knowledge of Dark Matter"
+triggered_opinion_refuse_dm_neutral: "Отказался от знаний о темной материи"
  
 ###############################################
  
-acot_curator_ask: "We have questions regarding the past."
+acot_curator_ask: "У нас есть вопросы относительно прошлого."
  
-acot_curator_ask_title: "History of the Past"
+acot_curator_ask_title: "История прошлого"
  
  
-acot_curator_ask_desc: "Eager to learn history, are you? Very well, we shall endeavor to satisfy any questions you have in mind. But bear in mind that many of these secrets can be...dangerous. Safety policy demands that we avoid providing too much information too often, for both your safety and the continued support of our business. After all, we can't be sure if  you will keep supporting our business if you learn everything there is to know!"
+acot_curator_ask_desc: "Вы хотите узнать историю, не так ли? Хорошо, мы постараемся удовлетворить все ваши вопросы. Но имейте в виду, что многие из этих секретов могут быть... опасными. Политика безопасности требует, чтобы мы не предоставляли слишком много информации слишком часто, как для вашей безопасности, так и для поддержания нашего бизнеса. В конце концов, мы не можем быть уверены, что вы будете продолжать поддерживать наш бизнес, если узнаете все, что нужно!"
  
-acot_curator_ask_opinion_check: "§EThis topic is considered sensitive, and requires sufficient trust to be unlocked. Once unlocked, trust will be subtracted and you will have to keep using the Curator's services to ensure your continued support and regain their trust .§!"
+acot_curator_ask_opinion_check: "Эта тема считается деликатной и требует достаточного доверия для разблокировки. После разблокировки доверие будет вычтено, и вам придется продолжать пользоваться услугами Куратора, чтобы обеспечить свою дальнейшую поддержку и вернуть его доверие."
  
-acot_curator_ask_opinion_check_fail: "§RInsufficient Trust. To unlock this topic, earn more trust from the Curators.§!"
+acot_curator_ask_opinion_check_fail: "Недостаточное доверие. Чтобы разблокировать эту тему, заслужите больше доверия со стороны Кураторов."
  
-acot_curator_alpha_assist_delay_text: "We can only ask for their help every year."
+acot_curator_alpha_assist_delay_text: "Мы можем просить их о помощи только каждый год."
  
 ##### OUTERGATES ####
  
-acot_diplo.800.a: "Tell us about the §YOuter Gates§!"
+acot_diplo.800.a: "Расскажите нам о Внешних воротах"
  
-acot_diplo.801.name: "The Outer Gates"
-acot_diplo.801.desc: "Captivated by its design, are you not? The Outer Gates are truly a relic from an elegant, more civilized time. The Outer Gates stands as a testament to ingenuity of the ancients. Unfortunately it is also a reminder of our ancestor's greatest mistakes."
+acot_diplo.801.name: "Внешние ворота"
+acot_diplo.801.desc: "Вы очарованы его дизайном, не так ли? Внешние врата - это действительно реликвия элегантного, более цивилизованного времени. Внешние врата являются свидетельством изобретательности древних. К сожалению, это также напоминание о величайших ошибках наших предков."
  
-acot_diplo.801.a: "What's the story behind them?"
-acot_diplo.801.a.refuse: "We'd really like to answer that question, but we are bound by certain...restrictions. Please forgive us but we can't help you in this regard. Know that if you seek to study them, be very very careful.\n\n§YBased on their voices and reactions, it seems the Curators do not yet trust us fully. Perhaps once we prove ourselves as their true friends, they will be willing to open up and tell us about the gates."
-acot_diplo.801.a.response: "Very well, you seem to be trustworthy enough. Know that the Outer Gates mark our forebearer's greatest crimes against the galaxy...no against the whole damn universe. Whatever claims any of the Fallen Empires said are all but lies. We have cross-referenced all of our records with each founding members, and all points to the same conclusion; our ancestors betrayed the ones who created those gates. And without them, the universe was plunged into chaos. And why did our ancestors betray them? Pure greed and selfish reasons, nothing more.\n\nWhat scares us is...the creators of the gates are most likely still alive, evidences of the past suggest they were immortal and timeless, and isolation would not stop them. The creators, were known to be considerate and merciful, unlike many other empires after them. We only hope that if they return, they will forgive our past sins. But so much time has passed. We wonder...would the creators themselves seek to destroy us and remake the universe anew?"
+acot_diplo.801.a: "Какая история стоит за ними?"
+acot_diplo.801.a.refuse: "Мы бы очень хотели ответить на этот вопрос, но мы связаны определенными... ограничениями. Пожалуйста, простите нас, но мы не можем помочь вам в этом вопросе. Знайте, что если вы хотите изучить их, будьте очень осторожны.\n\n§YПо их голосам и реакции, кажется, что Кураторы еще не полностью доверяют нам. Возможно, когда мы докажем, что являемся их настоящими друзьями, они будут готовы открыться и рассказать нам о вратах."
+acot_diplo.801.a.response: "Хорошо, похоже, вы заслуживаете доверия. Знайте, что Внешние Врата означают величайшее преступление нашего прародителя против галактики... нет, против всей чертовой вселенной. Все заявления Падших Империй - ложь. Мы сверили все наши записи с записями всех основателей, и все указывает на один и тот же вывод: наши предки предали тех, кто создал эти врата. А без них вселенная погрузилась в хаос. И почему наши предки предали их? Чистая жадность и эгоизм, ничего больше.\n\nЧто нас пугает... создатели врат, скорее всего, все еще живы, свидетельства прошлого говорят о том, что они были бессмертны и вечны, и изоляция их не остановит. Создатели, как известно, были внимательны и милосердны, в отличие от многих других империй после них. Мы лишь надеемся, что если они вернутся, то простят наши прошлые грехи. Но прошло так много времени. Мы задаемся вопросом... будут ли сами создатели стремиться уничтожить нас и переделать вселенную заново?"
  
-acot_diplo.801.b: "What are the gates's purposes?"
-acot_diplo.801.b.response: "That we do not know fully. Based on what our surviving records could tell, these gates act as passageways between multiple galaxies, perhaps even universes. Indeed we have very credible evidence that these gates existed beyond our galaxy, and that they could be used as effective bridges to cross between galaxies.\n\nBut that is just the tip of the iceberg. You see, it was believed that the true purpose of the Outer Gates was that they could lead to a totally new dimension, a higher plane of existence which was heavily phrased as §Y''The Great Beyond"§Y!. Our ancestors fought and died to learn about this truth, but none ever returned."
+acot_diplo.801.b: "Каковы цели Врат?"
+acot_diplo.801.b.response: "Этого мы до конца не знаем. Судя по сохранившимся записям, эти врата служат проходами между несколькими галактиками, возможно, даже вселенными. Действительно, у нас есть очень достоверные доказательства того, что эти врата существовали за пределами нашей галактики, и что они могли использоваться как эффективные мосты для перехода между галактиками.\n\n\nНо это только вершина айсберга. Видите ли, считалось, что истинное предназначение Внешних Врат в том, что они могут вести в совершенно новое измерение, высший план существования, который часто называли §Y''Великий Запредельный мир''§Y! Наши предки сражались и умирали, чтобы узнать эту истину, но никто из них так и не вернулся."
  
-acot_diplo.801.c: "What are the Gatekeepers?"
-acot_diplo.801.c.response: "The Gatekeepers were ancient precursor devices used to interface and monitor the Outer Gates. The units and their guardian fleets you encounter are but replicas of the original Ancient Gatekeeper, built by an ancient power of the past. Initially they were designed  to open the Gates that our ancestors may pass through into the Great Beyond. But the fateful event that resulted in the Great Calamity has made that impossible, now their only purpose is to ensure such mistakes never happen again."
+acot_diplo.801.c: "Что такое Привратники?"
+acot_diplo.801.c.response: "Привратники - это древние устройства-предшественники, используемые для взаимодействия и контроля за Внешними Вратами. Устройства и их флоты-хранители, с которыми вы сталкиваетесь, являются копиями оригинальных Древних Привратников, созданных древней силой прошлого. Изначально они были предназначены для открытия Врат, через которые наши предки могли пройти в Великий Запредельный мир. Но роковое событие, приведшее к Великому бедствию, сделало это невозможным, и теперь их единственная цель - сделать так, чтобы подобные ошибки никогда не повторились."
  
-acot_diplo.801.d: "Who built the Outer Gates?"
-acot_diplo.801.d.response: "A very formidable and ancient empire whose knowledge and technologies far surpassed that of anything we have ever witnessed. Unfortunately, we do not know the gate's creators by name, only titles that each of our ancestors came to call them. These could range from mysterious and negative toned-titles such as theEnigmas, the Anathema, or False Gods, to a more positive one such as the Elders, the Gods or even the Lightbringers. These many conflicting names and its negative meaning of the later documents, compared to the much more positive, almost revered names of the early ones suggests to us that the creators were once worshipped, but through history came to be vilified.\n\nAs for their ultimate fate, the last records about them mentioned that they have been trapped behind the other side of the gates. We do not know whether they are still out there, given that it has been over aeons ever since."
+acot_diplo.801.d: "Кто построил Внешние Врата?"
+acot_diplo.801.d.response: "Очень грозная и древняя империя, чьи знания и технологии намного превосходят все, что мы когда-либо видели. К сожалению, мы не знаем создателей Врат по имени, только названия, которыми их называл каждый из наших предков. Они могут варьироваться от таинственных и негативных названий, таких как Энигма, Анафема или Ложные Боги, до более позитивных, таких как Старейшины, Боги или даже Несущие Свет. Эти противоречивые имена и их негативное значение в поздних документах, по сравнению с более позитивными, почти почитаемыми именами в ранних документах, наводят нас на мысль, что создателям когда-то поклонялись, но в ходе истории их стали очернять.\n\n\nЧто касается их конечной судьбы, последние записи о них упоминают, что они были заперты по ту сторону врат. Мы не знаем, находятся ли они еще там, учитывая, что с тех пор прошло уже более эонов."
  
-acot_diplo.801.e: "Are the Gatekeepers hostile to Fallen Empires?"
-acot_diplo.801.e.response: "Correct. You see, the Gatekeepers were given a much earlier version of Delphic-Intelligence, one that bordered too close to True Sentient Artificial-Intelligence. They recognized their original creators as the only masters. The Fallen Empires have fallen too far into stagnation and hedonism that such criteria is no longer met by the DI's standards.\n\nThis marks as a lesson for successive DI-programming, as later versions are given additional directives to never oppose its creators regardless of conditions or changes in the society."
+acot_diplo.801.e: "Враждебны ли Привратники к Падшим Империям?"
+acot_diplo.801.e.response: "Верно. Видите ли, Привратники были наделены гораздо более ранней версией Дельфийского интеллекта, которая слишком близко подходила к истинному разумному искусственному интеллекту. Они признали своих первоначальных создателей единственными хозяевами. Падшие Империи слишком сильно погрузились в стагнацию и гедонизм, что такие критерии больше не соответствуют стандартам ИР.\n\nЭто послужит уроком для последующего программирования ИР, поскольку более поздние версии получили дополнительные директивы никогда не выступать против своих создателей, независимо от условий или изменений в обществе."
  
-acot_diplo.801.f: "How powerful are the Gatekeeper's Fleet?"
-acot_diplo.801.f.response: "Its guarding ships are not much different from the ones used by the Fallen Empires. So assuming you have comparable technologies and numbers of ships, they should pose no trouble. The tricky part is the Gatekeeper itself, for while it is not designed for combat, and its armaments are somewhat limited compared to its size, each Gatekeeper is very durable, with reinforced hard-light kinetic barriers and powerful dark energy shields. You will need to overwhelm it with superior firepower, as the ship itself is very cumbersome and lacks the ability to evade hard-hitting attacks.\n\nLast but not least, the Conduit it guards only supply the fleet's maintenance, and can't replenish lost ships. So it is also a viable tactics to gradually dwindle down their numbers first."
+acot_diplo.801.f: "Насколько силен флот Привратника?"
+acot_diplo.801.f.response: "Его сторожевые корабли мало чем отличаются от тех, что использовались в Падших Империях. Поэтому, если у вас сопоставимые технологии и количество кораблей, они не должны представлять проблемы. Сложность заключается в самом Привратнике, поскольку, хотя он не предназначен для боя, и его вооружение несколько ограничено по сравнению с его размерами, каждый Привратник очень прочен, с усиленными кинетическими барьерами жесткого света и мощными щитами темной энергии. Вам придется одолеть его превосходящей огневой мощью, так как сам корабль очень громоздкий и не способен уклоняться от мощных атак.\n\n\nИ последнее, но не менее важное: охраняемый им Кондуит обеспечивает только техническое обслуживание флота и не может пополнить запасы потерянных кораблей. Поэтому тактика состоит в том, чтобы постепенно сокращать их численность."
  
-acot_diplo.801.g: "Can the Gates be unsealed?"
-acot_diplo.801.g.response: "Theoretically, yes. Even should no one tamper with them, the energy field holding the seals will not hold and will eventually dissipate in time, but that is not expected to happen for many more cycles so do not count on it.\n\nShould you wish to manually break the seal, you will need to first understand how exactly does the sealing work. The seal is not meant to disable the gates themselves, rather, they create a temporal stasis field that blocks the network from functioning properly. To disable them, you will require a Keystone. The Keystone acts as interfacing device that can "communicate" with the seals, allowing one to manually override the command and disable them.\n\nEach Outer Gates have been locked with four seals, the first seal can be unlocked by using the Keystone itself. Second and Third seals are given secret safety protocols so you will have to do extra homeworks to get around them. No recordings of what the fourth seal required has survived, so you'll have to test it yourself."
+acot_diplo.801.g: "Можно ли открыть Врата?"
+acot_diplo.801.g.response: "Теоретически, да. Даже если никто не будет вмешиваться в их работу, энергетическое поле, удерживающее печати, не выдержит и со временем рассеется, но этого не произойдет еще много циклов, так что не рассчитывайте на это.\n\n\nЕсли вы захотите вручную снять печать, вам нужно будет сначала понять, как именно она работает. Запечатывание не предназначено для отключения самих врат, скорее, они создают временное стазисное поле, которое блокирует нормальное функционирование сети. Чтобы отключить их, вам потребуется Ключ-стоун. Ключ выступает в качестве устройства сопряжения, которое может "общаться" с печатями, позволяя вручную отменить команду и отключить их.\n\nКаждые внешние врата заперты четырьмя печатями, первая печать может быть разблокирована с помощью самого Ключа. Вторая и третья печати имеют секретные протоколы безопасности, поэтому вам придется выполнять дополнительные домашние задания, чтобы обойти их. Никаких записей о том, что требует четвертая печать, не сохранилось, поэтому вам придется проверить это самостоятельно."
  
-acot_diplo.801.h: "Do you oppose opening the Gates?"
-acot_diplo.801.h.response: "In all honesty? No. We have anticipated 26% that the creators of the gates have perished, 13% that they have travelled beyond and 61% that they are still there, waiting for someone to call them back. Why do you think this is the case, you may ask? Our records suggested that the creators of the Gates would have no difficulties disabling the seals from their sides should they wish. As such, we assume that they're quietly observing, waiting for us to re invite them back.\n\nDespite later documents painting the creators as evil overlords, and the claims made by the Fallen Empires, there are many surviving evidences that heavily implied the creators to be benevolent and just. If there's anyone who has the power to restore order to this chaotic galaxy, it would be them.\n\nSo while there are many risks, we believe the pros outweigh the cons, so no we do not oppose such ideas. After All, the gates hold so many questions, scientific or not, that should be answered."
+acot_diplo.801.h: "Вы против открытия Врат?"
+acot_diplo.801.h.response: "Честно? Нет. Мы предполагаем, что 26% создателей Врат погибли, 13% - что они отправились за их пределы, а 61% - что они все еще там, ожидая, пока кто-то призовет их обратно. Почему вы думаете, что это так, спросите вы? Наши записи говорят о том, что создателям Врат не составит труда снять печати с их сторон, если они того пожелают. Поэтому мы полагаем, что они спокойно наблюдают за происходящим, ожидая, когда мы вновь пригласим их вернуться.\n\nНесмотря на более поздние документы, рисующие создателей как злых владык, и заявления, сделанные Падшими Империями, существует множество сохранившихся свидетельств, которые в значительной степени подразумевают, что создатели были благосклонны и справедливы. Если кто-то и способен восстановить порядок в этой хаотичной галактике, то это они.\n\nПоэтому, несмотря на множество рисков, мы считаем, что плюсы перевешивают минусы, поэтому мы не против таких идей. В конце концов, врата хранят в себе так много вопросов, научных или нет, на которые необходимо найти ответы."
  
-acot_diplo.801.i: "Can you fabricate a Keystone for us?"
-acot_diplo.801.i.response: "That is indeed within our capabilities. With the resources you have provided, a new keystone will be fabricated for you and will be delivered within a few days. We are eager to see what you will do with it!"
+acot_diplo.801.i: "Вы можете изготовить для нас ключ-столб?"
+acot_diplo.801.i.response: "Это действительно в наших силах. С учетом предоставленных вами ресурсов, новый ключевой камень будет изготовлен для вас и доставлен в течение нескольких дней. Нам не терпится увидеть, что вы с ним сделаете!"
  
-acot_diplo.801.j: "What are the energy seals made of?"
-acot_diplo.801.j.response: "Good observation. You may have noticed that the Outer Gates have two layers of seals. One luminates with glowing orange light, another with teal. The orange seal is based on ancient stellar power known as Stellarite. The teal one, as you may have guessed, is the enigmatic seal used by various precursor empires including us Curators. Because of the shortage of Stellarite, no one has ever been able to keep it active, and it will dissipate soon. The Enigmatic Seal however will last for as long as the Enigmalith next to it keeps functioning, and even if it does not, the seal will last for approximately another twenty billion years."
+acot_diplo.801.j: "Из чего сделаны энергетические уплотнения?"
+acot_diplo.801.j.response: "Хорошее наблюдение. Вы могли заметить, что Внешние Врата имеют два слоя печатей. Один светится оранжевым светом, другой - тиловым. Оранжевая печать основана на древней звездной силе, известной как Стелларит. Тиловая, как вы уже догадались, - это загадочная печать, используемая различными империями-предшественниками, включая нас, Кураторов. Из-за нехватки Стелларита никто не смог поддерживать его в активном состоянии, и он скоро рассеется. Однако Загадочная печать будет действовать до тех пор, пока будет функционировать расположенный рядом с ней Энигмалит, и даже если это не произойдет, печать просуществует еще примерно двадцать миллиардов лет."
  
-acot_diplo.801.k: "You mentioned Stellarite in our last conversation."
-acot_diplo.801.k.response: "Ah...forgive us, we may have slipped that in in our rambling. But as you have proven to be trustworthy, we believe we can tell you about it a bit more in detail. Back in the ancient times, long ago before even the Fallen One came to exist, there used to be an extremely powerful source of energy known as the Stellar Power. It's secret is to draw power from what can only be described as the souls of the stars themselves. This font of power was said to be given to the universes by an ancient god-like being, whose name has been lost to time.\n\nUnfortunately the power that once was, has dwindled. The absence of that empire and the constant war waged by the precursors have torn the realms asunder and the once glorious knowledge of the stellar have been lost...forgotten.\n\nBut that is not the end of its story, no no. For recently our sensors have caught glimpse of faint, but powerful energy signatures that match the conditions of Stellarite. We believe that because the Seal is weakening, so too does the radiance of the stars begin to reignite. Mayhaps you will be the one to rediscover it?"
+acot_diplo.801.k: "Вы упомянули Стелларит в нашем последнем разговоре."
+acot_diplo.801.k.response: "Ах... простите нас, мы, возможно, пропустили это в нашем бессвязном разговоре. Но поскольку вы доказали, что заслуживаете доверия, мы считаем, что можем рассказать вам об этом немного подробнее. В древние времена, задолго до появления Падшего, существовал чрезвычайно мощный источник энергии, известный как Звездная Сила. Его секрет заключался в том, что он черпал энергию из того, что можно описать только как души самих звезд. Считается, что эта сила была дарована вселенным древним богоподобным существом, имя которого было утеряно со временем.\n\nК сожалению, могущество, которое когда-то было, уменьшилось. Отсутствие той империи и постоянные войны, которые вели предвестники, разорвали королевства на части, и некогда славные знания звездного мира были потеряны... забыты.\n\n\nНо это еще не конец истории, нет-нет. Недавно наши сенсоры уловили слабые, но мощные энергетические сигнатуры, которые соответствуют состоянию Стелларита. Мы полагаем, что поскольку Печать слабеет, то и сияние звезд начинает разгораться вновь. Возможно, вы будете тем, кто откроет его заново?"
  
  
  
 ##### Fallen Empires ####
  
-acot_diplo.800.b: "Tell us about the Fallen Empires."
+acot_diplo.800.b: "Расскажите нам о Павших империях."
  
-acot_diplo.811.name: "The Fallen Empires"
-acot_diplo.811.desc: "Ah yes, you're speaking of our former brothers. Know that while we may have been former members of the Fallen Empires, we have casted aside our associations. Their policies are not ours. Their diplomatic relations are not of our concerns anymore. Whatever animosity you may harbor against them should not apply to us. Please keep that in mind."
+acot_diplo.811.name: "Падшие Империи"
+acot_diplo.811.desc: "Ах да, вы говорите о наших бывших братьях. Знайте, что хотя мы и были бывшими членами Павших Империй, мы отбросили наши ассоциации. Их политика - не наша. Их дипломатические отношения нас больше не касаются. Любая вражда, которую вы можете питать к ним, не должна распространяться на нас. Пожалуйста, имейте это в виду."
  
-acot_diplo.811.a: "How long have they been around?"
-acot_diplo.811.a.response: "The exact dates of the original establishment have been lost to time, unfortunately. But there is one thing you should know, is that the current fallen empires are simply descendants of the original one. Indeed you may have asked, if the Curators were indeed part of the Fallen Empire, then why are its members composed of a different species than the current main species of the Fallen One?\n\nThroughout the ages, many have become obsessed with learning the past, and they did so by conquering over the Fallen Empires of their time. They then studied their secrets, and rewrote history itself, a version that presents them as the ancient precursor of eld. The cycles repeat over and over. We of the Curators were amongst one such cycle.\n\nTechnological advancements can bring out the worst of us sometimes, automated industry, self-sufficient economy, post-scarcity society, fleets that blacken the stars. These elements combined can turn a once ambitious empire into a stagnant, uninspired one.\n\nYour empire has a long journey ahead, you will do well to learn from these past mistakes, do not take anything for granted. Knowledge is limitless, those who believe themselves masters of knowledge, will find themselves drowned in the black seas of ignorance."
- 
- 
-acot_diplo.811.b: "What's the Curators opinion of them?"
-acot_diplo.811.b.response: "The current Fallen Empires? They are nothing but spoiled kids, who took all the knowledge discovered by their predecessors and did nothing to improve or expand upon them. When they decided that we scientists, researchers and historians were no longer of use, they cut off our budgets, broke down our equipment and salvaged our labs. We took what we could and ran away, creating our own haven of knowledge and education. And after so many generations, look at what happened to them, sitting idly in their little corner of the galaxy, acting like they are respectable elders.\n\nRegrettably, we Curators are also forced to keep our activities low, the Fallen Empires only permitted our continued operations under the condition that we do not present ourselves as a rival. This is why we kept only a marginal line of defenses on our stations."
+acot_diplo.811.a: "Как давно они существуют?"
+acot_diplo.811.a.response: "К сожалению, точные даты первоначального основания были утеряны со временем. Но вы должны знать одну вещь: нынешние павшие империи - это просто потомки первоначальной. Если Кураторы действительно были частью Падшей Империи, то почему их члены состоят из других видов, чем нынешний основной вид Падшей Империи?\n\nНа протяжении веков многие были одержимы желанием узнать прошлое, и они делали это, завоевывая Падшие Империи своего времени. Затем они изучали их секреты и переписывали саму историю, представляя ее как древнего предшественника Элда. Циклы повторяются снова и снова. Мы, Кураторы, были в одном из таких циклов.\n\nТехнологический прогресс иногда может выявить худшее в нас, автоматизированная промышленность, самодостаточная экономика, общество после дефицита, флоты, которые чернят звезды. Эти элементы в сочетании могут превратить некогда амбициозную империю в стагнирующую, без вдохновения.\n\n\nВашей империи предстоит долгий путь, вы должны извлечь уроки из прошлых ошибок, не принимайте ничего как должное. Знания безграничны, те, кто считают себя хозяевами знаний, найдут себя утонувшими в черном море невежества."
  
  
-acot_diplo.811.c: "What kind of technologies do they use?"
-acot_diplo.811.c.response: "The same type as ours, enigmatic-based technology. The powers are extremely dynamic and adaptable, and can be used to further the science in various fields be it physics, engineering or society. Yet regrettably, both we and the fallen empires have only been able to dig the surface level of it. If you should want to know about them, we suggest you take control and study any natural black holes, for yet as of now, unexplainable reason, black holes seem to contain vast amount of dark energies and dark matters."
+acot_diplo.811.b: "Каково мнение Кураторов о них?"
+acot_diplo.811.b.response: "Нынешние Павшие Империи? Они всего лишь избалованные дети, которые взяли все знания, открытые их предшественниками, и не сделали ничего, чтобы улучшить или расширить их. Когда они решили, что от нас, ученых, исследователей и историков, больше нет пользы, они урезали наши бюджеты, сломали наше оборудование и разграбили наши лаборатории. Мы взяли все, что могли, и убежали, создав свою собственную гавань знаний и образования. И вот, спустя столько поколений, посмотрите, что с ними стало: они сидят без дела в своем маленьком уголке галактики и делают вид, что они уважаемые старейшины.\n\nК сожалению, мы, Кураторы, тоже вынуждены вести себя тихо, Падшие Империи разрешили нам продолжать работу только при условии, что мы не будем представлять себя как соперники. Вот почему мы сохранили лишь незначительную линию обороны на наших станциях."
  
-acot_diplo.811.d: "What exactly is this...enigmatic power?"
-acot_diplo.811.d.response: "Hmm...I guess we can tell you that much. But before we begin, please make sure your communications are secure.\n\nEnigmatic Power, is the power that in the simplest term, the power to harness the void. The vast, cold and calculating space that we preside over appears to have been covered with them. However, the powers are all but invisible and unusable to most. The only place that appears to attract such amounts of energies and matters are the natural black holes scattered across the galaxies.\n\nIf you wish to harness this power, you must understand how to convert them into usable form, generate them as power sources then contain them in specialized devices that will keep the powers in constant, usable motion. Only then can the powers truly be utilized, only then will you begin to understand what it means to tread into the void of space."
  
-acot_diplo.811.e: "Why do they all seem to share the same ship designs?"
-acot_diplo.811.e.response: "Not just them, if you noticed. Even us Curators and many other past precursors all share the same ship designs. There are some differences in the inner-workings and components, of course.\n\nThis is because all of the precursors have acquired these designs by studying the ancient ships of the long-lost civilization that was said to give birth to the stars themselves. What you see is a heavily modified, and most importantly, simplified versions of their designs. The Fallen Empires use much simpler, mass-producible versions of these ships that can be easily manufactured and printed by their shipyard auto-fabrication systems."
+acot_diplo.811.c: "Какие технологии они используют?"
+acot_diplo.811.c.response: "Тот же тип, что и у нас, - технологии, основанные на загадках. Эти силы чрезвычайно динамичны и адаптивны, их можно использовать для развития науки в различных областях, будь то физика, инженерия или общество. Однако, к сожалению, и мы, и павшие империи смогли раскопать лишь поверхностный уровень этого. Если вы хотите узнать о них, мы предлагаем вам взять под контроль и изучить любые естественные черные дыры, поскольку по необъяснимой пока причине черные дыры, похоже, содержат огромное количество темных энергий и темных материй."
  
-acot_diplo.811.f: "Can you tell us how to make those precursor designs?"
-acot_diplo.811.f.response: "Had we not been keeping tabs on your empire's progress we would have thought you crazy. If you truly wish to pursue the past and understand the mystery of the precursors, then your best bet is to obtain your own Precursor Databank. With it, you will be able to access the precursor's rich history in details, and provide you with the necessary data you need to develop your precursor ships."
+acot_diplo.811.d: "Что именно представляет собой эта... загадочная сила?"
+acot_diplo.811.d.response: "Хм... Думаю, мы можем сказать вам об этом. Но прежде чем мы начнем, пожалуйста, убедитесь, что ваша связь безопасна.\n\nЗагадочная сила - это сила, которая, в самом простом смысле, способна использовать пустоту. Огромное, холодное и расчетливое пространство, над которым мы властвуем, кажется, покрыто ими. Однако эти силы практически невидимы и непригодны для большинства. Единственное место, которое может притягивать такое количество энергии и материи - это естественные черные дыры, разбросанные по галактикам.\n\n\nЕсли вы хотите использовать эти силы, вы должны понять, как преобразовать их в пригодную для использования форму, генерировать их как источники энергии, а затем заключить их в специализированные устройства, которые будут поддерживать силы в постоянном, пригодном для использования движении. Только тогда силы можно будет по-настоящему использовать, только тогда вы начнете понимать, что значит ступать в пустоту пространства."
+ 
+acot_diplo.811.e: "Почему все они, кажется, имеют одинаковые конструкции кораблей?"
+acot_diplo.811.e.response: "Не только они, если вы заметили. Даже у нас, Кураторов, и многих других предшественников прошлого одинаковые конструкции кораблей. Конечно, есть некоторые различия во внутреннем устройстве и компонентах.\n\nЭто потому, что все предшественники получили эти конструкции, изучая древние корабли давно исчезнувшей цивилизации, которая, как говорят, породила сами звезды. То, что вы видите, - это сильно модифицированные, а главное, упрощенные версии их конструкций. Падшие Империи используют гораздо более простые, массово производимые версии этих кораблей, которые могут быть легко изготовлены и напечатаны системами автоматического производства на их верфях."
+ 
+acot_diplo.811.f: "Вы можете сказать нам, как сделать эти конструкции прекурсоров?"
+acot_diplo.811.f.response: "Если бы мы не следили за прогрессом вашей империи, мы бы сочли вас сумасшедшим. Если вы действительно хотите разобраться в прошлом и понять тайну прекурсоров, то вам лучше всего получить собственный банк данных прекурсоров. С его помощью вы сможете получить доступ к богатой истории Предтеч во всех подробностях и получить необходимые данные для разработки кораблей Предтеч."
  
  
 ##### OUTERGATES ####
  
-acot_diplo.800.c: "Tell us about Stellarite Power."
+acot_diplo.800.c: "Расскажите нам о Стелларитовой Силе."
  
-acot_diplo.821.name: "Stellarite Powers"
-acot_diplo.821.desc: "Little recordings survived from the past that details anything regarding Stellarite. We'll try to provide what we know of them."
+acot_diplo.821.name: "Сила Стелларита"
+acot_diplo.821.desc: "Из прошлого сохранилось мало записей, в которых подробно рассказывается о Стелларите. Мы постараемся предоставить то, что нам о них известно."
  
-acot_diplo.821.a: "Do Fallen Empires know about the power?"
-acot_diplo.821.a.response: "They know about its basics, yes. Any empires whose roots date back to the old times will have basic understanding of Stellarite. According to our archives, Stellarite was once a primary source of power in the ancient times, but fell out of use due to unknown circumstances that made them ineffective. Judging by the fact that their declines went hand in hand with the disappearance of the Omegans, we believed that the power simply became exhausted without the Omegans around to power them. This would coincide with the First Fallen Empire's discovery and adaptation of Enigmatic Power, which came right afterwards.\n\nEven if Stellarite becomes a viable power source again, we do not believe the current generations of Fallen Empire will adopt them, their economy are simply not built to support such powers, nor would they have the necessary specialists to maintain them."
+acot_diplo.821.a: "Знают ли Падшие Империи об этой силе?"
+acot_diplo.821.a.response: "Они знают о ее основах, да. Любые империи, чьи корни уходят в глубокую древность, имеют базовое представление о Стелларите. Согласно нашим архивам, Стелларит когда-то был основным источником силы в древние времена, но вышел из употребления из-за неизвестных обстоятельств, которые сделали его неэффективным. Судя по тому, что их упадок шел рука об руку с исчезновением Омеганов, мы полагаем, что энергия просто истощилась без Омеганов. Это совпало бы с открытием и адаптацией Загадочной Силы Первой Падшей Империей, которое произошло сразу после этого.\n\n\nДаже если Стелларит снова станет жизнеспособным источником энергии, мы не верим, что нынешние поколения Падшей Империи примут его, их экономика просто не создана для поддержки таких сил, и у них нет необходимых специалистов для их поддержания."
  
-acot_diplo.821.b: "Many of our scientists think they are fictional..."
-acot_diplo.821.b.response: "Doubtless, we too would think of them whimsical stories made by childrens. Inner power beyonds Solar? Souls of the Stars? They all seem a little bit over the top, yes?\n\nBut our records and archives state this to be true otherwise. If your empire truly wishes to learn the power, you must believe, you must be determined. Trust in your capabilities, and the results will bear fruit. And the rest shall follow."
+acot_diplo.821.b: "Многие наши ученые считают их вымышленными..."
+acot_diplo.821.b.response: "Несомненно, мы тоже считаем их причудливыми детскими сказками. Внутренняя сила за пределами Солнечной? Души звезд? Все это кажется немного преувеличенным, да?\n\nНо наши записи и архивы утверждают, что это не так. Если ваша империя действительно желает познать эту силу, вы должны верить, вы должны быть полны решимости. Верьте в свои возможности, и результаты принесут плоды. А остальное приложится."
  
-acot_diplo.821.c: "Can we use Stellarite to reforge the seals of Outergate?"
-acot_diplo.821.c.response: "Unfortunately not. First off, you'll need to have full control of the gatekeepers, without them the necessary procedure to reinforce the seals cannot be done. Secondly, the amount of Stellarite required would have to be tremendous, beyond what any single galaxy could provide. Lastly, its power is too unstable, too unknown, too dangerous to be used in such a manner. It could have dire consequences."
+acot_diplo.821.c: "Можем ли мы использовать Стелларит для восстановления печатей Аутергейта?"
+acot_diplo.821.c.response: "К сожалению, нет. Во-первых, вам потребуется полный контроль над привратниками, без них невозможно провести необходимую процедуру укрепления печатей. Во-вторых, количество требуемого стелларита должно быть огромным, превышающим то, что может предоставить одна галактика. И наконец, его сила слишком нестабильна, слишком неизвестна, слишком опасна, чтобы использовать ее таким образом. Это может привести к ужасным последствиям."
  
 ##### Curators ####
  
-acot_diplo.800.d: "Tell us about your order."
+acot_diplo.800.d: "Расскажите нам о вашем ордене."
  
-acot_diplo.831.name: "The Curator Order"
-acot_diplo.831.desc: "What do you wish to know about our order? We are but humble scientists and researchers looking to preserve knowledge and document the never-ending cycles of changes of the galaxy."
+acot_diplo.831.name: "Орден Кураторов"
+acot_diplo.831.desc: "Что вы хотите узнать о нашем ордене? Мы всего лишь скромные ученые и исследователи, стремящиеся сохранить знания и задокументировать бесконечные циклы изменений в галактике."
  
-acot_diplo.831.a: "How large is the Curator Order?"
-acot_diplo.831.a.response: "Though we have but a few stations scattered across the galaxy, our Order as a whole extends way beyond it. Thanks to our arrangement with Phanon Corps, we have been able to make contacts with other galaxies and discovered like-minded individuals to form a larger order. We hope to eventually accumulate enough resources and fundings to create our own inter-galactic portal, so that we will no longer require the Phanon Corp Service, but progress has been slow. And we still have yet to deal with the Fallen Empires, who will no doubt find reasons to hamper our progress."
+acot_diplo.831.a: "Насколько велик Орден Кураторов?"
+acot_diplo.831.a.response: "Хотя у нас всего несколько станций, разбросанных по всей галактике, наш орден в целом выходит далеко за ее пределы. Благодаря нашему соглашению с Корпусом Фанона, мы смогли установить контакты с другими галактиками и найти единомышленников, чтобы сформировать более крупный орден. Мы надеемся со временем накопить достаточно ресурсов и средств для создания собственного межгалактического портала, чтобы нам больше не требовалась служба Фанон Корп, но прогресс идет медленно. И нам еще предстоит разобраться с Падшими Империями, которые, несомненно, найдут причины, чтобы помешать нашему прогрессу."
  
-acot_diplo.831.b: "How does one become a Curator?"
-acot_diplo.831.b.response: "The Curators generally accept scientists and researchers who display a certain level of aptitude in physics, society or engineerings. Usually we conduct a test and categorize a person's intellectual capabilities in tiers, starting from One to Ten. Tier One to Four are considered too inexperienced or close-minded to be inducted. Tier Five and above are what we considered to be qualified.\n\nOnce inducted into the order, they are given the rank of scribes. The scribes are tasked with studying all the records and assist their seniors in mundane tasks such as pushing objects or pressing buttons, they are also usually the one who are tasked with using HSE Suits and Crowbars to perform various hazardous tasks.\n\nAt the conclusion of their term ,they are given the rank of Professors, where they no longer need to work on mundane tasks, but are expected to travel afar and lend their expertises to empires that purchase our services.\n\nThe highest rankings of our Orders are the Archons, individuals who have contributed so much to the Order and thus are given the opportunity to infuse their bodies with the Archon Serum, the serum increases their thought capacity by tenfold, vastly increases their intellects and body and make them ageless. But in return, Archons are no longer able to carry offspring and permanently lose the ability to taste, feel or smell and their eyes can only see things in black and white. It is a sacrifice that only the most devoted to science are willing to undergo, and each Archon made are forever inscribed in our archives as the true paragon of knowledge unending."
+acot_diplo.831.b: "Как стать Куратором?"
+acot_diplo.831.b.response: "В Кураторы обычно принимают ученых и исследователей, которые проявляют определенный уровень способностей в области физики, общества или инженерии. Обычно мы проводим тест и распределяем интеллектуальные способности человека по уровням, начиная с первого и заканчивая десятым. Уровни от первого до четвертого считаются слишком неопытными или недалекими, чтобы быть принятыми. Пятый уровень и выше - это те, кого мы считаем квалифицированными.\n\nПосле вступления в орден, им присваивается ранг писцов. В обязанности писцов входит изучение всех записей и помощь старшим в выполнении повседневных задач, таких как толкание предметов или нажатие кнопок, также им обычно поручают использовать костюмы HSE и коронки для выполнения различных опасных задач.\n\n\nПо окончании срока службы им присваивают звание профессора, где им больше не нужно работать над повседневными задачами, но они должны путешествовать издалека и предоставлять свои знания империям, которые покупают наши услуги. \n\nВысшее звание нашего Ордена - это Архонты, люди, которые внесли большой вклад в развитие Ордена, и поэтому им дается возможность влить в свое тело сыворотку Архонтов. Сыворотка увеличивает их мыслительные способности в десять раз, значительно повышает их интеллект и тело и делает их нестареющими. Но взамен Архонты больше не могут иметь потомство, навсегда теряют способность чувствовать вкус, ощущения и запах, а их глаза могут видеть только черно-белое. Это жертва, на которую готовы пойти только самые преданные науке, и каждый созданный Архон навсегда записан в наших архивах как истинный образец бесконечного знания."
  
-acot_diplo.831.c: "Can we hire an Archon?"
-acot_diplo.831.c.response: "Impossible! Incomprehensible! Illogical! Unthinkable!!!\n\n...Apologies, that was rude of me. Perhaps that is not out of the realms of possibilities. Some of our Archons have displayed a sense of...longing? Their lives have been consumed by the desire to work for something greater, something beyond what our little enclave could provide. Mayhaps an arrangement can be made, but know that Archons are rare amongst our Orders, even as a whole. So please take care of them, they are lonely souls.\n\n§YArchons can now be hired from the Curators in their Curator Service Menu.§!"
+acot_diplo.831.c: "Мы можем нанять архонта?"
+acot_diplo.831.c.response: "Невозможно! Непостижимо! Нелогично! Немыслимо!!!\n\n... Извините, это было грубо с моей стороны. Возможно, это не исключено. Некоторые из наших архонтов проявляли чувство... тоски? Их жизнь была поглощена желанием работать ради чего-то большего, чего-то, что выходит за рамки того, что может дать наш маленький анклав. Возможно, с ними можно договориться, но знайте, что архонты - редкость среди наших орденов, даже в целом. Поэтому, пожалуйста, позаботьтесь о них, они одинокие души.\n\nАрхонов теперь можно нанять у Кураторов в их меню услуг Куратора."
  
 ##### Phanons ####
  
-acot_diplo.800.e: "Tell us about the Phanon Corps."
+acot_diplo.800.e: "Расскажите нам о Корпусе Фанона."
  
-acot_diplo.841.name: "The Phanon Corps"
-acot_diplo.841.desc: "An illusive faction to be sured. The Phanon Corps mask itself as a paramilitary force, but their real power base far exceeds what one'd expect from such a business arrangement. Even we relied upon them for inter-galactic traversal. What do you want to know about them?"
+acot_diplo.841.name: "Корпус Фанона"
+acot_diplo.841.desc: "Иллюзорная фракция, если быть уверенным. Корпус Фанона маскируется под военизированные силы, но их реальная база власти намного превосходит то, что можно было бы ожидать от такого делового соглашения. Даже мы полагались на них в межгалактических путешествиях. Что вы хотите знать о них?"
  
-acot_diplo.841.a: "Who are they exactly?"
-acot_diplo.841.a.response: "The Phanon Corps, was founded by the Legendary Smuggler, Urimurich Und Zorish. They appear to be an inter-galactic paramilitary business. The earliest known records of their operations dated back during the heating point of the Ascension War. It was said that The Legendary Smuggler secretly gathered talented individuals across the galaxies, those who suffered and became tired of the constant war that ravaged their homeland. His powerbase grew steadily, using technologies that we could not properly understand.\n\nBased on pure speculations, Urimurich's goal was simply to keep what little left of the galaxy he once knew in order, the Phanon Corps certainly has enough resources to function as a full-fledged galactic superpower, but so far they have strickly operated as a mercenary. Perhaps they simply do not desire to rule?\n\nRegardless, the Phanon Corps is a legitimate business recognized and feared by many, even the slighest mention of their names will cause many to back down any offenses. Another important thing, while the Phanon Corps never betrays its client, it also has a reputation for not always protecting the privacy of their contracts. Indeed, it is not uncommon for one empire to hire their services to scre...to hinder the progress of another empire, only for their victims to strike back at the original client when they learned of the deal."
+acot_diplo.841.a: "Кто они такие?"
+acot_diplo.841.a.response: "Корпус Фанон был основан легендарным контрабандистом Уримурихом Унд Зоришем. Судя по всему, они являются межгалактическим военизированным предприятием. Самые ранние известные записи об их деятельности относятся к периоду разгара Войны Вознесения. Говорили, что Легендарный Контрабандист тайно собирал талантливых людей по всей галактике, тех, кто страдал и устал от постоянной войны, опустошавшей их родину. Его база власти постоянно росла, используя технологии, которые мы не могли понять.\n\nПо чистому предположению, целью Уримуриха было просто сохранить в порядке то немногое, что осталось от галактики, которую он когда-то знал.\n\nКорпус Фанона, конечно, имеет достаточно ресурсов, чтобы функционировать как полноценная галактическая сверхдержава, но до сих пор они действовали исключительно как наемники. Возможно, они просто не хотят править?\n\nНезависимо от этого, Корпус Фанон - законный бизнес, который признают и боятся многие, даже самое незначительное упоминание их имени заставит многих отступить от любых обид. Еще один важный момент: хотя "Корпус Фанон" никогда не предаст своего клиента, он также имеет репутацию компании, которая не всегда защищает конфиденциальность своих контрактов. Действительно, нередки случаи, когда одна империя нанимает их услуги, чтобы помешать... помешать прогрессу другой империи, а их жертвы, узнав о сделке, наносят ответный удар по первоначальному клиенту."
  
-acot_diplo.841.b: "What's Urimurich history?"
-acot_diplo.841.b.response: "Unfortunately we know little of his pasts. The earliest known records of his activities dated back to the early stages of the Ascension War. It was said that he gathered many who have suffered through the war, and created something akin to a league of Non-aligned powers, opposing every precursor empires of the past. Using technologies that were beyond understanding of any empires, they secured their foothold, and began spreading their influences. Yet for unknown reasons, Urimurich never formally declared his faction as an empire and adopted the name of Phanon Corps; a paramilitary service for hire. His Phanon Corps then expanded across many galaxies, always holding a single system called Droppoints in each of them, never expanding.\n\nIn our opinions, beneath his somewhat his happy-go-lucky and trollish personality, lies a broken man, uncertain and unbalanced in his ultimate goals, or what he truly desires for himself. A person truly burdened by the weight of his responsibilities as a savior to many of his fans and his desires to understand himself."
+acot_diplo.841.b: "Какова история Уримуриха?"
+acot_diplo.841.b.response: "К сожалению, мы мало знаем о его прошлом. Самые ранние известные записи о его деятельности относятся к ранним стадиям Войны Вознесения. Говорили, что он собрал многих, кто прошел через войну, и создал нечто сродни лиге неприсоединившихся держав, противостоящих всем империям-предшественникам прошлого. Используя технологии, которые были недоступны пониманию любой империи, они закрепили свои позиции и начали распространять свое влияние. Однако по неизвестным причинам Уримурих так и не объявил свою фракцию империей, а назвал ее Phanon Corps - военизированная служба по найму. Затем его Корпус Фанона распространился по многим галактикам, всегда держа в каждой из них одну систему под названием Дроппойнт, никогда не расширяясь.\n\nПо нашему мнению, под его несколько счастливой и тролльской личностью скрывается сломленный человек, неуверенный и неуравновешенный в своих конечных целях или в том, чего он действительно желает для себя. Человек, действительно обремененный грузом ответственности как спасителя многих своих поклонников и желанием разобраться в себе."
  
-acot_diplo.841.c: "Where did the Legendary Smuggler title come from?"
-acot_diplo.841.c.response: "That was actually quite  hilarious, almost unbelievable tales of his exploits. It was said that once an empire asked for the Phanon Corps to steal a star from the enemy faction, and the Corps actually did. They sent a very big ship, declared very loudly that they were going to steal their star, and they did so. Another time a ruler of a nation asked if the Phanon Corps could actually smuggle death itself away from him and give it to his son, the Phanon Corps made him effectively immortal...by turning him into a space rock, drifting away into space and make his son dying repeatedly, endlessly for uncountable amount of times. I believed their names were something like Kras and Diabolo or something.\n\nMost of them are probably fictional and exaggerated of course, but the legends do not betray their reputation, for the Phanon Corps appears to have never fail in their assigned tasks, provided that the resources required to hire them were met."
+acot_diplo.841.c: "Откуда взялся титул "Легендарный контрабандист"?"
+acot_diplo.841.c.response: "На самом деле это были довольно уморительные, почти невероятные рассказы о его подвигах. Говорили, что однажды империя попросила Корпус Фанона украсть звезду у вражеской фракции, и Корпус действительно это сделал. Они послали очень большой корабль, очень громко объявили, что собираются украсть их звезду, и так и сделали. В другой раз правитель одной страны спросил, может ли Корпус Фанона тайно забрать у него саму смерть и передать ее его сыну, и Корпус Фанона сделал его фактически бессмертным... превратив его в космический камень, уносящийся в космос, и заставив его сына умирать многократно, бесконечно, бесчисленное количество раз. Я полагал, что их звали что-то вроде Крас и Диаболо или что-то в этом роде.\n\nБольшинство из них, конечно, вымышлены и преувеличены, но легенды не предают их репутации, так как Корпус Фанона, похоже, никогда не проваливал поставленные перед ними задачи, при условии, что ресурсы, необходимые для их найма, были удовлетворены."
  
-acot_diplo.841.d: "We can't seem to get Phanon Corps to do anything."
-acot_diplo.841.d.response: "While they can quickly set up their bases of operations, the Phanon Corps generally take much longer to begin their true business and services. Though they occasionally accept specific requests that appear to be fun for Urimurich himself, do not expect any services or contents for them soon.\n\nAs for how long will that last? We speculate that they will last for another 20,000 years, or until the Panada Singularity is actualized."
+acot_diplo.841.d: "Мы не можем заставить Phanon Corps что-либо сделать."
+acot_diplo.841.d.response: "Хотя они могут быстро создать свои операционные базы, Корпусу Фанона обычно требуется гораздо больше времени, чтобы начать свою настоящую деятельность и услуги. Хотя они иногда принимают специфические запросы, которые, похоже, забавляют самого Уримуриха, не ожидайте в ближайшее время каких-либо услуг или содержания для них.\n\n\nА как долго это будет продолжаться? Мы предполагаем, что они будут существовать еще 20 000 лет, или пока не будет реализована Панада Сингулярности."
  
-acot_diplo.841.e: "Uhh...what's a Panada Singularity?"
-acot_diplo.841.e.response: "Panada Singularity refers to a strange and unknown phenomenon in which suddenly massive changes come to the galaxy and cause many things that were previously known to be changed or added. Empires that once had one story would suddenly appear to have entirely new, rewritten one. Technologies that were believed to not have existed, suddenly exists, and weapons that previously dealt stupidly low damage, suddenly gets buffed to deal extremely high damage.\n\nThe Panada Singularity is unpredictable, its nature causes many things that we once knew to change drastically. For instance, for a very long time, we Curators thought ourselves to know everything in the galaxy, that we were alone. That we have only a badly equipped mundane station, and look at what we have now? Our very own starbase, and tons of things to explain.\n\nNot even the Phanon Corps is immune to its effect. Try to contact them and say the word "Panada", maybe it will do something."
+acot_diplo.841.e: "А... что такое Панада Сингулярности?"
+acot_diplo.841.e.response: "Панада Сингулярности относится к странному и неизвестному явлению, когда в галактике внезапно происходят масштабные изменения, в результате которых многое из того, что было известно ранее, меняется или добавляется. Империи, у которых когда-то была одна история, вдруг оказываются с совершенно новой, переписанной историей. Технологии, которые, как считалось, не существовали, внезапно появились, а оружие, которое раньше наносило глупо низкий урон, вдруг стало наносить чрезвычайно высокий урон.\n\n\nСингулярность Панады непредсказуема, ее природа заставляет многие вещи, которые мы когда-то знали, радикально измениться. Например, очень долгое время мы, Кураторы, думали, что знаем все в галактике, что мы одни. Что у нас есть только плохо оборудованная обычная станция, а посмотрите, что у нас есть сейчас? Наша собственная звездная база, и куча вещей, которые нужно объяснить.\n\nНе даже корпус Фанона не защищен от его влияния. Попробуйте связаться с ними и сказать слово "Панада", может быть, это что-то даст."
  
  
 ##### Psionics ####
  
-acot_diplo.800.f: "Tell us about Psionics."
+acot_diplo.800.f: "Расскажите нам о псионике."
  
-acot_diplo.851.name: "Psionics"
-acot_diplo.851.desc: "The Power of the Mind...truly an intriguing subject indeed. Though we do not officially recognize their group, the Curator Order has a rogue division dedicated to the study of all things psionics, the Alarak Cult. Though we do not agree on every policy, various information have been exchanged. What do you wish to discuss?"
+acot_diplo.851.name: "Псионика"
+acot_diplo.851.desc: "Сила разума... действительно интригующая тема. Хотя мы официально не признаем их группу, в Ордене Кураторов есть подразделение-изгой, занимающееся изучением всего, что связано с псионикой, - Культ Аларака. Хотя мы не согласны с каждой политикой, мы обмениваемся различной информацией. Что вы хотите обсудить?"
  
-acot_diplo.851.a: "Can anyone develop psionics?"
-acot_diplo.851.a.response: "Most certainly yes. It appears that all organics possess the innate ability to harness psionic powers, they simply need to be made aware of it, and trigger its awakening. The process will quickly pass down from one person to another, and while initial group may be small, eventually the entire population can be made psionics.\n\nFor as of yet unknown reasons, Hive Mind entities seem to lack the ability to utilize the same type of psionics, but they seem to have the ability to "feel" the thoughts of a psionic empire. Abathur Host, experts in Hive Mind Study suggests that the Hives may have evolved to adapt alternate variants of psionics that focus more on telepathy and battle cohesion.\n\nAs for machines and synthetics, scientifically speaking, nothing seems to suggest they too cannot harness the power. Yet there seems to be a noticable lack of any psionic development amongst mechanical individuals, yet there are records of them suffering psionic anomalies and phenomenons as well. Perhaps they are missing a core organic component that'd allow them to otherwise understand the concept?"
+acot_diplo.851.a: "Может ли кто-нибудь развить псионику?"
+acot_diplo.851.a.response: "Безусловно, да. Похоже, что все органические существа обладают врожденной способностью использовать псионические силы, им просто нужно осознать ее и вызвать ее пробуждение. Процесс будет быстро передаваться от одного человека к другому, и хотя первоначальная группа может быть небольшой, в конце концов, все население может стать псиоником.\n\nПо пока еще неизвестным причинам, сущности "Hive Mind" не обладают способностью использовать тот же тип псионики, но у них, похоже, есть способность "чувствовать" мысли псиоников империи. Абатур Хост, эксперт по изучению разума ульев, предполагает, что ульи, возможно, эволюционировали, чтобы адаптировать альтернативные варианты псионики, которые больше сосредоточены на телепатии и боевой сплоченности.\n\n\n Что касается машин и синтетических существ, с научной точки зрения, ничто не указывает на то, что они тоже не могут использовать силу. Однако среди механических индивидуумов наблюдается заметное отсутствие какого-либо псионического развития, но есть записи о том, что они также страдают от псионических аномалий и феноменов. Возможно, им не хватает основного органического компонента, который позволил бы им иначе понять эту концепцию?"
  
-acot_diplo.851.b: "How does one begin to develop psionics?"
-acot_diplo.851.b.response: "There are multiple theories in which what could have triggered psionics, but the most well-known method is to simply make the public as a whole be aware of its existence. The process is notably harder for materialistic empires that are unwilling to admit that there is no real science behind its nature.\n\nUnfortunately, there is yet to be a way for hive minds or machines to trigger this effect, not to our knowledge at least."
+acot_diplo.851.b: "Как человек начинает развивать псионику?"
+acot_diplo.851.b.response: "Существует множество теорий о том, что могло бы послужить толчком к развитию псионики, но наиболее известный метод - это просто заставить общество в целом узнать о ее существовании. Этот процесс значительно сложнее для материалистических империй, которые не желают признавать, что за его природой не стоит никакой науки.\n\nК сожалению, пока не существует способа, чтобы ульи или машины могли вызвать этот эффект, по крайней мере, насколько нам известно."
  
 ##### Enigmatic ####
  
-acot_diplo.800.g: "Tell us about Enigmatic Powers."
+acot_diplo.800.g: "Расскажите нам о Загадочной Силе."
  
-acot_diplo.861.name: "Enigmatic Power"
-acot_diplo.861.desc: "It's refreshing to see more empires taking an interest in this field of study. Certainly more so than seeing the Fallen Empires wasting such powers on automated machines."
+acot_diplo.861.name: "Загадочная сила"
+acot_diplo.861.desc: "Отрадно видеть, что все больше империй проявляют интерес к этой области исследований. Конечно, это более приятно, чем видеть, как Падшие Империи тратят такие силы на автоматические машины."
  
-acot_diplo.861.a: "What is it really?"
-acot_diplo.861.a.response: "Although initially coined as Dark Matter, the powers that were discovered appear to deviate greatly from what most modern empires believed Dark Matter to be. The power itself could be harvested as a form of matter or energy. As such, we decided to call them Enigmatic Power to differentiate from the old perceived definition, yet many have become so accustomed to the Dark Matter or Energy name that both were used interchangeably.\n\nAs for what it really is, based on the observation that it was discovered quite conveniently around the time when Stellar Powers started to dwindle, we believed both powers were connected to each other. If the records provided by the Ancient Empire of Matroxis Faulst were to be believed, they would be the one who first discovered that Enigmatic Power were a result of Stellar Power "reverting" to its base definition. Think of Stellarite Power as puzzle pieces perfectly aligned to form an image, and then the pieces were scattered, making the box empty. Matroxis Faulst attempted to rearrange the pieces, but it began to form into a totally new image. Unfortunately, they never get to complete the puzzle, and the power was left only partially explored on the surface level."
+acot_diplo.861.a: "Что это на самом деле?"
+acot_diplo.861.a.response: "Хотя первоначально ее называли Темной материей, обнаруженные силы, по-видимому, сильно отличаются от того, чем, по мнению большинства современных империй, является Темная материя. Сама сила может быть собрана как форма материи или энергии. Поэтому мы решили называть их Загадочной Силой, чтобы отличаться от старого определения, но многие уже настолько привыкли к названию Темная Материя или Энергия, что использовали оба названия как взаимозаменяемые.\n\n\n Что касается того, что это на самом деле, то, основываясь на том, что она была обнаружена очень кстати, примерно в то время, когда Звездные Силы начали уменьшаться, мы решили, что обе силы связаны друг с другом. Если верить записям, предоставленным Древней Империей Матроксис Фолст, именно они первыми обнаружили, что Загадочная Сила является результатом "возвращения" Звездной Силы к ее базовому определению. Представьте себе Звездную Силу как кусочки головоломки, идеально выровненные для формирования изображения, но затем кусочки рассыпались, и коробка оказалась пустой. Матроксис Фолст попытался переставить кусочки, но они начали складываться в совершенно новое изображение. К сожалению, им так и не удалось завершить головоломку, и сила осталась лишь частично изученной на поверхностном уровне."
  
-acot_diplo.861.b: "Can we improve upon it?"
-acot_diplo.861.b.response: "Supposedly yes. But no precursors have moved far beyond early stages of Project Alpha. If you wish to pursue it, you will need a Precursor Databank. You should be able to find one from any of the surviving Fallen Empires, or our Order can provide you with one, for a price of course."
+acot_diplo.861.b: "Можем ли мы ее усовершенствовать?"
+acot_diplo.861.b.response: "Предположительно, да. Но ни один предшественник не продвинулся дальше ранних стадий проекта "Альфа". Если вы хотите заняться этим, вам понадобится банк данных прекурсоров. Вы сможете найти его в любой из выживших Павших Империй, или наш Орден может предоставить его вам, за определенную плату, конечно."
  
  
 ##### Precursors ####
  
-acot_diplo.800.h: "Tell us about the Precursors."
+acot_diplo.800.h: "Расскажите нам о Предтечах."
  
-acot_diplo.871.name: "The Precursors"
-acot_diplo.871.desc: "A very exciting subject to discuss about, wouldn't you agree? There is so much lost knowledge about the ancient civilizations of eld. So many things to talk about...what do you wish to know?"
+acot_diplo.871.name: "Предтечи"
+acot_diplo.871.desc: "Очень интересная тема для обсуждения, согласитесь? Так много утерянных знаний о древних цивилизациях Эллады. Так много вещей, о которых можно поговорить... Что вы хотите узнать?"
  
-acot_diplo.871.a: "What were their technologies like?"
-acot_diplo.871.a.response: "Most of the precursors utilized Enigmatic Powers as their primary power sources. From planetary resource production, to space constructions, to war vessels. The connections between them were inseparable. In terms of planetary technologies, the Precursors explored field manipulation, dimensional travels, singularity containment, hard-light refraction and advanced symbiosis between organic and machine intelligences. Their space vessels were vastly different from modern ones as well, with each ship containing no more than a few people despite being several times larger than any modern military ships."
+acot_diplo.871.a: "Какими были их технологии?"
+acot_diplo.871.a.response: "Большинство предшественников использовали Загадочные Силы в качестве основных источников энергии. От производства планетарных ресурсов до космических сооружений и военных кораблей. Связи между ними были неразрывны. Что касается планетарных технологий, Предтечи исследовали манипуляцию полями, путешествия в измерения, сдерживание сингулярности, преломление жесткого света и продвинутый симбиоз между органическими и машинными интеллектами. Их космические корабли также значительно отличались от современных: на каждом из них находилось не более нескольких человек, хотя они были в несколько раз больше современных военных кораблей."
  
-acot_diplo.871.b: "Can you assist us in understanding precursor experiments?"
-acot_diplo.871.b.response: "Acknowledged, transfering data to your databank now. Stand by."
+acot_diplo.871.b: "Можете ли вы помочь нам разобраться в экспериментах с прекурсорами?"
+acot_diplo.871.b.response: "Принято, сейчас передаю данные в ваш банк данных. Приготовиться."
  
-acot_diplo.871.c: "Can you assist us in understanding precursor engineering?"
-acot_diplo.871.c.response: "Acknowledged, transferring data to your databank now. Stand by."
+acot_diplo.871.c: "Можете ли вы помочь нам в понимании инженерии прекурсоров?"
+acot_diplo.871.c.response: "Подтверждаю, передаю данные в ваш банк данных. Ожидайте."
  
-acot_diplo.871.d: "Can you assist us in understanding precursor histories?"
-acot_diplo.871.d.response: "Acknowledged, transferring data to your databank now. Stand by."
+acot_diplo.871.d: "Можете ли вы помочь нам в понимании истории прекурсоров?"
+acot_diplo.871.d.response: "Подтверждаю, передаю данные в ваш банк данных. Ожидайте."
  
  
 #################################### CURATOR TEXT OVERWRITE ##########################
  
- leviathans.506.f: "How would our current fleet fare against it in battle?"
- leviathans.5106.f1.reply: "Not recommended.\n\nTrying to throw your fleets against them right now will simply result in a one-sided slaughter.!"
- leviathans.5106.f2.reply: "I would strongly advise against it. Your attacks would likely be more of an annoyance than a threat."
- leviathans.5106.f3.reply: "Your current fleet seems to be on par with the records used to measure its strength. However, that record may be outdated so expect losses."
- leviathans.5106.f4.reply: "Your fleet appears to be stronger than your adversary. But the statistics are outdated, so it is best to account for possible casualties."
+ leviathans.506.f: "Как наш нынешний флот справится с ним в бою?"
+ leviathans.5106.f1.reply: "Не рекомендуется.\n\nПопытка бросить ваши флоты против них прямо сейчас приведет к односторонней резне.!"
+ leviathans.5106.f2.reply: "Я бы настоятельно рекомендовал этого не делать. Ваши атаки, скорее всего, будут скорее раздражать, чем угрожать."
+ leviathans.5106.f3.reply: "Ваш нынешний флот, кажется, соответствует рекордам, используемым для измерения его силы. Однако, эти данные могут быть устаревшими, поэтому ожидайте потерь."
+ leviathans.5106.f4.reply: "Ваш флот кажется сильнее, чем у противника. Но статистика устарела, поэтому лучше предусмотреть возможные потери."
  
  
- leviathans.590.name: "Hire a Scientist"
- leviathans.590.desc: "We are willing to pledge the services of one of professor-rank scientists to your cause.\n\nYou will have to provide them with resources and necessities, as well as a sum of credits to our Order. We assume these terms are reasonable, yes?"
- leviathans.590.a: "Of course. You shall have your donation."
- leviathans.590.a.reply: "Excellent. May the professor serve you well in your endeavor!"
+ leviathans.590.name: "Нанять ученого"
+ leviathans.590.desc: "Мы готовы предоставить в ваше распоряжение одного из ученых профессорского ранга.\n\nВы должны будете обеспечить его ресурсами и предметами первой необходимости, а также перечислить сумму кредитов нашему ордену. Мы полагаем, что эти условия разумны, да?"
+ leviathans.590.a: "Конечно. Вы получите ваше пожертвование."
+ leviathans.590.a.reply: "Превосходно. Да поможет вам профессор в вашем начинании!"
  
- leader_trait_acot_curator_archon: "Curator Archon"
- leader_trait_acot_curator_archon_desc: "Ageless yet in near constant-pain and a dread hollow, a Curator Archon dedicates his or her life and soul to the pursuit of science and knowledge. There is no greater sacrifice for wisdom."
+ leader_trait_acot_curator_archon: "Куратор Архон"
+ leader_trait_acot_curator_archon_desc: "Не имеющий возраста, но испытывающий почти постоянную боль и страшную пустоту, архонт-куратор посвящает свою жизнь и душу стремлению к науке и знаниям. Нет большей жертвы ради мудрости."
  
- acot_curator_hire_scientist_fail: "The Curator Order cannot spare another Professor at this time."
- acot_curator_hire_archon_fail: "The Curator Order cannot spare another Archon at this time."
+ acot_curator_hire_scientist_fail: "В настоящее время Орден Кураторов не может пощадить еще одного профессора."
+ acot_curator_hire_archon_fail: "Орден Кураторов не может пощадить еще одного Архонта в это время."
  
- acot_diplo.archon.desc: "The pursuit of science is never-ending, yes? We'll see if any Professors or Archons within our ranks are available for service."
+ acot_diplo.archon.desc: "Стремление к науке бесконечно, да? Мы посмотрим, свободны ли профессора или архонты в наших рядах."
  
- acot_diplo.archon.a: "We wish to hire a Professor."
- acot_diplo.archon.a.reply: "Excellent. May the professor serve you well in your endeavor!"
+ acot_diplo.archon.a: "Мы хотим нанять профессора."
+ acot_diplo.archon.a.reply: "Превосходно. Да поможет вам профессор в вашем начинании!"
  
- acot_diplo.archon.b: "We wish to hire an Archon."
- acot_diplo.archon.b.reply: "You are in luck then, an Archon has expresses the desire to work outside of the Order, and is interested in working with your empire.\n\nYou will have to provide them with resources and necessities, as well as a much larger sum of credits to our Order. We assume these terms are reasonable, yes?"
+ acot_diplo.archon.b: "Мы хотим нанять архонта."
+ acot_diplo.archon.b.reply: "Вам повезло, архонт выразил желание работать вне Ордена и заинтересован в сотрудничестве с вашей империей.\n\n\nВам придется обеспечить его ресурсами и предметами первой необходимости, а также предоставить гораздо большую сумму кредитов нашему Ордену. Мы полагаем, что эти условия разумны, да?"
