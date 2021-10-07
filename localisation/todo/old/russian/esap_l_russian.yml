@@ -1,0 +1,328 @@
+﻿l_russian:
+#######################
+### ASCENSION PATHS ###
+#######################
+
+### Biological Ascension ###
+ ap_esap_bio_bonus:0 "Искусственное созревание"
+ ap_esap_bio_bonus_desc:0 "Мы хотим оставить нашим будущим поколениям возможность управления процессом созидания жизни. Наши достижения в области биотехнологии позволят стимулировать деторождение."
+ 
+### Cybernetic Ascension ###
+ ap_esap_cyber_bonus:0 "Сетевое сознание"
+ ap_esap_cyber_bonus_desc:0 "Усовершенствованный нейро-компьютерный интерфейс позволил соединить сознание наших граждан с большой сетью. Обмен информацией внутри империи стал почти мгновенным. Некоторые граждане стали настолько связаны с большой сетью, что начали терять связь с реальным миром."
+ #ap_esap_cyber_bonus_tooltip:0 ""
+ 
+### Psionic Ascension ###
+ ap_esap_psi_bonus:0 "Ментальное превосходство"
+ ap_esap_psi_bonus_desc:0 "Развитие наших псионических способностей позволило нам воздействовать на умы более слабых существ. Мы можем использовать это, чтобы ослабить моральный дух наших врагов, распространяя страх и депрессию."
+ ap_esap_psi_bonus_tooltip:0 "§YРост усталости от войны§! увеличивается на §G33%§! у всех наших противников в войне."
+ 
+### Combined Paths ###
+ ap_esap_bio_cyber_psi_1:0 "Окончательное возвышение"
+ ap_esap_bio_cyber_psi_1_desc:0 "Даже познав все тайны галактики, мы не должны позволить себе быть слепыми к иным чудесам, невидимым."
+ ap_esap_bio_cyber_psi_1_tooltip:0 "Лидеры - скрытые псионики в два раза чаще получают черту псионика.\nОткрывает первый бонус всех трех путей возвышения, но закрывает дальнейшие бонусы каждого из них." 
+ ap_esap_bio_cyber_psi_1_req_1:0 "$TRIGGER_FAIL$Есть один из бонусов совершенства: §Y$ap_mind_over_matter$§!, §Y$ap_the_flesh_is_weak$§! или §Y$ap_engineered_evolution$§!."
+ ap_esap_bio_cyber_psi_1_req_2:0 "$TRIGGER_FAIL$Не должно быть бонусов совершенства: §Y$ap_transcendence$§!, §Y$ap_synthetic_evolution$§! или §Y$ap_evolutionary_mastery$§!."
+ ap_esap_bio_cyber_psi_1_req_3:0 "$TRIGGER_FAIL$Не должно быть бонусов совершенства: §Y$ap_esap_psi_bonus$§!, §Y$ap_esap_cyber_bonus$§! или §Y$ap_esap_bio_bonus$§!."
+
+ ap_esap_ascension_path_t2_req_1: "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_bio_cyber_psi_1$§! (если у нас нет бонуса совершенства §Y$ap_esap_bio_cyber_psi_2$§!)."
+
+ ap_esap_bio_cyber_psi_1_plain:0 "$ap_esap_bio_cyber_psi_1$"
+ ap_esap_bio_cyber_psi_1_plain_desc:0 "$ap_esap_bio_cyber_psi_1_desc$"
+ ap_esap_bio_cyber_psi_1_plain_tooltip:0 "Открывает бонус совершенства §Y$ap_esap_bio_cyber_psi_2$§!."
+
+ ap_esap_bio_cyber_psi_2:0 "Совершенное возвышение"
+ ap_esap_bio_cyber_psi_2_desc:0 "Наша власть над вселенной стала почти божественной."
+ ap_esap_bio_cyber_psi_2_tooltip:0 "Лидеры - скрытые псионики в два раза чаще получают черту псионика.\nОткрывает все три пути возвышения."
+ ap_esap_bio_cyber_psi_2_req_1:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_bio_cyber_psi_1$§!."
+ 
+ ap_esap_bio_cyber_psi_2_plain:0 "$ap_esap_bio_cyber_psi_2$"
+ ap_esap_bio_cyber_psi_2_plain_desc:0 "$ap_esap_bio_cyber_psi_2_desc$"
+ ap_esap_bio_cyber_psi_2_plain_tooltip:0 "Открывает все три пути возвышения."
+ 
+
+###################################
+### GOVERMENTAL ASCENSION PERKS ###
+###################################
+
+ ap_esap_gov_1:0 "$ap_executive_vigor$"
+ ap_esap_gov_1_desc:0 "$ap_executive_vigor_desc$"
+ ap_esap_gov_1_tooltip:0 "§YПравительственный бонус§!. §YЛимит указов§! увеличивается на §G1§! за каждый открытый §YПравительственный бонус§! (включая этот)."
+ 
+ap_esap_gov_2:0 "$ap_transcendent_learning$"
+ ap_esap_gov_2_desc:0 "$ap_transcendent_learning_desc$"
+ ap_esap_gov_2_tooltip:0 "§YПравительственный бонус§!. §YРост опыта лидеров§! увеличивается на §G50%§! и дополнительно на §G10%§! за каждый открытый §YПравительственный бонус§! (включая этот)."
+ 
+ ap_esap_gov_3:0 "$ap_imperial_prerogative$"
+ ap_esap_gov_3_desc:0 "$ap_imperial_prerogative_desc$"
+ ap_esap_gov_3_tooltip:0 "§YПравительственный бонус§!. §YАдминистративный потенциал§! увеличивается на §G15§! за каждый открытый §YПравительственный бонус§! (включая этот)."
+ ap_esap_gov_3_corp:0 "$ap_esap_gov_3$"
+ ap_esap_gov_3_corp_desc:0 "$ap_esap_gov_3_desc$"
+ ap_esap_gov_3_corp_tooltip:0 "§YПравительственный бонус§!. §YАдминистративный потенциал§! увеличивается на §G15§! за каждый открытый §YПравительственный бонус§! (включая этот)."
+
+ ap_esap_gov_4:0 "Истина в последней инстанции"
+ ap_esap_gov_4_desc:0 "Мы убеждены в праве нашей элиты на власть. Способность управлять, которую она проявляла на протяжении веков, не оставляет нам никаких сомнений."
+ ap_esap_gov_4_tooltip:0 "§YПравительственный бонус§!. §YПроизводство ресурсов§! £pop£ §YЭлитой§! увеличивается на §G30%§! за каждый открытый §YПравительственный бонус§! (включая этот)."
+
+ ap_esap_gov_5:0 "Влиятельное государство"
+ ap_esap_gov_5_desc:0 "С тех пор как мы основали первые колонии вне родной планеты, наши способности в области управления государством достигли высот, недоступных современникам докосмической эры."
+ ap_esap_gov_5_tooltip:0 "§YПравительственный бонус§!. §YЕжемесячный прирост влияния§! увеличивается на §G0.3§! за каждый открытый §YПравительственный бонус§! (включая этот)."
+ 
+ 
+
+
+
+#########################
+### COMBINATION PATHS ###
+#########################
+
+### Tier 1 ###
+ ap_esap_ct1_war:0 "Искусство войны"
+ ap_esap_ct1_war_desc:0 "Войны-победители сначала побеждают, а том идут на войну, войны-неудачники сначала идут на войну, а потом пытаются победить."
+ ap_esap_ct1_war_tooltip:0 "Набор специальных черт адмирала, которые появляются, когда он достигает уровня §Y3§!."
+ ap_esap_ct1_war_req_1:0 "$TRIGGER_FAIL$§Y$NAVY_SIZE_TITLE$§! должна быть не менее §Y100§!." 
+ ap_esap_ct1_war_req_2:0 "$TRIGGER_FAIL$Не должно быть бонуса совершенства §Y$ap_esap_ct3_not_war$§!." 
+ 
+ ap_esap_ct1_expansion:0 "Галактические поселенцы"
+ ap_esap_ct1_expansion_desc:0 "Галактика огромна, но не бесконечна. Если мы не заселим ее, это сделают за нас."
+ ap_esap_ct1_expansion_tooltip:0 "Каждый раз когда мы стоим §YКолониальный корабль§! мы получаем еще один."
+ ap_esap_ct1_expansion_req_1:0 "$TRIGGER_FAIL$Требуется иметь минимум §Y3§! планеты." 
+ ap_esap_ct1_expansion_req_2:0 "$TRIGGER_FAIL$Не должно быть бонуса совершенства §Y$ap_esap_ct3_not_expansion$§!." 
+
+ ap_esap_ct1_diplomacy:0 "Ораторское искусство"
+ ap_esap_ct1_diplomacy_desc:0 "Наши послы за словом в карман не лезут и способны повлиять на мнение даже самых несговорчивых иностранных сановников."
+ #ap_esap_ct1_diplomacy_tooltip:0 ""
+ ap_esap_ct1_diplomacy_req_1:0 "$TRIGGER_FAIL$Необходимо иметь минимум §Y100§! единиц §YДипломатического веса§!." 
+ ap_esap_ct1_diplomacy_req_2:0 "$TRIGGER_FAIL$Не должно быть бонуса совершенства §Y$ap_esap_ct3_not_diplomacy$§!." 
+
+ ap_esap_ct1_finance:0 "Жажда прибыли"
+ ap_esap_ct1_finance_desc:0 "Задача экономики - приносить доход обеспечивающий нашу безопасность и развитие колоний. Но даже обеспечив себя всем необходимым, должны ли мы останавливаться на достигнутом?"
+ ap_esap_ct1_finance_tooltip:0 "§Y$district_city$§! потребляет на §Y1§! £energy£ меньше."
+ ap_esap_ct1_finance_req_1:0 "$TRIGGER_FAIL$Должно быть накоплено минимум §Y2500§! £energy£ §YЭнергокредитов§!." 
+ ap_esap_ct1_finance_req_2:0 "$TRIGGER_FAIL$Не должно быть бонуса совершенства §Y$ap_esap_ct3_not_finance$§!." 
+
+ ap_esap_ct1_infrastructure:0 "Национальное строительство"
+ ap_esap_ct1_infrastructure_desc:0 "Распространившись по галактике, наша империя переживает взрывной рост."
+ ap_esap_ct1_infrastructure_tooltip:0 "§Y$MOD_PLANET_HOUSING_MULT$§! увеличивается на §G15%§! на всех планетах без свободных районов."
+ ap_esap_ct1_infrastructure_req_1:0 "$TRIGGER_FAIL$Требуется построить минимум §Y10§! £building£ §YСооружений§! в §YСтолице§!." 
+ ap_esap_ct1_infrastructure_req_2:0 "$TRIGGER_FAIL$Не должно быть бонуса совершенства §Y$ap_esap_ct3_not_infrastructure$§!." 
+
+### Tier 2 ###
+ ap_esap_ct2_war_expansion:0 "Путь завоевания"
+ ap_esap_ct2_war_expansion_desc:0 "Мы встали на путь завоевания и не остановимся пока вся галактика не будет под нашим контролем."
+ ap_esap_ct2_war_expansion_tooltip:0 "Добавляет §Y100§! £influence£ §YВлияния§! каждый раз, когда мы захватываем планету. §Y$MOD_SHIP_WEAPON_DAMAGE$§! и §Y$MOD_SHIP_FIRE_RATE_MULT$§! увеличивается на §G10%§! на §Y10§! лет, после того как мы объявили войну."
+ ap_esap_ct2_war_expansion_req_1:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct1_war$§!."
+ ap_esap_ct2_war_expansion_req_2:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct1_expansion$§!."
+ 
+ ap_esap_ct2_expansion_diplomacy:0 "Имперские амбиции"
+ ap_esap_ct2_expansion_diplomacy_desc:0 "Мы стремимся создать империю, не имеющую аналогов в галактике."
+ ap_esap_ct2_expansion_diplomacy_tooltip:0 "На всех вновь основанных колониях §YСкорость постройки§! §YСооружений§! и §YРайонов§! увеличивается на §G100%§!, а §Y$MOD_POP_GROWTH_SPEED$§! увеличивается на §G50%§!. Продолжительность эффекта - §Y10§! лет."
+ ap_esap_ct2_expansion_diplomacy_req_1:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct1_expansion$§!."
+ ap_esap_ct2_expansion_diplomacy_req_2:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct1_diplomacy$§!."
+
+ ap_esap_ct2_diplomacy_finance:0 "Золотой поток"
+ ap_esap_ct2_diplomacy_finance_desc:0 "Каждый новый мир в нашей империи становиться частью единого потока. Со всех уголков государства стекаются реки золота, принося богатство и процветание нашему народу."
+ ap_esap_ct2_diplomacy_finance_tooltip:0 "§HСооружение звездной базы§!: §Y$sm_esap_ct2_diplomacy_finance_trade_post$§!, производит §G10§! единиц £trade_value£ §YТорговой ценности§!."
+ ap_esap_ct2_diplomacy_finance_req_1:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct1_diplomacy$§!."
+ ap_esap_ct2_diplomacy_finance_req_2:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct1_finance$§!."
+
+ ap_esap_ct2_finance_infrastructure:0 "Архитектура будущего"
+ ap_esap_ct2_finance_infrastructure_desc:0 "Как бы велика ни была наша империя, это величие бледнеет перед лицом наших будущих достижений. Нам предстоит совершить гигантский скачок вперед."
+ #ap_esap_ct2_finance_infrastructure_tooltip:0 ""
+ ap_esap_ct2_finance_infrastructure_req_1:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct1_finance$§!."
+ ap_esap_ct2_finance_infrastructure_req_2:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct1_infrastructure$§!."
+ 
+ ap_esap_ct2_infrastructure_war:0 "Великая "Стена""
+ ap_esap_ct2_infrastructure_war_desc:0 "Великая "Стена" - это сеть оборонительных сооружений, на границах нашей империи, делающая нас почти неуязвимыми для захватчиков."
+ ap_esap_ct2_infrastructure_war_req_1:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct1_infrastructure$§!."
+ ap_esap_ct2_infrastructure_war_req_2:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct1_war$§!."
+
+### Tier 3 ###
+ ap_esap_ct3_not_war:0 "Прощай, оружие!"
+ ap_esap_ct3_not_war_desc:0 "На войне не бывает победителей, есть только проигравшие. Только покончив с оружием, мы создадим рай среди звезд."
+ #ap_esap_ct3_not_war_tooltip:0 ""
+ ap_esap_ct3_not_war_req_1:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct2_expansion_diplomacy$§!." 
+ ap_esap_ct3_not_war_req_2:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct2_finance_infrastructure$§!." 
+ ap_esap_ct3_not_war_req_3:0 "$TRIGGER_FAIL$Не должно быть бонуса совершенства  §Y$ap_esap_ct1_war$§!."
+ 
+ ap_esap_ct3_not_expansion:0 "Золото нации"
+ ap_esap_ct3_not_expansion_desc:0 "Пока другие расширяют свои границы, мы подсчитываем доходы. Богатство нашего мира не имеет аналогов в галактике."
+ #ap_esap_ct3_not_expansion_tooltip:0 ""
+ ap_esap_ct3_not_expansion_req_1:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct2_diplomacy_finance$§!." 
+ ap_esap_ct3_not_expansion_req_2:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct2_infrastructure_war$§!." 
+ ap_esap_ct3_not_expansion_req_3:0 "$TRIGGER_FAIL$Не должно быть бонуса совершенства §Y$ap_esap_ct1_expansion$§!."
+
+ap_esap_ct3_not_diplomacy:0 "Военная машина"
+ ap_esap_ct3_not_diplomacy_desc:0 "С момента выхода в космос, наша империя постоянно расширялась. Однако, галактика не безгранична, и период мирной экспансии неизбежно подошел концу. Теперь у нас только одна цель - война."
+ ap_esap_ct3_not_diplomacy_tooltip:0 "§Y$MOD_PLANET_ARMY_BUILD_SPEED_MULT$§! и §Y$MOD_STARBASE_SHIPYARD_BUILD_SPEED_MULT$§! увеличиваются на §G100%§!. §Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! и §Y$MOD_COUNTRY_COMMAND_LIMIT_MULT$§! увеличиваются на §G25%§!. §Y$MOD_COUNTRY_BORDER_FRICTION_MULT$§! увеличиваются на §R100%§!. £opinion£ §YМнение§! других империй о нас ухудшается на §R50§!."
+ ap_esap_ct3_not_diplomacy_req_1:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct2_finance_infrastructure$§!." 
+ ap_esap_ct3_not_diplomacy_req_2:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct2_war_expansion$§!." 
+ ap_esap_ct3_not_diplomacy_req_3:0 "$TRIGGER_FAIL$Не должно быть бонуса совершенства §Y$ap_esap_ct1_diplomacy$§!."
+
+ ap_esap_ct3_not_finance:0 "Звездное братство"
+ ap_esap_ct3_not_finance_desc:0 "История нашей цивилизации показала, каким суровым местом может быть наша галактика. Только объединившись мы можем противостоять вызовам будущего. Каждый из нас уникален, но вместе мы едины."
+ #ap_esap_ct3_not_finance_tooltip:0 ""
+ ap_esap_ct3_not_finance_req_1:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct2_infrastructure_war$§!." 
+ ap_esap_ct3_not_finance_req_2:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct2_expansion_diplomacy$§!." 
+ ap_esap_ct3_not_finance_req_3:0 "$TRIGGER_FAIL$Не должно быть бонуса совершенства §Y$ap_esap_ct1_finance$§!."
+
+ ap_esap_ct3_not_infrastructure:0 "Большой поход"
+ ap_esap_ct3_not_infrastructure_desc:0 "Время пришло начать кампанию по объединению галактики. Мы не успокоимся, пока среди звезд не останется только одной нации."
+ ap_esap_ct3_not_infrastructure_tooltip:0 "Каждый раз, когда мы захватываем планету генерируется некоторое количество £alloys£ §YСплавов§! и £consumer_goods£ §YТоваров массового спроса§!."
+ ap_esap_ct3_not_infrastructure_req_1:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct2_war_expansion$§! Ascension Perk." 
+ ap_esap_ct3_not_infrastructure_req_2:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_ct2_diplomacy_finance$§!." 
+ ap_esap_ct3_not_infrastructure_req_3:0 "$TRIGGER_FAIL$Не должно быть бонуса совершенства §Y$ap_esap_ct1_infrastructure$§!."
+
+###############################
+### TECHNOLOGICAL ASCENDACY ###
+###############################
+ ap_esap_technological_ascendancy_bonus_1:0 "Тайны вселенной"
+ ap_esap_technological_ascendancy_bonus_1_desc:0 "Вселенная хранит секреты, недоступные для непосвященных."
+ ap_esap_technological_ascendancy_bonus_1_tooltip:0 "Открывает §Y15§! новых редких технологий для исследования."
+ ap_esap_technological_ascendancy_bonus_1_req_1:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_technological_ascendancy$§!."
+ ap_esap_technological_ascendancy_bonus_1_req_2:0 "$TRIGGER_FAIL$Должны быть исследованы минимум §Y10§! редких технологий."
+ 
+ ap_esap_technological_ascendancy_bonus_2:0 "Технологическое совершенство"
+ ap_esap_technological_ascendancy_bonus_2_desc:0 "О цивилизации можно судить по технологиям, которые ей доступны. И в этой гонке мы всегда будем первыми!"
+ ap_esap_technological_ascendancy_bonus_2_tooltip:0 "§YСкорость исследования§! повторяемых технологий увеличивается на §G50%§!."
+ ap_esap_technological_ascendancy_bonus_2_req_1:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_technological_ascendancy$§!."
+ ap_esap_technological_ascendancy_bonus_2_req_2:0 "$TRIGGER_FAIL$Должна быть исследована минимум одна повторяемая технология."
+ 
+#########################
+### NATURAL ASCENDACY ###
+#########################
+ ap_esap_nature:0 "Биофилия"
+ ap_esap_nature_desc:0 "Каждая планета, которую мы заселяем, уникальна. Зная это, мы сможем использовать ее богатства в полной мере."
+ ap_esap_nature_tooltip:0 "В течении §Y25§! лет после колонизации планеты, каждые §Y5§! лет будет генерироваться случайная полезная §Yпланетарная особенность§!. Эффект распространяется на все планеты под нашим контролем, после получения этого бонуса."
+ ap_esap_nature_req_1:0 "$TRIGGER_FAIL$Не должно быть бонуса совершенства §Y$ap_esap_mining$§!." 
+ 
+ ap_esap_garden:0 "Мир-сад"
+ ap_esap_garden_desc:0 "Наши планеты по праву считаются прекраснейшими в галактике. В то время как большинство крупных городов, страдают от промышленных загрязнений, мир-сад наполнен оранжереями, плодородными полями и заповедниками."
+ ap_esap_garden_tooltip:0 "§HРешение§!, превращающее планету в §Yмир-сад§!: $decision_esap_garden_modifier_effect$"
+ ap_esap_garden_req_1:0 "$TRIGGER_FAIL$Не должно быть бонуса совершенства §Y$ap_esap_mining$§!." 
+ 
+############################
+### INDUSTRIAL ASCENDACY ###
+############################
+
+ ap_esap_mining:0 "Глубокая геологоразведка"
+ ap_esap_mining_desc:0 "В недрах наших планет скрываются несметные минеральные богатства. Теперь, наконец, мы обладаем способностью поставить их на службу нашей цивилизации."
+ ap_esap_mining_tooltip:0 "§HРешение§!, обладающее эффектом: §Yприспособленность§! и §Yсчастье§! уменьшаются на §R10%§! сроком на §Y20§! лет. Создается планетарная особенность §Y$d_esap_mining$§!, увеличивающая §Y$mod_district_mining_max$§! на §G2§!. Существует §G10%§! вероятность появления одной из планетарных особенностей §Y$d_crystalline_caverns$§! или §Y$d_dust_caverns$§!. Решение можно активировать каждые §Y20§! лет, но не более §Y5§!-и раз для каждой планеты."
+ ap_esap_mining_req_1:0 "$TRIGGER_FAIL$Не должно быть бонуса совершенства §Y$ap_esap_nature$§!."
+ ap_esap_mining_req_2:0 "$TRIGGER_FAIL$Есть технология £engineering£ §Y$tech_mining_3$§!."
+ 
+ ap_esap_industry:0 "Мир-кузница"
+ ap_esap_industry_desc:0 "Наши миры-кузницы заполнены дымом, их поверхность покрыта промышленными объектами. Возможно, это не самые красивые места в галактике, но их производственная мощь значительно превышает возможности любых других миров."
+ ap_esap_industry_tooltip:0 "§HРешение§!, превращающее планету в §Yмир-кузницу§!: $decision_esap_industry_modifier_effect$."
+ ap_esap_industry_hive_tooltip:0 "§HРешение§!, превращающее планету в §Yмир-кузницу§!: $decision_esap_industry_hive_modifier_effect$."
+ ap_esap_industry_machines_tooltip:0 "§HРешение§!, превращающее планету в §Yмир-кузницу§!: $decision_esap_industry_machines_modifier_effect$."
+ ap_esap_industry_req_1:0 "$TRIGGER_FAIL$Есть бонус совершенства §Y$ap_esap_mining$§!." 
+ ap_esap_industry_req_2:0 "$TRIGGER_FAIL$Есть технология £engineering£ §Y$tech_alloys_2$§!."
+ 
+###################
+### ETHIC PERKS ###
+###################
+
+### Base Ethic ###
+
+ ap_esap_authoritarian_1:0 "Железная пята олигархии"
+ ap_esap_authoritarian_1_desc:0 "Наше поколение должно стать последним, кто мог подвергнуть сомнению абсолютное право правящего класса на свою власть. Подобные сомнения будут вредить нашим усилиям по созданию совершенной империи."
+ 
+ ap_esap_egalitarian_1:0 "Либеральная утопия"
+ ap_esap_egalitarian_1_desc:0 "Наше государство - всего лишь средство для достижения главной цели: счастье каждого его жителя. Только когда мы сможем предложить лучшие условия жизни для всех наших граждан, наша государство может считаться состоятельным."
+ ap_esap_egalitarian_1_tooltip:0 "§YСкорость роста поселений§! и прирост £unity£ §Yединства§! увеличиваются на §G10%§! на планетах со средним показателем £happiness£ §Yсчастья§! минимум §Y70%§!."
+ 
+ #Currently Nihilistic Aquisition is used instead.
+ #ap_esap_xenophobe_1:0 ""
+ #ap_esap_xenophobe_1_desc:0 ""
+ #ap_esap_xenophobe_1_tooltip:0 "" 
+ 
+ #Disabled until Federations DLC.
+ ap_esap_xenophile_1:0 "Дипломатическая победа"
+ ap_esap_xenophile_1_desc:0 "Разве мы не побеждаем наших врагов, когда делаем их нашими друзьями?"
+ ap_esap_xenophile_1_tooltip:0 ""
+
+ ap_esap_militarist_1:0 "Бегемоты войны"
+ ap_esap_militarist_1_desc:0 "Когда речь идет о кораблях, размер имеет значение. Нет ничего, с чем флот линкоров, оснащенный превосходным вооружением и броней, не мог бы справиться."
+ ap_esap_militarist_1_tooltip:0 "§YКорпус§!, §Yброня§! и §Yщиты§! увеличиваются на §G20%§!, §Yдальность действия корабельных орудий§! увеличивается на §G25%§! для всех линкоров и титанов."
+ ap_esap_militarist_1_req_1:0 "$TRIGGER_FAIL$Есть технология £engineering£ §Y$tech_battleships$§!."
+ 
+ ap_esap_pacifist_1:0 "Сила слова"
+ ap_esap_pacifist_1_desc:0 "Сила может быть в оружии. Но оно ничтожно по сравнению с силой мудрых слов, сказанных вовремя."
+ ap_esap_pacifist_1_tooltip:0 ""
+ 
+ ap_esap_materialist_1:0 "Звездные исследователи"
+ ap_esap_materialist_1_desc:0 "Как жители этой галактики, мы обязаны знать о ней всё. Каждая звезда, каждая планета и каждая луна должны быть нанесены на карту и задокументированы."
+ ap_esap_materialist_1_tooltip:0 "Скорость §YНаучных кораблей§! увеличивается на §G25%§!. Всякий раз, когда мы успешно исследуем небесное тело, генерируются §YОчки исследования§! в размере 10% от нашей месячной выработки."
+ 
+### Fanatic Ethic ###
+ ap_esap_authoritarian_2:0 "Жизнь и судьба"
+ ap_esap_authoritarian_2_desc:0 "Жизнь наших граждан неотделима от судьбы государства. От рождения и до самой смерти каждый должен следовать установленному плану. Зная это, граждане получают воспитание и образование, которые призваны развить качества, необходимые им, для того чтобы быть максимально полезными обществу."
+ ap_esap_authoritarian_2_modifier_desc:0 "Производство £food£ §YПищи§! и £minerals£ §YМинералов§! §YРабочими§! увеличивается на §G10%§!. Производство £alloys£ §YСплавов§!, £consumer_goods£ §YТоваров массового спроса§!, очков исследования £engineering£ §YТехники§!, £physics£ §YФизики§! и £society£ §YСоциологии§! §YСпециалистами§! увеличивается на §G10%§!. Производство £unity£ §YЕдинства§! §YЭлитов§! увеличивается на §G10%§!."
+
+ ap_esap_egalitarian_2:0 "Самореализация"
+ ap_esap_egalitarian_2_desc:0 "Не гражданин для государства, а государство для граждан. Только когда каждый из нас полностью раскроет свой потенциал, наша империя сможет достичь истинного величия."
+ ap_esap_egalitarian_2_tooltip:0 "Набор специальных черт лидеров, которые появляются, когда он достигает уровня §Y4§!." 
+
+ ap_esap_xenophobe_2:0 "Великое очищение"
+ ap_esap_xenophobe_2_desc:0 "Эта галактика должна быть очищена от всех чужеродных видов, которые ее заражают. От самых высокоразвитых цивилизаций, до примитивных растений, насекомых и грибов."
+
+ ap_esap_xenophile_2:0 "Широкое сердце"
+ ap_esap_xenophile_2_desc:0 "Каждый вид имеет право на жизнь в общей галактике. Следуя этому порядку, мы мягко направляем империи на путь сотрудничества и взаимопонимания."
+ ap_esap_xenophile_2_tooltip:0 "£opinion£ §YМнение§! о нас со стороны членов нашей федерации улучшается на §G25§!."
+ 
+ ap_esap_militarist_2:0 "Жажда битвы"
+ ap_esap_militarist_2_desc:0 "Наша цивилизация сильно изменилась, с тех пор, как мы достигли звезд. Теперь только война способна придать осмысленность нашему существованию и наполнить гордостью сердца наших граждан."
+ ap_esap_militarist_2_tooltip:0 "£happiness£ §Y$MOD_POP_HAPPINESS$§! всех £pop£ §YПоселений§! уменьшается на §R3%§!, прирост £unity£ §YЕдинства§! уменьшается на §R5%§! за каждый год без войны. Штраф суммируется до §Y10§! раз. §Y1§! уровень штрафа теряется за каждый год в состоянии войны."
+ 
+ ap_esap_pacifist_2:0 "Мирная галактика"
+ ap_esap_pacifist_2_desc:0 "Чтобы раскрыть истинный потенциал нашей империи, мы должны оставить позади мелкие ссоры. Мы вступим в новую эру мира и процветания."
+ ap_esap_pacifist_2_tooltip:0 "£trade_value£ §YТорговая ценность§! увеличивается на §G1%§!, £stability£ §YСтабильность§! увеличивается на §G0.2§! за каждый год в состоянии мира. Бонус суммируется до §Y50-и§! раз. §Y5§! уровней бонуса теряются за каждый год в состоянии войны."
+ 
+ ap_esap_materialist_2:0 "Вперед и с песней!"
+ ap_esap_materialist_2_desc:0 "Если мы когда-нибудь утолим нашу жажду открытий, для нас наступит новый темный век. Непрерывное стремление к технологическому прогрессу - то единственное, что спасает нашу цивилизацию от стагнации."
+ ap_esap_materialist_2_tooltip:0 "Каждый раз, когда мы исследуем новую технологию, мы получаем очки £unity£ §Yединства§! дополнительно."
+ 
+ ap_esap_spiritualist_2:0 "Фундамент общества"
+ ap_esap_spiritualist_2_desc:0 "В основании нашего общества лежит наша вера. Деятельность всех институтов основана на доктринах этой веры."
+ ap_esap_spiritualist_2_tooltip:0 "§HПолитика§!: §Y$policy_esap_spiritualist_2_doctrine$§!. §Y$job_priest_plural$§ производят §G2§! очка исследований £engineering£ §YТехники§!, £physics£ §YФизики§! или £society£ §YСоциологии§! дополнительно."
+ 
+#######################
+### HIVE MIND PERKS ###
+#######################
+ 
+ ap_esap_hive_swarm:0 "Великий рой"
+ ap_esap_hive_swarm_desc:0 "Небо темнеет, земля дрожит под ногами - рой приближается."
+ ap_esap_hive_swarm_tooltip:0 "§Y$MOD_SHIP_FIRE_RATE_MULT$§! увеличивается на §G25%§! для §Yкорветов§! и уменьшается на §R25%§! для иных классов кораблей."
+
+ ap_esap_hive_devouring:0 "Голодный рой"
+ ap_esap_hive_devouring_desc:0 "Поглощая жизнь во вселенной, мы становимся сильнее. Но наш голод не утолим."
+ ap_esap_hive_devouring_tooltip:0 "Удваивается количество £society£ §Yочков социологических исследований§! за геноцид £pop£ §Yпоселений§! и добавляется такое же количество £food£ §Yпищи§!."
+
+ ap_esap_hive_terravores:0 "Пожиратели миров"
+ ap_esap_hive_terravores_desc:0 "Истощение планета - цепь последовательных процессов. Сначала уничтожаются организмы. Затем осушаются моря и перерабатывается почва. И наконец, опустошается атмосфера."
+ ap_esap_hive_terravores_tooltip:0 ""
+
+#############################
+### MACCHINE EMPIRE PERKS ###
+#############################
+
+#############################
+### MEGACORP EMPIRE PERKS ###
+#############################
+
+#########################################################
+### MEGASTRUCTURES AND HABITATS (UTOPIA AND MEGACORP) ###
+#########################################################
+
+###############################
+### GENERIC ASCENSION PERKS ###
+###############################
+ 
+ ap_esap_one_purpose:0 "Одна цель"
+ ap_esap_one_purpose_desc:0 "Наше присутствие в этой галактике задано одной целью. Она же причина нашего существования."
+
+ ap_esap_smallworld:0 "Маленькие миры"
+ ap_esap_smallworld_desc:0 "Галактика заполнена мириадами планет, из которых лишь небольшая часть пригодна для жизни. Все они различаются по своему размеру. Но каждая из них является сокровищем. Мы должны научиься максимально полезно использовать пространство каждой планеты."
+ ap_esap_smallworld_tooltip:0 "Минимальный размер наших планет увеличивается до §Y15§!."
+ 
