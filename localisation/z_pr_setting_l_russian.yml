@@ -1,5 +1,6 @@
 ﻿l_russian:
 
+
 #_[星球面板]
 #_[开始通知]
 #_[全局设置_spcs]
@@ -10,7 +11,9 @@
 #_[移民失败]
 
 
+
 # TODO
+
 
 ###_[星球面板]  ############################################################
  z_pr_tips_btn_pr_reg_no:0 "Промышленная революция в настоящее время не завершена."
@@ -30,6 +33,7 @@
 
 
 
+
 ###_[开始通知]  ############################################################
  z_pr_core.102_title:0 "$z_pr$ MOD активирован"
  z_pr_core.102_desc:0 "When you see this pop-up window means that the §B$z_pr$§! has been successfully installed.\nDue to the new building slot unlock methods from 2.9 plan has been adopted in this MOD, the pops will no longer unlock building slots. Building slots will be unlocked with the construction of districts, see $z_pr_d_36_building$ in deposits list for more information. What's more, §BCapital Buildings/ $district_city$/ $district_hive$/ $district_nexus$"§! can offer extra buildings slots.\n§HNote: If this MOD is added to an old save, you will encounter large-scaled building devastation, which cannot be avoided.§!\nIf you have any other questions, please open the setting panel of this MOD in the Infinite Framework setting Panel, and click on the player guide on the upper right corner."
@@ -39,10 +43,12 @@
 
 
 
+
 ###_[全局设置_spcs]    ############################################################
  z_pr_evt_setting:0 "§B$z_pr$ $z_pr_version$:§! Панель конфигурации"
  z_pr_evt_setting_desc:0 "Общая численность трудовых ресурсов империи---§B[root.z_pr_var_cntr_man]§!\nИграбельные страны---§B[root.z_playable_country_var]§!\nКолонизированные планеты в Галактике---§B[root.z_colony_var]§!\nНаселение галактики---§B[root.z_total_pop_var]§!\nБезработные попсы в Галактике---§B[root.z_total_pop_unemployed_var]§!\n"
  z_pr_tips_setting:0 "Set the global checking frequency, and it is recommended not to change it.\nEach time global checking executed will update basic production parameters as preparation for follow-up calculating. The higher the frequency, the more timely production changes will take effect."
+
 
  z_pr_option_setting_rate_standard:0 "Checking Frequency(now) §BStandard§!/ once every 4 months"
  z_pr_option_setting_rate_high:0 "Checking Frequency(now) §HHigh§!/ once every 2 months"
@@ -52,10 +58,12 @@
  z_pr_option_setting_apmc_off:0 "Automatic manpower conversion §HOFF§!"
  z_pr_tips_setting_apmc:0 "If it is not in a test state, please don't move! If this feature is turned off, AI and players will not perform automatic manpower conversion, which will destroy the core function of this mod, but at the same time, because the conversion is disabled, the calculation cost will be Dropped significantly."
 
+
  z_pr_option_setting_spcs:0 "Set species control tendencies for all colonies of your empire. Please note that your adjustments can only control the species tendency in the future, and will not immediately change the species composition. \n§BDefault§!: Your empire will maintain the default tendency, allowing more non-citizen species to exist. \n§HCliquy§!: Your empire allows non-citizen species to exist, but will control their number. \n§RPureblood§!: Your empire does not allow non-citizen species to exist."
  z_pr_option_setting_spcs_normal:0 "The empire species tendency adjust to §BDefault§!"
  z_pr_option_setting_spcs_cliquy:0 "The empire species tendency adjust to §HCliquy§!"
  z_pr_option_setting_spcs_pure:0 "The empire species tendency adjust to §RPureblood§!"
+
 
  z_pr_tips_setting_ai_construction:0 "A standalone system that assists AI in planet construction, it is recommended to keep the default setting. Turning it off may cause the AI to be unable to construct the planet in time, thereby reducing the strength of the AI."
  z_pr_option_setting_ai_construction_on:0 "AI Construction Assistance §BEnabled§!"
@@ -75,6 +83,7 @@
  z_pr_opt_test_ongo:0 "MOD test: §GNormal§!"
  z_pr_opt_test_stop:0 "MOD test: §GDisabled§!"
 
+
  z_pr_option_setting_manpower_growth:0 "Replace pops growth/assembly with manpower growth. If there is no obvious growth rate difference (mostly due to mod incompatibility), it is recommended to keep it on. \nAlthough pops can be easily converted with manpower, each conversion is an effect that consumes a lot of CPU calculation. When this function is on, pops growth will be turned off intelligently and manpower growth will be turned on when there are no vacant jobs on the planet. \n\n§YNote: Changes only taking effect in your own empire.§!"
  z_pr_option_setting_manpower_growth_on:0 "Empire Manpower Growth §BEnabled§!"
  z_pr_option_setting_manpower_growth_off:0 "Empire Manpower Growth §HDisabled§!"
@@ -86,9 +95,11 @@
  z_pr_option_setting_manpower_buffer_off:0 "Manpower Cache §HDefault§!"
  z_pr_option_setting_manpower_buffer:0 "Add $job_z_pr_uep$ to each colony to increase the upper limit of manpower cache, and you can temporarily store part of the unemployed as $job_z_pr_uep$. When other available jobs appear, they will be filled by $job_z_pr_uep$, which can reduce the computational consumption of manpower conversion. \nNote that some jobs have problems with the weights, which will cause no pop taking it forever. So, do not blame this mod."
 
+
  z_pr_option_setting_ignore_all_on:0 "§RЗапретить§! Production Revolution on all owned planets"
  z_pr_option_setting_ignore_all_off:0 "§GРазрешить§! Production Revolution on all owned planets"
  z_pr_tips_setting_ignore_all:0 "When Production Revolution is §Rзапрещены§! on a planet, any new changes made to §BProduction Revolution§! will not take effect on that planet. Furthermore, population stops being converted into §YManpower§! and the economy and jobs of that planet will revert to original vanilla settings."
+
 
 
 ###_[兼容补丁检视]    ############################################################z_pr_comp:0 "§YCompatibility Detection§!"
@@ -134,6 +145,7 @@
 
 
 
+
 ###_[星球设置_spcs]    ############################################################
  z_pr_dec_spcs_desc:0 "Show the current manpower policy, the manpower composition of this planet will slowly change in accordance with the policy."
  z_pr_dec_spcs_standard:0 "$z_pr$: Planetary Manpower Composition §BStandard§!"
@@ -149,11 +161,13 @@
 
 
 
+
 ###_[星球参数检测]    ############################################################
  z_pr_dec_plnt_var_check:0 "$z_pr$: §BPlanetary Parameter Statistic§!"
  z_pr_dec_plnt_var_check_desc:0 "Show details of planet production parameters"
  z_pr_tips_dec_plnt_var_check:0 "A new window pops up and displays §Ball related parameter§! to the production of this planet."
  z_pr_plnt_check.name:0 "$z_pr_dec_plnt_var_check$"
+
 
 
 
@@ -164,7 +178,7 @@
  z_pr_tips_dec_plnt_setting:0 "A new window pops up and displays all §BProduction Settings§ related to this planet!"
  #_evts
  z_pr_plnt_setting.name:0 "$z_pr_dec_plnt_setting$"
- z_pr_tips_selected: "Current setting"
+ z_pr_tips_selected: "Текущие настройки"
  
  z_pr_plnt_setting.manpower_growth_on:0 "Planet Manpower Growth §BEnabled§!"
  z_pr_plnt_setting.manpower_growth_off:0 "Planet Manpower Growth §HDisabled§!"
@@ -192,6 +206,7 @@
  z_pr_plnt_setting.job_check:0 "Perform Planetary Job Check"
  z_pr_plnt_setting.job_check.tips:0 "Perform a job check on all the population on the current planet. If there are available jobs, the unemployed can be reemployed immediately."
 
+
  z_pr_plnt_setting.abandon_colony:0 "Abandon Colony"
  z_pr_plnt_setting.abandon_colony.desc:0 "Destroying this colony, manpower and pops will be randomly redistributed to other planets."
  z_pr_mod_plnt_colony:0 "$z_pr$: §YProsperity§!"
@@ -200,18 +215,21 @@
 
 
 
+
 ###_[指南]    ############################################################
- z_pr_tips_btn_guide_misc: "§HMisc§!\n\n§BMod Version§!:\n1.Always get the latest versions of §BProduction Revolution§! to get the best support along with the least bugs.\n2.You can find the version of §BProduction Revolution§! you're using through the §MDetailed Planetary Settings§! panel and the latest version from the Steam Workshop.\n\n§BAccessibility§!:\n§BProduction Revolution§!'s control panels are accessible through §MPlanetary Decisions§! or the menu buttons on the bottom left (Requires §H! Dark Blue UI Remake !§H§!§!).\n1.§MPlanet Settings§!---Manual Pop Conversion, Disable §BProduction Revolution§!, Change §YManpower§! settings.\n2.§MDetailed Planetary Statistics§!---View economic and production statistics of the planet.\n\n§BPlanetary Features, Districts, Modifiers§!:\n1.Core Modifiers---PR's modifiers are calculated to ensure that production outputs are correct and are essential for PR to function.\n2.Districts---Unlock special districts\n\n§BSpecial Districts§!:\n1.Planetary Specific---Different planet types gain access to different useful districts.\n2.Local System Features---The star(s) in each of your inhabited systems also provide your planets with bonuses\n\n§BExtra building slots§!:\n1.Every new district built unlocks buiilding slots. If your game's max building slots is 36, each additional district built unlocks 1 new building slot.\n2.Every 25 §YManpower§! unlocks 1 extra §GBranch Office Slot§!.\n\n§BGame Initialization Options§!:\nSelect history mode and unlock the First Production Revolution by researching the prerequisite technologies.\n\n§BProduction Ascension§!:\n(Planned Future Release)Ascend your empire to new industrial heights by choosing one of two paths from options shown on the left of the mod menu."
+ z_pr_tips_btn_guide_misc: "  \n\nДоступность:\nПанели управления Production Revolution доступны через Планетарные Решения или кнопки меню внизу слева (Требуется ! Dark Blue UI Remake !§H§!).\n1.Настройки планеты - ручное преобразование населения, отключение Production Revolution, изменение настроек рабочей силы.\n2. Подробная статистика планеты - просмотр экономической и производственной статистики планеты.\n\n\nПланетарные особенности, районы, модификаторы:\n1.Основные модификаторы - модификаторы PR рассчитываются для обеспечения правильного производства и необходимы для функционирования PR.\n2.Районы - разблокировка специальных районов.\n\n\nСпециальные районы:\n1. Различные типы планет получают доступ к различным полезным районам.\n2.Особенности местной системы - звезды в каждой из ваших населенных систем также предоставляют вашим планетам бонусы\n\n\nДополнительные слоты под здания:\n1.Каждый новый построенный район открывает слоты под здания. Если максимальное количество слотов под здания в вашей игре равно 36, то каждый дополнительный построенный район открывает 1 новый слот под здание.\n2.Каждые 25 человеческих ресурсов открывают 1 дополнительный слот под филиал.\n\n\nПараметры инициализации игры:\nВыберите режим истории и откройте Первую производственную революцию, исследуя необходимые технологии.\n\nПроизводственное восхождение:\n(Планируемый будущий релиз)Поднимите свою империю к новым промышленным высотам, выбрав один из двух путей из опций, показанных слева в меню мода."
  
- z_pr_tips_btn_guide_manpower: "§HManpower Economy System§!\nConverts the laggy pops of Stellaris into a variable representing population known as §YManpower§!, greatly reducing lag and micromanagement. §HNote§!: As with pops, §YManpower§! will require Amenities, Housing and Upkeep.\n\n§BConversion to Manpower§!:\n1.When a pop is converted into §YManpower§!, it'll disappear from the §MPlanet Interface§!, and §YManpower§! on that planet will increase by 1.\n2.Automatic conversions may take up to a year, but you can use the §MDetailed Planet Settings§! panel to perform manual conversions.\n3.§YManpower§! appear as a modifier on your planet and is also in the §MDetailed Planetary Statistics§! panel.\n\n§BJob Conversion§!:\n1.As with vanilla, districts and buildings provide jobs but all jobs that are compatible with §BProduction Revolution§! will be converted into §YRevolutionized Industry§! jobs that output resources based on jobs they were converted from. Additionally, jobs that were converted disappear from the §MPlanet Interface§!.\n2.Jobs that are incompatible with §BProduction Revolution§! will continue to act like they do n vanilla and §BProduction Revolution§! will automatically convert §YManpower§! into pops to fill those jobs.\n3.The amount of §YRevolutionized Industry§! jobs is viewable through the §MDetailed Planetary Statistics§! panel.\n\n§BUltilization§!:\n1.§GUltilization§! is proportional to §YManpower§! and disproportional? to §YRevolutionized Industry§! jobs, meaning that either higher §YManpower§! or lower §YRevolutionized Industry§! jobs will result in higher §GUltilization§!.\n3.The amount of §YRevolutionized Industry§! jobs is viewable through the §MDetailed Planetary Statistics§! panel.\n\n§BProduction Output Calclations§!:\n1.The output of regular jobs from districts or buildings is, after conversion, represented by the §GBase Production Value§!.\n2.Production Output = §GBase Production Value§! x §GOutput Modifier§! x §GUltilization§!.\n3.Through the §MDetailed Planetary Statistics§! panel you'll be able to see the §GBase Production Value§!, §GOutput Modifier§! and §GUltilization§! for each type of output.\n\n§BUsage§!:\n1.You'll be unable to micromanage pops and their corresponding jobs as it becomes a non-issue. You will only need to manage your §YManpower§!, §YRevolutionized Industry§! jobs and §GUltilization§!.\n2.To increase the production of a certain resource, you should check your §GUltilization§! and decide whether to build the corresponding building or district or to replace existing buildings or districts.\n3.When §GUltilization§! is low, new buildings will be unable to provide significant increases in output.\n4.(Future releases) §BProduction Ascension Paths§! and §BProduction Revolution§! tech tree accessible through a custom gui on the left."
- z_pr_tips_btn_guide_jobs: "§HJobs§!\n\n§B$pop_cat_z_pr_freeman$§! is a special job type used to represent jobs that were converted from vanilla used in Production Revolution's calculations to demonstrate a multi-faceted economy. There are normally 9 of these jobs on every planet.\n\n§B$job_z_pr_freeman_core$§!:\nThe output of an entire Manpower Economy is represented by this job type.\nGestalt Empires use §B$job_z_pr_drone_core$§! instead\n\n§B$job_z_pr_freeman_specialist$§!:\n1.This job type has no direct gameplay functionality but all §B$job_z_pr_freeman_specialist$§! jobs (Gestat Empires have §B$job_z_pr_drone_normal$§! jobs instead) along with §B$job_z_pr_freeman_core$§! are used to represent an entire economy. Resource outputs and modifiers from Vanilla jobs are converted and divided by the total number of §B$pop_cat_z_pr_freeman$§! jobs to calculate an §YEconomic Modifier§!.\n2.The §YEconomic Modifier§! will be shown as percentages as with Vanilla, which you can see through the §MDetailed Planetary Statistics§! panel.\n\n§B$pop_cat_z_pr_cat_uep$§!:\nA job type used by Production Revolution to make calculations. Please do §HNOT§! modify or touch this job type.\n\n§BManual Changes§!:\nTo prevent errors and bugs, please do §HNOT§! manually change jobs on any planets using §BProduction Revolution§!. Manual changes will cause errors such as missing pops and/or pops that don't get converted into §YManpower§!."
- z_pr_tips_btn_guide_growth: "§HManpower Growth§!\nPopulation growth on planets become limited as part of that growth is instead converted into §GManpower Growth§!\n\n§BGame Sliders§!:\nYou should set §LGrowth Required Scaling§! to either 0 or a lower number when starting a new game because §BProduction Revolution§! in and of itself already puts limits on §GPopulation Growth§!.\n\n§BConstant Population Growth§!:\nBonuses for §GPopulation Growth§! are kept at 0% and the §GNatural Growth Rate§! is 3.\n§GBase Cloning Rate§! is 1 or lower and bonuses are kept at 0%.\n§GBase Assembly Rate§! is 1 or lower and bonuses are kept at 0%.\n\n§BViewing Manpower Growth§!:\nBecause §YManpower§! is supposed to represent entire populations, §GNatural Pop Growth§!, §GCloning§! and §GAssembly Rates§! are all condensed into a single variable known as §GManpower Growth§!. You'll be able to see this number along with the effects of the three Vanilla growth rates in the §MDetailed Planet Settings§! or §MDetailed Planetary Statistics§! panel.\n\n§BManpower Capacity§!:\n1.Every planet has a §GManpower Capacity§!, defined by the planet size and amount of §YRevolutionized Industry§! Jobs.\n§GManpower Capacity§! = (§GPlanet Size§! x §GBase Production Value§! x §YRevolutionized Industry§! Jobs amount) x 3.\nRaise §GManpower Capacity§! by increasing planet size or building more buildings to increase the amount of §YRevolutionized Industry§! Jobs.\n2.§GManpower Growth§! slows as it reaches its §GManpower Capacity§! and §YManpower§! starts to decrease when it is over §GManpower Capacity§!."
+ z_pr_tips_btn_guide_manpower: "Система экономики Manpower:\nПреобразует лагающие попсы Stellaris в переменную, представляющую население, известную как Manpower, значительно уменьшая лаг и микроменеджмент. Примечание: Как и в случае с попсами, человекоресурсы требуют удобств, жилья и содержания.\n\n\nПреобразование в человекоресурсы:\n1.Когда попса преобразуется в человекоресурсы, она исчезнет из интерфейса планеты, а человекоресурсы на планете увеличатся на 1.\n2.Автоматическое преобразование может занять до года, но вы можете использовать панель подробных настроек планеты для ручного преобразования. \n3.Человеческие ресурсы появляются как модификатор на вашей планете, а также в панели подробной статистики планеты.\n\n\nПреобразование рабочих мест:\n1.Как и в ваниле, районы и здания предоставляют рабочие места, но все рабочие места, совместимые с производственной революцией, будут преобразованы в рабочие места революционной промышленности, которые производят ресурсы на основе рабочих мест, с которых они были преобразованы. Кроме того, преобразованные рабочие места исчезают из интерфейса планеты.\n2. Рабочие места, несовместимые с Производственной революцией, будут продолжать действовать так же, как и в ванильном режиме, а Производственная революция будет автоматически преобразовывать рабочую силу в попсу, чтобы заполнить эти рабочие места.\n3. Количество рабочих мест Революционизированной промышленности можно посмотреть в панели Детальной статистики планеты.\n\nУльтипликация:\n1.Ультипликация пропорциональна рабочей силе и непропорциональна рабочим местам Революционизированной промышленности, что означает, что либо больше рабочей силы, либо меньше рабочих мест Революционизированной промышленности приведет к большей ультипликации.\n3. Количество рабочих мест Революционизированной промышленности можно посмотреть в панели Детальной Планетарной Статистики.\n\n\nКалькуляции выхода продукции:\n1.Выход обычной работы из районов или зданий, после преобразования, представлен базовой стоимостью производства.\n2.Выход продукции = базовая стоимость производства х модификатор выхода х Утилизация. \n3.Через панель Детальной Планетарной Статистики вы сможете увидеть Базовую Производственную Стоимость, Модификатор Производства и Утилизацию для каждого типа производства.\n\n\nИспользование:\n1.Вы не сможете управлять попсами и соответствующими им работами, так как это становится неактуальным. Вам нужно будет управлять только рабочей силой, революционизированными рабочими местами в промышленности и ультимативностью.\n2.\n2. Чтобы увеличить производство определенного ресурса, вы должны проверить ультимативность и решить, строить ли соответствующее здание или район, или заменить существующие здания или районы.\n3. Когда ультимативность низкая, новые здания не смогут обеспечить значительное увеличение производства.\n4.(Будущие релизы) Пути Восхождения производства и технологическое дерево революции производства доступны через пользовательское руководство слева."
+ z_pr_tips_btn_guide_jobs: "Jobs\n\n\n$pop_cat_z_pr_freeman$ - это специальный тип рабочих мест, используемый для представления рабочих мест, которые были преобразованы из ванильных, используемых в расчетах Производственной революции для демонстрации многогранной экономики. Обычно на каждой планете есть 9 таких рабочих мест.\n\n$job_z_pr_freeman_core$:\nВыработка всей экономики рабочей силы представлена этим типом рабочих мест.\nГештальтские империи используют $job_z_pr_drone_core$ вместо\n\n$job_z_pr_freeman_specialist$:\n1. Этот тип задания не имеет прямой игровой функциональности, но все задания $job_z_pr_freeman_specialist$ (в империях Гестата вместо них используются задания $job_z_pr_drone_normal$) вместе с $job_z_pr_freeman_core$ используются для представления всей экономики. Ресурсы и модификаторы от рабочих мест Ванилы конвертируются и делятся на общее количество рабочих мест $pop_cat_z_pr_freeman$ для расчета Экономического модификатора.\n2.Экономический модификатор будет показан в процентах, как и в Ваниле, которые вы можете увидеть через панель Детальной статистики планеты.\n\n$pop_cat_z_pr_cat_uep$:\nТип рабочего места, используемый Production Revolution для расчетов. Пожалуйста, НЕ изменяйте и не трогайте этот тип задания.\n\nРучные изменения:\nДля предотвращения ошибок и багов, пожалуйста, НЕ изменяйте вручную задания на планетах, использующих Production Revolution. Ручные изменения приведут к ошибкам, таким как пропущенные попсы и/или попсы, которые не конвертируются в рабочую силу."
+ z_pr_tips_btn_guide_growth: "Прирост рабочей силы\nПрирост населения на планетах становится ограниченным, так как часть этого прироста преобразуется в рабочую силу.\n\nИгровые ползунки:\nВы должны установить масштаб требуемого прироста на 0 или меньшее число, когда начинаете новую игру, потому что Производственная Революция сама по себе уже устанавливает ограничения на прирост населения.\n\nПостоянный прирост населения:\nБонусы за прирост населения поддерживаются на уровне 0%, а естественный прирост равен 3. \nБазовый коэффициент клонирования равен 1 или ниже, а бонусы поддерживаются на уровне 0%.\nБазовый коэффициент сборки равен 1 или ниже, а бонусы поддерживаются на уровне 0%.\n\nПросмотр прироста рабочей силы:\nПоскольку рабочая сила должна представлять целые популяции, естественный прирост населения, коэффициенты клонирования и сборки сведены в одну переменную, известную как прирост рабочей силы. Вы сможете увидеть это число вместе с эффектами трех ванильных темпов роста на панели Детальных настроек планеты или Детальной статистики планеты.\n\nМаневренность:\n1.Каждая планета имеет маневренность, определяемую размером планеты и количеством революционизированных рабочих мест в промышленности. \nManpower Capacity = (Размер планеты x Базовая производственная стоимость x Количество рабочих мест в революционной промышленности) x 3.\nRaise Manpower Capacity by increase planet size or building more buildings to increase the amount of Revolutionized Industry Jobs.\n2.Manpower Growth is slow as it reaches its Manpower Capacity and Manpower begins reduce when it over Manpower Capacity."
+
 
 
 
 
 ###_[移民失败]    ############################################################
- z_pr_evt_cntr_mig_failed: "§BManpower Migration/Immgration Failed§!"
- z_pr_evt_cntr_mig_failed.desc: "Currently, there is no planet that meet the §BMigration/Immgration conditions§!, you can view and modify the planet setting through §GPop Manager Planetary Decisions§! or keep the default setting, such as setting it to §HForced Move-in or Move-out§!."
+ z_pr_evt_cntr_mig_failed: "Миграция/иммиграция рабочей силы не удалась"
+ z_pr_evt_cntr_mig_failed.desc: "В настоящее время нет планеты, которая удовлетворяет условиям миграции/иммиграции, вы можете просмотреть и изменить настройки планеты через Pop Manager Planetary Decisions или оставить настройки по умолчанию, например, установить принудительное переселение или выселение."
+
 
 

@@ -378,69 +378,68 @@ tech_dark_matter_generator_desc: "Постоянное развитие наук
 tech_ae_dark_matter_generator: "Преобразование массы темной материи"
 tech_ae_dark_matter_generator_desc: "По мере того, как мы внедряем все новые и новые технологические адаптации темной материи, мы должны найти способ генерировать большее количество этого загадочного ресурса."
  
+ #############################
  
-#############################
+building_dark_matter_synthersizer: "Измерительный комбайн"
+building_dark_matter_synthersizer_desc: "Это здание генерирует миниатюрный шлюз в подпространства, который автоматически собирает темную материю и темную энергию для наших империй. Кроме того, это здание будет генерировать дополнительные темную материю и темную энергию в количестве, соответствующем количеству каждого соответствующего производственного здания, вплоть до максимального количества в четыре штуки."
  
-building_dark_matter_synthersizer: "Dimensional Harvester"
-building_dark_matter_synthersizer_desc: "This building generates a miniaturized gateway into sub-dimensions that will automatically harvests dark matter and dark energy for our empires. Furthermore, this building will generate additional dark matter and dark energy relative to the amount of each respective production building, up to the maximum of four each."
+building_ae_dark_matter_synthersizer: "Многомерный Нексус"
+building_ae_dark_matter_synthersizer_desc: "Во многих измерениях всегда есть больше темной материи и темной энергии, которую можно добыть. Как и в предыдущей модели, это здание будет генерировать дополнительную темную материю и темную энергию относительно количества каждого соответствующего производственного здания, максимум по четыре штуки."
  
-building_ae_dark_matter_synthersizer: "Dimensional Nexus"
-building_ae_dark_matter_synthersizer_desc: "In many dimensions, there's always more dark matter and dark energy to be harvested. As with the previous model, this building will generate additional dark matter and dark energy relative to the amount of each respective production building, up to the maximum of four each."
+tech_dark_matter_synthersizer: "Синтез черных дыр"
+tech_dark_matter_synthersizer_desc: "Теперь у нас есть надежная технология для потенциального создания субмерного портального шлюза, где можно собирать огромное количество загадочных ресурсов. Это позволит нам в изобилии добывать как темную материю, так и темную энергию. Здание автоматизировано, но расходы на его содержание довольно высоки."
  
-tech_dark_matter_synthersizer: "Black Hole Synthesizing ."
-tech_dark_matter_synthersizer_desc: "We now have a reliable technology to potentially create a sub-dimensional portal gateway where vast amounts of enigmatic resources can be harvested. This will allow us to extract both dark matter and dark energy in abundances. The building is automated, but the maintenance upkeep is quite high however."
+tech_dark_matter_synthersizer_ae: "Четыре столпа тьмы"
+tech_dark_matter_synthersizer_ae_desc: "Основанный на том же принципе, что и фабрикатор измерений, Dark Portal Nexus, удерживаемый четырьмя столпами темной энергии, может извлекать огромное количество темной материи и темной энергии из других измерений. Процесс, хотя и сложный, но гораздо более безопасный и, следовательно, требует меньше затрат на обслуживание."
  
-tech_dark_matter_synthersizer_ae: "The Four Pillars of Darkness"
-tech_dark_matter_synthersizer_ae_desc: "Based upon the same principle as the dimensional fabricator, the Dark Portal Nexus; held steady by four dark energy pillars, can extract huge amounts of dark matter and dark energy from other dimensions. The process, while complicated, is much safetier and thus takes less toll upon our maintenance bills."
- 
-tech_mine_dark_energy: "Dark Energy Drawing"
-tech_mine_dark_energy_desc: "Basic understanding of its nature will allow us to extract dark matter out of natural black holes without getting torn into holes ourselves."
+tech_mine_dark_energy: "Чертеж темной энергии"
+tech_mine_dark_energy_desc: "Базовое понимание ее природы позволит нам извлекать темную материю из естественных черных дыр, не попадая в дыры самим."
  
  
 ######################## RESEARCH ########################
  
-building_enigmatic_lab: "Enigmatic Lab"
-building_enigmatic_lab_desc: "Scientists from all sorts of fields mingle within this building to study enigmatic technologies and their potential applications in all fields."
+building_enigmatic_lab: "Загадочная лаборатория"
+building_enigmatic_lab_desc: "Ученые из самых разных областей смешиваются в этом здании для изучения загадочных технологий и их потенциального применения во всех областях."
  
-building_ae_enigmatic_lab: "Black Mesa Research Complex"
-building_ae_enigmatic_lab_desc: "This large complex houses various enigmatic artifacts gathered from the across the galaxy. Scientists from all across the galaxy are drawn here to divine the secrets of the precursors. Dr. Slaveman, please report to the anonymous  material lab."
+building_ae_enigmatic_lab: "Исследовательский комплекс Черной Мезы"
+building_ae_enigmatic_lab_desc: "В этом большом комплексе хранятся различные загадочные артефакты, собранные со всей галактики. Сюда съезжаются ученые со всей галактики, чтобы разгадать секреты Предтеч. Доктор Слейвмен, пожалуйста, пройдите в лабораторию анонимных материалов."
  
-tech_enigmatic_lab: "Enigmatic Lab"
-tech_enigmatic_lab_desc: "Determining and exploring the full potential of the precursor technologies requires scientists from all sorts of fields. As such, our labs must be reconfigured to provide the necessary equipment for everyone involved."
+tech_enigmatic_lab: "Загадочная лаборатория"
+tech_enigmatic_lab_desc: "Для определения и изучения всего потенциала технологий Предвестников требуются ученые из самых разных областей. Поэтому наши лаборатории должны быть реконфигурированы, чтобы обеспечить необходимым оборудованием всех участников."
  
-tech_ae_enigmatic_lab: "Black Mesa Research Complex"
-tech_ae_enigmatic_lab_desc: "Our pursuit of science is never quenched. We need more scientists, researchers, engineers, theorists...everything. We must understand more...MORE."
+tech_ae_enigmatic_lab: "Исследовательский комплекс Черной Мезы"
+tech_ae_enigmatic_lab_desc: "Наше стремление к науке никогда не иссякнет. Нам нужно больше ученых, исследователей, инженеров, теоретиков... всего. Мы должны понимать больше... БОЛЬШЕ."
  
 #############################
  
-building_fe_institute: "Delta Science Complex"
-building_fe_institute_desc: "We push into the edges of discovery. And when we reach it, we push further."
+building_fe_institute: "Научный комплекс Дельта"
+building_fe_institute_desc: "Мы продвигаемся к границам открытий. И когда мы достигаем его, мы продвигаемся дальше."
  
-building_ae_institute: "Alpha Master Research Complex"
-building_ae_institute_desc: "Mega-complex that houses countless ancient artifacts, museums, laboratories and tons of boring paperworks meant for people who consume knowledge as their food. It is said that any researcher that gets inside, never returns."
+building_ae_institute: "Исследовательский комплекс Альфа Мастер"
+building_ae_institute_desc: "Мегакомплекс, где хранятся бесчисленные древние артефакты, музеи, лаборатории и тонны скучной бумажной работы, предназначенной для людей, которые потребляют знания как пищу. Говорят, что любой исследователь, попавший внутрь, никогда не возвращается."
  
-tech_fe_institute: "Advanced Research Institute" 
-tech_fe_institute_desc: "There is always one problematic issue with our current Research Institute, it is a good place for people who already possess great intellect to mingle, but not necessarily a good place to create them. We will transform the institute into a large university where potential younglings may study and prepare themselves for great ambitions that lie ahead."
+tech_fe_institute: "Передовой исследовательский институт" 
+tech_fe_institute_desc: "В нашем нынешнем исследовательском институте всегда есть одна проблема: это хорошее место для общения людей, которые уже обладают большим интеллектом, но не обязательно хорошее место для его создания. Мы превратим институт в большой университет, где потенциальные молодые люди смогут учиться и готовить себя к большим амбициям, которые ждут их впереди."
  
-tech_ae_institute: "Aedeleus Add-On"
-tech_ae_institute_desc: "Adding a special Add-On to the Research Institute that specializes in deciphering and understanding the ancient artifacts of the precursors will greatly draw more attention from scientific minds across the galaxy."
+tech_ae_institute: "Дополнение Эделеус"
+tech_ae_institute_desc: "Добавление специального дополнения к исследовательскому институту, который специализируется на расшифровке и понимании древних артефактов предшественников, привлечет больше внимания со стороны научных умов по всей галактике."
  
  
 ######################## DEFENSES ########################
  
-building_dm_stronghold: "Daedalus Alignment"
-building_dm_stronghold_desc: "Within this enigmatic fortress contains hundreds of weapon platforms and complex underground sections. Guarded by the elite Dark Enforcers, the planet is secure under watchful eyes."
+building_dm_stronghold: "Выравнивание Дедала"
+building_dm_stronghold_desc: "Внутри этой загадочной крепости находятся сотни оружейных платформ и сложные подземные секции. Охраняемая элитными Темными Силовиками, планета находится под бдительным присмотром."
  
  
-building_ae_stronghold: "Alpharius Alignment"
-building_ae_stronghold_desc: "Within this enigmatic fortress contains hundreds of weapon platforms and complex underground sections. Guarded by the elite Dark Enforcers, the planet is secure under watchful eyes."
+building_ae_stronghold: "Выравнивание Альфариус"
+building_ae_stronghold_desc: "Внутри этой загадочной крепости находятся сотни оружейных платформ и сложные подземные секции. Охраняемая элитными Темными Силовиками, планета находится под бдительным присмотром."
  
-tech_dm_stronghold: "Enigmatic Defense Grid"
-tech_dm_stronghold_desc: "Previously, local defense forces work separately from the security teams. This results in demands for both professionals and two separate buildings that needlessly eat up space. Inspired by past precursors, the Daedaleus Alignment, along with the newly formed Dark Enforcer Divisions will function as both planet's security detail and elite fighting forces of the empire."
+tech_dm_stronghold: "Загадочная оборонная решетка"
+tech_dm_stronghold_desc: "Ранее местные силы обороны работали отдельно от команд безопасности. Это приводит к тому, что требуются оба специалиста и два отдельных здания, которые без нужды съедают пространство. Вдохновленные прошлыми предшественниками, Выравнивание Дедала вместе с недавно сформированными подразделениями Темных Силовиков будут функционировать и как служба безопасности планеты, и как элитные боевые силы империи."
  
-tech_ae_stronghold: "Enigmatic Defense Grid"
-tech_ae_stronghold_desc: "While our current fortresses may be able to fend off basic invaders, the building itself is too vulnerable to large invasion forces due to limited space and outdated weaponry. To this end, we have designed a concept for a new generation of fortresses that should provide more of a challenge to would-be invaders."
- 
+tech_ae_stronghold: "Загадочная оборонная решетка"
+tech_ae_stronghold_desc: "Хотя наши нынешние крепости могут отбиться от основных захватчиков, сами здания слишком уязвимы для крупных сил вторжения из-за ограниченного пространства и устаревшего вооружения. С этой целью мы разработали концепцию нового поколения крепостей, которые должны создать больше проблем для потенциальных захватчиков."
+# TODO
  
 #############################
  

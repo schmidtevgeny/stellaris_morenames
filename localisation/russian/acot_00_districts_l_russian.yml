@@ -1,5 +1,5 @@
 ﻿l_russian:
-# TODO 
+# DONE 
 col_acot_fractured_colony: "§EРазбитая колония"
 col_acot_fractured_colony_desc: "Суровая и опасная колония, куда отваживаются ступать только самые закоренелые энтузиасты темной материи и энергии."
  
@@ -45,75 +45,75 @@ mod_pc_acot_enigmopolis_habitability: "Выживаемость в мире ра
 district_acot_fractured_shelter: "Приют Дельта"
 district_acot_fractured_shelter_plural: "Приюты Дельта"
 district_acot_fractured_shelter_desc: "Приюты Дельта обеспечивают защиту и жилье для храбрых душ, работающих в суровых условиях мира."
+ tech_acot_fractured_shelter: "Усиленное убежище"
+tech_acot_fractured_shelter_desc: "Бури темной энергии нередко возникают в неспокойном небе расколотого мира. Нестабильная местность и враждебные элементы требуют создания соответствующих убежищ для защиты от этих опасностей. "
  
-tech_acot_fractured_shelter: "Reinforced Shelter"
-tech_acot_fractured_shelter_desc: "It is not uncommon for dark energy storms to erupt on the violent skies of a fractured world. Unstable terrains and hostile elements require proper shelters to be created to defend against these hazards. "
+district_acot_fractured_science_dome: "Обсерватория Дельта"
+district_acot_fractured_science_dome_plural: "Обсерватории Дельта"
+district_acot_fractured_science_dome_desc: "Обсерватории Дельта предоставляют исследователям необходимые инструменты и оборудование для безопасного проведения наблюдений и экспериментов в разрушенном мире."
  
-district_acot_fractured_science_dome: "Delta Observatory"
-district_acot_fractured_science_dome_plural: "Delta Observatories"
-district_acot_fractured_science_dome_desc: "Delta Observatories provide necessary tools and equipment for researchers to safely conduct observations and experiments on the ravaged world."
+tech_acot_fractured_science_dome: "Наблюдение за неизвестным"
+tech_acot_fractured_science_dome_desc: "На разрушенных мирах существует множество чудес и аномалий, которые бросают вызов всем ранее известным теориям и законам физики. Но если мы хотим отправить туда наших исследователей, они должны быть хорошо защищены и защищены от опасного окружения."
  
-tech_acot_fractured_science_dome: "Observing the Unknown"
-tech_acot_fractured_science_dome_desc: "There are many wonders and anomalies that challenge all previously known theories and laws of physics on fractured worlds. But if we are to send our researchers down there, they must be well protected and supported from the dangerous environments."
+district_acot_fractured_dm_trapper: "Шпиль Дельта"
+district_acot_fractured_dm_trapper_plural: "Шпили Дельты"
+district_acot_fractured_dm_trapper_desc: "Шпили Дельта обеспечивают ремесленников и алхимиков мастерскими, необходимыми для создания темной материи и темной энергии."
  
-district_acot_fractured_dm_trapper: "Delta Spire"
-district_acot_fractured_dm_trapper_plural: "Delta Spires"
-district_acot_fractured_dm_trapper_desc: "Delta Spires provide artificers and alchemists with workshops necessary to create dark matter and dark energy."
+tech_acot_fractured_trapper: "Загадочные шпили"
+tech_acot_fractured_trapper_desc: "Хотя темная энергия и темная материя в изобилии окружают расколотые миры, большинство из них слишком нестабильны и рассеяны, чтобы их можно было добыть. Сейчас разрабатываются проекты Загадочных шпилей, чтобы поймать и преобразовать эти неестественно рожденные феномены в безграничные запасы."
  
-tech_acot_fractured_trapper: "Enigmatic Spires"
-tech_acot_fractured_trapper_desc: "Although Dark Energies and Dark Matters surround the fractured worlds in abundance, most are too unstable and dispersed to be harvested. Designs for Enigmatic Spires are being drawn to trap and convert these unnaturally-born phenomenons into limitless supplies."
+district_acot_fractured_dm_fort: "Аванпост Дельта"
+district_acot_fractured_dm_fort_plural: "Аванпосты Дельта"
+district_acot_fractured_dm_fort_desc: "Аванпосты Дельта - это контрольно-пропускные пункты, которые могут обнаруживать нарушителей и включать громкие музыкальные темы, чтобы отпугнуть их."
  
-district_acot_fractured_dm_fort: "Delta Outpost"
-district_acot_fractured_dm_fort_plural: "Delta Outposts"
-district_acot_fractured_dm_fort_desc: "Delta Outposts are security checkpoints that can detect intruders and deploy loud edgy music themes to scare them away."
+tech_acot_fractured_fort: "Каструм Пустоты"
+tech_acot_fractured_fort_desc: "Раздробленные миры содержат множество опасных элементов, которые стремятся уничтожить любые попытки колонизации. Многие из этих элементов находят слабые места и бреши в обычных крепостях, поэтому для отпугивания этих враждебных гостей требуются специальные фортификационные районы."
  
-tech_acot_fractured_fort: "Void Castrum"
-tech_acot_fractured_fort_desc: "Fractured Worlds possess many dangerous elements that seek to destroy any colonization attempts. Many of these elements will find weaknesses and gaps in conventional forts, and thus specialized fortification districts will be required to deter these hostile visitors."
+tech_acot_fractured_size_upgrade_1: "Фрактальный континуум"
+tech_acot_fractured_size_upgrade_1_desc: "Неумолимые ландшафты раздробленных миров затрудняют адаптацию населения, вызывая ненужные перестройки, которые обходятся нам в дополнительные районы. Мы должны научиться приспосабливаться к этому."
+tech_acot_fractured_size_upgrade_1_tooltip: "Улучшает районы как Фрактального, так и Ультрафрактального миров, чтобы потреблять на один слот меньше районов."
  
-tech_acot_fractured_size_upgrade_1: "Fractal Continuum"
-tech_acot_fractured_size_upgrade_1_desc: "The unforgiving landscapes of fractured worlds make it difficult for populations to adapt, causing needless adjustments that costs us extra district space. We must learn to adapt to it."
-tech_acot_fractured_size_upgrade_1_tooltip: "Upgrades the Districts of both Fractured and Ultrafracutred Worlds to consume one less district slot."
- 
-tech_acot_fractured_size_upgrade_2: "Master Control Terminal"
-tech_acot_fractured_size_upgrade_2_desc: "Rather than relying technicians and engineers to constantly perform checks on the structural integrity of the districts, MCT can be installed in place that will read and repair any damaged spots by itself. This will free us the need to allocate extra space for on-site engineering teams and reduce district space needed."
-tech_acot_fractured_size_upgrade_2_tooltip: "Upgrades the Districts of both Fractured and Ultrafracutred Worlds to further consume one less district slot. Effectively making them cost only one slot finally."
+tech_acot_fractured_size_upgrade_2: "Главный терминал управления"
+tech_acot_fractured_size_upgrade_2_desc: "Вместо того, чтобы прибегать к помощи техников и инженеров для постоянной проверки структурной целостности районов, можно установить MCT, который сам будет считывать и устранять все поврежденные места. Это избавит нас от необходимости выделять дополнительное пространство для инженерных бригад на месте и сократит необходимое пространство районов."
+tech_acot_fractured_size_upgrade_2_tooltip: "Модернизация округов в Разломанных и Ультраразломанных мирах, чтобы они потребляли на один слот меньше округов. В итоге они будут стоить всего один слот."
  
 #### AOULPA DUSTRRYCIT ######
  
-district_acot_fractured_ae_shelter: "Alpha Shelter"
-district_acot_fractured_ae_shelter_plural: "Alpha Shelters"
-district_acot_fractured_ae_shelter_desc: "Alpha Shelter provides protection and housing for brave souls working under the harsh environments of the world."
+district_acot_fractured_ae_shelter: "Альфа-убежище"
+district_acot_fractured_ae_shelter_plural: "Альфа-приюты"
+district_acot_fractured_ae_shelter_desc: "Приют Альфа обеспечивает защиту и жилье для храбрых душ, работающих в суровых условиях мира."
  
-district_acot_fractured_ae_science_dome: "Alpha Observatory"
-district_acot_fractured_ae_science_dome_plural: "Alpha Observatories"
-district_acot_fractured_ae_science_dome_desc: "Alpha Observatories  provide necessary tools and equipment for researchers to safely conduct observations and experiments on the ravaged world."
+district_acot_fractured_ae_science_dome: "Обсерватория Альфа"
+district_acot_fractured_ae_science_dome_plural: "Обсерватории Альфа"
+district_acot_fractured_ae_science_dome_desc: "Обсерватории Альфы предоставляют необходимые инструменты и оборудование для исследователей, чтобы безопасно проводить наблюдения и эксперименты на разрушенном мире."
  
-district_acot_fractured_ae_trapper: "Alpha Spire"
-district_acot_fractured_ae_trapper_plural: "Alpha Spires"
-district_acot_fractured_ae_trapper_desc: "Alpha Spires provide artificers and alchemists with workshops necessary to create dark matter and dark energy."
+district_acot_fractured_ae_trapper: "Альфа-шпиль"
+district_acot_fractured_ae_trapper_plural: "Шпили Альфы"
+district_acot_fractured_ae_trapper_desc: "Шпили Альфы обеспечивают ремесленников и алхимиков мастерскими, необходимыми для создания темной материи и темной энергии."
  
-district_acot_fractured_ae_fort: "Alpha Outpost"
-district_acot_fractured_ae_fort_plural: "Alpha Outposts"
-district_acot_fractured_ae_fort_desc: "Alpha Outposts are security checkpoints that can detect intruders and deploy loud edgy music themes to scare them away."
+district_acot_fractured_ae_fort: "Альфа Аванпост"
+district_acot_fractured_ae_fort_plural: "Альфа-аванпосты"
+district_acot_fractured_ae_fort_desc: "Alpha Outposts - это контрольно-пропускные пункты, которые могут обнаруживать нарушителей и включать громкие музыкальные темы, чтобы отпугнуть их."
  
 #### CUPOLIS DUSTRRYCIT ######
  
-district_acot_enigmapolis_city: "Void Nexus"
-district_acot_enigmapolis_city_plural: "Void Nexi"
-district_acot_enigmapolis_city_desc: "Vod Nexi are the heart of the Void Sphere's society. All system governing offices and massive supercities are located here."
+district_acot_enigmapolis_city: "Пустота Нексус"
+district_acot_enigmapolis_city_plural: "Вод Некси"
+district_acot_enigmapolis_city_desc: "Вод Некси - это сердце общества Сферы Пустоты. Здесь расположены все офисы управления системой и массивные супергорода."
  
-district_acot_enigmapolis_science: "Void Tribunal"
-district_acot_enigmapolis_science_plural: "Void Tribunals"
-district_acot_enigmapolis_science_desc: "Void Tribunals are where the Void Seers gather to gaze into the void and make visions come into realities."
+district_acot_enigmapolis_science: "Трибунал Пустоты"
+district_acot_enigmapolis_science_plural: "Трибуналы Пустоты"
+district_acot_enigmapolis_science_desc: "Трибуналы Пустоты - это место, где собираются Провидцы Пустоты, чтобы заглянуть в пустоту и воплотить свои видения в реальность."
  
-district_acot_enigmapolis_forge: "Void Alphascape"
-district_acot_enigmapolis_forge_plural: "Void Alphascapes"
-district_acot_enigmapolis_forge_desc: "Void Alphascapes allows Void Travellers to safety cross into sub-dimensional spaces and syphon the resources there."
+district_acot_enigmapolis_forge: "Альфаскейп Пустоты"
+district_acot_enigmapolis_forge_plural: "Альфаскейпы Пустоты"
+district_acot_enigmapolis_forge_desc: "Void Alphascapes позволяет путешественникам Пустоты безопасно переходить в подпространства и добывать там ресурсы."
  
-district_acot_enigmapolis_silo: "Void Forge"
-district_acot_enigmapolis_silo_plural: "Void Forge"
-district_acot_enigmapolis_silo_desc: "Void Forges are massive arrays of hard-light factories that can materialize various resources into existence."
+district_acot_enigmapolis_silo: "Кузница Пустоты"
+district_acot_enigmapolis_silo_plural: "Кузница Пустоты"
+district_acot_enigmapolis_silo_desc: "Кузницы Пустоты - это огромные массивы фабрик с жестким светом, которые могут материализовать различные ресурсы в бытие."
  
-district_acot_enigmapolis_fortress: "Void Barrier"
-district_acot_enigmapolis_fortress_plural: "Void Barriers"
-district_acot_enigmapolis_fortress_desc: "Void Barriers provide the planets with defending forces and giga cannons."
+district_acot_enigmapolis_fortress: "Барьер Пустоты"
+district_acot_enigmapolis_fortress_plural: "Барьеры пустоты"
+district_acot_enigmapolis_fortress_desc: "Барьеры Пустоты обеспечивают планеты защитными силами и гига-пушками."
+
