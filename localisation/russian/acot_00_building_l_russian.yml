@@ -1,60 +1,60 @@
 ﻿l_russian:
-# TODO 
-mod_country_resource_max_acot_sr_dark_energy_add: "Max Dark Energy Storage Capacity"
-mod_country_resource_max_sr_dark_matter_add: "Max Dark Matter Storage Capacity"
 
-mod_planet_jobs_acot_sr_dark_energy_produces_mult: "Dark Energy Production Multiplier"
-mod_planet_jobs_sr_dark_matter_produces_mult: "Dark Matter Production Multiplier"
+mod_country_resource_max_acot_sr_dark_energy_add: "Максимальная емкость хранилища темной энергии"
+mod_country_resource_max_sr_dark_matter_add: "Максимальный объем хранилища темной материи"
 
-################################################ COLONIZING ########################
+mod_planet_jobs_acot_sr_dark_energy_produces_mult: "Множитель производства темной энергии"
+mod_planet_jobs_sr_dark_matter_produces_mult: "Множитель производства темной материи"
+
+################################################ КОЛОНИЗАЦИЯ ########################
  
-tech_acot_colonize_fractured: "Fractured Yet Unshattered"
-tech_acot_colonize_fractured_desc: "Although the surface of these fractured worlds seem to be filled with hostile elements, there are various certain footholds that can serve as landing sites for colonizations. Given the abundance of enigmatic resources on the planet, these comatose worlds may yet prove useful."
+tech_acot_colonize_fractured: "Раздробленный, но не разрушенный"
+tech_acot_colonize_fractured_desc: "Хотя поверхность этих раздробленных миров кажется заполненной враждебными элементами, есть различные определенные точки опоры, которые могут служить посадочными площадками для колонизации. Учитывая обилие загадочных ресурсов на планете, эти коматозные миры еще могут оказаться полезными."
  
-tech_acot_colonize_fractured_ae: "Twilight Soils"
-tech_acot_colonize_fractured_ae_desc: "While the nature of the Ultra Fractured Worlds are not too dissimilar to that of its greenish cousin, the surface is much more harzadous, with violent storms and unnatural eruptions everywhere. If we seek to secure this rich bounty of enigmatic treasures, a study on its geographical elements will be required."
+tech_acot_colonize_fractured_ae: "Сумеречные почвы"
+tech_acot_colonize_fractured_ae_desc: "Хотя природа Сверхразломных миров не слишком похожа на природу их зеленоватого собрата, поверхность гораздо более суровая, повсюду бури и неестественные извержения. Если мы хотим заполучить эти богатые загадочные сокровища, потребуется исследование их географических элементов."
  
-################################################ DECISIONS ########################
+################################################ РЕШЕНИЯ ########################
  
-decision_transform_into_awesome: "Superior Constructs"
-decision_transform_into_awesome_desc: "In order for this planet to support more advanced infrastructures, the capital city must be made to be more awesome and awe-inspiring."
+decision_transform_into_awesome: "Превосходные конструкции"
+decision_transform_into_awesome_desc: "Чтобы эта планета могла поддерживать более совершенные инфраструктуры, столица должна быть сделана более потрясающей и внушающей благоговение."
  
-decision_transform_into_awesome_machine: "Superior Designs"
-decision_transform_into_awesome_machine_desc: "In order for this planet to support more advanced infrastructures, the primary control center must be made to be more awesome and edgy."
+decision_transform_into_awesome_machine: "Превосходные проекты"
+decision_transform_into_awesome_machine_desc: "Чтобы эта планета могла поддерживать более совершенные инфраструктуры, главный центр управления должен быть сделан более потрясающим и вызывающим."
  
-decision_transform_into_awesome_hive: "Superior Evolutions"
-decision_transform_into_awesome_hive_desc: "For the hive to grow further, the current cluster is too inefficient and weak for the task at hand. The hive must evolve further. The hive must be awesome."
- 
+decision_transform_into_awesome_hive: "Превосходные эволюции"
+decision_transform_into_awesome_hive_desc: "Для дальнейшего роста улья нынешний кластер слишком неэффективен и слаб для выполнения поставленной задачи. Улей должен развиваться дальше. Улей должен стать потрясающим"
+
 ########################
  
-decision_acot_automated_building: "Activate Automated Production Systems"
-decision_acot_automated_building_desc: "Enables most enigmatic-based buildings to produce resources automatically, but also adds upkeep to the buildings."
+decision_acot_automated_building: "Активировать автоматизированные производственные системы"
+decision_acot_automated_building_desc: "Позволяет большинству зданий на основе загадок автоматически производить ресурсы, но также добавляет расходы на содержание зданий"
  
-decision_acot_end_automated_building: "Deactivate Automated Production Systems"
-decision_acot_end_automated_building_desc: "Disable most enigmatic-based buildings from automatically producing resources, but also removes upkeep from the buildings."
+decision_acot_end_automated_building: "Деактивировать автоматизированные производственные системы"
+decision_acot_end_automated_building_desc: "Отключить большинство зданий на основе загадок от автоматического производства ресурсов, но также убрать содержание зданий"
  
-acot_modifier_ascended_city: "Automated Production Systems"
-acot_modifier_ascended_city_desc: "Most enigmatic-based buildings generate additional resources, but  upkeeps are required in the process."
+acot_modifier_ascended_city: "Автоматизированные производственные системы"
+acot_modifier_ascended_city_desc: "Большинство зданий на основе загадок генерируют дополнительные ресурсы, но в процессе требуется поддерживать их."
  
-acot_modifier_automated_building: "Automated Production Systems"
-acot_modifier_automated_building_desc: "Most enigmatic-based buildings generate additional resources, but upkeeps are required in the process."
+acot_modifier_automated_building: "Автоматизированные производственные системы"
+acot_modifier_automated_building_desc: "Большинство зданий на основе энигматики генерируют дополнительные ресурсы, но в процессе требуется поддержание"
  
-tech_acot_automated_systems: "Automated Production Systems"
-tech_acot_automated_systems_desc: "Automated Production Systems or APS Module will enable most enigmatic-based production buildings to generate resources independent of working jobs, this comes at the expense of adding extra upkeep burden on the buildings however."
- 
+tech_acot_automated_systems: "Автоматизированные производственные системы"
+tech_acot_automated_systems_desc: "Автоматизированные производственные системы или модуль APS позволит большинству производственных зданий на основе загадок генерировать ресурсы независимо от рабочих мест, однако это происходит за счет дополнительного бремени по содержанию зданий."
+
 ########################
  
-decision_acot_supercharged_reactor: "Activate Supercharged Reactor"
-decision_acot_supercharged_reactor_desc: "Supercharging Reactors will allow §E$job_acot_dark_matter_man$§! to produce §G100%§! the amount of §YDark Matter§! but §RMinerals§! Upkeep will be increased by §R100%§! as well."
+decision_acot_supercharged_reactor: "Активировать реактор с наддувом"
+decision_acot_supercharged_reactor_desc: "Сверхзарядка реакторов позволит §E$job_acot_dark_matter_man$§ производить на §G100%§! больше §YDark Matter§!, но расходы §RMinerals§! на содержание будут также увеличены на §R100%§!"
  
-decision_acot_end_supercharged_reactor: "Deactivate Supercharged Reactor"
-decision_acot_end_supercharged_reactor_desc: "Instruct all specialists to return to standard procedure, returning §YDark Matter§! production to normal."
+decision_acot_end_supercharged_reactor: "Деактивировать сверхзаряженный реактор"
+decision_acot_end_supercharged_reactor_desc: "Проинструктировать всех специалистов вернуться к стандартной процедуре, вернув производство §YТемной материи§! к норме"
  
-acot_modifier_supercharged_reactor: "Supercharged Reactor"
-acot_modifier_supercharged_reactor_desc: "All §E$job_acot_dark_matter_man$§! or their Gestalt counterparts to produce §G100%§! extra §YDark Matter§! but §RMinerals§! Upkeep will be increased by §R100%§! as well."
+acot_modifier_supercharged_reactor: "Реактор с суперзарядкой"
+acot_modifier_supercharged_reactor_desc: "Все §E$job_acot_dark_matter_man$§! или их гештальт-аналоги будут производить на §G100%§! больше §YDark Matter§!, но расходы §RMinerals§! на содержание будут также увеличены на §R100%§!"
  
-tech_acot_supercharged_reactor: "Enigmatic Reactor Supercharging"
-tech_acot_supercharged_reactor_desc: "While the Dark Foundries are capable of producing dark matters by the process of advanced synthesis, it is possible to introduce organic materials to increase the production capabilities even further, raw minerals appear to be best agent to achieve this.\n\n§EUnlocks planetary decision to toggle on Supercharged Reactor§!"
+tech_acot_supercharged_reactor: "Загадочная перезарядка реактора"
+tech_acot_supercharged_reactor_desc: "Хотя Темные Литейные способны производить темную материю путем продвинутого синтеза, можно ввести органические материалы, чтобы увеличить возможности производства еще больше, сырые минералы кажутся лучшим средством для достижения этого.\n\n§EРазблокирует планетарное решение, чтобы переключить на Сверхзаряженный Реактор§!"
  
 ########################
  
@@ -239,7 +239,7 @@ tech_fe_machine_dome: "Personality Module"
 tech_fe_machine_dome_desc: "Based on the study of ancient machines, a specialized preservation of certain personality modules of various individuals, both organic and synthetic can be preserved and installed upon selected groups of machine units. The result is a noticeable net increase in productivity of these "personified" units without creating a rift in the Consensus's Unity as a whole. This technology should be replicated or adapted for our own use."
  
 tech_ae_machine_dome: "Infinity Core"
-tech_ae_machine_dome_desc: "Independent Machine-Cult of the Curators Enclave known as Cortex Unit has recently made contacts with us. They proposed an exchange of technologies, we provide them with access to Alpha equipment, they provide access to their own special artifacts. The result will be the creation of Infinity Core, to upgrade our Personality Uplink beyond our current limits. To create the very concept of "Machine God"."
+tech_ae_machine_dome_desc: "Independent Machine-Cult of the Curators Enclave known as Cortex Unit has recently made contacts with us. They proposed an exchange of technologies, we provide them with access to Alpha equipment, they provide access to their own special artifacts. The result will be the creation of Infinity Core, to upgrade our Personality Uplink beyond our current limits. To create the very concept of "Machine God""
  
 ############################# HIVE #############################
  
