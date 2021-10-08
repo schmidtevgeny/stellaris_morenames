@@ -1,0 +1,547 @@
+What is the purpose of your harvesting operations?
+We have a vision, a plan, an ambition, you see.\n\nAnd realizing it requires energy.\n\nHow much energy, you may ask?\n\nAll of it.
+Can't we coexist? We can give you energy!
+Whatever deal your species could propose is ultimately going to be inferior to simply just harvesting the energy ourselves.\n\nIf our operations inconvenience you, you are free to depart from the galaxy.
+We do not possess intergalactic travel. We cannot leave.
+That is unfortunate.
+Enlarged Hangar Infrastructure
+Improving the infrastructure of our Planetary Defense Nexuses enables us to fit more Strike Corvettes within the megastructure's frame.
+Strike Corvette Capacity: +30%
+Streamlined Planetary Vessel Assembly
+Minute improvements in the assembly process of our Strike Corvettes yield noticeable results in their final assembly rate, ensuring accelerated production.
+Monthly Strike Corvettes: +30%
+Enhanced Strike Corvette Payloads
+As they lack an FTL Drive, Strike Corvettes can afford to carry much heavier and potent weaponry compared to their regular brethren. Capitalizing on this advantage will ensure they remain competitive with the ever-growing strength of space fleets.
+Strike Corvette Damage: +40%\nStrike Corvette HP: +25%
+Multi-Layered Hangars Systems
+Continued development of hangar designs means we can fit significantly more Strike Corvettes within the same volume.
+Strike Corvette Capacity: +40%
+Strike Corvette Upscaling
+With our great improvements regarding hangar optimization, we can afford to make our Strike Corvettes significantly larger and bulkier than before.
+Strike Corvette Damage: +60%\nStrike Corvette HP: +60%
+Strike Corvette Self-Assembly
+We can further increase the rate at which our Planetary Defense Nexuses assemble their vessels by enabling said vessels to effectively build themselves.
+Monthly Strike Corvettes: +50%
+Multidimensional Hangars
+New insights into multidimensional engineering enable us to fit even more Strike Corvettes in ever-smaller volumes.
+Strike Corvette Capacity: +15%
+Dismantle Megastructure
+We are already considering dismantling this Planetary Defense Nexus.
+If we have no more use for this Planetary Defense Nexus, we may choose to dismantle it or downgrade it to a Planetary Dockyard.
+Dismantling the [root.GetName] Planetary Defense Nexus
+If we have no more use for this Planetary Defense Nexus, we may choose to dismantle it or downgrade it to a Planetary Dockyard.\n\nThis will refund some of the alloys used in its construction.
+Downgrade to a Planetary Dockyard.
+Dismantle it completely.
+Forget it.
+Cannot deploy Defense Squadron. Deployment must not be on cooldown and the planet cannot be under siege or occupied.
+Click to deploy the Strike Corvettes now.
+Deploy Corvettes
+Auxiliary Hangars
+Vast hangars housing Strike Corvettes to be deployed whenever the world is threatened by hostile vessels.
+Increases Strike Corvette Capacity by 15.
+Planetary Shipyards
+These large shipyards supplement the Planetary Defense Nexus's shipbuilding operations, enabling more Strike Corvettes to be built monthly.
+Increases the amount of monthly Strike Corvettes by 3.
+Planetary Dockyard
+There is already an Orbital Arcology or a Planetary Dockyard in orbit.
+Planetary Dockyard Construction Site
+The construction site for a shipbuilding facility circling a planet's equator. The structure's large berths will increase the efficiency of the system's Starbase while providing Naval Capacity and Soldier jobs.
+An orbital shipbuilding facility providing naval capacity, shipyards and +15% shipbuilding speed to the local starbase, as well as military-related bonuses to its planet.
+Planetary Dockyard
+An operational Planetary Dockyard fitted with fully-functional shipbuilding facilities, granting Naval Capacity, Soldier Jobs and slight protection from orbital bombardment to its planet.\n\nProvides the system's Starbase with 3 shipyards and 15% shipbuilding speed.
+Planetary Dockyard
+A Planetary Dockyard above this world is providing its inhabitants with military occupations and protection from orbital bombardment.
+Planetary Defense Nexus
+A Planetary Defense Nexus above this world is providing its inhabitants with plenty of military occupations and extensive protection from orbital bombardment.
+Planetary Dockyard Uplink
+Connects this Starbase to every Planetary Dockyard within its star system. The effects stack up to 20 Planetary Dockyards.
+We already have a Planetary Dockyard Uplink.
+Planetary Shipbuilding Facilities
+Instead of focusing entirely on a system's Starbase in order to assemble our vessels, decentralizing our shipyard facilities by building large orbitally-constructed shipyards around our worlds has the potential to drastically increase the efficiency of our military shipbuilding complex.
+Unlocks Megastructure: Planetary Dockyard
+The Planetary Dockyard is a large ring surrounding a planet's equator. It provides Naval Capacity and Shipyards to its system's Starbase, as well as Soldier Jobs and protection from Orbital Bombardment to its planet. Cannot be built alongside an Orbital Arcology.
+Planetary Strike Forces
+Our worlds need to be defended even if our main battle fleets are in another corner of our empire. Adapting the Planetary Dockyard into a veritable orbital fortress capable of housing and deploying its own defense fleet will ensure our worlds remain ready to defend against hostile incursions at all times.
+Enhanced Planetary Yards
+Additional upgrades made to our decentralized Planetary Dockyards such as expanded infrastructures will further enhance our shipbuilding capabilities in the long run.
+Unlock Megastructure: Planetary Drive Yards
+Upgraded from the Planetary Dockyard, the Planetary Drive Yards double the shipyards and build speed bonus granted by the megastructure and reduce the cost of ships built at the system's starbase. Also enhances trade collection range.
+Unlocks Megastructure: Planetary Defense Nexus
+Upgraded from the Planetary Dockyard, the Planetary Defense Nexus shifts the megastructure's focus from shipbuilding to planetary defense. It most importantly gains the ability to autonomously build and maintain its own force of Strike Corvettes, which will be automatically deployed if a hostile fleet gets too close.
+Planetary Dockyard Construction Site Complete!
+The construction site for a Planetary Dockyard has been completed in orbit of [giga_planet.GetName].\n\nThis orbital platform shall be used as a base to assemble a ring surrounding [giga_planet.GetName], equipped with shipbuilding facilities as well as anchorages.\n\nWhen constructed, it will grant 3 shipyards and 20% ship build speed to its starbase as well as 40 naval capacity and +2.5% naval capacity overall. Additionally, [giga_planet.GetName] will gain 1 soldier job per 20 pops and -33% orbital bombardment damage.\n\nWe will have to construct an Uplink Building on the starbase in order for it to gain the benefits, which can stack for up to 20 Planetary Dockyards within one system.
+Good.
+Planetary Dockyard Complete!
+A Planetary Dockyard has been completed around [giga_planet.GetName].\n\nFeaturing vast shipyards and numerous anchorages and docking arrays, it will significantly enhance the performance of the system's starbase by enabling the simultaneous construction of several warships within its shipyards.\n\nThe completion of this structure shall mark [giga_planet.GetName]'s into our empire's most important military worlds, as it shall grant numerous soldier jobs to its inhabitants as well as protection against orbital bombardment.\n\nWe will have to construct an Uplink Building on the starbase in order for it to gain the benefits, which can stack for up to 20 Planetary Dockyards within one system.
+Great!
+Planetary Defense Nexus Operational
+The [giga_planet.GetName] Planetary Dockyard has been upgraded into a functional Planetary Defense Nexus.\n\nOutfitted with vast hangar bays and warship docks, the Defense Nexus is able to automatically construct a certain quantity of Strike Corvettes determined by [giga_planet.GetName]'s population.\n\nThese Strike Corvettes will be deployed whenever an enemy fleet approaches [giga_planet.GetName] and will automatically engage all hostile ships within the system before returning to [giga_planet.GetName] if no more threats remains.\n\nOur Strike Corvettes will use our Ship Designer's Corvette design (We thus do not need to design a new ship class) but they will pack more firepower and lack an FTL drive.\n\nWe can view how many Strike Corvettes the structure currently holds and configure when they show deploy by selecting the Planetary Defense Nexus itself.\n\nAdditionally, it will create one powerful Planetary Guardian army for every 10 pops living on [giga_planet.GetName], ensuring the planet's safety in the event of a land invasion.
+Wonderful.
+Planetary Drive Yards Operational
+The [giga_planet.GetName] Planetary Dockyard has been upgraded into Planetary Drive Yards.\n\nFocusing even further on ship construction, the upgrade has effectively doubled the amount of shipyards and build speed bonus provided to the [giga_planet.solar_system.GetName] system starbase.\n\nAdditionally, it will grant a 7.5% cost reduction to ships built at the starbase, which can stack up to 30%. The Drive Yards will help collect trading flowing into the system, increasing the starbase's Trade Collection Range by 2.\n\nWe do not need to build a new Uplink building if we already have one.
+Great.
+Planetary Drive Yards
+An upgraded version of the Planetary Dockyard, which further focuses on shipbuilding facilities. Doubles the amount of shipyards, naval capacity and ship build speed granted by the megastructure while also reducing the cost of ships at the system's starbase by 7.5% (up to 30%) and increasing trade collection range by 2.
+Planetary Defense Nexus
+An upgraded version of the Planetary Dockyard focusing on planetary defense. Increases command limit, protects its planet from orbital bombardment and gains the ability to automatically deploy a number of Strike Corvettes towards hostile fleets.
+
+Strike Corvette Count: [planet.giga_nexus_ship_count]/[planet.giga_nexus_ship_count_max]
+Strike Corvettes Deployed
+Max: [planet.giga_nexus_ship_count_max]
+Monthly Gain: [planet.giga_nexus_ship_count_monthly]
+Strike Corvette Deployment: System\n\nThe Planetary Defense Nexus will release its Strike Corvettes whenever a hostile fleet enters the system.
+Strike Corvette Deployment: Bombardment\n\nThe Planetary Defense Nexus will release its Strike Corvettes whenever a hostile fleet bombards [planet.GetName].
+Strike Corvette Deployment: Never\n\nThe Planetary Defense Nexus will not release its Strike Corvettes.
+Planet is under siege or occupation. Cannot deploy Strike Corvettes.
+Strike Corvette
+Strike Corvettes
+Torpedo Hull
+Swarm Hull
+Line Hull
+Artillery Hull
+Strike Corvette Reactor
+The lack of FTL systems enables the Strike Corvette to maximize its available power.
+Strike Corvette Behavior
+Strike Corvettes spot the enemy from afar, engage fast and strike hard in order to disorganize approaching enemy fleets.
+Strike Corvette Thrusters
+Strike Corvettes require incredible speed and maneuverability if they are to intercept oncoming hostile forces.
+Planetary Defense Nexus Mechanics
+Click to display the Planetary Defense Nexus's mechanics.
+The Defense Nexus relies on its automated fleet of Strike Corvettes to defend its planet.\n\nIt will construct and store Strike Corvettes on its own every month.\nThe base maximum capacity is equal to half of the planet's population and can be increased in various ways.\n\n2 are built each month, with every 20 pops adding 1 extra corvette per month. Much like the maximum capacity, the build rate can also be increased in different ways.\n\nThe Strike Corvettes however cannot be deployed if the planet is under invasion or occupied by a hostile force.\n\nStrike Corvettes are regular Corvettes lacking FTL but with increased mobility and firepower. We thus do not need to design a new ship class, as the defense squadrons will randomly draw from all of our existing Corvette designs from the Ship Designer.\n\nThese ships will automatically deploy when a hostile fleet approaches the megastructure and we can configure when the Strike Corvettes are released using the configuration buttons on the Megastructure's UI itself.\n\nOnce the threats have been eliminated, the defense squadron will return to the Defense Nexus automatically. There is a cooldown of 3 months before fleets can be deployed again.\n\nThe megastructure will also spawn one Planetary Guardian army on the planet for every 10 pops living on it.
+Acknowledged.
+This window is already open.
+Display Mechanics
+Planetary Guardians
+Armies stationed within the defense nexus tasked with ensuring planetary safety.
+Маленькая $name_orbital_arcology$
+Пространство, предоставляемое $name_orbital_arcology$, позволяет производить некоторую энергию, а также производить продукты питания.
+debug
+debug
+debug
+debug
+debug
+debug
+debug
+debug
+debug
+debug
+debug
+debug
+debug
+debug
+debug
+debug
+debug
+debug
+debug
+£menu_disabled£Behemoth Planetcraft Fabricators\nShould Behemoth Planetcrafts be able to be "printed" out with the Behemoth Assembly Plant and its associated mechanics or not. Disabling both this and Attack Moon Printing removes the Celestial Warship Assembly Ascension Perk.
+£menu_enabled£Behemoth Planetcraft Fabricators\nShould Behemoth Planetcrafts be able to be "printed" out with the Behemoth Assembly Plant and its associated mechanics or not. Disabling both this and Attack Moon Printing removes the Celestial Warship Assembly Ascension Perk.
+Planetary-Scale Fabrication Protocols
+A grand upscaling of Lunar Macro-Fabrication methods can enable us to fabricate entire Behemoth Planetcrafts instead of mere Attack Moons. It might seem ludicrous, but it might just be possible provided we harvest sufficient planetary matter beforehand.
+Unlocks Megastructure: Behemoth Assembly Plant
+An upscaled version of the Lunar Macro-Fabricator which converts planetary matter and alloys into fabricated Behemoth Planetcraft. This construct requires £sr_solar_energy£ Planetary Mass to function, which itself can be acquired using a decision granted by the $giga_tech_planetary_matter_harvesting$ Technology.
+Behemoth Assembly Plant Construction Site
+The construction site for a colossal assembly yard capable of fabricating an entire Behemoth Planetcraft out of raw planetary material and alloys.
+The Behemoth Assembly Plant is capable of constructing entire Behemoth Planetcrafts out of £sr_solar_energy£ Planetary Mass and vast quantities of alloys.
+Behemoth Assembly Plant Supports
+The preliminary support structures which will house much of the critical infrastructure required for the Behemoth Assembly Plant to function.
+Behemoth Assembly Plant Stabilizers
+These two colossal rings are tasked with stabilizing unfinished Behemoth Planetcrafts and ensuring planetary matter gets where it needs to be with no delay.
+Behemoth Assembly Plant
+A complete Behemoth Assembly Plant. Thanks to its two colossal matter assemblers, this wondrous device can rearrange tremendous quantities of raw planetary matter into operational Behemoth Planetcrafts.
+Fabricate Behemoth Planetcraft
+An operational fabricated Behemoth Planetcraft, boasting 15% additional Hull HP, Armor HP and Shield HP as well as 10% additional Ship Fire Rate compared to a regular Behemoth Planetcraft.
+Behemoth Assembly Plant Construction Site Built!
+The construction site for a Behemoth Assembly Plant has been completed in the [giga_system.GetName] system. This orbital platform will serve as a staging depot to assemble a colossal assembly yard capable of fabricating a Behemoth Planetcraft.\n\nMuch like its smaller brethren, this marvelous construct will be able to rapidly receive large quantities of planetary matter to be assembled into fabricated celestial warships, thanks to a combination of ambitious engineering techniques such as hyperdimensional storage and intelligent nanites.\n\nFabricated Behemoth Planetcrafts will take longer to build and are slightly more expensive than regular Behemoth Planetcrafts, but will benefit from increased defensive and offensive capabilities.
+Great.
+Behemoth Assembly Plant Supports Built!
+Another step has been completed towards the construction of our Behemoth Assembly Plant in the [giga_system.GetName] system.\n\nThe structure's first preliminary support devices have been assembled and while they aren't very massive, they will nonetheless house most of the important control infrastructure required to manage this colossal megastructure.\n\nWork must now begin on the actual assemblers which will be responsible for constructing the Behemoth Planetcraft itself.
+Wonderful.
+Behemoth Assembly Plant Stabilizers Built!
+The construction of our Behemoth Assembly Plant in the [giga_system.GetName] system continues to progress steadily.\n\nTwo massive ring-like structures on either side of the construct will enable the stabilization of the unfinished Behemoth Planetcrafts, ensuring all oncoming planetary matter ends up exactly where it needs to be. They will also house much of the structures' personnel and various miscellaneous utilities to increase its overall performance.
+Delightful!
+Behemoth Assembly Plant Built!
+At last, a Behemoth Assembly Plant has been completed in the [giga_system.GetName] system! Much like the Lunar Macro-Fabricator, this impressive technological marvel is capable of rapidly rearranging vast amounts of crude planetary matter and alloys into fully-functional Behemoth Planetcrafts.\n\These Planetcrafts will of course more powerful than "natural" ones, but the Behemoth Assembly Plant will allow us to assemble them without having to worry about finding a proper candidate although it will take longer and is likely to be more expensive overall.\n\nConstruction of a Behemoth Planetcraft may begin whenever we have the necessary resources, by upgrading the megastructure. We will however have to harvest £sr_solar_energy£ Planetary Mass from telluric planets using a decision.
+Wonderful!
+Behemoth Planetcraft Fabricated!
+The Behemoth Assembly Plant above [planet_printer_location.GetName] reports that it has successfully assembled a fully-functional Behemoth Planetcraft from raw Planetary Mass and large amounts of alloys!\n\nBuilt according to our designs, the colossal celestial warship, which is over a dozen thousand kilometers in length, has subsequently been released from the megastructure, and is now ready to lead the ranks of our interstellar armadas.\n\nWe may begin the construction of another one immediately, given we possess sufficient planetary matter and alloys.
+Grandiose!
+A Behemoth Planetcraft is added to our fleets.\nAs it was fabricated, it benefits from 15% additional Hull HP, Armor HP and Shield HP as well as 10% additional Ship Fire Rate.
+[ROOT.GetName] Returns Flusion to Solakian Republic!
+The [ROOT.GetName] has today decided to return control of the entirety of Flusion to the Solakian Republic.\n\nThe Solakian president, Dofus Teknik Makina, has given a heartfelt speech to thank the [ROOT.GetName] for their invaluable help against the Kaiser and to celebrate the true end of foreign occupation on Flusion.\n\nDofus has stated that, in order to truly include all of Flusion's species and avoid a repeat of the Katzenartig Imperium, the Solakian Republic would be soon re-branded into the United Flusionian States in order to better represent its planet-spanning influence.\n\nFlusion might have gone through tough times in the past, from the Kaiser's tumultuous conquests to its eventual capture by the [flusion_conqueror.GetName], but for the first time in decades, Flusion is at last, truly free.
+A toast to Dofus!
+Handling Aeternum
+Cooperative Intel Gathering
+If the [global_event_country.GetGalCommunityOrGalImperium] pools their scientific efforts, we might be able to remotely acquire some $aeternum_tech_intel$ and share it throughout the galaxy.
+Passing this resolution will grant 3 $aeternum_tech_intel$ to everyone in the galaxy after 5 years.\n\nDuring those 5 years, we will have to spend 150 £energy£ per month in order to sustain the program.
+Aeternite Research Cooperative
+The [global_event_country.GetGalCommunityOrGalImperium] has launched a collaborative effort to acquire $aeternum_tech_intel$.
+Cooperative Intel Gathering
+The [global_event_country.GetGalCommunityOrGalImperium] has decided to establish a cooperative research program focused on Aeternum.\n\nMember states shall combine their scientific efforts in order to remotely study Aeternum and subsequently acquire valuable data regarding the ancient precursor civilisation.\n\nIt is estimated that the research program will last 5 years and should hopefully grant 3 $aeternum_tech_intel$ which translates into 15% extra Damage to Aeternum.\n\nSustaining the program will cost us 100 £energy£ per month and will divert resources from our other research programs.
+No time to waste.
+Aeternite Research Cooperative Conclusive
+The [global_event_country.GetGalCommunityOrGalImperium] has completed their Aeternite Research Cooperative.\n\nThis great international effort to study Aeternum has netted every member-state 3 $aeternum_tech_intel$, which should increase their Damage to Aeternum by 15% should they ever end up needing to face Aeternite vessels in combat.
+Good.
+We gain 3 $aeternum_tech_intel$.\n\nEvery other member state of the [global_event_country.GetGalCommunityOrGalImperium] gains 15% extra Damage to Aeternum.\n\n
+Establish the Anti-Aeternite Alliance
+The threat posed by Aeternum is unlike anything else the galaxy has faced in recent history. The nations of the [global_event_country.GetGalCommunityOrGalImperium] must cast their differences aside and establish an alliance to stand against the oncoming Aeternite menace.
+This will lead to the formation of the Anti-Aeternite Alliance, a pan-galactic federation consisting of every member state of the [global_event_country.GetGalCommunityOrGalImperium].\n\nIts members will vow to stay in the Alliance for at least 25 years and it will be dissolved if Aeternum is defeated.\n\nAll existing federations will be disbanded aside from the Holy Katzen Empire if it exists.
+$TRIGGER_FAIL$Vanquish Aeternum
+Aeternum poses a great threat to the galaxy. These precursors must be defeated before they overwhelm all of us with their terrifyingly-advanced vessels of war.
+The [global_event_country.GetGalCommunityOrGalImperium] Establishes Anti-Aeternite Alliance
+"By decree of the Galactic Senate, as of [global_event_country.anti_aeternite_alliance_formed_date], the nations of the [global_event_country.GetGalCommunityOrGalImperium] vow to, at least temporarily, cast their differences aside and formally establish the Anti-Aeternite Alliance under the leadership of the [giga_aeternite_league_leader.GetName]. The sole purpose of this pangalactic alliance shall thus be to curtail any potential Aeternite expansionism and should war with Aeternum become a reality, all member states shall take up arms to defend our galaxy from the Aeternite onslaught."\n\nIn an extraordinary feat of international cooperation, the [global_event_country.GetGalCommunityOrGalImperium] has today proclaimed the creation of the Anti-Aeternite Alliance, a supranational bloc of nations led by the [giga_aeternite_league_leader.GetName] in order to defend the galaxy against the oncoming Aeternite threat.\n\nIf victory against Aeternum is achieved, the Alliance shall be disbanded and its constituent states shall return to their usual activities.\n\nWhile diplomats from the [global_event_country.GetGalCommunityOrGalImperium] either feared or hoped for a reaction from the precursor, Aeternum has, unsurprisingly, issued no diplomatic response to this event and it is uncertain if their leadership is even aware of the Alliance's formation.
+United, we shall stand!
+The Anti-Aeternite Alliance has been formed.\n\nAny nation leaving the [global_event_country.GetGalCommunityOrGalImperium] will automatically leave the Alliance and any nation joining will automatically join it.\n\nIt will be dissolved if Aiondia is seized.\n\nForcing so many empires into one alliance will however have some negative consequences on our internal and external politics.\n\n
+United Against Aeternum
+The Anti-Aeternum Alliance needs to have been formed.
+Invite Precursor Empires to Anti-Aeternite Alliance
+The precursor civilisations of the galaxy have not always been very cooperative with the younger races, but the threat posed by Aeternum is unlike any other. Aeternum is effectively the "Fallen Empire of the Fallen Empires" and thus it is reasonable to assume that even the mighty precursors might feel threatened by the Aeternites. It is only logical to at least try and extend invitations to these ancient civilisations and perhaps get them to join our alliance.
+We will send invitations to join the Anti-Aeternite League to every Fallen Empire and Awakened Empire in the galaxy.\n\nDepending on their ethics and current situation, they might accept or refuse.
+The [global_event_country.GetGalCommunityOrGalImperium] Invites Precursors to AAA
+The Galactic Senate has today agreed to draft up invitations intended for all Fallen Empire and Awakaned Empires within our galaxy.\n\nThese invitations, written by the [global_event_country.GetGalCommunityOrGalImperium]'s most elite diplomats, shall contain extensive information regarding the sheer size and scope of the threat posed by Aeternum in order to try and convince the galaxy's Precursors to temporarily cooperate with us and join the Anti-Aeternite Alliance.\n\nThe actual odds of them actually accepting is unknown, but the Senate is confident that a thorough explanation of just how dangerous Aeternum is, backed by comprehensive data and complemented by a healthy dose of respect towards the precursors, might just suffice to sway them to our side.
+Let's see what happens now...
+Invitations to the Anti-Aeternite Alliance will be sent to Fallen Empires and Awakened Empires over the next few months.
+The [precursor_invited_to_aaa.GetName] Accepts Invitation!
+In an exceptional display of humility and pragmatism, the ancient nation of [precursor_invited_to_aaa.GetName] has agreed to formally sign an alliance with the rest of the [global_event_country.GetGalCommunityOrGalImperium], thus marking the official entry of the [precursor_invited_to_aaa.GetSpeciesNamePlural] into the Anti-Aeternite Alliance.\n\nThey have however clearly stated that this event is and shall remain an emergency exception authorized by the sheer threat posed by Aeternum.\n\nEven though their cooperative behavior might only be temporary, this is nonetheless a great boon which will certainly aid our struggle against Aeternum.
+Delightful! The playing field gets more even.
+The [precursor_invited_to_aaa.GetName] has joined the Anti-Aeternite Alliance
+The [precursor_invited_to_aaa.GetName] Rejects Invitation
+Unfortunately, the ancient nation of [precursor_invited_to_aaa.GetName] has rejected our invitation to join the Anti-Aeternite Alliance, claiming that "The [precursor_invited_to_aaa.GetSpeciesNamePlural] require no assistance from squabbling races in order to defend themselves" and explaining that the measurements' regarding Aeternum's strength were certainly inaccurate.\n\nThis unfortunate setback means we will have to do without [precursor_invited_to_aaa.GetAdjective] help, but they shouldn't expect assistance whenever Aeternum comes busting through their border defences.
+Unfortunate. These decrepit fools have caused their own downfall.
+The [precursor_invited_to_aaa.GetName] has declined our invitation to the Anti-Aeternite Alliance
+The Aeternite Emergency
+The galaxy must work together if we are to stand our ground against Aeternum, but forcing so many nations together into an alliance has its consequences.
+Launch Pre-Emptive Strike Against Aeternum
+We cannot allow Aeternum to finish their awakening. Launching a coordinated assault on Aeternum before they are ready will enable us to gain the upper hand in the greatest war the galaxy has seen in a million years.
+This will make the Anti-Aeternite Alliance declare war on Aeternum.\n\nIf we launch the pre-emptive strike instead of manually declaring war on Aeternum, every member of the Anti-Aeternite Alliance will gain 30% extra Damage against Aeternum and 60% extra Ship Speed for 3 years following the war declaration.\n\nAdditionally, every non-player member of the alliance will automatically move their combined fleets towards Aiondia.
+Pre-Emptive Strike Against Aeternum
+The Galactic Community has launched an all-out surprise assault on Aeternum. We must capitalize on the element of surprise.
+Galactic Community Launches Pre-Emptive Aeternite Strike!
+In a grand display of courage and following approval by the Galactic Senate, the Anti-Aeternite Alliance has today declared the start of a grand offensive against Aeternum.\n\nWith the goal of striking before Aeternite awakening can be completed, the galaxy's combined fleets are now moving to assault the precursors while the element of surprise can be still be exploited.\n\nThe only outcomes of this conflict can be victory over Aeternum, or complete annihilation of every other galactic civilization by the ancient precursors. With both sides massing colossal armadas and terrifyingly powerful weaponry, this is sure to be a fight the likes of which have never seen before in the past million years.\n\nWill the Alliance manage to overcome their technological disadvantage, or will Aeternum sweep them away like so many other upstarts? There is no denying that the battle for the galaxy's ultimate fate has begone.
+Strike now! Strike fast!
+Every member of the Anti-Aeternite League gains temporary bonuses. Nonplayer members will converge their fleets towards Aiondia.\n\n
+Inhabitants of this galaxy.\n\nThe time has come for the Aeternites to reclaim their place as the sole rulers of the galactic stage.\n\nThe only peace we shall accept is your complete and utter destruction.\n\nKnow that your quaint attempt at an "Alliance" shall only cause your downfall, for it is obvious that you have grossly overestimated your own strength, as evidenced by this asinine declaration of war.\n\nOur grand armadas shall wipe your pathetic union off the face of the galaxy, regardless of how united you might believe yourselves to be.
+The galaxy will show you decrepit fools what we are truly capable of.
+Returned Flusion
+Anti-Aeternite League Disbanded
+Although it was certainly a trial of gargantuan proportions, Aeternum has finally been vanquished.\n\nAs such, the emergency which caused the formation of the Anti-Aeternite League is gone. Just as planned, the Galactic Senate has proclaimed the end of the emergency and the subsequent dissolution of the supranational alliance.\n\nAlthough the future of the galaxy's nations remain uncertain now that they don't have a common threat to bind them together, this grand alliance is undeniable proof of what the galaxy is capable of accomplishing when its inhabitants put their difference asides.
+It has served its purpose.
+The Anti-Aeternite League is dissolved.
+Flusionian Portraits: Stellaris\nAll portraits of Flusionian characters will use regular Stellaris portraits.
+Flusionian Portraits: Lore-Accurate\nDofus Teknik Makina, Douclaw MacCathur and Aaron N. Bleu will have "Lore-accurate" portraits that do NOT match the Stellaris style. Expect static PNGs and Heroforge portraits, do NOT use if you want a 100% immersive game.
+Yggdrasil Hallucinogens
+A recent bioanalysis of the atmospheric phytoplankton being cultivated within the [giga_event_planet.GetName] Yggdrasil Orchid has revealed a curious phenomenon.\n\nA mutation has spread to large chunks of the Orchid's bioengineered airborne plants which makes them into a potent hallucinogen with significant and generally pleasant side-effects when consumed by [ROOT.GetSpeciesNamePlural].\n\nNaturally, the Orchid's staff is raising the question of what to do with this peculiar harvest. We could let the mutation spread and then ship it to the rest of our empire for our population to enjoy, or attempt to curb it before it takes over the entire Orchid while making sure to destroy any previous harvests which potentially bore the mutation.
+Distribute it with heavy restrictions on its use.
+Will remove the Hallucinogens' negative impacts at the cost of energy.\n\nThis will cause instability if we are Egalitarian.\n\n
+Let everyone use it freely if they so desire.
+Will increase the Hallucinogens' impact at the cost of more negative effects.\n\nThis will cause instability if we are Authoritarian.\n\n
+Sell it for profit!
+Will reduce the Hallucinogens' impact and the Orchid's food production but will generate Trade Value\n\n
+Sell it for profit!
+Will reduce the Hallucinogens' impact and the Orchid's food production but will generate significant quantities of Trade Value\n\n
+Destroy the mutation and previous harvests.
+Spend resources to ensure we never hear about this again.
+Yggdrasil Hallucinogens Restricted
+Controlling the Hallucinogens is expensive but ensures no negative effects arise.
+Yggdrasil Hallucinogens Free Distribution
+Letting everyone benefit from the Hallucinogens makes for a happier population with some side-effects.
+Yggdrasil Hallucinogens Sold
+We are making significant profits off the state-mandated sale of the Yggdrasil Orchid's Hallucinogens.
+Yggdrasil Hallucinogens Sold
+We are making significant profits off the state-mandated sale of the Yggdrasil Orchid's Hallucinogens.
+Yggdrasil Hallucinogen Unrest
+Our handling of the Yggdrasil Hallucinogens is causing unstability.
+The [yggdrasil_food_beggar_country.GetName]
+Greetings, [ROOT.GetName]. Your Yggdrasil Orchid is a true wonder of engineering whose food production dwarves anything we've been able to produce ourselves.\n\nAs such, the [yggdrasil_food_beggar_country.GetName] would like to humbly request a share of your Yggdrasil Orchid's food production to help feed our own populace. If you generously agree, we will make sure to repay you in the future.
+Sure thing! We shall transfer some of the food for a few years.
+The [yggdrasil_food_beggar_country.GetName] will surely be more supportive of our diplomatic endeavors in the future.\n\n
+Perhaps, but you'll have to pay us.
+A ridiculous request. Out of the question.
+Donating Yggdrasil Production
+We are donating some of our Food production to another empire.
+Receiving Yggdrasil Production
+Another Empire is generously giving us some Food.
+Agreed to share Yggdrasil Food
+Charged Yggdrasil Food
+Refused to share Yggdrasil Food
+Yggdrasil Orchid Storm
+Despite our advanced weather manipulation systems, a massive storm has formed within the [giga_event_planet.GetName] Yggdrasil Orchid which has destroyed a significant portion of the structure's aerial crops as well as atmospheric infrastructure.\n\nThe storm has unfortunately inflicted great damage across the Gas Giant before the Orchid's weather manipulators were able to dissipate it.\n\nThis will have a significant impact on the megastructure's food production and the Orchid's staff is now requesting financial and material aid in order to get the Orchid's production back to normal levels as soon as possible.
+Provide all necessary aid. | 10000 £energy£ & 5000 £alloys£ & 2500 £food£
+The [giga_event_planet.GetName] Yggdrasil Orchid will produce 50% less Food for 2 years.\n\n
+We can't afford it, they'll have to manage.
+The [giga_event_planet.GetName] Yggdrasil Orchid will produce 50% less Food for 7.5 years.
+Ravenous Yggdrasil Aeroplankton
+The [giga_event_planet.GetName] Yggdrasil Orchid reports that an unexpected lifeform has evolved within the clouds of the cultivated Gas Giant.\n\nNearly microscopic locus-like creatures have developed among the Gas Giant's fields of Aeroplankton. Unfortunately for us, these creatures' only source of food happens to be said Aeroplankton which we normally refine into large quantities of Food for our populace to consume.\n\nThis is unsurprisingly highly worrying to the Orchid's staff who are afraid that if nothing is done, these creatures could drastically lower the megastructure's production for years to come even if passive population culling efforts are employed to get rid of them.
+Destroy every last one of them even if it means sacrificing production.
+The [giga_event_planet.GetName] Yggdrasil Orchid will produce 80% less Food and its Energy upkeep will double for 2 year, but the locusts will be eliminated for good.
+Aid their decline with passive culling methods.
+The [giga_event_planet.GetName] Yggdrasil Orchid will produce 35% less Food for 5 years.
+Study these fascinating creatures and how they evolved!
+The [giga_event_planet.GetName] Yggdrasil Orchid will produce 50% less Food but its Research output will increase by 50% permanently.
+Yggdrasil Locusts Eliminated
+Thanks to extensive extermination efforts, the aerial locusts plaguing our Yggdrasil Orchid Complex have been eliminated.\n\nProduction and upkeep have returned to their normal levels.
+Great.
+Yggdrasil Locusts Extinct
+Following length culling protocols, the aerial locusts plaguing our Yggdrasil Orchid Complex have gone extinct.\n\nProduction and upkeep have returned to their normal levels.
+Good.
+Denounce Katzen Invasion of the Ezicanian Empire
+The Katzen Invasion of the Ezicanians' homeland is an unforgivable act of cold-blooded aggression. We must ensure the galaxy is made well aware of the Kaiser's brutal militarism.
+This will increase Ezicanian Resistance by 2.\n\nA future revolution by the Ezicanian Order will be 10% more powerful.\n\nWill decrease the Kaiser's Opinion of everyone in the [global_event_country.GetGalCommunityOrGalImperium] by 1.
+Galactic Recognition of the Solakian Republic
+The Solakian Republic is one of the many Flusionian nations which fell victim to the Kaiser's asinine tide of rampant militarism. Recognizing them as the legitimate government of their former land and declaring Katzen occupation to be illegal will certainly help bolster their partisans.
+This will increase Partisan Activity by 1 everywhere except in Katown and Katzen Herzlands, and by 2 in Solakien.\n\nThe Exert our Influence decision will grant 2 Resistance Resources instead of 1.\n\nWill decrease the Kaiser's Opinion of everyone in the [global_event_country.GetGalCommunityOrGalImperium] by 1.
+International Support for Laurandar
+Laurandar was an island nation off the coast of Flusion's supercontinent. It is highly populated and unlike what many might think, not flat. The Laurnaise possessed dangerously powerful weaponry capable of rivalling or even surpassing that of the Kaiser but were unable to resist the Katzenarmee due to their unfortunately unstable government.\n\nThe Kaiser uses Laurandar as his main propaganda center, thus by officially lending our support to the Laurnaise rebels, recognizing their independence, and funding them, we can help them work with the Solakian Freedom Fighters and break the Katzen propaganda machine. This would have a significant impact on the organization of Katzen armed forces who would also have to deal with bolstered Laurnaise resistance thanks to our support.
+This will increase Partisan Activity by 2 in Laurendaar and Geschwollen.\n\nWill decrease the Kaiser's Opinion of everyone in the [global_event_country.GetGalCommunityOrGalImperium] by 2.\n\nRaiding Katzen Warehouses will grant twice as many Resistance Resources.\n\nWill reduce the stats of Katzen ground forces.
+[global_event_country.GetGalCommunityOrGalImperium] Supports Laurandar
+"By decree of the Galactic Senate, as of [global_event_country.laurandar_recognised_date], the [global_event_country.GetGalCommunityOrGalImperium] declares their unanimous support for Laurandar and its inhabitants in their struggle against Katzen occupation. The nation of Laurandar is thus to be recognized as a free Flusionian state and all support intended to be received by Laurnaise rebels is to be subjected to an extraordinary exception in order to bypass bureaucratic hurdles."\n\nA joint declaration by every free member of the [global_event_country.GetGalCommunityOrGalImperium] has officially declared the galaxy's support for Laurandar, recognizing their independence and promising to extensively fund their rebel groups.\n\nAaron N. Bleu, the former Laurnaise ruler, has expressed his approval of our decision and immediately sent extensive gifts consisting of Laurnaise trinkets to the governing bodies of every nation who supported his cause.\n\nThe Kaiser is reportedly extremely displeased by this "ridiculous decision" and has "vowed to crush the asinine [global_event_country.GetGalCommunityOrGalImperium] whose intents are obviously misguided". Whether or not he will actually take action remains to be seen.
+Splendid.
+The Kaiser's Opinion of us decreases by 2.\n\nPartisan Activity increases by 2 in Laurendaar and Geschwollen.\n\nRaiding Katzen Warehouses will grant twice as many Resistance Resources.\n\nThe stats of Katzen armies are reduced.\n\n
+[global_event_country.GetGalCommunityOrGalImperium] Recognizes the Solakian Republic
+"By decree of the Galactic Senate, as of [global_event_country.solakia_recognised_date], the Solakian Republic is now the legitimate governing body of the Flusionian Solakian lands and any other territories on the planet proclaiming to be Solakian. The Katzenartig Imperium's occupation of the planet and by extension, Solakia, is therefore an illegitimate act of warmongering barbarism."\n\nA joint declaration by every free member of the [global_event_country.GetGalCommunityOrGalImperium] has officially recognized the Solakian Republic as being the rightful government of their own land - thus formally establishing the Katzenartig Imperium as an illegal occupier.\n\nThe Kaiser is reportedly "furious" at this "predictable act of political maneuvering" but has assured that it will have no impact on the stability of his empire.
+Excellent.
+The Kaiser's Opinion of us decreases by 1.\n\nPartisan Activity increases by 1 everywhere except in Katown and the Katzen Herzlands, and by 2 in Solakien.\n\nThe Exert our Influence decision will grant 2 Resistance Resources instead of 1.
+Solakia is already recognized.
+The Katzen Invasion of the Ezicanian Empire has already been denounced.
+Anti-Kaiser Crusade
+With our preparations complete, it is time for the [global_event_country.GetGalCommunityOrGalImperium] to strike against the Kaiser and end his madness once and for all.
+All empires within the [global_event_country.GetGalCommunityOrGalImperium] who are not Katzen Vassals or Katzen Allies will sign a ceasefire if they are at war with one another and DECLARE WAR on the Katzenartig Imperium.\n\nKatzen Vassals and Katzen Allies will be expelled from the [global_event_country.GetGalCommunityOrGalImperium].\n\nPeace with the Kaiser will NOT be possible after the war starts.
+Anti-Katzen Mobilization
+The [global_event_country.GetGalCommunityOrGalImperium] is mobilizing to fight off the Katzenartig Imperium.
+[global_event_country.GetGalCommunityOrGalImperium] Declares War on Kaiser Kattail
+In an unprecedented display of galactic cooperation, the [global_event_country.GetGalCommunityOrGalImperium] has made a collective declaration of war upon the militaristic Katzenartig Imperium.\n\nNations aligned with the Kaiser have been expelled from the community while all remaining members are now fully mobilized for war and ready to tackle the might of the Katzen military machine head-on.\n\nOnly time will tell if the Kaiser will be able to handle fighting the entire galaxy at once, but the [global_event_country.GetGalCommunityOrGalImperium] is confident in their victory.
+Let's see how long he'll last...
+Peace with the Kaiser will NOT be possible.
+Katzgouverneur
+[global_event_country.GetGalCommunityOrGalImperium] Denounces Invasion of the Ezicanian Empire
+"By decree of the Galactic Senate, as of [global_event_country.ezics_denounced_date], the Katzen invasion and subsequent despoiling of Ezicanian lands on Flusion is now recognized as a crime against sapience and a blatant violation of the Ezicanians' right to self-determination."\n\nA joint declaration by every free member of the [global_event_country.GetGalCommunityOrGalImperium] has officially declared the occupation of the Ezicania Empire and the destruction of the Ezicanian habitats to be a war crime, thus vilifying the Kaiser's rule over Flusion.\n\nThe Kaiser has declared these accusations to be "completely devoid of meaning", calling them "blatant lies intended to erode the legitimacy of Flusion's rightful government", while Louf Cereless Hornsfelt has expressed his approval of the [global_event_country.GetGalCommunityOrGalImperium]'s support for his cause.
+Excellent.
+The Kaiser's Opinion of us decreases by 1.\n\nEzicanian Resistance increases by 2.\n\nA future revolution by the Ezicanian Order will be able to seize 10% more planets from the Katzenartig Imperium.
+Disorganized Armed Forces
+Disorganized Armed Forces
+We must have mobilized against the Kaiser and supported at least one Flusionian nation.
+Dofus Demands Solakian Territories
+With the collapse of the Katzenartig Imperium, Dofus Teknik Makina, head of the Solakian Republic, is demanding that, as per the [global_event_country.GetGalCommunityOrGalImperium]'s declaration, we hand control of the Solakian territories back to him and the Solakian Republic.\n\nThis would effectively create a Solakian enclave within Flusion and accepting would mean losing out on some of Flusion's land, but declining could have drastic consequences if the Solakian Republic has established itself as an independent galactic nation.\n\nConsidering we officially recognised Solakia's independence, refusing could have dire consequences within the [global_event_country.GetGalCommunityOrGalImperium].
+With the collapse of the Katzenartig Imperium, Dofus Teknik Makina, head of the Solakian Republic, is requesting that we hand control of the Solakian territories back to him and the Solakians.\n\nThis would effectively create a Solakian enclave within Flusion and accepting would mean losing out on some of Flusion's land, but declining could have drastic consequences if the Solakian Republic has established itself as an independent galactic nation.
+Of course!
+\n\nWe will lose access to parts of Flusion, but we can always forcefully take it back later using a Decision.\n\n
+Galactic Betrayal
+Violated Galactic Declaration
+Solakian Free State
+Flusion's Solakian lands are formally part of the Solakian Republic, effectively free from whoever controls the planet. Trading with the Solakians however represents a lucrative opportunity and their ideas will definitely have an impact on the rest of the planet's population.
+No. The land's ours now.
+The Solakians will be very displeased.
+Solakian Unrest
+The Solakians are less than happy about being betrayed by us.
+Returned Flusionian Land
+Seize Solakia
+This little charade has gone on for long enough. Flusion is rightfully ours, all of it.
+We will move to forcefully seize the Solakian enclave on Flusion. This will spawn hostile Solakian armies on the planet. If they exist and we aren't already at war, this will declare war on the Solakian Republic.
+Give Flusion to Solakia
+If we have no need to directly control Flusion anymore, we may return the entirety of the planet to the Solakian Republic.
+This will give all of Flusion to the Solakian Republic. They will surely be thankful.
+Flusion Lost!
+Our attempt to seize Solakia has unfortunately backfired and the Solakians are now in control of Flusion itself as well as the Jublio system.\n\nWe will have to re-invade it if we wish to get it back.
+Curses!
+We lose control of Flusion to the Solakian Republic.
+Solakia Seized
+We have managed to seize the Solakian enclave on Flusion. The entire planet is now once again under our control, but the Solakians are not going to be happy about it.
+Great!
+Maginot World
+Maginot World Management Protocols
+Advanced construction and maintenance protocols to allow construction and management of additional Maginot Worlds within our empire's borders.
+Maginot World capacity: +1
+Empire capacity for Maginot World is increased by +1
+Maginot Subspace Disruption System
+The $name_maginot_world$ is generating a powerful disruption field that propagates through subspace, preventing wormhole operation in this system. Additionally, jump drives are rendered inoperable in this and nearby systems.
+Heavy Defender
+A special task force for planetary defence.
+Heavy Defenders
+Robotic Heavy Defender
+A special robotic task force for planetary defence.
+Robotic Heavy Defenders
+Heavy Machine Defender
+Heavy battle units specialized for planetary defence.
+Machine Defenders
+Planetary Artillery
+Massive artillery cannons which can tear invading forces asunder but are relatively fragile.
+Planetary Artilleries
+Shield Battery
+Humongous shield generators designed to soak up damage from enemy forces.
+Shield Batteries
+Fortification Network
+Vast networks of bunkers, trenches and concealed cannons intended to hinder enemy advances as much as possible.
+Fortification Networks
+Maginot Fort Complex
+New techniques within the field of excessive fortification enables the construction of complexes like this one. It should now be possible to extend these defences to cover the whole planet.
+Maginot Global Bunker System
+A world-spanning system of deep bunkers gives our armies unprecedented strike power while on this world.
+£maginot_bunker_1£ Maginot Activate Subspace Disruption Field
+The $name_maginot_world$ starts generating a subspace disruption field, which interferes with subspace use in this and nearby systems, though the effect is weaker there.
+Both this solar system and all solar systems 1 jump away that are owned by your empire receive a special modifier that stops jump drive use and subspace travel. The $name_maginot_world$'s own solar system cannot be targetted by the NDB or QSO. The check is done when the decision is triggered, so toggle it on and off to protect newly spawned/conquered systems.
+£trigger_no£ Another $name_maginot_world$ in the system is already generating a subspace disruption field.
+£maginot_bunker_1£ Maginot Deactivate Subspace Disruption Field
+The field is turned off to save on maintenance or update targetting parameters.
+Both this system and all systems 1 jump away that are owned by your empire have their jump drive protection disabled. Toggle the field off and on to cover newly spawned/conquered systems.
+£maginot_bunker_8£ Maginot Garrison Refresh
+Ensure the garrison is alert and ready.
+Deletes and re-adds the basic 5-army garrison that should be present, providing baseline ground defence for the $name_maginot_world$.\nRefreshes the armies granted by Orbital Defence Grids, Shield Generator Arrays and Bunker Complexes.
+£trigger_no£ Start the game to let the effect update before trying again.
+£maginot_bunker_2£ Maginot Repair Strategic Defence Command
+Repair the orbital defence systems. Enables orbital defence management again.
+This world is still recovering from a recent battle.
+£maginot_bunker_3£ Maginot Points Values
+Current Values: \n[this.giga_maginot_current_SD_platform_count] SD Platforms \n[this.maginot_offensive_upgrade_points_current] $offensive_upgrade_point_plural$ Available | [this.maginot_offensive_upgrade_points_max] Max from Jobs \n[this.maginot_defensive_upgrade_points_current] $defensive_upgrade_point_plural$ Available | [this.maginot_defensive_upgrade_points_max] Max from Jobs \nCurrent Modifiers: \n[this.maginot_orbital_defence_hp_upgrades] HP Upgrades \n+[this.maginot_orbital_defence_hp_display]% $MOD_SHIP_HULL_MULT$ \n+[this.maginot_orbital_defence_hp_display]% $MOD_SHIP_ARMOR_MULT$ \n+[this.maginot_orbital_defence_hp_display]% $MOD_SHIP_SHIELD_MULT$ \n+[this.maginot_orbital_defence_hp_regen_display] $MOD_SHIP_HULL_REGEN_ADD_STATIC$ \n+[this.maginot_orbital_defence_hp_regen_display] $MOD_SHIP_ARMOR_REGEN_ADD_STATIC$ \n+[this.maginot_orbital_defence_hp_regen_display] $MOD_SHIP_SHIELD_REGEN_ADD_STATIC$ \n[this.maginot_orbital_defence_atk_upgrades] ATK Upgrades \n+[this.maginot_orbital_defence_atk_display]% $MOD_SHIP_WEAPON_DAMAGE$ \n+[this.maginot_orbital_defence_atk_display]% $MOD_SHIP_FIRE_RATE_MULT$ \n[this.maginot_orbital_defence_trg_upgrades] TRG Upgrades \n+[this.maginot_orbital_defence_range_display]% $MOD_SHIP_WEAPON_RANGE_MULT$ \n+[this.maginot_orbital_defence_tracking_display] $MOD_SHIP_TRACKING_ADD$ \nCurrent Alloys Variable: £alloys£ [this.giga_current_alloy_stockpile]
+Clicking will refresh values like Upgrade Points, Current Alloys, and SD Platform Count for use in other decisions.
+£maginot_bunker_4£ Maginot Construct Secondary SD Platform
+Spend 2 $offensive_upgrade_point_plural$ to create a new $name_asteroid_artillery$ for use as a supporting Strategic Defence Platform  \nCurrent Platforms: [this.giga_maginot_current_SD_platform_count] \n[this.maginot_offensive_upgrade_points_current] $offensive_upgrade_point_plural$ Available
+Knocking asteroids into orbit for mining is old-fashion, hollowing them out for use as defence platforms is far more interesting.
+£maginot_bunker_5£ Maginot Upgrade Orbital Protective Systems
+Cost: [this.maginot_orbital_defence_hp_cost] £alloys£ $alloys$ \nSpend 1 $defensive_upgrade_point$ for \n+25% $MOD_SHIP_HULL_MULT$ | Current +[this.maginot_orbital_defence_hp_display]% \n+25% $MOD_SHIP_ARMOR_MULT$ | Current +[this.maginot_orbital_defence_hp_display]% \n+25% $MOD_SHIP_SHIELD_MULT$ | Current +[this.maginot_orbital_defence_hp_display]% \n+500 $MOD_SHIP_HULL_REGEN_ADD_STATIC$ | Current +[this.maginot_orbital_defence_hp_regen_display] \n+500 $MOD_SHIP_ARMOR_REGEN_ADD_STATIC$ | Current +[this.maginot_orbital_defence_hp_regen_display] \n+500 $MOD_SHIP_SHIELD_REGEN_ADD_STATIC$ | Current +[this.maginot_orbital_defence_hp_regen_display] \nCurrent Level: [this.maginot_orbital_defence_hp_upgrades] \n[this.maginot_defensive_upgrade_points_current] $defensive_upgrade_point_plural$ Available
+Not only can shield generators contribute their shields to orbital platforms, they can also be converted to molecular binding generators to boost hull integrity.
+£maginot_bunker_6£ Maginot Upgrade Orbital Firepower
+Cost: [this.maginot_orbital_defence_atk_cost] £alloys£ $alloys$ \nSpend 1 $offensive_upgrade_point$ for \n+10% $MOD_SHIP_WEAPON_DAMAGE$ | Current +[this.maginot_orbital_defence_atk_display]% \n+10% $MOD_SHIP_FIRE_RATE_MULT$ | Current +[this.maginot_orbital_defence_atk_display]% \nCurrent Level: [this.maginot_orbital_defence_atk_upgrades] \n[this.maginot_offensive_upgrade_points_current] $offensive_upgrade_point_plural$ Available
+More cannons is always better. Expanding uplink facilities for ever-improving coordination of the vast orbital swarms never hurts either.
+£maginot_bunker_7£ Maginot Orbital Targetting Systems
+Cost: [this.maginot_orbital_defence_trg_cost] £alloys£ $alloys$ \nSpend 1 $defensive_upgrade_point$ for \n+20% $MOD_SHIP_WEAPON_RANGE_MULT$ | Current +[this.maginot_orbital_defence_range_display]% \n+5 $MOD_SHIP_TRACKING_ADD$ | Current +[this.maginot_orbital_defence_tracking_display] \nCurrent Level: [this.maginot_orbital_defence_trg_upgrades] \n[this.maginot_defensive_upgrade_points_current] $defensive_upgrade_point_plural$ Available
+Planetary sensor stations can replace shield generators to provide improved targetting information and monitor the entire solar system.
+£job_maginot_shield_generator_operator£ Defensive Upgrade Point
+$defensive_upgrade_point$s
+£job_maginot_planetary_cannon_operator£ Offensive Upgrade Point
+$offensive_upgrade_point$s
+£trigger_no£ No $offensive_upgrade_point_plural$ available
+£trigger_no£ No $defensive_upgrade_point_plural$ available
+£trigger_no£ Targetting systems can only be upgraded 5 times in total.
+Barracks District
+Sprawling support facilities for housing troops on and below the surface, including various leisure and recreation areas.
+Barracks Districts
+Shield Generator Array
+Emitters of scales unheard of for any single ship generate force fields to rival entire navies. Additional point-defence weaponry and anti-missile missile silos prevent most ordnance from even getting that far. Specialized support facilities can be used to supplement orbital platform shields.
+Shield Generator Arrays
+Provides 1 Shield Battery army capable of soaking up vast amounts of enemy fire.
+Orbital Defence Grid
+The towering planetary cannons are quite capable of shredding any vessel in low orbit - ensuring starship captains stay well out of their firing envelopes. As such the cannons are mainly prepared for interception duties against enemy ordnance and dropships. Vast command and control complexes interface with orbital strategic defence systems, allowing deployment of greater numbers of platforms, as well as strengthening existing ones.
+Orbital Defence Grids
+Provides 1 Planetary Artillery army which deals extreme damage but is relatively fragile.
+Bunker Complex
+Bunkers and heavy anti-ground weaponry as far as the eye can see. The ground is criss-crossed by endless trenches, tank traps, and heavy barriers that ensure nothing ever moves in straight lines on this world. Camouflaged gun emplacements are ready to rain hell on enemy forces, their overlapping fields of fire covering every square meter on the planet. Extensive training facilities ensure our troops are prepared for any contingency, and drills are constantly held on all sorts of terrain.
+Bunker Complexes
+Provides 1 Fortification Network army which cripples the morale of enemy troops while inflicting steady damage.
+$name_maginot_world$ Captured
+Our forces report the successful capture of the $name_maginot_world$ [From.GetName] in the [From.GetStarName] system. The fighting extended deep into the planet's crust through a vast maze of bunkers and defences, but in the end our forces proved superior. The insidious Dead Hand failsafe system was prevented from firing, even though the enemy commanders staffing it fought to the bitter end. Planetary destruction was sucessfully averted, and we may now take full control of all $name_maginot_world$ functions. Note that the subspace disruption system will have to be re-enabled manually.
+Excellent.
+Successful Dead Hand Activation in [From.GetStarName]!
+The worst has come to pass. The $name_maginot_world$ [From.GetName] in the [From.GetStarName] system has been lost with all hands.\n\nAfter our enemy deployed weaponry powerful enough to destroy the world, the Dead Hand antimatter confinement system failed as intended and promptly resulted in the release of vast quantities of energy. With clever placement and large-scale geoengineering, the blast was redirected as intended and effectively turned a continent-sized chunk of the crust into a single superpowered shaped charge.\n\nWe can be glad the sacrifice of [From.GetName] was not in vain, since any vessels left in orbit should have been obliterated by this weapon. Only a vessel much larger than the planet itself would be able to withstand our wrath.\n\nNote: The subspace disruption system was violently disabled, and the feedback will have forced a shutdown of any similar devices in nearby systems. Any remaining $name_maginot_world_plural$ should have their systems re-enabled manually.
+That should teach them to blow up our worlds.
+Disaster in [From.GetStarName]!
+Disaster has struck our fleet tasked with obliterating the $name_maginot_world$ [From.GetName] in the [From.GetStarName] system!\n\nWeapons deployment was proceeding as planned, until the world suddenly cracked open as a continent-sized chunk of mass shot out at near-relativistic speeds, creating an unfathomably large spear of superheated plasma. The shields of our ships instantly found themselves overloaded by the massive burst of full-spectrum radiation and relentless onslaught of kinetic energy, and all vessels in orbit have suffered massive structural damage. All fleets of smaller ships were instantly destroyed with all hands lost.\n\nIt appears the enemy stockpiled ridiculous amounts of antimatter as a failsafe should anyone try to destroy their world. We expect to find similar failsafes in any further $name_maginot_world_plural$ we encounter. If we do not use ground teams to carefully disable such machinery, we can expect more losses as the very planet itself is used as a final weapon.
+Disgraceful.
+Colossal failure in [From.GetStarName]!
+Disaster has struck our colossus tasked with obliterating the $name_maginot_world$ [From.GetName] in the [From.GetStarName] system!\n\nThe planet was seemingly destroyed as ordered, but as the last fortifications must have failed a continent-sized chunk of mass was blasted out at near-relativistic speeds, creating an unfathomably large spear of superheated plasma. The shields of our colossus found themselves instantly overloaded by the massive burst of full-spectrum radiation and relentless onslaught of kinetic energy, and it has suffered massive structural damage. As if that were not enough, any ships left in orbit were similarly affected, wiping out any smaller vessels.\n\nIt appears the enemy stockpiled ridiculous amounts of antimatter as a failsafe should anyone try to destroy their world. We expect to find similar failsafes in any further $name_maginot_world_plural$ we encounter. If we do not use ground teams to carefully disable such machinery, we can expect more losses as the very planet itself is used as a final weapon.
+That thing cost a lot!
+Maginot Strategic Defence Command Destroyed!
+The protective orbital command stations orbiting the $name_maginot_world$ [maginot_world_location.GetName] have been destroyed following fierce combat with the [maginot_orbital_defence_destroyer.GetName].\n\nOur orbital defences have been reduced to random debris, but the central defence station can be rebuilt with time. The Maginot World itself remains intact and will still resist ground invasion. If upgrades had been applied, repairing our defences will conserve whatever upgrades they might have had. Secondary SD Platforms will not be restored, and have to be built from scratch.
+Blast it!
+Maginot Strategic Defence Command Repaired!
+We have successfully repaired our command station orbiting the $name_maginot_world$ [maginot_world_location.GetName]. The structure has been brought back to working order, and is now ready to defend our territory.\n\nAny upgrades previously applied to the structure have been conserved, but secondary SD Platforms have not.
+Excellent!
+Maginot Central Command Staff
+Maginot Central Command Staff
+The general staff overseeing the $name_maginot_world$, consisting of the best officers the empire has to offer. They command the vast array of planetary defences from the deepest command complexes, ready to give their lives for our nation.
+£job_maginot_central_command£ $job_maginot_central_command_plural$ decrease £crime£ $PLANET_CRIME_TITLE$, increase £mod_planet_stability_add£ $PLANET_STABILITY_TITLE$, spawn £defense_army£ Defense Armies, increase £mod_country_naval_cap_add£ $MOD_COUNTRY_NAVAL_CAP_ADD$, and produce £unity£ $unity$ and £influence£ Influence
+$job_maginot_central_command$
+Maginot Central Command Drones
+Maginot Central Command Drones
+Specially selected drones especially fit for command duty, set to overseeing the $name_maginot_world$. They command the vast array of planetary defences from the deepest command complexes.
+£job_maginot_central_command_gestalt£ $job_maginot_central_command_gestalt_plural$ decrease £crime£ $PLANET_CRIME_TITLE$, increase £mod_planet_stability_add£ $PLANET_STABILITY_TITLE$, spawn £defense_army£ Defense Armies, increase £mod_country_naval_cap_add£ $MOD_COUNTRY_NAVAL_CAP_ADD$, and produce £unity£ $unity$ and £influence£ Influence
+$job_maginot_central_command_gestalt$
+Shield Generator Operator
+Shield Generator Operators
+Trained to operate city block-sized generator arrays, and otherwise ensure the $name_maginot_world$ remains quite safe from any threat of enemy ordnance striking.
+£job_maginot_shield_generator_operator£ $job_maginot_shield_generator_operator_plural$ enable defensive upgrades for the $name_maginot_world$, 1 point per job
+$job_maginot_shield_generator_operator$
+Shield Generator Operator Drone
+Shield Generator Operator Drones
+Trained to operate city block-sized generator arrays, and otherwise ensure the $name_maginot_world$ remains quite safe from any threat of enemy ordnance striking.
+£job_maginot_shield_generator_operator_gestalt£ $job_maginot_shield_generator_operator_gestalt_plural$ enable defensive upgrades for the $name_maginot_world$, 1 point per job
+$job_maginot_shield_generator_operator_gestalt$
+Defence Grid Operator
+Defence Grid Operators
+A horde of trained engineers maintain both planetary cannons and orbital uplinks. Trained personnel are stationed both on the ground weapons as well as in orbital SD platforms to engage any hostile foolish enough to share a system with a $name_maginot_world$.
+£job_maginot_planetary_cannon_operator£ $job_maginot_planetary_cannon_operator_plural$ enable offensive upgrades for the $name_maginot_world$, 1 point per job
+$job_maginot_planetary_cannon_operator$
+Defence Grid Operator Drone
+Defence Grid Operator Drones
+A horde of trained engineer drones maintain both planetary cannons and orbital uplinks. Combat drones are stationed both on the ground weapons as well as in orbital SD platforms to engage any hostile foolish enough to share a system with a $name_maginot_world$.
+£job_maginot_planetary_cannon_operator_gestalt£ $job_maginot_planetary_cannon_operator_gestalt_plural$ enable offensive upgrades for the $name_maginot_world$, 1 point per job
+$job_maginot_planetary_cannon_operator_gestalt$
+Maginot Defence Commander
+Maginot Defence Commanders
+Officers charged with organizing the defence of a whole bunker sector.
+£job_maginot_bunker_officer£ $job_maginot_bunker_officer_plural$ produce £unity£ $unity$, increase £mod_country_naval_cap_add£ $MOD_COUNTRY_NAVAL_CAP_ADD$ and spawn £defense_army£ Defense Armies
+$job_maginot_bunker_officer$
+Maginot Defence Command Drone
+Maginot Defence Command Drones
+Drones specially created to organize the defence of a whole bunker sector.
+£job_maginot_bunker_officer_gestalt£ $job_maginot_bunker_officer_gestalt_plural$ produce £unity£ $unity$, increase £mod_country_naval_cap_add£ $MOD_COUNTRY_NAVAL_CAP_ADD$ and spawn £defense_army£ Defense Armies
+$job_maginot_bunker_officer_gestalt$
+Maginot Military Police
+Maginot Military Police
+Tasked with maintaining the peace and law enforcement duties, they are specially trained to deal with armed military personnel on a daily basis, a constant of life on a $name_maginot_world$.
+£job_maginot_military_police£ $job_maginot_military_police_plural$ decrease £crime£ $PLANET_CRIME_TITLE$, increase £mod_planet_stability_add£ $PLANET_STABILITY_TITLE$, and spawn £defense_army£ Defense Armies
+$job_maginot_military_police$
+$name_maginot_world$ Construction Site
+The Construction Site for a future $name_maginot_world$ to be built into the planet below. This massive stronghold will one day both stretch far into the planet's mantle and beyond the atmosphere into deep space, presenting a nigh-unassailable obstacle to enemies. All districts on the planet will be replaced with unique defensive ones, and management of planetary defence platforms will become available.
+A vast fortress-complex engulfing an entire planet, providing the ultimate defence against any enemy in any theatre.
+$name_maginot_world$ Scaffold
+Initial geoforming, excavation, and space elevator construction, along with the beginnings of the attached defence ring. The deepest bunkers have been dug, and installation of the Dead Hand system may begin.
+$name_maginot_world$
+A vast planet-spanning stronghold that seeks to be utterly unassailable for any enemy force.
+$TRIGGER_FAIL$Cannot build on artificial structures.
+$TRIGGER_FAIL$Cannot build a Maginot World on a Maginot World. Duh.
+$TRIGGER_FAIL$We must prepare construction space for the planetary bunkers by building a $building_giga_maginot_stronghold$ first.
+$name_maginot_world$ Construction Site Complete
+The construction site for a future $name_maginot_world$ has now been completed in the [giga_system.GetName] system. Soon the planet shall become one massive fortress complex, and we shall have the ultimate defence. \n\n§RWARNING: The $name_maginot_world$ features a failsafe that detonates the planet and annihilates any ships in orbit in case of colony destruction!
+Excellent.
+$name_maginot_world$ Internals Complete
+We are another step closer to completing a $name_maginot_world$ in the [giga_system.GetName] system. Geoforming and space-based construction is well under way, and we have dug the spaces for the deepest bunkers and command centers. We are now ready to install the antimatter-based failsafe system, and finalize the initial planetary defences.
+Excellent.
+$name_maginot_world$ Complete!
+Fantastic news! In the [giga_system.GetName] system, we have completed our ultimate stronghold, which stretches from outer space to the planet's mantle. This truly awe-inspiring construct is nigh unassailable by any force, featuring integrated orbital defences, planetary cannons, vast surface bunkers, deep underground command complexes, and shield generators far outstripping the generation capabilities of entire naval fleets. \nIn addition, the final Dead Hand system guards against even wholesale planetary destruction, by using the entire planet as a vast antimatter-fuelled shaped charge in case of failsafe activation - completely annihilating any hostile forces in orbit. \n\nThe various defence systems can be managed through decisions. Build districts to gain $defensive_upgrade_point_plural$ and $offensive_upgrade_point_plural$ for use with these decisions.
+At last, we are safe.
+Subspace Disruption System Activated
+The $name_maginot_world$ is generating a powerful disruption field that propagates through subspace, preventing wormhole operation in this system. Additionally, jump drives are rendered inoperable in this and nearby systems.
+Active Subspace Disruption Field
+This system is being affected by a powerful disruption field, making subspace travel and jump drive use impossible.
+Maginot SD Platform Defensive Upgrade
+Maginot SD Platform Weapons Upgrade
+Maginot SD Platform Targetting Upgrade
+Maginot World
+Maginot Worlds
+$name_maginot_world$
+A vast planet-spanning stronghold that seeks to be utterly unassailable for any enemy force.
+$name_maginot_world$
+$name_maginot_world$ Habitability
+$name_maginot_world$ Preference
+This species has evolved to prefer the security of massive bunker complexes.
+Central Maginot Command Complex
+The deepest, most heavily defended command and control bunkers in the planet. Also houses the massive antimatter-based Dead Hand system in case of planet destruction.
+$name_maginot_world$
+This planetary fortress is the ultimate defensive structure, making foreign invasion near-impossible.
+Central Strategic Defence Command
+Central Strategic Defence Command
+Unlocks Platform Type: $strategic_defence_command_platform$
+A central platform for coordination of orbital defence for our Maginot Worlds.
+Central Command
+Orbital Heavy Weapons
+Orbital Strike Craft
+Orbital Support Platforms
+Maginot Power System
+Multiple redundant connections with the host $name_maginot_world$ and its buried power systems provide energy for all orbital operations.
+Omega Annihilation Lance
+A literal moon-sized weapon, nothing less will do to protect our $name_maginot_world$. Powered by a massive reactor installed within the host planet's core, and regulated by a plethora of systems beneath the crust, this energy lance can, and will shred anything in its way.
+Heavy Planetary Batteries
+Massive kinetic batteries built on the $name_maginot_world$'s surface, capable of immense devastation when interlinked with orbital systems.
+Ultimate Strongpoint Defence Theory
+To defend our empire we must construct the ultimate defensive strongpoint, and transform an entire planet into a massive fortress complex - the $name_maginot_world$. \nThis world shall be equipped with orbital defences, planetary cannons, countless bunkers, deep underground command complexes, and continent-sized shield generators. In addition, a Dead Hand system will be developed to deter enemy Colossus-class warships.
+Total: 72550
