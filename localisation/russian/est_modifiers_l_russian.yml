@@ -15,11 +15,11 @@ mod_est_omnipresence_4:0 "$tr_est_omnipresence_4$"
 mod_est_omnipresence_4_desc:0 "$tr_est_omnipresence_4_delayed$"
 
 #Commerce
-mod_est_commerce_2_energy:0 "$tr_est_commerce_2$ - Energy Credits"
+mod_est_commerce_2_energy:0 "$tr_est_commerce_2$ - Энергокредиты"
 mod_est_commerce_2_energy_desc:0 "$tr_est_commerce_2_delayed$"
-mod_est_commerce_2_food:0 "$tr_est_commerce_2$ - Food"
+mod_est_commerce_2_food:0 "$tr_est_commerce_2$ - Пища"
 mod_est_commerce_2_food_desc:0 "$tr_est_commerce_2_delayed$"
-mod_est_commerce_2_minerals:0 "$tr_est_commerce_2$ - Minerals"
+mod_est_commerce_2_minerals:0 "$tr_est_commerce_2$ - Минералы"
 mod_est_commerce_2_minerals_desc:0 "$tr_est_commerce_2_delayed$"
 
 #Foundation/Confederacy/Subminds
@@ -110,11 +110,11 @@ mod_est_desires_4:0 "$tr_est_desires_4$"
 mod_est_desires_4_desc:0 "$tr_est_desires_4_delayed$"
 
 #Destruction
-mod_est_destruction_3_eradicated:0 "Planet Eradicated"
-mod_est_destruction_3_eradicated_desc:0 "The surface of this planet have been utterly destroyed, all traces of life removed from its surfaces. Even the seas and the atmosphere is gone."
+mod_est_destruction_3_eradicated:0 "Планета разрушена"
+mod_est_destruction_3_eradicated_desc:0 "Планеты была полностью разрушена, все следы жизни удалены с ее поверхностей. Даже моря и атмосфера исчезли."
 
 #Industry
-mod_est_industry_5:0 "Forge World"
+mod_est_industry_5:0 "Мир-кузница"
 mod_est_industry_5_desc:0 "$tr_est_industry_5_delayed$"
 mod_est_industry_5_GC:0 "$mod_est_industry_5$"
 mod_est_industry_5_GC_desc:0 "$mod_est_industry_5_desc$"
@@ -126,7 +126,7 @@ mod_est_liberty_3:0 "$tr_est_liberty_3$"
 mod_est_liberty_3_desc:0 "$tr_est_liberty_3_delayed$"
 
 #Militarism
-mod_est_militarism_4_1:0 "Fortress World"
+mod_est_militarism_4_1:0 "Мир-крепость"
 mod_est_militarism_4_1_desc:0 "$tr_est_militarism_4_delayed$"
 mod_est_militarism_4_2:0 "$mod_est_militarism_4_1$"
 mod_est_militarism_4_2_desc:0 "$tr_est_militarism_4_delayed$ "
@@ -141,12 +141,12 @@ mod_est_cooperativity_adopt_3_desc:0 "$tradition_est_cooperativity_desc$"
 
 mod_est_cooperativity_5:0 "$tr_est_cooperativity_5$"
 mod_est_cooperativity_5_desc:0 "$tr_est_cooperativity_5_desc$"
-mod_est_cooperativity_5_machines:0 "$tr_est_cooperativity_5$"
-mod_est_cooperativity_5_machines_desc:0 "$tr_est_cooperativity_5_desc$"
+mod_est_cooperativity_5_machines:0 "$tr_est_cooperativity_5_machines$"
+mod_est_cooperativity_5_machines_desc:0 "$tr_est_cooperativity_5_machines_desc$"
 
 #Piracy
-mod_est_piracy_finish:0 "Looted"
-mod_est_piracy_finish_desc:0 "This planet have been looted. Most things of value of use have been taken, much of what remained were destroyed. It will take time for us to rebuild."
+mod_est_piracy_finish:0 "Разграбленная"
+mod_est_piracy_finish_desc:0 "Эта планета была разграблена. Большая часть всех ценностей изъята или уничтожена. Потребуется значительное время для восстановления."
 
 #Spaceborn
 mod_est_spaceborn_5_habitat:0 "$tr_est_spaceborn_5$"
@@ -240,22 +240,22 @@ mod_est_commerce_finish_4:0 "$tr_est_commerce_adopt$"
 mod_est_commerce_finish_5:0 "$tr_est_commerce_adopt$"
 
 #Chivalry
-mod_est_chivalry_finish_courage:0 "The Virtue of Courage"
-mod_est_chivalry_finish_charity:0 "The Virtue of Charity"
-mod_est_chivalry_finish_humility:0 "The Virtue of Humility"
-mod_est_chivalry_finish_duty:0 "The Virtue of Duty"
-mod_est_chivalry_finish_kindness:0 "The Virtue of Kindness"
-mod_est_chivalry_finish_patience:0 "The Virtue of Patience"
-mod_est_chivalry_finish_moderation:0 "The Virtue of Moderation"
-mod_est_chivalry_finish_diligence:0 "The Virtue of Diligence"
+mod_est_chivalry_finish_courage:0 "Добродетель мужества"
+mod_est_chivalry_finish_charity:0 "Добродетель милосердия"
+mod_est_chivalry_finish_humility:0 "Добродетель смирения"
+mod_est_chivalry_finish_duty:0 "Добродетель долга"
+mod_est_chivalry_finish_kindness:0 "Добродетель доброты"
+mod_est_chivalry_finish_patience:0 "Добродетель терпения"
+mod_est_chivalry_finish_moderation:0 "Добродетель умеренности"
+mod_est_chivalry_finish_diligence:0 "Добродетель усердия"
 
 #Processing
-mod_est_processing_finish_PP_1:0 "$tr_est_serverbound_adopt$"
-mod_est_processing_finish_PP_2:0 "$tr_est_serverbound_adopt$"
-mod_est_processing_finish_PP_3:0 "$tr_est_serverbound_adopt$"
-mod_est_processing_finish_T_1:0 "$tr_est_serverbound_adopt$"
-mod_est_processing_finish_T_2:0 "$tr_est_serverbound_adopt$"
-mod_est_processing_finish_T_3:0 "$tr_est_serverbound_adopt$"
+mod_est_processing_finish_PP_1:0 "$tr_est_processing_adopt$"
+mod_est_processing_finish_PP_2:0 "$tr_est_processing_adopt$"
+mod_est_processing_finish_PP_3:0 "$tr_est_processing_adopt$"
+mod_est_processing_finish_T_1:0 "$tr_est_processing_adopt$"
+mod_est_processing_finish_T_2:0 "$tr_est_processing_adopt$"
+mod_est_processing_finish_T_3:0 "$tr_est_processing_adopt$"
 
 #Foundation/Confederacy
 
@@ -295,7 +295,7 @@ mod_est_proselytism_1_materialist:0 "$tr_est_proselytism_1$"
 mod_est_proselytism_1_materialist_fanatic:0 "$tr_est_proselytism_1$"
 mod_est_proselytism_1_spiritualist:0 "$tr_est_proselytism_1$"
 mod_est_proselytism_1_spiritualist_fanatic:0 "$tr_est_proselytism_1$"
-mod_est_proselytism_2:0 "Crusade"
+mod_est_proselytism_2:0 "Крестовый поход"
 mod_est_proselytism_4_authoritarian:0 "$tr_est_proselytism_4$"
 mod_est_proselytism_4_authoritarian_fanatic:0 "$tr_est_proselytism_4$"
 mod_est_proselytism_4_egalitarian:0 "$tr_est_proselytism_4$"
@@ -340,13 +340,13 @@ mod_est_might_5_5:0 "$tr_est_might_2$"
 mod_est_might_5_tmp:0 "$tr_est_might_2$"
 
 #Mystery/Philosophy
-mod_est_mystery_adopt:0 "$tr_est_mystery_adopt$"
+mod_est_mysticism_adopt:0 "$tr_est_mysticism_adopt$"
 mod_est_philosophy_3:0 "$tr_est_philosophy_3$"
 mod_est_philosophy_3_no_dip:0 "$tr_est_philosophy_3$"
 
 #Natural
-mod_est_nature_5:0 "Preserve Destroyed"
-mod_est_nature_5_desc:0 "The destruction of a preserve causes great grief and controversy."
+mod_est_nature_5:0 "Заповедник уничтожен"
+mod_est_nature_5_desc:0 "Уничтожение природного заповедника вызывает множество проблем и, как минимум, неоднозначную реакцию в обществе."
 
 #Order
 mod_est_order_1_1:0 "$tr_est_order_1$"
@@ -360,6 +360,7 @@ mod_est_order_1_8:0 "$tr_est_order_1$"
 
 #Piracy
 mod_est_piracy_adopt_special:0 "$tr_est_piracy_adopt$"
+mod_est_piracy_adopt_special_GC:0 "$tr_est_piracy_adopt_GC$"
 mod_est_piracy_2:0 "Raids"
 mod_est_piracy_3:0 "$tr_est_piracy_3$"
 
@@ -377,7 +378,7 @@ mod_est_cybernetics_4:0 "$tr_est_cybernetics_4$"
 mod_est_confederacy_5:0 "$tr_est_confederacy_5$"
 
 #Greed
-mod_est_greed_5:0 "Faction Bribed"
+mod_est_greed_5:0 "Фракция подкуплена"
 
 #Destruction
 mod_est_destruction_3:0 "tr_est_destruction_3"
@@ -439,3 +440,7 @@ mod_est_fury_finish_5:0 "$tr_est_fury_finish$"
 ####################################
 # Compatibility Modifiers
 ####################################
+
+mod_est_mystery_adopt: "$tr_est_mystery_adopt$"
+mod_est_mysticism_adopt: "$tr_est_mysticism_adopt$"
+mod_est_piracy_adopt_special_GC: "$tr_est_piracy_adopt_GC$"
