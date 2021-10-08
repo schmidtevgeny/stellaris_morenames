@@ -1,0 +1,86 @@
+﻿# Vestigial Wormhole
+# By ViolentBeetle
+
+l_russian:
+
+ mem_vestigial_wormhole_object: "Червоточина"
+ mem_vestigial_wormhole_object_desc: "Пространственный разлом, соединяющий два удаленных друг от друга места. Эта дестабилизирована до невозможности восстановления - вряд ли что-то может войти или выйти."
+ mem_vestigial_wormhole_ship_object: "Неизвестный корабль"
+ 
+ MEM_VESTIGIAL_WORMHOLE_TEMPLATE: "Секция исследователей червоточин"
+ mem_vestigial_wormhole_science_ship: "$science$"
+ mem_vestigial_wormhole_science_ship_plural: "$science_plural$"
+ shipsize_mem_vestigial_wormhole_science_ship_construction_speed_mult: ""
+ shipsize_mem_vestigial_wormhole_science_ship_build_cost_mult: ""
+ shipsize_mem_vestigial_wormhole_science_ship_upkeep_mult: ""
+ 
+ mem_vestigial_wormhole_wanderer_trait: "Странник по червоточинам"
+ mem_vestigial_wormhole_wanderer_trait_desc: "Оказавшись в ловушке внутри нестабильной червоточины, этот бесстрашный исследователь знает довольно много о космических исследованиях."
+ mem_vestigial_wormhole_scientist_spider: "Паук-мастер"
+ mem_vestigial_wormhole_scientist_spider_desc: "Этот лидер на самом деле является гигантским инопланетным пауком, управляющим безжизненной оболочкой офицера по науке, к которой он прикреплен."
+ mem_vestigial_wormhole_ruler_spider: "$mem_vestigial_wormhole_scientist_spider$"
+ mem_vestigial_wormhole_ruler_spider_desc: "$mem_vestigial_wormhole_scientist_spider_desc$"
+ 
+ mem_vestigial_wormhole.2.name: "Червоточина"
+ mem_vestigial_wormhole.2.desc: "Система [From.GetName] содержит необычную особенность - червоточину. \nОднако она очень нестабильна. Возможно, в далеком прошлом через нее можно было путешествовать в далекие миры, но сейчас она близка к полному разрушению. Его хаотичная природа делает невозможным путешествие через него: маловероятно, что что-либо сможет войти или выйти из него."
+ 
+ mem_vestigial_wormhole.3.name: "Червоточина"
+ mem_vestigial_wormhole.3.desc: "Червоточина в системе [the_system.GetName] оказалась менее нестабильной, чем мы думали. \n\nСегодня, вопреки всему, из нее вышел инопланетный корабль. Похоже, это стало последней каплей - несколько мгновений спустя червоточина полностью разрушилась. \n\n\nКорабль не похож ни на один из тех, с которыми мы сталкивались раньше. Похоже, он совершенно инертен и медленно дрейфует по системе."
+ mem_vestigial_wormhole.3.a: "Мы должны исследовать его."
+ mem_vestigial_wormhole.3.b: "Взорвите нарушителя в небе."
+ 
+ MEM_VESTIGIAL_WORMHOLE_PROJECT: "Исследуйте таинственный корабль"
+ MEM_VESTIGIAL_WORMHOLE_PROJECT_DESC: "Странный корабль появился из червоточины, прежде чем она разрушилась. Мы должны подняться на борт корабля и выяснить, кто или что привело его сюда - и что он принес с собой."
+ 
+ mem_vestigial_wormhole.4.name: "Выживший исследователь"
+ mem_vestigial_wormhole.4.desc: "[Leader.GetName] сообщает, что после высадки на неопознанный корабль, попавший в систему [the_system.GetName] через разрушающуюся червоточину, [Leader.GetSheHe] обнаружил нечто неожиданное: Живого пилота. \n\nКороткий допрос показал правду: пилот был ученым, исследовавшим червоточину, когда какая-то пространственная аномалия дестабилизировала ее. Сравнение наших звездных карт с теми, что хранятся на борту корабля, позволяет предположить, что путешествие [the_guy.GetHerHis] началось в нескольких галактиках от нас, около 2 миллиардов лет назад."
+ mem_vestigial_wormhole.4.a: "Предложите [the_guy.GetHerHim] должность в нашем научном отделе."
+ mem_vestigial_wormhole.4.a.tooltip: "Получите нового ученого."
+ mem_vestigial_wormhole.4.b: "Мы не нуждаемся в услугах [the_guy.GetHerHis]."
+ mem_vestigial_wormhole.4.c: "Казните нарушителя."
+ mem_vestigial_wormhole.4.d: "Подготовьте набор для вскрытия, чтобы изучить воздействие червоточины."
+ mem_vestigial_wormhole.4.inwards: "Изгнать [the_guy.GetHerHim], чтобы сохранить нашу культуру."
+ mem_vestigial_wormhole.4.servitor: "Мы найдем [the_guy.GetHerHim] место в святилище."
+ mem_vestigial_wormhole.4.purifier: "Казнить ксено-отбросов."
+ mem_vestigial_wormhole.4.terminator: "Уничтожить флешлинг."
+ mem_vestigial_wormhole.4.swarm: "Время ужина!"
+ mem_vestigial_wormhole.4.tooltip: "Мы берем под контроль новый научный корабль."
+ 
+ mem_vestigial_wormhole.6.name: "Гигантские космические пауки"
+ mem_vestigial_wormhole.6.desc.psi: "Когда [Root.GetName] приблизился к заброшенному судну в системе [Solar_System.GetName], [Leader.GetName] почувствовал множество разумов внутри: Холодные, чуждые хищные разумы, ждущие, когда добыча придет к ним. \n\nПри ближайшем рассмотрении оказалось, что корабль заполнен крупными и агрессивными восьминогими существами. Избежав засады благодаря предчувствию [Leader.GetHerHis], [Leader.GetName] мудро решил отступить и спустить корабль, чтобы сдержать биологическую опасность."
+ mem_vestigial_wormhole.6.desc.cyborg: "Бесхозное судно в системе [Solar_System.GetName] оказалось не таким заброшенным и безжизненным, как мы ожидали. \nКак только [Root.GetName] состыковался с ним, научная команда была атакована армией больших восьминогих существ. Одному из них даже удалось приблизиться к [Leader.GetName], но оно было испепелено недавно установленной системой личной защиты [Leader.GetHerHis]. \n\nКоманда была вынуждена отступить, сбрасывая корабль в процессе, чтобы избежать возможного заражения."
+ mem_vestigial_wormhole.6.desc.robot: "Бесхозное судно в системе [Solar_System.GetName] оказалось не таким уж заброшенным и безжизненным, как мы ожидали. \nПосле того, как [Root.GetName] состыковался с ним, научная команда была атакована армией больших восьминогих существ, которые, однако, не смогли пробить их броню и причинить какой-либо вред. \n\nЧтобы избежать возможного заражения, [Leader.GetName] решил спустить корабль на воду."
+ mem_vestigial_wormhole.desc.robust: "Бесхозное судно в системе [Solar_System.GetName] оказалось не таким заброшенным и безжизненным, как мы ожидали. \Как только [Root.GetName] пристыковался к нему, научная команда была атакована армией больших восьминогих существ. Одному из них даже удалось напасть из засады на [Leader.GetName], но когда оно укусило [Leader.GetHerHim], дополненная иммунная система [Leader.GetHerHis] распознала угрозу и оказалась довольно смертоносной для потенциального хищника. \nОднако, не желая испытывать удачу дальше, [Leader.GetName] решил покинуть корабль, чтобы предотвратить дальнейшее заражение."
+ mem_vestigial_wormhole.6.a.psi: "Предусмотрительность трудно переоценить."
+ mem_vestigial_wormhole.6.a.cyborg: "Наше средство от клопов усилено."
+ mem_vestigial_wormhole.6.a.robot: "Плоть слаба. Металл вечен."
+ mem_vestigial_wormhole.a.robust: "Убедитесь в нашем превосходстве."
+ 
+ mem_vestigial_wormhole.7.name: "Гигантские космические пауки"
+ mem_vestigial_wormhole.7.desc: "Бесхозное судно в системе [Solar_System.GetName] оказалось не таким уж заброшенным и безжизненным, как мы ожидали. \nКак только [Root.GetName] пристыковался к нему, научная команда была атакована армией больших восьминогих существ. Прежде чем они успели отреагировать, одно из самых крупных напало на [bitten_leader.GetName], прикрепилось к телу [bitten_leader.GetHerHis] и заставило [bitten_leader.GetHerHim] впасть в глубокую кому. Команда была вынуждена покинуть корабль, чтобы избежать дальнейшего заражения."
+ mem_vestigial_wormhole.7.a: "Верните [bitten_leader.GetName] домой для лечения."
+ mem_vestigial_wormhole.7.a.tooltip: "[bitten_leader.GetName] больше не сможет выполнять обязанности [bitten_leader.GetHerHis] из-за глубокой комы."
+ 
+ mem_vestigial_wormhole.8.name: "Восьмилапый"
+ mem_vestigial_wormhole.8.desc: "Через месяц после укуса [bitten_leader.GetName] очнулся в медицинском учреждении на [Capital_Scope.GetName]. Но [bitten_leader.GetSheHe] [bitten_leader.GetHasHave] изменился. \n\n\n[bitten_leader.GetHisHerCap] прежняя личность исчезла, очевидно, замененная гигантским пауком, все еще прикрепленным к телу [bitten_leader.GetHerHis]. Говоря через своего носителя, существо установило контакт. Оно называет себя Восьмилапым и утверждает, что является частью древнего и развитого вида. \nПризнав, что фактически убило [bitten_leader.GetName], оно предложило возместить ущерб, служа нашей империи вместо [bitten_leader.GetHerHis]."
+ mem_vestigial_wormhole.8.desc.hive: "[bitten_leader.GetName] снова проснулся, но он изменился. Мы больше не ощущаем [bitten_leader.GetHerHim] как часть нас. \n\nНовый, холодный и темный разум заменил его внутри: Существо, называющее себя Восьмилапым, овладело телом [bitten_leader.GetHerHis]. Оно предлагает служить нам теперь, в обмен на свою жизнь. Можем ли мы доверять ему?"
+ mem_vestigial_wormhole.8.a: "Примите Восьмилапого на службу."
+ mem_vestigial_wormhole.8.a.tooltip: "[bitten_leader.GetName] вернется к нам на службу как Восьмилапый. \nОни получат черту $mem_vestigial_wormhole_scientist_spider$, дающую +10% к скорости исследования."
+ mem_vestigial_wormhole.8.b: "Эвтаназия похитителя тел."
+ mem_vestigial_wormhole.8.b.tooltip: "[bitten_leader.GetName] умрет, но, по крайней мере, никто не будет ходить в коже [bitten_leader.GetHerHis]..."
+ mem_vestigial_wormhole.8.c: "Препарируйте странное существо."
+ mem_vestigial_wormhole.8.purifier: "Бросьте ксенозахватчика в мусоросжигатель."
+ mem_vestigial_wormhole.8.swarm: "Поглотить похитителя тел."
+ mem_vestigial_wormhole.8.swarm.tooltip: "Мы разберемся с Восьмилапыми так же, как и со всеми остальными..."
+ 
+ mem_vestigial_wormhole.9.name: "Корабль-призрак"
+ mem_vestigial_wormhole.9.desc: "[Leader.GetName] сообщает об успешной посадке на таинственный корабль, появившийся через червоточину в системе [Solar_System.GetName]. \n\nЧто команда [Leader.GetSheHe] и [Leader.GetHerHis] обнаружила внутри, трудно объяснить. Корабль явно спроектирован с учетом органического экипажа, но никаких живых существ или идентифицируемых останков обнаружено не было. Единственное, что указывает на то, что здесь когда-то были органические существа, - это пустой скафандр, все еще пристегнутый к креслу пилота. Нет никаких указаний на то, что могло случиться с пилотом, если, конечно, он вообще существовал. \n\nКорабль, похоже, предназначен для исследований и может быть перепрофилирован в другое научное судно."
+ mem_vestigial_wormhole.9.a: "Сделаем так."
+ mem_vestigial_wormhole.9.a.tooltip: "Мы получим новый научный корабль."
+ mem_vestigial_wormhole.9.b: "Демонтируйте корабль и изучите его секреты."
+ mem_vestigial_wormhole.9.c: "Уничтожьте его. Это может быть ловушка!"
+
+ mem_vestigial_wormhole.10.name: "Прочь от духов"
+ mem_vestigial_wormhole.10.desc: "[Root.GetName] сообщает об успешной посадке на странный корабль, который недавно появился в системе [Solar_System.GetName]. \nОднако сразу после того, как [stolen_leader.GetName] поднялся на борт, корабль внезапно исчез с сенсоров. Неясно, что произошло, но пространственные искажения, оставшиеся после корабля, говорят о том, что его засосало обратно в червоточину, откуда он появился, которую мы ошибочно считали закрытой. Без каких-либо средств слежения за кораблем, [stolen_leader.GetName] придется списать как жертву."
+ mem_vestigial_wormhole.10.a: "Пространственные аномалии унесли еще одну жертву..."
+ mem_vestigial_wormhole.10.a.tooltip: "[stolen_leader.GetName] исчез.	"
