@@ -1,0 +1,14 @@
+﻿l_russian:
+
+mem_booming_economy: "Процветающая экономика"
+mem_booming_economy_desc: "Экономика планеты растёт, приводя к выработке дополнительной энергии."
+mem_busted_economy: "Крах экономики"
+mem_busted_economy_desc: "Экономика планеты идёт на спад и выработка энергии сократилась."
+mem_pleased_by_custom_event: "Население довольно"
+mem_pleased_by_custom_event_desc: "Население довольно недавними событиями."
+mem_displeased_by_custom_event: "Население недовольно"
+mem_displeased_by_custom_event_desc: "Население недовольно недавними событиями."
+mem_opinion_allowed_merchant_access: "Открыт доступ к нашим торговцам"
+mem_opinion_refused_merchant_access: "В доступе к нашим торговцам отказано"
+mem_opinion_mutual_scam: "Довольны нашим взаимным надувательством"
+mem_opinion_peaceful_trade: "Наши первые торговые отношения были мирными"

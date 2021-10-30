@@ -1,0 +1,6 @@
+﻿l_russian:
+
+job_diagnostician: "Диагност"
+job_diagnostician_plural: "Диагносты"
+job_diagnostician_desc: "Эти специализированные работники галактической больницы являются экспертами в производстве роботов или увеличении воспроизводства органической жизни."
+mod_job_diagnostician_add: "$job_diagnostician$ Jobs"

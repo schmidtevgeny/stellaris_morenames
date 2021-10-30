@@ -1,44 +1,27 @@
-﻿#Wargames
-#By ViolentBeetle
+﻿l_russian:
 
-l_russian:
-
- mem_wargame_observer_object:0 "Заброшенная станция"
-
- # Anomaly deprecated, saved for posterity
- #mem_wargame_station_category:0 "Молчаливый наблюдатель"
- #mem_wargame_station_category_desc:0 "Заброшенная станция находится на орбите [This.GetName], тихо наблюдая за системой."
-
- mem_wargame.1.name:0 "Древнее поле битвы"
- mem_wargame.1.desc:0 "Тройная система [From.GetName] - довольно необычное зрелище. \nУсеянная обломками, она, тем не менее, полна жизни, а на нескольких планетах системы, похоже, живут примитивные цивилизации. \nМы обнаружили заброшенную станцию на орбите одной из изолированных планет, которая спокойно наблюдает за системой."
- mem_wargame.1.a:0 "Мы должны исследовать ее."
-
- MEM_WARGAME_EXPLORE_STATION:0 "Исследование заброшенной станции"
- MEM_WARGAME_EXPLORE_STATION_DESC:0 "При исследовании системы [mem_wargame_system.GetName] мы обнаружили заброшенную станцию на орбите одной из планет. Она может содержать интересную информацию о прошлом системы."
-
- mem_wargame.2.name:0 "Военные игры"
- mem_wargame.2.desc:0 "[Root.GetName] сообщает об успешном исследовании странной станции, вращающейся вокруг [mem_wargate_station_planet.GetName]. \n\n\nСудя по сохранившимся ядрам данных, система была создана как масштабный эксперимент или, возможно, форма развлечения. \nЧетыре вида были воскрешены неизвестной стороной, снабжены сверхсветовыми кораблями и отправлены на борьбу друг с другом, в то время как их благодетели могли наблюдать за происходящим из надежно спрятанного места на окраине системы. \nЭксперимент закончился внезапно, когда группа заговорщиков всех четырех видов проникла на станцию и уничтожила всех на борту. Странно, но никакого возмездия не последовало, и аборигены, не имея практических знаний, необходимых для поддержания подаренной им технологии, вскоре вернулись к примитивной жизни."
-
- # New Content for 2.3 dig
-
- mem_wargames_station_site: "Заброшенная станция"
- mem_wargames_station_site_desc: "Затерянная на окраине системы, скрытая атмосферой газового гиганта, эта заброшенная станция определенно заслуживает изучения."
-
- mem_wargame.3.name: "Ангар"
- mem_wargame.3.desc: "Найти вход на станцию оказалось не так уж сложно. Ангар для шаттлов оставлен открытым, воздух из него удален, и атмосфера в этой части станции отсутствует. \n\nНа некоторых стенах видны следы от энергетического оружия, а также, как ни удивительно, от ударов баллистического оружия с химическим двигателем. Причина выделения воздуха пока остается неясной, но это определенно не было вызвано боевыми действиями."
- mem_wargame.4.name: "Смотровой зал"
- mem_wargame.4.desc: "Археологи делают успехи внутри станции, вращающейся вокруг [From.Planet.GetName]. \n\nСамым последним открытием для них стало большое помещение, стены которого покрыты большими экранами и оборудованы удобствами для большого количества зрителей. Можно обнаружить бар, столы и сидячие места. Также видны незначительные следы боевых действий, такие как разбитые стаканы и сломанные экраны."
- mem_wargame.5.name: "Военные игры"
- mem_wargame.5.desc: "[Leader.GetName] сообщает об успешном исследовании странной станции, вращающейся вокруг [From.Planet.GetName]. \n\nСудя по сохранившимся ядрам данных, система была создана как масштабный эксперимент или, возможно, форма развлечения. \nЧетыре вида были воскрешены неизвестной стороной, снабжены сверхсветовыми кораблями и отправлены на борьбу друг с другом, в то время как их благодетели могли наблюдать за происходящим из надежно спрятанного места на окраине системы. \nЭксперимент закончился внезапно, когда группа заговорщиков всех четырех видов проникла на станцию и уничтожила всех на борту. Странно, но никакого возмездия не последовало, и аборигены, не имея практических знаний, необходимых для поддержания подаренной им технологии, вскоре вернулись к примитивной жизни."
-
- mem_wargame.5.ega: "Это все веселье и игры, пока кого-то не выбросили из шлюза."
- mem_wargame.5.pac: "Такое варварство..."
- mem_wargame.5.pacphobe: "Играть в дурацкие игры - выигрывать дурацкие призы."
- mem_wargame.5.mil: "Звучит забавно."
- mem_wargame.5.mat: "Возможно, это было очень познавательно."
-
- mem_wargames_comprehensive_study: "Всеобъемлющая психоистория"
- mem_wargames_comprehensive_study_desc: "Данные, извлеченные из наблюдательной станции Wargame, многое изменили в нашем отношении к примитивным цивилизациям."
-
- mod_station_observer_missions_upkeep_mult: "Обслуживание миссии наблюдательной станции"
- mod_station_observer_missions_produces_mult: "Выход миссии наблюдательного аванпоста"
+mem_wargame_observer_object: "Заброшенная Cтанция"
+mem_wargame.1.name: "Древнее Поля Боя"
+mem_wargame.1.desc: "Тройная система §Y[From.GetName]§! является весьма необычной. \n\nЗамусоренная обломками, она, тем не менее, полна жизни, а на нескольких планетах системы, похоже, живут примитивные цивилизации. \n\nМы обнаружили заброшенную станцию на орбите одной из изолированных планет, которая спокойно наблюдает за системой."
+mem_wargame.1.a: "Мы должны исследовать это."
+MEM_WARGAME_EXPLORE_STATION: "Исследование Заброшенной Станции"
+MEM_WARGAME_EXPLORE_STATION_DESC: "Во время изучения Системы§Y[mem_wargame_system.GetName]§!, — мы обнаружили заброшенную станцию на орбите одной из планет. Она может содержать интересную информацию о прошлом системы."
+mem_wargame.2.name: "Военные Игры"
+mem_wargame.2.desc: "[Root.GetName] reports the successful investigation of a strange station orbiting [mem_wargate_station_planet.GetName]. \n\nJudging by surviving data cores, the system was set up as a massive experiment, or possibly a form of entertainment. \n\nFour species were uplifted by an unknown party, provided with FTL-incapable warships and set to fight each other, while their benefactors could watch from a safely hidden location on the system's outskirts. \n\nThe experiment came to abrupt end when a group of conspirators from all four species infiltrated the station and massacred everyone on board. Strangely, no retaliation followed, and the natives, lacking the practical knowledge required to maintain the technology they had been gifted, soon settled back into primitive life."
+mem_wargames_station_site: "Заброшенная Cтанция"
+mem_wargames_station_site_desc: "Запрятанная на окраине системы, скрытая атмосферой газового гиганта, эта заброшенная станция определенно заслуживает нашего внимания."
+mem_wargame.3.name: "Ангар"
+mem_wargame.3.desc: "Найти точку входа на станцию оказалось не так уж сложно. Ангар для шаттлов остался широко открытым, а воздух был выпущен, не оставляя никакой атмосферы в этой части станции. \n\nНа некоторых стенах видны следы ожогов от энергетического оружия, а также, как это ни удивительно, от ударов баллистического оружия с химическим зарядом. Причина выброса воздуха пока остается неясной, но это точно не было связано с боем."
+mem_wargame.4.name: "Зрительный Зал"
+mem_wargame.4.desc: "Археологи делают успехи внутри станции, вращающейся вокруг [From.Planet.GetName]. \n\nИх последняя находка - большая комната, стены которой покрыты большими экранами и заполнены удобствами для большого количества зрителей. Здесь можно обнаружить бар, столы и сидячие места. Также видны незначительные следы драки, такие как разбитые стаканы и сломанные экраны."
+mem_wargame.5.name: "Военные Игры"
+mem_wargame.5.desc: "[Leader.GetName] reports the successful investigation of a strange station orbiting [From.Planet.GetName]. \n\nJudging by surviving data cores, the system was set up as a massive experiment, or possibly a form of entertainment. \n\nFour species were uplifted by an unknown party, provided with FTL-incapable warships and set to fight each other, while their benefactors could watch from a safely hidden location on the system's outskirts. \n\nThe experiment came to abrupt end when a group of conspirators from all four species infiltrated the station and massacred everyone on board. Strangely, no retaliation followed, and the natives, lacking the practical knowledge required to maintain the technology they had been gifted, soon settled back into primitive life."
+mem_wargame.5.ega: "Это всё весело и выглядит как игра, пока тебя не выбрасывают в атмосферу."
+mem_wargame.5.pac: "Такое варварство..."
+mem_wargame.5.pacphobe: "Играйте в дурацкие игры - выигрывайте дурацкие призы."
+mem_wargame.5.mil: "Звучит весело."
+mem_wargame.5.mat: "Наверное, это было очень познавательно."
+mem_wargames_comprehensive_study: "Всеобъемлющая Психоистория"
+mem_wargames_comprehensive_study_desc: "Данные, полученные со станции наблюдения за военными играми, многое изменили в нашем отношении к примитивным цивилизациям."
+mod_station_observer_missions_upkeep_mult: "Стоимость Содержания Миссии Поста Наблюдения"
+mod_station_observer_missions_produces_mult: "Производство от Миссии Поста Наблюдения"

@@ -1,0 +1,10 @@
+﻿l_russian:
+
+mem_solar_riches_category: "Солнечные богатства"
+mem_solar_riches_category_desc: "Сканирование этой звезды отмечают возможное близкое присутствие групп небольших объектов. Наши лучшие оценки траектории предполагают медленно затухающую орбиту."
+mem_solar_riches.1.name: "Солнечные богатства обнаружены"
+mem_solar_riches.1.desc: "Ученый §Y[Root.GetLeaderName]§! обнаружил группу ветхих солнечных коллекторов, построенных неизвестной инопланетной расой. Даже в столь плохом состоянии, они по-прежнему собирают солнечную энергию с большей эффективностью, чем мы когда-либо могли представить."
+mem_solar_riches.1.a: "Извлеките запасы энергии и переработайте оставшееся."
+mem_solar_riches.1.b: "Изучите конструкцию, лежащую в их основе."
+mem_solar_riches.2.name: "Провал расчета траектории"
+mem_solar_riches.2.desc: "§Y[Root.GetLeaderName]§! reports that all traces of the structures have disappeared and apologizes for the resources spent calculating the orbital decay of non-existent objects."

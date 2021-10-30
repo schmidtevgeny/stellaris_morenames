@@ -1,0 +1,18 @@
+﻿l_russian:
+
+EKITS: "Кицунэ"
+EKITS_desc: "Жители галактики не влияют на вашу Империю, но ваши Кицунэ могут считать, что другие Кицунэ менее чужды им, чем другие предствители галактики."
+EKITS_plural: "Кицунэ"
+EKITS_insult_01: "зверь"
+EKITS_insult_plural_01: "звери"
+EKITS_compliment_01: "ангел"
+EKITS_compliment_plural_01: "ангелы"
+EKITS_spawn: "дева"
+EKITS_spawn_plural: "дева"
+EKITS_sound_01: "рычать"
+EKITS_sound_02: "ворчать"
+EKITS_sound_03: "тявкать"
+EKITS_sound_04: "выть"
+EKITS_sound_05: "ныть"
+EKITS_organ: "живот"
+EKITS_mouth: "рот"

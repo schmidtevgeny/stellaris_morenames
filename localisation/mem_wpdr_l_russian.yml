@@ -1,31 +1,24 @@
-﻿# Weapon Platform Deployment Rig
+﻿l_russian:
 
-l_russian:
-
- mem_wpdr_capital_ship: "Установка для развертывания оружейной платформы"
- mem_wpdr_capital_ship_plural: "Установки для развертывания оружейных платформ"
- mem_wpdr_tiny_ship: "Мобильная платформа"
- mem_wpdr_tiny_ship_plural: "Мобильные платформы"
-
- mem_wpdr_capital_ship_key: ""
- mem_wpdr_tiny_ship_key: ""
-
- r_mem_wpdr_production_matrix: "Матрица производства UTA"
- r_mem_wpdr_production_matrix_desc: "Этот компонент, извлеченный из UTA Rig Indomitable Valor, отвечает за быстрое производство мобильных оружейных платформ, которые использовались Universal Transport Alliance до его безвременной кончины."
- mem_wpdr_production_matrix_tooltip: "Мгновенно создает 8 мобильных платформ в столице со случайным вооружением ($ENERGY_LANCE_1$, $MASS_ACCELERATOR_1$ или $ARC_EMITTER_1$). "
-
- MEM_WPDR_BOARD_WRECK: "Взять на абордаж "Неукротимую доблесть"
- MEM_WPDR_BOARD_WRECK_DESC: "Большой корабль в [capital_ship.Solar_System.GetName] был отключен. \n\nМы можем послать команду на его борт и раскрыть его секреты."
-
- mem_wpdr.3.name: "Неукротимая доблесть выведена из строя"
- mem_wpdr.3.desc: "Значительные повреждения, которые мы нанесли Indomitable Valor во время боя в [From.Solar_System.GetName], вывели корабль из строя. \n\nМы можем послать научное судно, чтобы подняться на борт корабля и узнать больше о его уникальной технологии и истории."
- mem_wpdr.3.a: "Сделайте это."
- mem_wpdr.4.name: "Неукротимая доблесть"
- mem_wpdr.4.desc: "[Leader.GetName] сообщает об успешной высадке и изучении интерьера Indomitable Valor - массивного линкора, найденного в [capital_ship.Solar_System.GetName]. \n\nКорабль был построен и управлялся Вселенским Транспортным Альянсом, организацией, сформированной после какого-то галактического политического кризиса несколько тысяч лет назад. Многие державы, существовавшие в то время, распались, оставив торговые пути незащищенными и уязвимыми для растущего пиратства, пока не пришлось вмешаться неправительственной организации. Альянс управлял рядом массивных капитальных кораблей, таких как "Неукротимая доблесть", известных как Mobile Weapon Deployment Rigs, которые производили небольшие корабли, способные эффективно преследовать пиратские суда и поражать их оружием дальнего действия. \В течение некоторого времени Альянс щедро финансировался правительственными и частными благотворителями и мог не только противостоять пиратству, но и инвестировать значительные средства в собственную инфраструктуру. Однако по мере уменьшения пиратской угрозы и роста могущества Альянса различные силы стали недовольны господством UTA и потребовали его расформирования. Большинство офицеров в конце концов дезертировали в свои родные империи, а тех, кто этого не сделал, преследовали. Неукротимая Доблесть" была последним уцелевшим кораблем, который защищал штаб-квартиру Альянса. Похоже, что враги решили не преследовать одинокий корабль, и со временем команда покинула его или погибла, оставив его в режиме автоматической обороны. \n\nНыне корабль поврежден до неузнаваемости. Однако мы смогли извлечь производственную матрицу, отвечающую за создание новых платформ."
- mem_wpdr.4.a: "Принесите ее на наш родной мир."
- mem_wpdr.5.name: "Неукротимая боевая группа"
- mem_wpdr.5.desc: "Мы столкнулись с группой кораблей, размещенных в системе [From.GetName], возглавляемой огромным судном. Сканирование выявило обширные возможности кораблестроения, стирающие границы между кораблем и звездной базой. \n\nНаш автоматический ретранслятор идентифицирует этот корабль как "Неукротимая Доблесть", который вместе со своим эскортом образует боевую группу "Неукротимых". Его намерения выглядят враждебными."
- mem_wpdr.5.a: "Эта штука огромна!"
-
- mem_wpdr_power: "Мощность WPDR"
- mod_shipsize_mem_wpdr_tiny_ship_hull_add: "Оружейная платформа Очки корпуса:"
+mem_wpdr_capital_ship: "Установка для Развертывания Оружейных Платформ"
+mem_wpdr_capital_ship_plural: "Установки для Развертывания Оружейных Платформ"
+mem_wpdr_tiny_ship: "Мобильная Платформа"
+mem_wpdr_tiny_ship_plural: "Мобильные Платформы"
+mem_wpdr_capital_ship_key: ""
+mem_wpdr_tiny_ship_key: ""
+r_mem_wpdr_production_matrix: "Производственная Матрица ВТА"
+r_mem_wpdr_production_matrix_desc: "Спасенная из Неукротимой Доблести — эта матрица отвечает за быстрое производство Мобильных Оружейных Платформ, используемая §YВсеобщим Транспортным Альянсом§! до своего упадка."
+mem_wpdr_production_matrix_tooltip: "Мгновенно создает §S8§! Мобильные Платформы в столице со случайным вооружением (§Y$ENERGY_LANCE_1$§!, §Y$MASS_ACCELERATOR_1$§! или §Y$ARC_EMITTER_1$§!). "
+MEM_WPDR_BOARD_WRECK: "Поднятие на Борт Неукротимого Мужества"
+MEM_WPDR_BOARD_WRECK_DESC: "Большой корабль в §Y[capital_ship.Solar_System.GetName]§! был выведен из строя. \n\nМы можем послать команду на его борт, чтобы раскрыть его секреты."
+mem_wpdr.3.name: "Неукротимая Доблесть"
+mem_wpdr.3.desc: "Значительный ущерб, который мы нанесли по §SНеукротимой Доблести§! во время боя в §Y[From.Solar_System.GetName]§! — вывел корабль из строя. \n\nМы можем отправить §YНаучный Корабль§! на борт корабля и узнать больше о его уникальных технологиях и истории."
+mem_wpdr.3.a: "Сделайте так."
+mem_wpdr.4.name: "Неукротимая Доблесть"
+mem_wpdr.4.desc: "§Y[Leader.GetName]§! reports successfully boarding and studying the interior of §SIndomitable Valor§! - a massive battleship found in [capital_ship.Solar_System.GetName]. \n\nThe ship was built and operated by the §SUniversal Transport Alliance§!, an organization formed in the aftermath of some kind of galactic political crisis several thousands of years ago. Many powers present at the time have collapsed, leaving trade routes unprotected and vulnerable to rising piracy, until the non-government organization had to step in. The Alliance operated a number of massive capital ships such as the Indomitable Valor, known as §YMobile Weapon Deployment Rigs§!, which manufactured small ships capable of effectively pursuing pirate ships and engage them with long-range weapons. \n\nFor a while, the Alliance was generously financed by governmental and private benefactors and was able to not only push back against piracy, but also invest heavily in their own infrastructure. However, as the pirate threat diminished and the Alliance's power grew, various forces became dissatisfied with UTA's dominance and demanded its dissolution. Most of the officers eventually defected to their native empires, and those who didn't were hunted down. The Indomitable Valor was the last surviving Rig that defended Alliance's headquarters. It seems that its enemies opted to not pursue the lone ship and over time the crew abandoned it or died, leaving it in automatic defense mode. \n\nNow, the ship is damaged beyond repair. We were, however, able to extract the Manufacturing Matrix responsible for creating new platforms."
+mem_wpdr.4.a: "Отправьте его в наш родной мир."
+mem_wpdr.5.name: "Неукротимая Боевая Группа"
+mem_wpdr.5.desc: "Мы столкнулись с группой кораблей, размещенных в системе §Y[From.GetName]§! во главе с огромным судном. Сканирование выявило обширные возможности кораблестроения, стирающие границы между кораблем и звездной базой. \n\nНаш автоматический ретранслятор идентифицирует этот корабль как §SНеукротимая Доблесть§!, который вместе со своим эскортом образует §SНеукротимую Боевую Группу§!. Его намерения кажутся враждебными."
+mem_wpdr.5.a: "Эта штука огромная!"
+mem_wpdr_power: "Сила УРОП"
+mod_shipsize_mem_wpdr_tiny_ship_hull_add: "Очки Корпуса Оружейной Платформы:"

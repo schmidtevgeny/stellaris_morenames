@@ -1,0 +1,6 @@
+﻿l_russian:
+
+megalist_title: "Megastructure List"
+megalist_desc: ""
+MEGALIST_ENTRY: "[This.GetName] in [This.solar_system.Star.GetName]"
+MEGALIST_ENTRY_DESC: ""

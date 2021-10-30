@@ -1,0 +1,18 @@
+﻿l_russian:
+
+UI_OVERHAUL_TITLE: "UI Overhaul Dynamic"
+UI_OVERHAUL_VERSION: "3.1"
+UI_OVERHAUL_TEXT: "$UI_OVERHAUL_TITLE$ for v$UI_OVERHAUL_VERSION$!"
+UI_OVERHAUL_BUTTON: "Интерфейс"
+UI_OVERHAUL_SUPPORT: "Поддержка мода"
+UI_OVEHRAUL_STEAM: "Opens the Steam Workshop page for the mod"
+UI_OVERHAUL_DONATE: "Если вам нравится этот мод, вы можете поддержать автора через £energy£ PayPal!"
+UI_OVERHAUL_TOOLTIP: "§H$UI_OVERHAUL_TITLE$§!\n§G$UI_OVEHRAUL_STEAM$§!\n\n$UI_OVERHAUL_DONATE$"
+UI_OVERHAUL_TECHTREE: "Дерево"
+UI_OVERHAUL_TECHTREE_TOOLTIP: "§GClick to open up an external tech tree.§!"
+RENAME_STARBASE_TOOLTIP: "§H$RENAME$ $station_generic_01$§!\n§G$RENAME_OBJECT_DESC$§!"
+RENAME_SECTOR_TOOLTIP: "§H$SECTOR_RENAME$§!\n§G$RENAME_OBJECT_DESC$§!"
+RENAME_FLEET_TOOLTIP: "§H$RENAME_FLEET_TITLE$§!\n§G$RENAME_OBJECT_DESC$§!"
+RENAME_EMPIRE_TOOLTIP: "§H$RENAME_EMPIRE_TITLE$§!\n§G$RENAME_OBJECT_DESC$§!"
+UIO_ETHICS_ATTRACTION: "Привлекательность принципов"
+UIO_RARE_PLANET: "§P$rare$ $planet$§!"

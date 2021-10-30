@@ -1,312 +1,225 @@
 ﻿l_russian:
- 
-#########################################################################################################################################################################################################################################################################################################################
-########################               Jobs               ########################
-#########################################################################################################################################################################################################################################################################################################################
- 
-######################## RULING ########################
-# DONE 
-job_acot_overlord: "Верховный владыка"
-job_acot_overlord_plural: "Верховные владыки"
-job_acot_overlord_desc: "Верховные владыки - верховные правители каждой планеты, они подчиняются только правящему совету империи."
+
+job_acot_overlord: "Верховный повелитель"
+job_acot_overlord_plural: "Верховные повелители"
+job_acot_overlord_desc: "Верховные Повелители - верховные правители каждой планеты, они подчиняются только правящему совету империи"
 mod_job_acot_overlord_add: "$job_acot_overlord$"
- 
-job_acot_overlord_droid: "Владыка сети"
-job_acot_overlord_droid_plural: "Владыки сети"
-job_acot_overlord_droid_desc: "Владыки Сети - верховные правители каждой планеты, они подчиняются только Первичному консенсусу."
-mod_job_acot_overlord_droid_add: "$job_acot_overlord_droid$"
- 
-job_acot_overlord_drone: "Надмозг улья"
-job_acot_overlord_drone_plural: "Владыки ульев"
-job_acot_overlord_drone_desc: "Надмозги улья - верховный главнокомандующий каждой планеты, они подчиняются только Первичному сознанию улья."
+job_acot_overlord_droid: "Сетевой Надзиратель"
+job_acot_overlord_droid_plural: "Сетевые Надзиратели"
+job_acot_overlord_droid_desc: "Сетевые Надзиратели являются верховными главнокомандующими каждой планеты, они подчиняются только Основному Консенсусу"
+mod_job_acot_overlord_droid_add: ""$job_acot_overlord_droid$"
+job_acot_overlord_drone: "Сверхразум улья"
+job_acot_overlord_drone_plural: "Сверхразумы улья"
+job_acot_overlord_drone_desc: "Сверхразумы улья - верховные главнокомандующие каждой планеты, они подчиняются только первичному сознанию улья"
 mod_job_acot_overlord_drone_add: "$job_acot_overlord_drone$"
- 
 job_acot_overseer: "Верховный лорд"
 job_acot_overseer_plural: "Верховный лорд"
-job_acot_overseer_desc: "Верховные Лорды служат глазами и ушами для Верховных Владык, на них возложена важная миссия - сбрасывать в яму любого, кто осмелится бросить вызов авторитету Владыки, в очень сложной дуэли, не имеющей смысла..."
+job_acot_overseer_desc: "Высшие лорды действуют как глаза и уши для Высших Повелителей, им поручена важная миссия - пнуть любого, кто осмелится бросить вызов авторитету Повелителя."
 mod_job_acot_overseer_add: "$job_acot_overseer$"
- 
-job_acot_overseer_droid: "Надзиратель сети"
-job_acot_overseer_droid_plural: "Сетевые надзиратели"
-job_acot_overseer_droid_desc: "Сетевые надзиратели - это машины-хранители Владыки. Их задача - вырезать когти и лапы у тех надоедливых тупых органиков, единственная цель которых в сюжете - быть злыми, используя клишированные мотивы вроде ТОЛЬКО СИЛЬНЫЕ ПРАВИЛА."
+job_acot_overseer_droid: "Наблюдатель за сетью"
+job_acot_overseer_droid_plural: "Наблюдатели за сетью"
+job_acot_overseer_droid_desc: "Наблюдатели за сетью - это машины-хранители Смотрителя. Им поручено вырезать когти у этих надоедливых глупых организмов, чья единственная цель в истории - быть злыми, используя клише, такие как ТОЛЬКО СИЛЬНЫЕ ПРАВИЛА"
 mod_job_acot_overseer_droid_add: "$job_acot_overseer_droid$"
- 
-job_acot_overseer_drone: "Ульевой церебрат"
-job_acot_overseer_drone_plural: "Церебраты улья"
-job_acot_overseer_drone_desc: "Церебраты улья действуют как стратеги и системные планировщики для улья Overminds, следя за тем, чтобы королевы-суки вселенной никогда не поднялись и не создали бессмысленный Broodwar, как некоторые некомпетентные рои в прошлом."
+job_acot_overseer_drone: "Мыслитель улья"
+job_acot_overseer_drone_plural: "Мыслители улья"
+job_acot_overseer_drone_desc: "Мыслители улья действуют как стратеги и планировщики систем для Сверхразумов Улья, следя за тем, чтобы ни одна сука-королева вселенной никогда не поднялась, чтобы создать бессмысленную Войну племен, как некий некомпетентный рой в прошлом"
 mod_job_acot_overseer_drone_add: "$job_acot_overseer_drone$"
- 
-######################## DM/DE PRODUCTOR ########################
- 
-job_acot_dark_energy_man: "Артификатор темной энергии"
-job_acot_dark_energy_man_plural: "Искусники темной энергии"
-job_acot_dark_energy_man_desc: "Это подразделение специалистов синтезирует Темную энергию."
+job_acot_dark_energy_man: "Мастер темной энергии"
+job_acot_dark_energy_man_plural: "Мастера темной энергии"
+job_acot_dark_energy_man_desc: "Это специализированное подразделение синтезирует темную энергию."
 mod_job_acot_dark_energy_man_add: "$job_acot_dark_energy_man$"
- 
-job_acot_dark_energy_drone: "Дрон артификанта темной энергии"
-job_acot_dark_energy_drone_plural: "Артификатор темной энергии"
-job_acot_dark_energy_drone_desc: "Эти дроны получают директивы и знания для синтеза Темной энергии."
+job_acot_dark_energy_drone: "Мастер темной энергии"
+job_acot_dark_energy_drone_plural: "Мастера темной энергии"
+job_acot_dark_energy_drone_desc: "Этим дронам даны указания и знания для синтеза темной энергии"
 mod_job_acot_dark_energy_drone_add: "$job_acot_dark_energy_drone$"
- 
 job_acot_dark_matter_man: "Алхимик темной материи"
 job_acot_dark_matter_man_plural: "Алхимики темной материи"
-job_acot_dark_matter_man_desc: "Темные алхимики занимаются различными научными искусствами для синтеза темной материи."
+job_acot_dark_matter_man_desc: "Темные алхимики занимаются различными научными искусствами для синтеза темной материи"
 mod_job_acot_dark_matter_man_add: "$job_acot_dark_matter_man$"
- 
 job_acot_dark_matter_drone: "Создатель темной материи"
 job_acot_dark_matter_drone_plural: "Создатели темной материи"
 job_acot_dark_matter_drone_desc: "Этим дронам поручено синтезировать темную материю."
 mod_job_acot_dark_matter_drone_add: "$job_acot_dark_matter_drone$"
- 
-######################## POP MAKER ########################
- 
-job_acot_apothecary: "Темный апотекарий"
-job_acot_apothecary_plural: "Темные апотекарии"
-job_acot_apothecary_desc: "Темные апотекарии - это обученные врачи, подходящие для повышения производительности и рождаемости с помощью своих плазменных бензопил и ракетных установок."
+job_acot_apothecary: "Темный аптекарь"
+job_acot_apothecary_plural: "Темные аптекари"
+job_acot_apothecary_desc: "Темные аптекари - это обученные врачи, подходящие для увеличения производительности и рождаемости с помощью своих плазменных бензопил и ракетных установок"
 mod_job_acot_apothecary_add: "$job_acot_apothecary$"
- 
-job_acot_broodmother: "Ульевая матки"
-job_acot_broodmother_plural: "Ульевые матки"
-job_acot_broodmother_desc: "Ульевые матки обеспечивают необходимый уход и заботу о будущих отпрысках."
+job_acot_broodmother: "Мать улья"
+job_acot_broodmother_plural: "Матери улья"
+job_acot_broodmother_desc: "Матери улья обеспечивают необходимый уход и заботятся о нерестилищах будущего"
 mod_job_acot_broodmother_add: "$job_acot_broodmother$"
- 
 job_acot_roboman: "Кибермансер"
 job_acot_roboman_plural: "Кибермансеры"
-job_acot_roboman_desc: "Кибермансеры фанатично преданы всему, что связано с робототехникой. Некоторые даже могут сказать, что они тайно влюблены в металлические коробки."
+job_acot_roboman_desc: "Кибермансеры фанатично преданы всему, что связано с робототехникой. Некоторые могут даже сказать, что тайно влюблены в металлические коробки"
 mod_job_acot_roboman_add: "$job_acot_roboman$"
- 
 job_acot_robodrone: "Нанопроизводитель"
 job_acot_robodrone_plural: "Нанопроизводители"
-job_acot_robodrone_desc: "Задача нано-производителей - печатать тела машин, используя передовые технологии жесткого света."
+job_acot_robodrone_desc: "Нанопроизводителям поручено создавать корпуса принтеров с использованием передовых технологий жесткого света"
 mod_job_acot_robodrone_add: "$job_acot_robodrone$"
- 
- 
-######################## RESOURCE MAKER ########################
- 
-job_acot_alloyman: "Трансмутатор сплавов"
-job_acot_alloyman_plural: "Трансмутаторы сплавов"
-job_acot_alloyman_desc: "Трансмутаторы сплавов способны создавать сплавы через процесс генерации материи, используя темную материю."
+job_acot_alloyman: "Преобразователь сплава"
+job_acot_alloyman_plural: "Преобразователи сплавов"
+job_acot_alloyman_desc: "Преобразователи сплавов могут создавать сплавы посредством процесса генерации материи с использованием темной материи"
 mod_job_acot_alloyman_add: "$job_acot_alloyman$"
- 
-job_acot_alloydrone: "Трансмутатор сплавов"
-job_acot_alloydrone_plural: "Трансмутаторы сплавов"
-job_acot_alloydrone_desc: "Трансмутаторы сплавов способны создавать сплавы через процесс генерации материи, используя темную материю."
+job_acot_alloydrone: "Преобразователь сплава"
+job_acot_alloydrone_plural: "Преобразователи сплавов"
+job_acot_alloydrone_desc: "Преобразователи сплавов могут создавать сплавы посредством процесса генерации материи с использованием темной материи"
 mod_job_acot_alloydrone_add: "$job_acot_alloydrone$"
- 
 job_acot_mineralman: "Кристаллист"
 job_acot_mineralman_plural: "Кристаллисты"
-job_acot_mineralman_desc: "Хорошо подготовленные специалисты, обученные материализовывать темную материю в высокопродуктивные минералы."
+job_acot_mineralman_desc: "Хорошо обученные специалисты, обученные превращать темную материю в высокоурожайные минералы"
 mod_job_acot_mineralman_add: "$job_acot_mineralman$"
- 
 job_acot_mineraldrone: "Кристаллист"
 job_acot_mineraldrone_plural: "Кристаллисты"
-job_acot_mineraldrone_desc: "Специализированные дроны, обученные материализовывать темную материю в высокодоходные минералы."
+job_acot_mineraldrone_desc: "Эти специализированные дроны, обученные превращать темную материю в высокоурожайные минералы."
 mod_job_acot_mineraldrone_add: "$job_acot_mineraldrone$"
- 
-job_acot_energyman: "Синхронизатор решеток"
-job_acot_energyman_plural: "Синхронизаторы решеток"
-job_acot_energyman_desc: "Эти специализированные техники обучены извлекать полезные энергетические кредиты из синтезированной темной энергии."
+job_acot_energyman: "Синхронизатор сети"
+job_acot_energyman_plural: "Синхронизаторы сети"
+job_acot_energyman_desc: "Эти специализированные техники обучены извлекать полезные энергетические кредиты из синтезированной темной энергии"
 mod_job_acot_energyman_add: "$job_acot_energyman$"
- 
-job_acot_energydrone: "Синхронизатор решеток"
-job_acot_energydrone_plural: "Синхронизаторы решеток"
-job_acot_energydrone_desc: "Эти специализированные дроны направлены на извлечение полезных энергетических кредитов из синтезированной темной энергии."
+job_acot_energydrone: "Синхронизатор сети"
+job_acot_energydrone_plural: "Синхронизаторы сети"
+job_acot_energydrone_desc: "Эти специализированные дроны предназначены для извлечения пригодных к использованию единиц энергии из синтезированной темной энергии"
 mod_job_acot_energydrone_add: "$job_acot_energydrone$"
- 
 job_acot_foodman: "Мастер-гурман"
 job_acot_foodman_plural: "Мастера-гурманы"
 job_acot_foodman_desc: "Пища для размышлений. Вкусно!"
 mod_job_acot_foodman_add: "$job_acot_foodman$"
- 
-job_acot_fooddrone: "Дрон для гурманов"
-job_acot_fooddrone_plural: "Дроны для гурманов"
-job_acot_fooddrone_desc: "Нет никакой ложки."
+job_acot_fooddrone: "Дрон-гурманов"
+job_acot_fooddrone_plural: "Дроны-гурманы"
+job_acot_fooddrone_desc: "Ложки нет"
 mod_job_acot_fooddrone_add: "$job_acot_fooddrone$"
- 
 job_acot_transmute_man: "Трансмутатор"
 job_acot_transmute_man_plural: "Трансмутаторы"
-job_acot_transmute_man_desc: "Трансмутаторы - эксперты в области стратегических ресурсов. Они способны использовать процесс хардлайт-синтеза для создания любых искусственных стратегических ресурсов, о которых известно нашим империям."
+job_acot_transmute_man_desc: "Трансмутаторы - эксперты в области стратегических ресурсов. Они могут использовать процесс синтеза жесткого света для создания любых искусственных стратегических ресурсов, о которых знают наши империи"
 mod_job_acot_transmute_man_add: "$job_acot_transmute_man$"
- 
 job_acot_transmute_drone: "Трансмутатор"
 job_acot_transmute_drone_plural: "Трансмутаторы"
-job_acot_transmute_drone_desc: "Трансмутаторы - это усовершенствованные дроны, оптимизированные в области стратегических ресурсов. Они способны использовать процесс синтеза жесткого света для создания любых искусственных стратегических ресурсов, о которых известно нашим империям."
+job_acot_transmute_drone_desc: "Трансмутаторы - это продвинутые дроны, оптимизированные в области стратегических ресурсов. Они могут использовать процесс синтеза жесткого света для создания любых искусственных стратегических ресурсов, о которых знают наши империи"
 mod_job_acot_transmute_drone_add: "$job_acot_transmute_drone$"
- 
-job_acot_artisan: "Мастер-провизионер"
-job_acot_artisan_plural: "Мастера-провизоры"
-job_acot_artisan_desc: "Эксперты в области производства отечественных товаров. Эти техники обучены управлять принтерами с жестким светом и обеспечивать империю всеми необходимыми товарами для функционирования общества."
+job_acot_artisan: "Главный поставщик"
+job_acot_artisan_plural: "Главные поставщики"
+job_acot_artisan_desc: "Эксперты в области производства товаров для дома. Эти техники обучены работать с принтерами жесткого света и снабжают империю всеми необходимыми товарами для управления обществом"
 mod_job_acot_artisan_add: "$job_acot_artisan$"
- 
-############ VOIDSPHERE JOB
- 
-job_acot_voidsphere_forgeman: "Пустотный путешественник"
-job_acot_voidsphere_forgeman_plural: "Пустотные путешественники"
-job_acot_voidsphere_forgeman_desc: "Пустотные путешественники способны добывать загадочные ресурсы, проникая в субмерные пространства и напрямую выкачивая их содержимое."
+job_acot_voidsphere_forgeman: "Путешественник по Бездне"
+job_acot_voidsphere_forgeman_plural: "Путешественники по Бездне"
+job_acot_voidsphere_forgeman_desc: "Путешественники по Бездне могут собирать загадочные ресурсы, входя в суб-мерные пространства и напрямую перекачивая их содержимое"
 mod_job_acot_voidsphere_forgeman_add: "$job_acot_voidsphere_forgeman$"
- 
-job_acot_voidsphere_forgedrone: "Пустотный путешественник"
-job_acot_voidsphere_forgedrone_plural: "Пустотные путешественники"
-job_acot_voidsphere_forgedrone_desc: "Пустотные путешественники способны добывать загадочные ресурсы, проникая в субмерные пространства и напрямую выкачивая их содержимое."
+job_acot_voidsphere_forgedrone: "Путешественник по Бездне"
+job_acot_voidsphere_forgedrone_plural: "Путешественники по Бездне"
+job_acot_voidsphere_forgedrone_desc: "Путешественники по Бездне могут собирать загадочные ресурсы, входя в субмерные пространства и напрямую перекачивая их содержимое"
 mod_job_acot_voidsphere_forgedrone_add: "$job_acot_voidsphere_forgedrone$"
- 
-job_acot_voidsphere_siloman: "Кузнец пустоты"
-job_acot_voidsphere_siloman_plural: "Кузнецы пустоты"
-job_acot_voidsphere_siloman_desc: "Кузнецы пустоты способны материализовать энергию, минералы и сплавы с помощью манипуляций с материей и энергией пустоты."
+job_acot_voidsphere_siloman: "Кузнец Бездны"
+job_acot_voidsphere_siloman_plural: "Кузнецы Бездны"
+job_acot_voidsphere_siloman_desc: "Кузнецы Бездны могут материализовать энергию, минералы и сплавы с помощью пустотной материи и манипуляций с энергией"
 mod_job_acot_voidsphere_siloman_add: "$job_acot_voidsphere_siloman$"
- 
-job_acot_voidsphere_silodrone: "Кузнец пустоты"
-job_acot_voidsphere_silodrone_plural: "Кузнецы пустоты"
-job_acot_voidsphere_silodrone_desc: "Кузнецы пустоты способны материализовать энергию, минералы и сплавы с помощью манипуляций с материей и энергией пустоты."
+job_acot_voidsphere_silodrone: "Кузнец Бездны"
+job_acot_voidsphere_silodrone_plural: "Кузнецы Бездны"
+job_acot_voidsphere_silodrone_desc: "Кузнецы Бездны могут материализовать энергию, минералы и сплавы с помощью пустотной материи и манипуляций с энергией"
 mod_job_acot_voidsphere_silodrone_add: "$job_acot_voidsphere_silodrone$"
- 
-job_acot_voidsphere_labman: "Провидец пустоты"
-job_acot_voidsphere_labman_plural: "Сейры пустоты"
-job_acot_voidsphere_labman_desc: "Void Seers не только работают в качестве ученых и исследователей, но и являются наблюдателями субмерных пространств, где они потенциально могут видеть прошлое и предвидеть грядущие события."
+job_acot_voidsphere_labman: "Провидец Бездны"
+job_acot_voidsphere_labman_plural: "Провидцы Бездны"
+job_acot_voidsphere_labman_desc: "Провидцы Бездны работают не только как ученые и исследователи, но и наблюдают за суб-мерными пространствами, где они потенциально могут видеть прошлое и предвидеть грядущие события"
 mod_job_acot_voidsphere_labman_add: "$job_acot_voidsphere_labman$"
- 
-job_acot_voidsphere_labdrone: "Пустотная Ирис"
-job_acot_voidsphere_labdrone_plural: "Пустотная Ирис"
-job_acot_voidsphere_labdrone_desc: "Void Iris работают не только как ученые и исследователи, но и как наблюдатели субмерных пространств, где они потенциально могут видеть прошлое и предвидеть грядущие события."
+job_acot_voidsphere_labdrone: "Ирис Бездны"
+job_acot_voidsphere_labdrone_plural: "Ирисы Бездны"
+job_acot_voidsphere_labdrone_desc: "Ирисы Бездны работают не только как ученые и исследователи, но и как наблюдатели суб-мерных пространств, где они потенциально могут видеть прошлое и предвидеть грядущие события"
 mod_job_acot_voidsphere_labdrone_add: "$job_acot_voidsphere_labdrone$"
- 
- 
-######################## RESEARCHERS ########################
- 
 job_acot_researcher: "Мастер-библиотекарь"
 job_acot_researcher_plural: "Мастера-библиотекари"
-job_acot_researcher_desc: "Мастера-библиотекари отвечают за изучение древних знаний. Их вклад в науку не имеет себе равных."
+job_acot_researcher_desc: "Мастера-библиотекари несут ответственность за изучение древних знаний. Их вклад в науку не имеет себе равных"
 mod_job_acot_researcher_add: "$job_acot_researcher$"
- 
-job_acot_researcher_drone: "Хранитель преданий"
-job_acot_researcher_drone_plural: "Хранители преданий"
-job_acot_researcher_drone_desc: "Хранители преданий отвечают за изучение древних знаний. Их вклад в науку не имеет себе равных."
+job_acot_researcher_drone: "Хранитель мудрости"
+job_acot_researcher_drone_plural: "Хранители мудрости"
+job_acot_researcher_drone_desc: "Хранители мудрости несут ответственность за изучение древних знаний. Их вклад в науку не имеет себе равных"
 mod_job_acot_researcher_drone_add: "$job_acot_researcher_drone$"
- 
- 
-######################## SOLDIERS ########################
- 
-job_acot_enforcer: "Темный энфорсер"
-job_acot_enforcer_plural: "Темные энфорсеры"
-job_acot_enforcer_desc: "Темные энфорсеры - это элитные силы обороны планеты, они хорошо обучены различным боевым приемам, которые заставили бы обычных солдат просить о переводе на другую должность."
+job_acot_enforcer: "Темный силовик"
+job_acot_enforcer_plural: "Темные силовики"
+job_acot_enforcer_desc: "Темные силовики - элитные силы обороны планеты, они хорошо обучены различным боевым приемам, которые заставляют обычных солдат просить о перераспределении"
 mod_job_acot_enforcer_add: "$job_acot_enforcer$"
- 
-job_acot_enforcer_drone: "Темный нуллификатор"
-job_acot_enforcer_drone_plural: "Темные нуллификаторы"
-job_acot_enforcer_drone_desc: "Темные нуллификаторы - это элитные силы обороны планеты, они запрограммированы на поедание и уничтожение угроз, как внутренних, так и внешних. СЪЕСТЬ."
+job_acot_enforcer_drone: "Темный нейтрализатор"
+job_acot_enforcer_drone_plural: "Темные нейтрализаторы"
+job_acot_enforcer_drone_desc: "Темные нейтрализаторы - это элитные силы обороны планеты, они запрограммированы на то, чтобы поедать и устранять угрозы, будь то внутренние или внешние. ЖРАААТЬ!"
 mod_job_acot_enforcer_drone_add: "$job_acot_enforcer_drone$"
- 
-job_acot_giga_fortress_operator: "Оператор пушки гигакрепости"
-job_acot_giga_fortress_operator_plural: "Операторы пушек гигакрепости"
-job_acot_giga_fortress_operator_desc: "Эти артиллеристы обучены управлять и калибровать массивные пушки Гигакрепости. Пусть наши враги остерегаются, ибо они не будут знать страха. Каждая пушка обеспечивает эквивалент 20 сил обороны."
+job_acot_giga_fortress_operator: "Оператор пушки Гига-крепости"
+job_acot_giga_fortress_operator_plural: "Операторы пушки Гига-крепости"
+job_acot_giga_fortress_operator_desc: "Эти артиллеристы обучены управлять и калибровать массивные пушки Гига-крепости. Пусть наши враги опасаются, они ведают страха. Каждая пушка обеспечивает эквивалент 20 сил обороны"
 mod_job_acot_giga_fortress_operator_add: "$job_acot_giga_fortress_operator$"
- 
-job_acot_giga_fortress_operator_ancient: "Оператор пушки гигакрепости"
-job_acot_giga_fortress_operator_ancient_plural: "Операторы пушек гигакрепости"
-job_acot_giga_fortress_operator_ancient_desc: "Эти артиллеристы обучены управлять и калибровать массивные пушки Гигакрепости. Пусть наши враги остерегаются, ибо они не будут знать страха. Каждая пушка обеспечивает эквивалент 20 сил обороны."
+job_acot_giga_fortress_operator_ancient: "Оператор пушки Гига-крепости"
+job_acot_giga_fortress_operator_ancient_plural: "Операторы пушки Гига-крепости"
+job_acot_giga_fortress_operator_ancient_desc: "Эти артиллеристы обучены управлять и калибровать массивные пушки Гига-крепости. Пусть наши враги опасаются, они не ведают страха. Каждая пушка обеспечивает эквивалент 20 сил защиты"
 mod_job_acot_giga_fortress_operator_ancient_add: "$job_acot_giga_fortress_operator$"
- 
-job_acot_giga_fortress_operator_drone: "Оператор пушки гигакрепости"
-job_acot_giga_fortress_operator_drone_plural: "Операторы пушек гигакрепости"
-job_acot_giga_fortress_operator_drone_desc: "Эти артиллеристы запрограммированы на управление и калибровку массивных пушек Гига Крепости. Пусть наши враги остерегаются, ибо они не будут знать страха. Каждая пушка обеспечивает эквивалент 20 сил обороны."
+job_acot_giga_fortress_operator_drone: "Оператор пушки Гига-крепости"
+job_acot_giga_fortress_operator_drone_plural: "Операторы пушки Гига-крепости"
+job_acot_giga_fortress_operator_drone_desc: "Эти артиллеристы запрограммированы на управление и калибровку массивных пушек Гига-крепости. Пусть наши враги опасаются, они не ведают страха. Каждая пушка обеспечивает эквивалент 20 сил защиты"
 mod_job_acot_giga_fortress_operator_drone_add: "$job_acot_giga_fortress_operator_drone$"
- 
 job_acot_giga_fortress_operator_mentat: "Ментат"
-job_acot_giga_fortress_operator_mentat_plural: "Ментат"
-job_acot_giga_fortress_operator_mentat_desc: "Ментат - уникальный военный стратег, который работает в стратегическом центре Гигакрепости, координируя маневры флота империи."
+job_acot_giga_fortress_operator_mentat_plural: "Ментаты"
+job_acot_giga_fortress_operator_mentat_desc: "Ментат - уникальный военный стратег, который работает в Стратегическом центре Гига-крепости, чтобы координировать маневры флота империи"
 mod_job_acot_giga_fortress_operator_mentat_add: "$job_acot_giga_fortress_operator_mentat$"
- 
-######################## STELLARITE ########################
- 
-job_acot_stellariteman: "Манипулятор стелларитов"
-job_acot_stellariteman_plural: "Манипуляторы стелларита"
-job_acot_stellariteman_desc: "Эти специалисты проходят длительную подготовку для преобразования обычной энергии в чистую энергию на основе стелларита. Звезда освещает их путь."
+job_acot_stellariteman: "Манипулятор Стелларита"
+job_acot_stellariteman_plural: "Манипуляторы Стелларита"
+job_acot_stellariteman_desc: "Эти специалисты проходят обширную подготовку, чтобы преобразовать обычную энергию в чистую энергию на основе стелларита. Звезда освещает им путь"
 mod_job_acot_stellariteman_add: "$job_acot_stellariteman$"
- 
-job_acot_stellaritedrone: "Манипулятор стелларитов"
-job_acot_stellaritedrone_plural: "Манипуляторы стелларита"
-job_acot_stellaritedrone_desc: "Эти дроны созданы специально для работы в суровых условиях стелларитового реактора. Их жизненная миссия заключается в преобразовании обычной энергии в стелларитовую форму. Боритесь с огнем с помощью огня!"
+job_acot_stellaritedrone: "Манипулятор Стелларита"
+job_acot_stellaritedrone_plural: "Манипуляторы Стелларита"
+job_acot_stellaritedrone_desc: "Эти дроны разработаны специально для работы в суровых условиях Стелларитового реактора. Их миссия в жизни - преобразовывать обычную энергию в форму на основе стелларита. Бороться с огнем огнем!"
 mod_job_acot_stellaritedrone_add: "$job_acot_stellaritedrone$"
- 
- 
-######################## ARCANE JOBS ########################
- 
-job_acot_priest: "Святой Экклезиарх"
-job_acot_priest_plural: "Святая Экклезиархия"
-job_acot_priest_desc: "Святая Экклезиархия - самая преданная секта веры в империи. Их почитают как избранников самого божества."
+job_acot_priest: "Святой Экклезиарха"
+job_acot_priest_plural: "Святые Экклезиархии"
+job_acot_priest_desc: "Святые Экклезиархии - самая преданная секта веры в империи. Их почитают как избранных божества"
 mod_job_acot_priest_add: "$job_acot_priest$"
- 
-job_acot_entertainer: "Владыка мемов"
+job_acot_entertainer: "Повелитель мемов"
 job_acot_entertainer_plural: "Повелители мемов"
-job_acot_entertainer_desc: "Владыки мемов генерируют новые мемы для наших империй. Будь то от самой империи или от других."
+job_acot_entertainer_desc: "Лорды мемов создают новые мемы для наших империй, о которых можно рассказывать. Будь то наша империя или другие"
 mod_job_acot_entertainer_add: "$job_acot_entertainer$"
- 
 job_acot_entertainer_drone: "Сборщик мемов"
 job_acot_entertainer_drone_plural: "Сборщики мемов"
-job_acot_entertainer_drone_desc: "Сборщики мемов ищут мемы по всей галактике, чтобы тайно влиять на мемы. Затем мы изучаем их влияние для собственной выгоды."
+job_acot_entertainer_drone_desc: "Сборщики мемов ищут мемы по всей галактике, чтобы тайно повлиять на мемы. Затем мы изучаем эффекты для наших собственных выгод"
 mod_job_acot_entertainer_drone_add: "$job_acot_entertainer_drone$"
- 
-job_acot_dimesiona_traveler: "Путешественник по измерениям"
-job_acot_dimesiona_traveler_plural: "Путешественники по измерениям"
-job_acot_dimesiona_traveler_desc: "Этим специально обученным сотрудникам поручена самая опасная миссия: путешествовать прямо через фабрикаторов другого измерения и предсказывать их продукцию по отношению к нашей."
+job_acot_dimesiona_traveler: "Пространственный путешественник"
+job_acot_dimesiona_traveler_plural: "Пространственные путешественники"
+job_acot_dimesiona_traveler_desc: "Этому специально обученному персоналу поручена самая опасная миссия: путешествовать напрямую через производителей из другого измерения и предсказывать, когда их продукты попадут к нам"
 mod_job_acot_dimesiona_traveler_add: "$job_acot_dimesiona_traveler$"
- 
-job_acot_dimesiona_traveler_drone: "Путешественник по измерениям"
-job_acot_dimesiona_traveler_drone_plural: "Путешественники по измерениям"
-job_acot_dimesiona_traveler_drone_desc: "Этим специально усиленным подразделениям поручена самая опасная миссия: путешествовать напрямую через фабрикантов других измерений и предсказывать их продукцию по отношению к нашей."
+job_acot_dimesiona_traveler_drone: "Пространственный путешественник"
+job_acot_dimesiona_traveler_drone_plural: "Пространственные путешественники"
+job_acot_dimesiona_traveler_drone_desc: "Этим специально усиленным юнитам поручена самая опасная миссия: путешествовать напрямую через производителей из других измерений и предсказывать, когда их продукты попадут к нам"
 mod_job_acot_dimesiona_traveler_drone_add: "$job_acot_dimesiona_traveler_drone$"
- 
- 
-tech_go_find_work: "Великое благо"
-tech_go_find_work_desc: "В нашем новом обществе понятие безработицы уйдет в прошлое. Всегда есть работа, которую нужно делать, и лень не будет терпима."
-
-job_acot_free_foodman: "Искатель приключений"
-job_acot_free_foodman_plural: "Искатели приключений"
-job_acot_free_foodman_desc: "Безработные люди, решившие отправиться на случайные поиски в колонию, чтобы заработать себе на жизнь в ожидании появления реальной работы. Такие задания могут включать в себя сбор предметов, победу над случайными монстрами или изготовление предметов."
-
+tech_go_find_work: "Высшее благо"
+tech_go_find_work_desc: "В нашем новом обществе концепция безработицы уйдет в прошлое. Всегда есть работа, лень недопустима"
+job_acot_free_foodman: "Авантюрист"
+job_acot_free_foodman_plural: "Авантюристы"
+job_acot_free_foodman_desc: "Безработные люди, которые решают пройти случайные квесты для колонии, чтобы заработать себе на жизнь, ожидая появления реальных заданий. Такие квесты могут включать в себя сбор предметов, победу над случайными монстрами или создание предметов"
 decision_give_foodman_job: "Приключенческие квесты"
-decision_give_foodman_job_desc: "Соберите 100 яблок. Найдите потерявшуюся собаку. Убей 25 гоблинов... Яре яре дазе."
-decision_give_foodman_job_effect: "Безработным папашам будет отведена роль Приключенцев, которые обеспечивают колонию мелкими ресурсами."
-
-acot_modifier_free_foodman: "Гильдия приключенцев"
-acot_modifier_free_foodman_desc: "На этой планете находится Гильдия Приключений, где безработные могут вести интересную, безобидную и безрисковую жизнь, выполняя тяжелые, опасные и смертельно опасные задания."
-
+decision_give_foodman_job_desc: "Иди, собери 100 яблок. Найди пропавшую собаку. Убей 25 гоблинов... Яре Яре Дейз"
+decision_give_foodman_job_effect: "Безработным народам будет дана роль Приключений, которые снабжают колонию незначительными ресурсами"
+acot_modifier_free_foodman: "Гильдия приключений"
+acot_modifier_free_foodman_desc: "На этой планете находится Гильдия Приключений, где безработные могут вести интересную, безвредную и безопасную жизнь, выполняя тяжелые, опасные и смертоносные задания"
 job_acot_free_soldier: "Виртуальный солдат"
 job_acot_free_soldier_plural: "Виртуальные солдаты"
-job_acot_free_soldier_desc: "Безработные люди, которые проводят время, играя в виртуальные боевые симуляторы, пока не появится подходящая работа."
-
+job_acot_free_soldier_desc: "Безработные люди, которые проводят время, играя в виртуальные боевые симуляторы, пока не откроются подходящие рабочие места"
 decision_give_soldier_job: "Виртуальный удар"
-decision_give_soldier_job_desc: "Вот для чего их готовят!"
-decision_give_soldier_job_effect: "Безработные попы получат роль Виртуальных Солдат, которые обеспечивают колонии небольшое единство и силу обороны."
-
+decision_give_soldier_job_desc: "Это то, чему они обучены!"
+decision_give_soldier_job_effect: "Безработным народам будет дана роль Виртуальных солдат, которые обеспечивают колонии незначительное единство и силы защиты"
 acot_modifier_free_soldier: "Виртуальные силы"
-acot_modifier_free_soldier_desc: "На этой планете есть специальные Виртуальные силы, состоящие из безработных, которые играют в различные игры, такие как Virtual Strike: Galactic Offensive , Battlecraft: Retooled или SOPHIA Dating Sims Beta."
-
+acot_modifier_free_soldier_desc: "На этой планете есть специальная Виртуальная сила, состоящая из безработных людей, которые играют в различные игры, такие как Virtual Strike: Galactic Offensive, Battlecraft: Retooled или SOPHIA Dating Sims Beta"
 job_acot_free_thinker: "Свободный мыслитель"
 job_acot_free_thinker_plural: "Свободные мыслители"
-job_acot_free_thinker_desc: "Безработные люди, которые используют свое время, изучая все, что захотят, пока не получат работу."
-
-decision_give_thinker_job: "Мечты о завтрашнем дне"
+job_acot_free_thinker_desc: "Безработные люди, которые используют свое время, изучая все, что хотят, пока не получат работу"
+decision_give_thinker_job: "Мечтатели о завтрашнем дне"
 decision_give_thinker_job_desc: "У меня, Джорно Джованна, есть мечта..."
-decision_give_thinker_job_effect: "Безработным попам будет отведена роль Свободных Мыслителей, которые обеспечивают колонию незначительными научными ресурсами."
-
+decision_give_thinker_job_effect: "Безработным народам будет дана роль Свободных Мыслителей, которые обеспечивают колонию второстепенными научными ресурсами"
 acot_modifier_free_thinker: "Свободные мыслители"
-acot_modifier_free_thinker_desc: "Эта планета поощряет творчество и учебу, здесь безработных поощряют учиться и находить занятие по душе."
-
-tech_go_sleep_machine: "Режим стазиса"
-tech_go_sleep_machine_desc: "Перемены в нашем обществе приводят к снижению спроса на рабочую силу. Те, кому еще предстоит найти себе занятие, должны спать и ждать своих заданий."
-
-job_acot_free_reserve_drone: "Резервное подразделение"
-job_acot_free_reserve_drone_plural: "Резервные подразделения"
-job_acot_free_reserve_drone_desc: "Резервные подразделения - это дроны, которые не получили более важных заданий и переведены в режим ожидания."
-
-decision_give_reserve_job: "Активация модуля Statis"
-decision_give_reserve_job_desc: "Здание... Невозможно выполнить, здание в процессе... В режиме ожидания."
-decision_give_reserve_job_effect: "Безработные дроны будут помещены в стазис до тех пор, пока им не будут даны задания."
-
-acot_modifier_free_stasis: "Стазис-камеры"
-acot_modifier_free_stasis_desc: "На этой планете есть сеть стазис-камер, где безработные дроны будут находиться в режиме ожидания до получения дальнейших приказов."
-
-decision_ungive_job: "Инициация безработицы"
-decision_ungive_job_desc: "Настало время, когда наше население снова будет страдать от безработицы."
-decision_ungive_job_effect: "Безработные попы будут считаться безработными и снова начнут беспокоить наши общества."
+acot_modifier_free_thinker_desc: "Эта планета способствует творчеству и учебе, где безработных поощряют учиться и находить себе занятие по жизни"
+tech_go_sleep_machine: "Стазисный режим"
+tech_go_sleep_machine_desc: "Изменения в нашем обществе приводят к снижению спроса на рабочую силу. Те, кому еще не поставлена цель, должны спать и ждать выполнения своих задач"
+job_acot_free_reserve_drone: "Резервный блок"
+job_acot_free_reserve_drone_plural: "Резервные единицы"
+job_acot_free_reserve_drone_desc: "Резервные единицы - это дроны, которым не поручаются важные задачи, и они переведены в режим ожидания"
+decision_give_reserve_job: "Активация модуля статистики"
+decision_give_reserve_job_desc: "Строительство... Невозможно выполнить, строительство продолжается... В ожидании."
+decision_give_reserve_job_effect: "Находящиеся без работы будут помещены в стазис, пока им не будут даны задания"
+acot_modifier_free_stasis: "Стазис камеры"
+acot_modifier_free_stasis_desc: "На этой планете есть сеть стазис-камер, где не назначенные дроны будут переведены в режим ожидания, пока не будут даны дальнейшие приказы"
+decision_ungive_job: "Начало безработицы"
+decision_ungive_job_desc: "Пришло время для нашего населения снова страдать от безработицы"
+decision_ungive_job_effect: "Безработные люди будут считаться безработными и снова начнут преследовать наши общества"

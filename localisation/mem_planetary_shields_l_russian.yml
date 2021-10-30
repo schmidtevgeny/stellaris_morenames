@@ -1,0 +1,10 @@
+﻿l_russian:
+
+building_mem_planetary_shield_generator: "Генератор планетарного щита"
+building_mem_planetary_shield_generator_desc: "$tech_planetary_shield_generator_desc$"
+building_mem_planetary_shield_generator_heavy: "Генератор барьерного планетарного щита"
+building_mem_planetary_shield_generator_heavy_desc: "Это усовершенствованный генератор планетарного щита, полученный из наших исследований древних миров."
+building_mem_planetary_shield_generator_orila: "Генератор прекурсионного планетарного щита"
+building_mem_planetary_shield_generator_orila_desc: "Древний и высокотехнологичный планетарный щит с встроенным источником энергии. Его технология может быть на тысячи лет впереди наших..."
+mem_tech_planetary_shield_generator_heavy: "Модернизированный барьерный щит"
+mem_tech_planetary_shield_generator_heavy_desc: "Основываясь на наших собственных исследованиях полевых разработок, а также на наших предыдущих исследованиях технологии прекурсивной защиты, группа наших ученых выдвинула перспективную концепцию дизайна для обновленной версии наших собственных генераторов планетарных щитов."

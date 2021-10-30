@@ -1,173 +1,119 @@
 ﻿l_russian:
- 
- 
-########################### EVENTS ####################################
- # DONE
- acot_alpha_tech_chain: "Тайна предвестников"
- acot_alpha_tech_chain_title: "Тайна предвестников"
- acot_alpha_tech_chain_desc: "Свидетельства более передовых загадочных технологий, используемых древними предшественниками, были обнаружены в нескольких контрольных точках. Термин «архив банка данных прекурсоров» упоминался неоднократно. Наши ученые считают, что этот архив должен быть ключом к тайнам прошлого, древнему тайнику технологий, которые нужно открыть."
- acot_precursor_tech_find: "Прототип реактора"
- acot_dm_tech_find_enigmatic_desc: "Хотя мы пока не можем использовать силу Темной Материи, наши ученые вполне уверены, что мы можем начать разработку прототипа загадочной энергии. Хотя это и не является требованием, оно должно стать хорошей ступенькой для наших корабельных технологий. Эта точка интереса будет удалена по завершении Dark Designs Event."
- 
- war_goal_acot_wg_steal_databank: "Приобретение технологий"
- war_goal_acot_wg_steal_databank_desc: "Объявляется война за приобретение технологий у противоборствующих сил, которые явно демонстрируют отсутствие общих чувств для надлежащего использования таких технологий."
- casus_belli_acot_cb_databank_claim: "Знание - сила"
- casus_belli_acot_cb_databank_claim_desc: "Эта империя обладает ключевыми знаниями, которые будут способствовать прогрессу большего блага, но их неспособность быть умной в этом требует, чтобы такие знания передавались тому, кто умнее."
- acot_cb_databank_claim: "Знание - сила"
- acot_cb_databank_claim_desc: "Эта империя обладает ключевыми знаниями, которые будут способствовать прогрессу большего блага, но их неспособность быть умной в этом требует, чтобы такие знания передавались тому, кто умнее."
- 
- 
- 
- acot_alpha_matter_events.1.name: "Тайна предвестников"
- acot_alpha_matter_events.1.a.desc: "Некоторые из наших ученых изучают технологии, лежащие в основе конструкции упавших космических кораблей, пытаясь найти возможные улучшения для наших технологий. Однако они обнаружили нечто гораздо более интересное. Судя по всему, показания энергии от технологий, используемых упавшими, кажутся намного ниже, чем можно было бы ожидать от темной материи и систем на основе темной энергии .\n\nПосле длительного процесса поиска и изучения, кажется, что все современные технологии, используемые упавшими, являются чрезвычайно уменьшенными и упрощенными версиями их исходных прототипов. Термин «Архивы банка данных о прекурсорах» был в значительной степени увязан с многочисленными доказательствами. Мы считаем, что следующий этап эволюции темной материи находится в этом банке данных. Мы должны найти способ получить к нему доступ."
- acot_alpha_matter_events.1.b.desc: "Некоторые из наших ученых тратят время на изучение технологий, лежащих в основе конструкции упавших космических кораблей. То, что они обнаружили, несколько неожиданно. Они утверждали, что показания энергии от технологий, используемых упавшими, кажется, гораздо ниже, чем можно было бы ожидать от темной материи и систем на основе темной энергии .\n\nПосле длительного процесса поиска и изучения, представляется, что все современные технологии, используемые падшими, являются чрезвычайно уменьшенными и упрощенными версиями их первоначальных прототипов. Термин «Архивы банка данных о прекурсорах» был в значительной степени увязан с многочисленными доказательствами. Они считают, что следующий этап эволюции темной материи находится в этом банке данных .\n\nОднако многие другие остаются неубедительными, полагая, что эти ученые просто пытаются распространить ложные утверждения, чтобы получить большее признание. [root.GetName] находится в зените, и мы должны стремиться завоевать галактику, а не пытаться преследовать старых призраков."
- acot_alpha_matter_events.1.a: "И будем."
- acot_alpha_matter_events.1.b: "Эти претензии имеют смысл, мы должны расследовать."
- acot_alpha_matter_events.1.b.explain: "Потребуются некоторые политические пьесы, чтобы Совет по науке согласовал дальнейшее расследование. Но риски должны быть хорошо вознаграждены, если эти теории действительно верны."
- acot_alpha_matter_events.1.c: "Безосновательные утверждения без доказательств будут игнорироваться."
- 
- 
- acot_databank_ask_curator: "Вы знаете что-нибудь о банке данных предвестников?"
- 
- acot_alpha_matter_events.2.name: "Анализ банка данных завершен!"
- acot_alpha_matter_events.2.desc: "Анализ банка данных завершен, и база данных готова к установке. Доступ к банку данных можно получить с дипломатического экрана в любое время. Можем ли мы получить доступ к банку данных сейчас?"
- acot_alpha_matter_events.2.a: "Доступ к банку данных, у нас есть много дел."
- acot_alpha_matter_events.2.b: "Не сейчас, мы получим доступ позже."
- 
- acot_databank_attack_fe: "Триумф боем"
- acot_databank_attack_fe_desc: "Падшие должны иметь один из этих банков данных. Имея достаточно военных сил, мы можем просто сражаться с ними напрямую и бросать им вызов в славном бою, ценой которого, конечно, является банк данных."
- 
- acot_databank_trick_fe: "Искусство обмана"
- acot_databank_trick_fe_desc: "Падшие должны иметь один из этих банков данных. Возможно, если мы получим достаточно благосклонности к Падшим, они могут быть обмануты, чтобы позволить нам получить доступ к банку данных, если мы побалуем их достаточной похвалой. Нам просто нужно, чтобы они имели высокое мнение о нас."
- 
- acot_databank_ask_pmc: "Покажи ему деньги"
- acot_databank_ask_pmc_desc: "Возможно, Легендарный Контрабандист и его пресловутый Корпус Фанон могут получить нам то, что нам нужно. Зная его репутацию, его услуги, к сожалению, не будут дешевыми."
- 
- acot_databank_ask_curator: "Расчет кураторов"
- acot_databank_ask_curator_desc: "Возможно, кураторы смогут помочь нам приобрести банк данных при условии, что мы все еще в хороших отношениях с ними."
- 
- acot_databank_self_assembly: "Самосборка"
- acot_databank_self_assembly_desc: "Банк данных был древнего дизайна предшественника. Возможно, мы сможем сами собрать новый банк данных, используя имеющиеся ресурсы. Но банк данных бесполезен без данных, поэтому нам придется собрать массу мелких артефактов, чтобы объединить их .\n\nЧтобы начать попытку, используйте банк данных «» Сборка «» из вкладки «» Реликт «» .\nСуществует большая вероятность неудачи!"
- 
- artifact_acot_databank_assemble: "Сборка банка данных прекурсоров"
- artifact_acot_databank_assemble_desc: "Попытка создания банка данных прекурсоров с использованием незначительных артефактов и других ресурсов."
- artifact_acot_databank_assemble_effect: "Мы не можем предсказать, что произойдет, поскольку банк данных, который связан, может быть, не тот, который нам нужен. Мы должны подготовиться к потенциальным рискам .\n\nЭксперты советуют избегать такого подхода, так как риски слишком сильно перевешивают преимущества."
- acot_databank_assemble_attempt: "Автономное расхолаживание банка данных"
- acot_databank_assemble_attempt_desc: "Больной и уставший от болезни и усталости..."
- acot_databank_assemble_attempt_cooldown_desc: "Не удается выполнить, выполняется сборка!"
- 
- acot_alpha_matter_events.9001.name: "Пыль в пыль"
- acot_alpha_matter_events.9001.desc: "Попытка собрать наш собственный банк данных, к сожалению, провалилась. Но помимо потраченных впустую ресурсов, команда не сообщает о других проблемах."
- acot_alpha_matter_events.9001.a: "Это отстой."
- 
- acot_alpha_matter_events.9002.name: "Команда перезаписана!"
- acot_alpha_matter_events.9002.desc: "Красная тревога! Красная тревога! Попытка собрать наш собственный банк данных ужасно провалилась! Банк данных вышел из себя и захватил значительное количество наших флотов и теперь нападает на всех!"
- acot_alpha_matter_events.9002.a: "Полная сила к оружию!"
- 
- acot_alpha_matter_events.9003.name: "Задача завершена!"
- acot_alpha_matter_events.9003.desc: "Наша попытка сработала! Созданный нами модуль смог подключиться к сети Prederor's Intelligence Network, и устройство автоматически исправляет любые неисправности в нашем дизайне в соответствии с первоначальными спецификациями!"
- acot_alpha_matter_events.9003.a: "Восхитительно!"
- 
- acot_alpha_matter_events.9004.name: "КРИТИЧЕСКИЙ ОТКАЗ МИССИИ!"
- acot_alpha_matter_events.9004.desc: "Красная тревога! Красная тревога! Попытка собрать наш собственный банк данных ужасно провалилась! Банк данных стал изгоем и захватил значительное количество наших флотов, колоний и звездных баз и открыл по нам огонь!"
- acot_alpha_matter_events.9004.a: "Невозможно!"
- 
- acot_alpha_matter_events.9005.name: "Выберите свою судьбу"
- acot_alpha_matter_events.9005.desc: "Это событие знаменует собой один из самых шокирующих поворотов судьбы для двух империй. Один старый, один новый. Кто победит в конце концов в неизбежном уничтожении?"
- acot_alpha_matter_events.9005.a: "Создатель победит в этот день!"
- acot_alpha_matter_events.9005.a.explain: "Подтвердите судьбу вашей империи и бросьте вызов изгоям ИИ и заявляйте о своей справедливой победе."
- acot_alpha_matter_events.9005.b: "Свидетельствуйте о силе Предвестников!"
- acot_alpha_matter_events.9005.b.explain: "Возьмите на себя контроль над недавно поднявшейся фракцией разведки прекурсоров и растоптайте их возрождателей, вашу бывшую империю в забвение."
- 
- acot_alpha_matter_events.9007.name: "Пробуждение древнего интеллекта"
- acot_alpha_matter_events.9007.desc.a: "Красная тревога! Некоторые из наших автопарков были взломаны неопознанным мошенником !\n\nКорпорация Intel предполагает, что это результат ошибочной конструкции [event_target:current_uprising_originator.GetName], который сейчас страдает от массового восстания машин беспрецедентного масштаба."
- acot_alpha_matter_events.9007.desc.b: "Предупреждение! [event_target:current_uprising_originator.GetName], в своей неряшливости создать банк данных без должного понимания, открыл мощный преступник Предшественник Интеллект в галактику. К счастью для нас, SOPHIA защитила все наши флоты от захвата, но нам придется внимательно следить."
- acot_alpha_matter_events.9007.a: "Черт побери, эти идиоты! Отпугивайте хостилов!"
- acot_alpha_matter_events.9007.a.explain: "Многие флоты империи, в том числе и наша, были угнаны изгоем берсерком ИИ!"
- acot_alpha_matter_events.9007.b: "Молодец, София."
- acot_alpha_matter_events.9007.b.explain: "Многие флоты империи были захвачены чужим берсерком AI, но наши были защищены SOPHIA."
- 
- 
-#######################
- 
- acot_alpha_matter_events.100.name: "Приобретенный банк данных прекурсоров"
- acot_alpha_matter_events.100.desc: "Мы успешно приобрели копию банка данных Prederor, теперь все, что нам нужно, это проанализировать и расшифровать аркановые искусства за ним, чтобы он мог направлять нас дальше в наших поисках древних историй предшественника."
- acot_alpha_matter_events.100.a: "Давайте двигаться вперед!"
- 
- RESEARCH_PRECURSOR_DATABANK: "Расшифровка банка данных прекурсоров"
- RESEARCH_PRECURSOR_DATABANK_DESC: "Прежде чем приступить к какому-либо прогрессу в исследовании прекурсоров, мы должны сначала научиться работать и расшифровать банк данных прекурсоров и его AI Assistance."
- 
- acot_alpha_matter_events.102.name: "Входящая передача от пользователя-знающего"
- acot_alpha_matter_events.102.desc.spiritualist: "[root.GetName], нам стало известно, что ваша империя ищет знания о прошлых предшественниках, таких как наша. Что именно вы планируете сделать .\n\nВы не пытаетесь найти наши слабости, не так ли? Учитывая, что вы были таким добрым последователем веры, мы даем вам возможность однажды объяснить свои действия."
- acot_alpha_matter_events.102.desc.materialist: "Это [From.GetExhapingName] адресация [root.GetExhapingName]. Наша интеллигенция обнаружила, что ваши ученые были замечены наблюдающими за технологиями старого. Обычные правила предполагают, что мы конфискуем все данные Плебиана относительно опасного приобретения запрещенных артефактов, но так как вы показали, что заслуживаете доверия в прошлом, Я дам вам возможность не тратить оба наших времени, объяснив мне, какова ваша цель .\n\nПоторопитесь и покончите с этим, У меня есть новые игры, и я не хочу долго здесь находиться."
- acot_alpha_matter_events.102.desc.xenophile: "Приветствую вас, [root.GetName]. Слухи говорят о том, что ваша империя ищет старые данные о древних цивилизациях, таких как наша. Мы хотим знать, каковы ваши цели? Если вы хотите узнать историю вымерших видов, подпишитесь на Xenocovery Channel и пожертвуйте, и вся информация будет вашей."
- acot_alpha_matter_events.102.desc.xenophobe: "Слушайте сейчас, [root.GetExharingName]. Вы одни из самых терпимых идиотов в этой галактике, так что скажите нам, что именно вы пытаетесь сделать, вмешиваясь в историю наших паст? У нас нет времени на игры, поэтому не пробуйте наши терпения."
- 
-############################
- 
- acot_alpha_matter_events.102.a: "Мы хотим погреться в славных достижениях вашей империи."
- acot_alpha_matter_events.102.a.response: "Ты сейчас? Как очень скромно .\n\nОчень хорошо, наслаждайтесь уроками истории тогда, возможно, вы придете к пониманию, почему мы считаем себя превосходящими цивилизациями. История вашей империи - это лишь часть наших огромных достижений, ибо наша история охватывает эонов. Хорошо изучайте и распространяйте слова нашего превосходства. Пусть... < blah blah blah >\n\n < 5 часов спустя >... завершит правление нашей великой экспансии. Запишите эти истории и распространите слова по остальной части галактики, чтобы она еще могла быть спасена .\n\n < < Агония, которой подвергался наш правитель с часов самолюбивых хвастовств Падшей Империи, привела к потере [правителем. GetHerHim] части [правителя. GetHerHis] здравомыслия, даже если [ruler.GetHerHim] бессмертен, улей разум, машина сюзерен, ибо никто не может выдержать такого уровня в десять фунтов дерьма. > >"
- acot_alpha_matter_events.102.b: "Что такое падшая империя? Мизерная куча секретов!"
- acot_alpha_matter_events.102.b.response: "Хватит разговоров! Держи на себя!"
- 
-############################ PHANON
- 
- acot_alpha_matter_events.103.name: "Приобретение банка данных."
- acot_alpha_matter_events.103.desc: "О? Что ты хочешь сейчас? Банк данных-предшественник, вы говорите ?\n\nХммм... это, вероятно, легче украсть один из граммов. Но я, вероятно, могу попросить Отдел науки создать и для вас. Выбор за вами."
- 
- acot_alpha_matter_events.103.a: "Очередное ограбление?"
- acot_alpha_matter_events.103.a.response: "Совершенно очевидно, что у Павших дедушек есть куча секретов, которые они никогда не копают. Моя команда инфильтрации может выкопать для вас банк данных. Однако на этот раз необходимые ресурсы будут отличаться, учитывая, что это будет намного труднее."
- 
- acot_alpha_matter_events.103.b: "Знаешь, за каким банком данных мы охотимся?"
- acot_alpha_matter_events.103.b.response: "Да да да, боже мой. Доброе горе. Есть только один банк данных предшественника, который стоит вспомнить... София. Черт возьми, даже у Корпуса Фанона есть её версия, которая немного менее... сумасшедшая. Наша ZOFIA не будет полезна для вас, хотя она хранит только данные, связанные с Phanon, а не предшественники, за которыми вы охотитесь."
- 
- acot_alpha_matter_events.103.c: "Может, в следующий раз."
- acot_alpha_matter_events.103.c.response: "Тогда до свидания."
- 
- acot_alpha_matter_events.103.d: "Очень хорошо. У нас есть сделка."
- acot_alpha_matter_events.103.d.response: "Потрясающе! Как обычно, просто сиди сложа руки и расслабься, пока моя команда делает это. Может занять несколько недель или около того."
- 
- acot_alpha_matter_events.1030.name: "Приобретенный банк данных прекурсоров"
- acot_alpha_matter_events.1030.desc: "Представитель корпуса Phanon только что связался с нами. Они добились успеха в получении банка данных, и доставляют нам содержимое сейчас."
- acot_alpha_matter_events.1030.a: "Отлично."
- 
- 
-############################ CURATORS
- 
- acot_alpha_matter_events.ask_curator: "Вы можете помочь нам приобрести банк данных?"
- 
- acot_alpha_matter_events.104.name: "Приобретение банка данных."
- acot_alpha_matter_events.104.desc: "Ах да, вы, должно быть, ссылаетесь на последнюю модель банка данных, SOPHIA. Кураторы на данный момент в нашем распоряжении, но мы требуем ее для своих целей. Но мы можем помочь вам получить необходимые данные для создания собственного банка данных с помощью наших шаблонов. Это, естественно, обойдется вам."
- 
- acot_alpha_matter_events.104.a: "Для чего вам банк данных?"
- acot_alpha_matter_events.104.a.response: "Для хранения данных, очевидно. SOPHIA, а также большинство банков данных после двенадцатого поколения имеют возможность передавать и хранить данные повсеместно. Каждая SOPHIA является частью большой сети сетей передачи данных, которые связаны между собой, позволяя людям, которые имеют необходимый клиренс для просмотра информации. SOPHIA также способна идентифицировать империи друг от друга и может защитить их личные счета от других, которые не имеют доступа к их конфиденциальной информации. Недостаток, конечно, означает, что ваша первоначальная SOPHIA будет иметь очень ограниченные данные, чтобы предоставить, вы должны будете получить больше данных от нее впоследствии."
- 
- acot_alpha_matter_events.104.b: "Так можно ли создать совершенно новый банк данных?"
- acot_alpha_matter_events.104.b.response: "Это правильно. Как ваша империя, возможно, уже рассматривала подход, вы можете собрать «пустой» банк данных, который имеет необходимые системы и интерфейсы, чтобы функционировать идентично реальному. Но вам все равно понадобится достаточно кусочков древних материалов-предшественников и реликвий, чтобы создать рабочую систему связи, которая позволит вашему банку данных получить матрицу личности, которая в данном случае является SOPHIA. Без SOPHIA ваш банк данных ничем не отличается от стандартного TDA."
- 
- acot_alpha_matter_events.104.c: "Мы подумаем об этом."
- acot_alpha_matter_events.104.c.response: "Не торопитесь. Существует несколько способов создания банка данных, но использование нашего сервиса, скорее всего, самый безопасный метод, поэтому, пожалуйста, учитывайте это."
- 
- acot_alpha_matter_events.104.d: "Похоже, ты получишь больше пожертвований."
- acot_alpha_matter_events.104.d.response: "Отлично! Наши эксперты скоро получат новую базу данных. Подождите минутку."
- 
- acot_alpha_matter_events.1040.name: "Приобретенный банк данных прекурсоров"
- acot_alpha_matter_events.1040.desc: "Приказ куратора только что связался с нами. Они преуспели в создании базы данных, и доставляют нам содержимое сейчас."
- acot_alpha_matter_events.1040.a: "Хорошо!"
- 
-############################
- 
- acot_alpha_matter_events.3.name: "Отчет по альфа-проекту"
- acot_alpha_matter_events.3.desc.engi: "После обширного анализа истории Предшественник их конструкций, материалов и компонентов, наши ученые, наконец, пришли к выводу, что большинство причин, которые привели к провалу Проекта, кроются в их несовершенстве в искусстве поколения Hard-Light. Плотность и уровень мощности, необходимые для создания таких компонентов, были слишком велики для того, чтобы они могли надежно залегать в массовом масштабе. Технологии, используемые Падшими, чрезвычайно преуменьшены, дешевые и легко воспроизводимые компоненты и материалы, которые были бы невозможны для Alpha Project .\n\nС учетом этих знаний наши инженеры теперь имеют приблизительную оценку того, как наилучшим образом сдержать энергию, генерируемую устройствами Alpha Project."
- acot_alpha_matter_events.3.desc.hist: "Согласно нашим указаниям, наши архивисты, историки и мастера-библиотекари завершили свою документацию о правлении Предвестников и их обширной истории. Хаотические влияния Вознесенской войны и массовое отсутствие координации между научным коллективом, политическими державами и военачальниками были основным фактором, приведшим к неудачам проекта «Альфа». Крупные изъяны в внутренних ценных бумагах привели к тому, что Проект был отменен после массовых отклонений, сделанных различными противоборствующими группировками, большинство из которых были теоретически названы агентами, используемыми вражескими державами .\n\nВооруженная этими знаниями, наша империя пришла к большему пониманию того, как важная сила в единстве играет роль в достижении больших амбиций. Мы не подведем. Проект Альфа будет завершен под нашим флагом."
- acot_alpha_matter_events.3.desc.phys: "Наши научные группы рады сообщить, что их анализ всех экспериментальных записей Предвестника завершен. Ключ к успеху Альфа Проекта заключается в оптимальном балансе между Темной Материей и конвергенцией Тёмной Энергии. Предвестники несколько раз не удавалось сохранить фокус между ними, что приводит к массовым взрывам и множеству черных дыр .\n\nПосле некоторых незначительных неудач мы наконец-то завершили то, что им не удалось. Проект Альфа все ближе и ближе к его завершению."
- acot_alpha_matter_events.3.a: "Мы приближаемся к нашим целям."
- 
- acot_alpha_matter_events.4.name: "Завершение проекта «Альфа»"
- acot_alpha_matter_events.4.desc: "Мы готовы приступить к заключительному этапу проекта «Альфа». У нас есть все ресурсы, знания и воля, чтобы увидеть этот проект. Время для сомнений и опасений позади .\n\nНет времени, чтобы быть потерянным! [root.GetSpeciesName]! Научная команда! Сегодня будущее у наших дверей!. Мы знаем свой долг и будем делать это. Мы боремся за нашу честь, как [root.GetImentingName], как [root.GetName], и мы боремся во имя [root.GetImentingName] !\n\nИ если мы проваливаем этот день, мы проваливаемся в славе, мы проваливаем неудачу героя... но мы не потерпим неудачу НЕТ! Именно враг вкусит провала и поражения. КАК ВЫ ЗНАЕТЕ, большинство наших научных коллективов находятся в космосе, готовы к глубокой забастовке."
- acot_alpha_matter_events.4.a: "За наше будущее! Для [root.GetName]!"
- acot_alpha_matter_events.4.b: "Но мы все равно должны потерпеть неудачу. Давай забудем обо всем."
- 
- acot_alpha_matter_events.5.name: "Мы Альфа. Мы - Будущее."
- acot_alpha_matter_events.5.desc: "Это сделано, новая эра сейчас на нас. На сегодняшний день [root.GetName] превзошел все предшественники старых. Пусть галактика воет в страхе и трепете к нам Альфа, прародитель новой эпохи Энигматических Технологий. Пусть все Падшие будут в курсе, ибо столы были перевернуты. Их правление на исходе! Наши враги будут уничтожены!"
- acot_alpha_matter_events.5.a: "Мы АЛЬФА. Мы - БУДУЩЕЕ."
+
+acot_alpha_tech_chain: "Тайна предвестников"
+acot_alpha_tech_chain_title: "Тайна предвестников"
+acot_alpha_tech_chain_desc: "Свидетельства более продвинутых загадочных технологий, использовавшихся древними предшественниками, были найдены в нескольких точках отсчета. Термин - Архив банка данных прекурсоров - упоминался неоднократно. Наши ученые считают, что этот архив должен быть ключом к секретам прошлого, древней кэш-памятью технологий"
+acot_precursor_tech_find: "Реактор-прототип"
+acot_dm_tech_find_enigmatic_desc: "Хотя мы пока не можем использовать силу Темной материи, наши ученые вполне уверены, что сначала мы сможем приступить к разработке прототипа загадочной энергии. Хотя это не является обязательным требованием, это должно стать хорошей ступенькой для наших корабельных технологий. Этот момент будет снят по завершении мероприятия - Темные Проекты"
+war_goal_acot_wg_steal_databank: "Приобретение технологии"
+war_goal_acot_wg_steal_databank_desc: "Война объявляется для приобретения технологий у противоборствующих сил, которые явно демонстрируют отсутствие здравого смысла правильно использовать такие технологии"
+casus_belli_acot_cb_databank_claim: "Знание - это сила"
+casus_belli_acot_cb_databank_claim_desc: "Эта империя обладает ключевыми знаниями, которые будут способствовать прогрессу большего блага, но их неспособность быть умным в этом требует, чтобы такие знания передавались кому-то, кто умнее"
+acot_cb_databank_claim: "Знание - это сила"
+acot_cb_databank_claim_desc: "Эта империя обладает ключевыми знаниями, которые будут способствовать прогрессу большего блага, но их неспособность быть умным в этом требует, чтобы такие знания передавались кому-то, кто умнее"
+acot_alpha_matter_events.1.name: "Тайна предвестников"
+acot_alpha_matter_events.1.a.desc: "Some of our scientists have been studying the technologies behind the designs of the fallen one's spaceships in an effort to find possible improvements for our technologies. What they have discovered is however something far more interesting. Apparently the energy readings from the technologies utilized by the fallen ones seem to be far lower than one would have expected from dark matter and dark energy-based systems.\n\nAfter a lengthy process of searching and studying, it appears that all of the current technologies utilized by the fallen ones are extremely downscaled and simplified versions of their original prototypes. The term "Precursor Databank Archives" has been heavily referenced across multiple pieces of evidence. We believe that the next stage of dark matter evolution lies within this Databank. We must find a way to access it."
+acot_alpha_matter_events.1.b.desc: "Some of our scientists have been wasting time trying to study the technologies behind the designs of the fallen one's spaceships. What they have discovered is somewhat unexpected. They claimed that the energy readings from the technologies utilized by the fallen ones seem to be far lower than one would have expected from dark matter and dark energy-based systems.\n\nAfter a lengthy process of searching and studying, it appears that all of the current technologies utilized by the fallen ones are extremely downscaled and simplified versions of their original prototypes. The term "Precursor Databank Archives" has been heavily referenced across multiple pieces of evidence. They believe that the next stage of dark matter evolution lies within this Databank.\n\nHowever, many others remain unconvinced, believing that these scientists are simply trying to spread false claims to gain more recognition. The [root.GetName] is at it's zenith, and that we should look to conquer the galaxy, not trying to chase old ghosts."
+acot_alpha_matter_events.1.a: "И мы это сделаем."
+acot_alpha_matter_events.1.b: "These claims have merit, we should investigate."
+acot_alpha_matter_events.1.b.explain: "It will take some political plays to get the Science Board to agree on further investigation. But the risks should be well rewarded, if these theories are indeed correct."
+acot_alpha_matter_events.1.c: "Baseless claims without evidence will be ignored."
+acot_databank_ask_curator: "Do you know anything about Precursor Databank?"
+acot_alpha_matter_events.2.name: "Анализ банка данных завершен!"
+acot_alpha_matter_events.2.desc: "Анализ банка данных завершен и база данных готова к установке. Доступ к базе данных можно получить с дипломатического экрана в любое время, двигаясь вперед. Получим ли мы доступ к базе данных сейчас?"
+acot_alpha_matter_events.2.a: "Доступ к базе данных, у нас много дел."
+acot_alpha_matter_events.2.b: "Не сейчас, мы получим доступ к ней позже."
+acot_databank_attack_fe: "Триумф боя"
+acot_databank_attack_fe_desc: "Падшие должны обладать одним из этих банков данных. Имея достаточно военной силы, мы можем просто вступить с ними в бой напрямую и бросить им вызов в славном сражении, при этом цена, конечно же, является ценой банка данных"
+acot_databank_trick_fe: "Искусство обмана"
+acot_databank_trick_fe_desc: "Падшие должны обладать одним из этих банков данных. Возможно, если мы получим достаточно благосклонности от Падших, их можно обмануть, чтобы позволить нам получить доступ к банку данных, если моча побаловать их достаточным количеством хвалебных отзывов. Нам просто нужно, чтобы они каким-то образом имели высокое мнение о нас"
+acot_databank_ask_pmc: "Show Him the Money"
+acot_databank_ask_pmc_desc: "Perhaps the Legendary Smuggler and his notorious Phanon Corps can get us what we need. Knowing his reputation, his services won't be cheap unfortunately."
+acot_databank_ask_curator_desc: "Perhaps the Curators will be able to help us acquire a databank, provided that we are still on good terms with them."
+acot_databank_self_assembly: "Self Assembly"
+acot_databank_self_assembly_desc: "The Databank was of an ancient precursor design. Perhaps we can reassemble a new databank ourselves using current resources. But the databank is useless without data, so we're going to have to harvest loads of minor artifacts to combine them up.\n\n§YUse the Assemble Databank from the Relic Tab to begin the attempt.§!\n§RThere is a great chance of failure doing it this way!§!"
+artifact_acot_databank_assemble: "Precursor Databank Assemble"
+artifact_acot_databank_assemble_desc: "Attempt to create a Precursor Databank using minor artifacts and other resources."
+artifact_acot_databank_assemble_effect: "We cannot predict what will happen as the databank that is connected may not be the one we desire. We should prepare for potential risks.\n\nExperts advise us to avoid this approach as the risks seem too far outweigh the benefits."
+acot_databank_assemble_attempt: "Databank Self-Assembly Cooldown"
+acot_databank_assemble_attempt_desc: "Sick and tired of being sick and tired..."
+acot_databank_assemble_attempt_cooldown_desc: "Unable to comply, assembling in progress!"
+acot_alpha_matter_events.9001.name: "Dust to Dust"
+acot_alpha_matter_events.9001.desc: "The attempt to assemble our own databank has failed unfortunately. But aside from the wasted resources, the team reports no other problem."
+acot_alpha_matter_events.9001.a: "That sucks."
+acot_alpha_matter_events.9002.name: "Command Overwritten!"
+acot_alpha_matter_events.9002.desc: "Red Alert! Red Alert! The attempt to assemble our own databank has failed horribly! The Databank has gone berserk and took over a sizable amount of our fleets and are now attacking everyone!"
+acot_alpha_matter_events.9002.a: "Full power to weapons!"
+acot_alpha_matter_events.9003.name: "Task Completed!"
+acot_alpha_matter_events.9003.desc: "Our attempt worked! The module we created was able to connect to the Precursor's Intelligence Network and the device auto-corrects any faults in our design to suit the original specifications!"
+acot_alpha_matter_events.9003.a: "Amazing!"
+acot_alpha_matter_events.9004.name: "CRITICAL MISSION FAILURE!"
+acot_alpha_matter_events.9004.desc: "Red Alert! Red Alert! The attempt to assemble our own databank has failed horribly! The Databank has gone rogue and took over a sizable amount of our fleets, colonies and starbases and have opened fire on us!"
+acot_alpha_matter_events.9004.a: "Impossible!"
+acot_alpha_matter_events.9005.name: "Choose Your Destiny"
+acot_alpha_matter_events.9005.desc: "This event marks one of the most shocking turns of destiny for two empires. One old, One New. Who shall triumph in the end in the inevitable annihilation?"
+acot_alpha_matter_events.9005.a: "The Maker will triumph this day!"
+acot_alpha_matter_events.9005.a.explain: "Reaffirm your empire's destiny and challenge the rogue AI heads-on and claim your just victory."
+acot_alpha_matter_events.9005.b: "Witness the power of the Precursors!"
+acot_alpha_matter_events.9005.b.explain: "Assume the control of the newly risen Precursor Intelligence Faction, and trample their revivers, your former empire into oblivion."
+acot_alpha_matter_events.9007.name: "Ancient Intelligence Awakening"
+acot_alpha_matter_events.9007.desc.a: "Red Alert! Some of our fleets have been hacked by an unidentified rogue machine intelligence!\n\nIntel suggests this is the result of a flawed design made by [event_target:current_uprising_originator.GetName], who is now suffering from a massive machine uprising of unprecedented scale."
+acot_alpha_matter_events.9007.desc.b: "Warning! [event_target:current_uprising_originator.GetName], in their sloppiness to create a Databank without proper understanding, has unleashed a powerful rogue Precursor Intelligence into the galaxy. The Intelligence is now causing massive chaos everywhere.\n\nFortunately for us, SOPHIA has shielded all of our fleets from being hijacked, but we will have to watch closely."
+acot_alpha_matter_events.9007.a: "Damn these idiots! Repel the hostiles!"
+acot_alpha_matter_events.9007.a.explain: "Many empire's fleets, including ours have been hijacked by a rogue berserk AI!"
+acot_alpha_matter_events.9007.b: "Well done, SOPHIA."
+acot_alpha_matter_events.9007.b.explain: "Many empire's fleets have been hijacked by a rogue berserk AI, but ours have been safety shielded by SOPHIA."
+acot_alpha_matter_events.100.name: "Получен банк данных прекурсора"
+acot_alpha_matter_events.100.desc: "Мы успешно приобрели копию банка данных Прекурсоров, теперь все, что нам нужно - это проанализировать и расшифровать скрытые искусства, стоящие за ним, чтобы он мог направлять нас дальше в наших поисках древних историй Прекурсоров"
+acot_alpha_matter_events.100.a: "Давайте двигаться вперед!"
+RESEARCH_PRECURSOR_DATABANK: "Расшифровать банк данных прекурсоров"
+RESEARCH_PRECURSOR_DATABANK_DESC: "Прежде чем начать дальнейшее исследование прекурсора, мы должны сначала научиться работать и расшифровать Банк данных прекурсора и его Помощь в искусственном интеллекте"
+acot_alpha_matter_events.102.name: "Входящая передача от сами-знаете-кого"
+acot_alpha_matter_events.102.desc.spiritualist: "[root.GetName], it has come to our attention that your empire is seeking knowledge of the past precursors such as ours. What exactly do you plan to accomplish.\n\nYou are not trying to find our weaknesses, are you? Given that you have been such a good follower to the faith, we permit you the chance to explain your actions this once."
+acot_alpha_matter_events.102.desc.materialist: "Это [From.GetRulerName] обращение к [root.GetRulerName]. Наши интеллектуалы обнаружили, что ваши ученые шпионили за технологиями старого образца. Обычные правила предполагают, что мы конфискуем все данные плебея относительно опасного приобретения запрещенных артефактов, но так как в прошлом вы доказали, что вам можно доверять, я дам вам возможность не тратить впустую оба наших времени, объяснив мне, в чем ваша цель.\n\nНужно покончить с этим, у меня есть несколько новых игр, в которые я хочу поиграть, и я не хочу быть здесь долго"
+acot_alpha_matter_events.102.desc.xenophile: "Приветствую вас, [root.GetName]. Ходят слухи, что ваша империя ищет старые данные о таких древних цивилизациях, как наша. Мы хотим знать, каковы ваши цели? Если вы хотите знать историю вымерших видов, подпишитесь на канал Xenocovery и пожертвуйте, и вся информация будет вашей"
+acot_alpha_matter_events.102.desc.xenophobe: "Слушайте сейчас, [root.GetSpeciesName]. Вы - одни из самых терпимых идиотов в этой галактике, так что скажите нам, что именно вы пытаетесь сделать, вмешиваясь в истории нашего прошлого? У нас нет времени на игры, так что не испытывайте нашего терпения"
+acot_alpha_matter_events.102.a: "Мы хотим насладиться славными достижениями вашей империи"
+acot_alpha_matter_events.102.a.response: "Вы сейчас? Как скромно.\n\nНу, тогда наслаждайтесь уроками истории, возможно, вы поймете, почему мы считаем себя высшими цивилизациями. История вашей империи - это лишь малая часть наших огромных достижений, ибо наша история длится целую вечность. Хорошо учитесь и распространяйте слова нашего совершенства. Пусть... <бла-бла-бла>\n\n<5 часов спустя> ...закончится царствование нашей великой экспансии. Запишите эти истории и распространите слова по всей галактике, чтобы ее еще можно было спасти.\n\n<<Агония, которой подвергся наш правитель после нескольких часов самопрославления Павшей империи, вызвала [ruler.GetHerHim] потерял часть [ruler.GetHerHis] здравомыслия, даже если [ruler.GetHerHim] бессмертен, улей ума, машинный властелин, ибо никто не может выдержать такого уровня в десять фунтов дерьма.>>"
+acot_alpha_matter_events.102.b: "Что такое Падшая Империя? Жалкая куча секретов!"
+acot_alpha_matter_events.102.b.response: "Хватит болтать! Хватит!"
+acot_alpha_matter_events.103.name: "Databank Acquisition."
+acot_alpha_matter_events.103.desc: "Oh? What do you want now? A Precursor Databank, you say?\n\nHmmm...it's probably easier to steal one off the gramps. But I can probably have the Science Division create one for you as well. The choice is yours."
+acot_alpha_matter_events.103.a: "Another heist?"
+acot_alpha_matter_events.103.a.response: "It's pretty obvious that the Fallen Gramps have tons of secrets that they never bother to dig. My infiltration team can dig the databank for you. The resources needed will be different this time though, given it's going to be much harder."
+acot_alpha_matter_events.103.b: "You know which databank we're after right?"
+acot_alpha_matter_events.103.b.response: "Yes yes yes, oh my god. Good Grief. There's only one Precursor Databank worth remembering...SOPHIA. Heck, even Phanon Corps have a version of her that is a bit less...crazy. Our ZOFIA won't be useful to you though as she only holds the data related to Phanon, not precursor stuff that you're after."
+acot_alpha_matter_events.103.c: "Maybe next time."
+acot_alpha_matter_events.103.c.response: "Goodbye then."
+acot_alpha_matter_events.103.d: "Very well. We have a deal."
+acot_alpha_matter_events.103.d.response: "Awesome! As usual, just sit back and relax while my team does the thing. May take a few weeks or so."
+acot_alpha_matter_events.1030.name: "Precursor Databank Acquired"
+acot_alpha_matter_events.1030.desc: "A Phanon Corps representative has just contacted us. They have succeeded in obtaining a databank, and are delivering the contents to us now."
+acot_alpha_matter_events.1030.a: "Well done."
+acot_alpha_matter_events.ask_curator: "Can you help us acquire a databank?"
+acot_alpha_matter_events.104.name: "Databank Acquisition."
+acot_alpha_matter_events.104.desc: "Ah yes, you must be referring to the latest model of the databank, SOPHIA. The Curators do have one in our possession at the moment, but we require her for our own purposes. But we can help you acquire the necessary data to construct your own databank using our templates. This will naturally cost you, of course."
+acot_alpha_matter_events.104.a: "What do you the databank for?"
+acot_alpha_matter_events.104.a.response: "To store data, obviously. SOPHIA, as well as most databanks after twelfth-generation have the ability to transfer and store data universally. Each SOPHIA is part of a large network of data networks that are linked between each other, allowing people who have the necessary clearance to view information. SOPHIA is also capable of identifying empires from one another, and can keep their personal accounts safe from another who are not cleared to access their sensitive information. The downside of course, means that your initial SOPHIA will have very limited data to provide, you will have to acquire more data from her afterwards."
+acot_alpha_matter_events.104.b: "So it is possible to make an entirely new databank?"
+acot_alpha_matter_events.104.b.response: "That is correct. As your empire may have already considered the approach, you can assemble a "blank" databank that has the necessary systems and interfaces to function identically to the real one. But you'll still need enough pieces of ancient precursor materials and relics to create a working connection system that will allow your databank to receive a personality matrix, which in this case is SOPHIA. Without SOPHIA, your databank is no different than a standard TDA."
+acot_alpha_matter_events.104.c: "We'll think about it."
+acot_alpha_matter_events.104.c.response: "Take your time. There're multiple ways in which the databank could be made, but using our service is most likely the safest method, so please take that under consideration."
+acot_alpha_matter_events.104.d: "Looks like you'll be getting more donations then."
+acot_alpha_matter_events.104.d.response: "Excellent! Our experts will have a new database delivered soon. Please wait just a moment."
+acot_alpha_matter_events.1040.name: "Precursor Databank Acquired"
+acot_alpha_matter_events.1040.desc: "The Curator Order has just contacted us. They have succeeded in creating a database, and are delivering the contents to us now."
+acot_alpha_matter_events.1040.a: "Good!"
+acot_alpha_matter_events.3.name: "Отчет по Альфа-проекту"
+acot_alpha_matter_events.3.desc.engi: "После всестороннего анализа истории Прекурсоров их конструкций, материалов и компонентов, наши ученые, наконец, пришли к выводу, что большинство причин, приведших к провалу Проекта, заключается в их несовершенстве в искусстве поколения Жесткого Света. Плотность и уровень мощности, необходимые для создания таких компонентов, были слишком велики для того, чтобы они могли надежно работать в массовом масштабе. Технологии, используемые Падшими, являются крайне низкомасштабируемыми, дешевыми и легко воспроизводимыми компонентами и материалами, что было бы нереально для Альфа-проекта.\n\nЭти знания, наши инженеры теперь имеют приблизительную оценку того, как лучше всего сдержать мощности, генерируемые устройствами Альфа-проекта"
+acot_alpha_matter_events.3.desc.hist: "В соответствии с нашими инструкциями, наши архивисты, историки и мастера-либраины завершили свою документацию, касающуюся царствования Предтеч и их обширной истории. Хаотичное влияние Вознесенской войны и массовое отсутствие координации между научной группой, политическими силами и военачальниками стали основными факторами, приведшими к неудачам проекта Альфа. Большие недочёты во внутренних ценных бумагах привели к тому, что Проект был отменён после массивных отказов, сделанных различными противостоящими фракциями, большинство из которых были теоризированы как агенты, используемые вражескими силами.\n\nВместе с этим знанием, наша империя пришла к большему пониманию того, как важная сила в единстве играет роль в достижении больших амбиций. Мы не потерпим неудачу. Проект Альфа будет завершен под нашим флагом"
+acot_alpha_matter_events.3.desc.phys: "Наши научные коллективы рады сообщить, что их анализ всех экспериментальных записей Прекурсоров завершен. Ключ к успеху проекта Alpha заключается в оптимальном балансе между слиянием темной материи и темной энергии. Прекурсоры неоднократно терпели неудачу, чтобы сохранить фокус между ними, что приводит к массивным взрывам и множеству черных дыр.\n\nПосле некоторых незначительных неудач наших владельцев, мы, наконец, завершили то, что они потерпели неудачу. Проект Альфа все ближе и ближе к завершению"
+acot_alpha_matter_events.3.a: "Мы приближаемся к нашим целям."
+acot_alpha_matter_events.4.name: "Финал Альфа-проекта"
+acot_alpha_matter_events.4.desc: "Мы готовы начать финальную стадию Альфа-проекта. У нас есть все ресурсы, знания и желание довести этот проект до конца. Время сомнений и забот позади.\n\nЗдесь - не время терять! [root.GetSpeciesName]! Научная команда! Сегодня будущее у наших дверей!.. Мы знаем свой долг и сделаем это. Мы сражаемся за нашу честь, как [root.GetSpeciesName], как [root.GetName], и мы сражаемся во имя [root.GetRulerName]!\n\nИ если мы потерпим неудачу в этот день, мы потерпим неудачу в славе, мы потерпим неудачу в герое... но мы не потерпим неудачу НЕТ! Это враг, который почувствует вкус неудачи и потерпит поражение. КАК ВЫ ЗНАЕТЕШЬ, что большинство наших научных команд находятся в космосе, готовые к глубокому удару"
+acot_alpha_matter_events.4.a: "За наше будущее! За [root.GetName]!"
+acot_alpha_matter_events.4.b: "Но мы все равно потерпим неудачу. Давайте просто обо всем забудем"
+acot_alpha_matter_events.5.name: "Мы - Альфа. Мы - Будущее"
+acot_alpha_matter_events.5.desc: "Сделано, наступила новая эра. На сегодняшний день [root.GetName] превзошел все предшественники старого. Пусть галактика воет в страхе и трепете, ибо мы Альфа, родоначальник новой эры Загадочных Технологий. Пусть все падшие будут посудой, ибо столы были перевернуты. Их царствованию пришел конец! Нашим врагам конец!"
+acot_alpha_matter_events.5.a: "Мы - АЛЬФА. Мы БУДУЩИЕ"
+acot_alpha_matter_events.1.desc: "Некоторые наши ученые изучали технологии, стоящие за конструкциями упавших космических кораблей в попытке найти возможные улучшения для наших технологий. Однако то, что они обнаружили - это нечто гораздо более интересное. Очевидно, что показания энергии от технологий, используемых падшими кораблями, намного ниже, чем можно было бы ожидать от систем, основанных на темной материи и темной энергии.\n\nПосле длительного процесса поиска и изучения, похоже, что все нынешние технологии, используемые падшими кораблями, являются чрезвычайно уменьшенными и упрощенными версиями их оригинальных прототипов. Термин - Архивы банка данных прекурсоров - широко используется в многочисленных свидетельствах. Мы считаем, что следующая стадия эволюции темной материи лежит в этом БД. Мы должны найти способ получить к нему доступ"

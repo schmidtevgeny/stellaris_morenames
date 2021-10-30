@@ -1,0 +1,8 @@
+﻿l_russian:
+
+edict_architectonic_base: "Architectonic Mastery I"
+edict_architectonic_base_desc: "We invest some power to improve our planetary architecture in a minor way. Nice, more space!"
+edict_architectonic_med: "Architectonic Mastery II"
+edict_architectonic_med_desc: "We invest power to improve our planetary architecture moderatly. We need even more space to build!"
+edict_architectonic_max: "Architectonic Mastery III"
+edict_architectonic_max_desc: "We invest tremendous amounts of power to improve our planetary architecture massively. WE NEED TONS OF MORE SPACE!"
