@@ -1,5 +1,6 @@
 ﻿l_russian:
 
+CmtIconEnd_AFE: "£resource_time_grey"
 CmtTooltipInfo1: "£ship_stats_special£"
 CmtTooltipInfo2: "£empire£"
 CmtIconTemplateEvent: "£ship_stats_maintenance£"
@@ -14,7 +15,6 @@ CmtIconFanaticEgalitarian: "£CmtEthicFanaticEgalitarian£"
 CmtIconFanaticAuthoritarian: "£CmtEthicFanaticAuthoritarian£"
 CmtIconGestalt: "£CmtEthicGestalt£"
 CmtIconEnd_FE: "£resource_menace_grey£"
-CmtIconEnd_AFE: "£resource_time_grey"
 CmtIconHiveMind: "£CmtLeaderTraitHive£"
 CmtIconMachine: "£CmtTraitMachine£"
 CmtIconPsionic: "£CmtLeaderTraitPsionics£"

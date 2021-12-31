@@ -1,5 +1,6 @@
 ﻿l_russian:
 
+mod_job_acot_overlord_droid_add: ""$job_acot_overlord_droid$"
 job_acot_overlord: "Верховный повелитель"
 job_acot_overlord_plural: "Верховные повелители"
 job_acot_overlord_desc: "Верховные Повелители - верховные правители каждой планеты, они подчиняются только правящему совету империи"
@@ -7,7 +8,6 @@ mod_job_acot_overlord_add: "$job_acot_overlord$"
 job_acot_overlord_droid: "Сетевой Надзиратель"
 job_acot_overlord_droid_plural: "Сетевые Надзиратели"
 job_acot_overlord_droid_desc: "Сетевые Надзиратели являются верховными главнокомандующими каждой планеты, они подчиняются только Основному Консенсусу"
-mod_job_acot_overlord_droid_add: ""$job_acot_overlord_droid$"
 job_acot_overlord_drone: "Сверхразум улья"
 job_acot_overlord_drone_plural: "Сверхразумы улья"
 job_acot_overlord_drone_desc: "Сверхразумы улья - верховные главнокомандующие каждой планеты, они подчиняются только первичному сознанию улья"

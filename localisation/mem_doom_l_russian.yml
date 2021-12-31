@@ -1,9 +1,9 @@
 ﻿l_russian:
 
+mem_doom_requires_no_other_ship: "Мы уже вызвали §SСпектрального Вирма§!"
 r_mem_doom_capacitor: "Пагубный Накопитель"
 r_mem_doom_capacitor_desc: "Устройство, которое не только направляет энергию из других измерений, но и создает из нее мощных конструктов."
 mem_doom_capacitor_effect_tooltip: "Призывает §SСпектрального Змея§!, который будет служить нам. \nСпектральный Змей обладает мощным оружием, но довольно хрупок для своих размеров."
-mem_doom_requires_no_other_ship: "We have already summoned a §SSpectral Wyrm§!."
 mem_doom_dragon_ship: "Спектральный Змей"
 mem_doom_dragon_ship_plural: "Спектральные Змеи"
 mem_doom_dragon_section: ""

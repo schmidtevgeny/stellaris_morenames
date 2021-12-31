@@ -1,5 +1,6 @@
 ﻿l_russian:
 
+NHSC_CRYSTAL_LANCE_JUGGERNAUT: "$NHSC_CRYSTAL_LANCE_TITANIC$ ($juggernaut$)"
 NHSC_CRYSTAL_CANNON_1: "Метатель осколков кристалла"
 NHSC_CRYSTAL_CANNON_1_DESC: "Оружие, созданное по образцу органического механизма защиты и атаки кристаллических сущностей."
 SMALL_NHSC_CRYSTAL_CANNON_1: "Малый $NHSC_CRYSTAL_CANNON_1$"
@@ -46,5 +47,4 @@ NHSC_CRYSTAL_LANCE_2: "Кристаллическая лазерная пушк�
 NHSC_CRYSTAL_LANCE_2_DESC: "Усовершенствованная и еще более мощная версия Кристаллической охотничьей пушки-копья"
 NHSC_CRYSTAL_LANCE_TITANIC: "Кристаллический пронзатель"
 NHSC_CRYSTAL_LANCE_TITANIC_DESC: "Массивная версия Кристаллической лазерной пушки-копья, разработанная для кораблей титанических размеров."
-NHSC_CRYSTAL_LANCE_JUGGERNAUT: "$NHSC_CRYSTAL_LANCE_TITANIC$ ($juggernaut$)"
 NHSC_CRYSTAL_LANCE_JUGGERNAUT_DESC: "$NHSC_CRYSTAL_LANCE_TITANIC_DESC$"

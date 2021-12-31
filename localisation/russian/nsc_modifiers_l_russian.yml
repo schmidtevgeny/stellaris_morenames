@@ -1,5 +1,9 @@
 ﻿l_russian:
 
+mod_nsc_non_artificial_planet_slave_produces_mult: "$pop_cat_slave$ Производство ресурсов рабами на естественных мирах"
+mod_nsc_non_artificial_planet_worker_produces_mult: "$pop_cat_worker$ Производство ресурсов рабочими на естественных мирах"
+mod_nsc_freebooter_jobs_produces_mult: "Производство ресурсов поселениями на орбиталях и реликтовых мирах"
+mod_nsc_freebooter_jobs_upkeep_mult: "Содержание поселений на орбиталях и реликтовых мирах"
 mod_shipsize_StrikeCruiser_upkeep_mult: "Содержание ударных крейсеров"
 mod_shipsize_StrikeCruiser_construction_speed_mult: "Скорость строительства ударных крейсеров"
 mod_shipsize_StrikeCruiser_hull_add: "Прочность корпуса ударных крейсеров"

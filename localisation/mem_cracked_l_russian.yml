@@ -3,7 +3,7 @@
 mem_cracked_category: "Треснувший"
 mem_cracked_category_desc: "Сеть линий разломов покрывает этот астероид, но они произошли не из-за внешнего воздействия - скорее как если бы он был разломан изнутри. Наши приборы зафиксировали слабую энергетическую сигнатуру, исходящую из астероида."
 mem_cracked.1.name: "Точка Входа"
-mem_cracked.1.desc: "[Root.GetName] reports that deep penetration scans of §Y[From.GetName]§! have detected an unusual object beneath its surface - right where fault lines are presumed to originate. \n\nConjecture regarding the object has run rampant, but §Y[Root.Leader.GetName]§! believes the results indicate that a ship is somehow trapped inside of the asteroid. Tremors within the asteroid immediately followed the initial transmission. Whatever is inside it, the asteroid will not remain stable for long."
+mem_cracked.1.desc: "[Root.GetName] докладывает, что сканеры глубокого проникания §Y[From.GetName]§! обнаружили необычный объект под его поверхностью - прямо там, откуда предположительно исходят линии разломов. \n\nГипотезы об объекте сильно расходятся, но §Y[Root.Leader.GetName]§! верит, что результаты обозначают, что это корабль, каким-то образом запертый внутри астероида. Колебания внутри астероида начались немедленно после первоначальной передачи. Что бы ни было внутри него, астероид не будет стабильным слишком долго."
 mem_cracked.1.a: "Найдите способ извлечь этот корабль."
 mem_cracked.1.b: "Попытайтесь сохранить зону для дальнейшего изучения."
 mem_cracked.1.c: "Изучите странный феномен, который это вызвал."

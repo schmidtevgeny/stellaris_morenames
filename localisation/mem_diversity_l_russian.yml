@@ -9,7 +9,7 @@ mem_diversity_scientist: "Талантливый §Sучёный§! добавл
 mem_diversity_governor: "Талантливый §Sгубернатор§! добавлен в список лидеров."
 mem_diversity.1.a.tooltip: "Пока §Y[oppressed_species.GetSpeciesNamePlural]§! будут §Gдовольны§! этим повышением, все не-ксенофильные жители с правом §SПолное Гражданство§! будут §Rглубоко оскорблены§!."
 mem_diversity.1.b: "Однозначно нет."
-mem_diversity.1.c: "The "galaxy's smartest [oppressed_species.GetSpeciesName]" would make a great freak show."
+mem_diversity.1.c: ""Самый умный [oppressed_species.GetSpeciesName] в галактике" будет отличным актером цирка уродов."
 mem_diversity.1.c.tooltip: "Все §Y[oppressed_species.GetSpeciesNamePlural]§! будут §Rглубоко оскорблены§! этой несправедливостью."
 mem_diversity_outsider: "Изгой"
 mem_diversity_outsider_desc: "Нанятый несмотря на очевидную политику дискриминации, этот лидер стремится доказать достоинство своего вида."

@@ -3,7 +3,7 @@ from PyQt5 import QtWidgets, QtGui
 import sys
 import re
 
-regex = r"\s*(\S*):\d* \"(.*)\""
+regex = r"\s*(\S*):\d*\s*\"(.*)\""
 
 def clear(test_str):
     regex = r"§\w(.*?)§!"    

@@ -1,7 +1,7 @@
 ﻿l_russian:
 
 mem_plants_vs_zombies_site: "Древние Поля Сражений"
-mem_plants_vs_zombies_site_desc: "[From.Planet.GetName], despite apparently never having supported life, is littered with battle sites. A closer investigation might shed some light on the cause of the fighting which took place here approximately five millenia ago."
+mem_plants_vs_zombies_site_desc: "[From.Planet.GetName], несмотря на то, что на ней никогда не было жизни, усеяна местами сражений. Более тщательное исследование может пролить свет на причину битв, которые происходили здесь примерно пять тысячелетий назад."
 mem_plants_vs_zombies.1.name: "Одинокие Крепости"
 mem_plants_vs_zombies.1.desc: "Все места сражений сосредоточены вокруг сильно укрепленных позиций, которые, судя по всем свидетельствам, в конечном итоге были захвачены нападавшими. Что озадачивает, так это то, что ни одно из исследованных укреплений, похоже, не имело какого-либо стратегического значения, а если и имело, то сейчас нам это не очевидно.\n\nРаскопки на различных участках продолжаются, чтобы добраться до соответствующих командных сооружений, которые лежат разрушенными и частично погребенными под обломками и песком."
 mem_plants_vs_zombies.1.a: "Продолжайте."

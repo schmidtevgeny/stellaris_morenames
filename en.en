@@ -1,0 +1,111 @@
+[russian\nsc_freebooter]
+
+[russian\nsc_jobs]
+
+[russian\nsc_megastructures]
+
+[russian\nsc_modifiers]
+
+[russian\nsc_modmenu]
+
+[russian\nsc_namelists]
+
+[russian\nsc_pasmod]
+
+[russian\nsc_perks]
+
+[russian\nsc_shipsections]
+
+[russian\nsc_starbase]
+
+[russian\nsc_technologies]
+
+[russian\nsc_tooltips]
+
+[russian\bs]
+
+[animegirls]
+
+[russian\z_frameworks_core]
+
+[russian\z_frameworks_misc]
+
+[russian\z_fw_buildings]
+
+[russian\z_fw_core_battle_vl]
+
+[russian\z_fw_koh]
+
+[russian\z_fw_tech]
+
+[russian\z_fw_ui_plnt]
+
+[russian\z_lctr]
+
+[russian\z_modmenu]
+
+[russian\z_rts_setting]
+
+[russian\z_statistics]
+
+[z_mui_plnt_ui]
+PR_var_show_MAN_growth = §G[root.PR_var_plnt_GROWTH_rate]§!
+PR_var_show_MAN_natural = §G[root.PR_var_plnt_GROWTH_natural]§!
+PR_var_show_MAN_assembly = §B[root.PR_var_plnt_GROWTH_clone]§!/§H[root.PR_var_plnt_GROWTH_assembly]§!
+PR_var_show_efficiency_low = §H[root.PR_var_show_efficiency]%%§!
+PR_var_show_efficiency_sufficient = §E[root.PR_var_show_efficiency]%%§!
+
+
+[z_pr_ap]
+PR_DST_ap2_city_plural = $PR_DST_ap2_city$
+PR_DST_ap2_industrial_plural = $PR_DST_ap2_industrial$
+PR_DST_ap2_forge_plural = $PR_DST_ap2_forge$
+PR_DST_ap2_rw_city_plural = $PR_DST_ap2_rw_city$
+PR_DST_ap2_rw_industrial_plural = $PR_DST_ap2_rw_industrial$
+PR_DST_ap2_rw_forge_plural = $PR_DST_ap2_rw_forge$
+
+[z_pr_jobs]
+
+[z_pr]
+job_PR_core_factory_desc = 人力岗，提供基本的/£consumer_goods£§H$consumer_goods$§!产出。\n§B$job_artisan$§!和§B$job_artificer$§!将被融入当前岗位。
+job_PR_core_2c_gestalt = 工艺单元
+job_PR_core_2c_gestalt_desc = 人力岗，提供基本的/£consumer_goods£§H$consumer_goods$§!产出。\n§B$job_artisan_drone$§!将被融入当前岗位。
+PR_trait_core_species = $z_pr$：Primary Species
+PR_trait_core_species_desc = This species has a higher chance of being $pop_cat_PR_pop_cat_CORE_plural$
+pop_cat_PR_pop_cat_UEP = Production Revolution Calculation Modifier
+pop_cat_PR_pop_cat_UEP_plural = $pop_cat_PR_pop_cat_UEP$s
+pop_cat_PR_pop_cat_UEP_desc = This stratum is used by Production Revolution for calculations.\n§HNote§!: Do §RNOT§! touch and/or modify.
+pop_cat_PR_pop_cat_UEP_drone_plural = $pop_cat_PR_pop_cat_UEP$s
+job_PR_core_trophy_plural = $job_bio_trophy$s
+job_PR_communicator = 沟通者
+job_PR_communicator_desc = 这个岗位对于人力系统的管控至关重要。
+job_PR_communicator_drone = 神经节点
+job_PR_free_drone = Reserved Drone
+job_PR_free_drone_desc = 没有经过专业化培养的自由单元。尽管没有固定的岗位和任务，他们也能在生产和劳动中为社会创造足够的价值。\n最重要的是，当集群需要他们的时候，他们将义无反顾地填补位置的空缺。
+z_pr_d_job = $z_pr$: §Y转化模块§!
+z_pr_d_job_desc = 这个模块可以将岗位转化为人力，是人力系统重要的辅助模块。
+PR_D_sp_MOD_desc = Make special mechanics from mod work with PR.
+PR_DST_industrial = Industrial District
+PR_DST_industrial_plural = $PR_DST_industrial$s
+PR_DST_industrial_desc = $PR_DST_industrial_plural$ are a special type of urban district which produce Consumer Goods.
+PR_DST_forge = Forge District
+PR_DST_forge_plural = $PR_DST_forge$s
+PR_DST_forge_desc = $PR_DST_forge_plural$ are a special type of urban district which produce Alloys
+PR_DST_rw_industrial_plural = $PR_DST_rw_industrial$s
+PR_DST_rw_industrial_desc = $PR_DST_rw_industrial_plural$ are a special type of urban Segment which produce Consumer Goods.
+PR_DST_rw_forge_plural = $PR_DST_rw_forge$
+
+[z_pr_setting]
+
+[russian\est_academy_traits]
+
+[russian\est_archivist_5]
+
+[russian\est_archivist_adopt]
+
+[russian\ship_browser]
+
+[z_pr_JOB_DEP]
+
+[z_performance_misc]
+

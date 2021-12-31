@@ -7,4 +7,4 @@ mem_solar_riches.1.desc: "Ученый §Y[Root.GetLeaderName]§! обнаруж
 mem_solar_riches.1.a: "Извлеките запасы энергии и переработайте оставшееся."
 mem_solar_riches.1.b: "Изучите конструкцию, лежащую в их основе."
 mem_solar_riches.2.name: "Провал расчета траектории"
-mem_solar_riches.2.desc: "§Y[Root.GetLeaderName]§! reports that all traces of the structures have disappeared and apologizes for the resources spent calculating the orbital decay of non-existent objects."
+mem_solar_riches.2.desc: "§Y[Root.GetLeaderName]§! докладывает, что все следы структур исчезли и извиняется за трату ресурсов на расчет орбитальной траектории несуществующих объектов."

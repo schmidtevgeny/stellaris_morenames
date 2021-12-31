@@ -53,7 +53,7 @@ leader_trait_carefree_est_2_desc: "Этот лидер менее дотошны
 leader_trait_roamer_est_2: "Бродяга"
 leader_trait_roamer_est_2_desc: "Этот лидер был рожден для путешествий."
 leader_trait_archaeologist_est_2: "Археолог"
-leader_trait_archaeologist_tooltip_est_2: "§YAncient civilizations Anomalies_est_2:§!\n   Anomaly Research Speed_est_2: §G+50.0%§!\n   Anomaly Fail Risk_est_2: §G-25.0%§!"
+leader_trait_archaeologist_tooltip_est_2: "§YДревние цивилизации Anomalies_est_2:§!\n   Изучение аномалий Speed_est_2: §G+50.0%§!\n   Провал операции по изучению аномалии Risk_est_2: §G-25.0%§!"
 leader_trait_archaeologist_est_2_desc: "Этот лидер крайне эффективен при изучении инопланетных артефактов."
 leader_trait_archaeologist_ancrel_est_2: "$leader_trait_archaeologist$"
 leader_trait_archaeologist_ancrel_est_2_desc: "$leader_trait_archaeologist_desc$"

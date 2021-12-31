@@ -1,5 +1,6 @@
 ﻿l_russian:
 
+starbase_headquarters_plural: "Солнечные цитадели"
 STRIKECRUISER: "Ударный крейсер"
 BATTLECRUISER: "Линейный крейсер"
 CARRIER: "Корабль-носитель"
@@ -26,7 +27,6 @@ escortcarrier_plural: "Эскорт-носители"
 starbase_stronghold: "Великая цитадель"
 starbase_stronghold_plural: "Великие цитадели"
 starbase_headquarters: "Солнечные цитадели"
-starbase_headquarters_plural: "Solar Strongholds"
 headquarters: "Центральный штаб"
 headquarters_plural: "Центральные штабы"
 headquarters_desc: "Обеспечивает имперский модификатор §GЦентральный штаб§!."

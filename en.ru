@@ -1,0 +1,16 @@
+
+[russian\z_fw_ui_plnt]
+[russian\z_lctr]
+[russian\z_modmenu]
+[russian\z_rts_setting]
+[russian\z_statistics]
+[z_mui_plnt_ui]
+[z_pr_ap]
+[z_pr_jobs]
+[z_pr]
+
+[z_pr_setting]
+[russian\est_academy_traits]
+[russian\est_archivist_5]
+[russian\est_archivist_adopt]
+[z_pr_JOB_DEP]

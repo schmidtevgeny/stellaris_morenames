@@ -3,7 +3,7 @@
 mem_pioneer_category: "Предположительно небольшое судно"
 mem_pioneer_category_desc: "Сенсоры обнаружили присутствие небольшого искусственного объекта на орбите [Root.GetName]."
 mem_pioneer.1.name: "Межзвёздный зонд"
-mem_pioneer.1.desc: "[Root.GetLeaderName] reports the successful recovery of the object. On examination, it appears to be a weathered primitive craft designed for unmanned travel between stars. In all likelihood, it was launched millennia ago and traveled through multiple systems at sublight speed until it was caught in [From.GetName]'s gravity. \n\nA plaque is mounted on the craft's hull, depicting odd geometric shapes, a scheme of an unidentified star system and a pictogram of two nude members of a species unknown to us. Why any civilization would see fit to disseminate such information throughout the universe is unclear."
+mem_pioneer.1.desc: "[Root.GetLeaderName] докладывает успешное извлечение объекта. При осмотре он, похоже, является подпорченным примитивным судном, разработанным для беспилотного перемещения между звездами. По всей вероятности, он был запущен тысячелетия назад и посетил множество систем на досветовой скорости, пока не был пойман в гравитационное поле [From.GetName]. \n\nМемориальная доска установлена на корпусе судна и изображает странные геометрические фигуры, схему неизвестной звездной системы и пиктограмму двух обнаженных представителей неизвестного нам вида. Почему какая-то цивилизация сочла нужным распространять такую ​​информацию по вселенной, неясно."
 mem_pioneer.1.a: "Интересно."
 mem_pioneer.1.b: "Они однозначно хотят, чтобы их нашли!"
 mem_pioneer.1.c: "Что за кучка выродков."

@@ -1,5 +1,8 @@
 ﻿l_russian:
 
+springfield: "Springfield"
+hk416: "HK416"
+theumpnine: "UMP9"
 name_list_Sakura: "Японские"
 kaityo_akane: "Акане H"
 kaityo_aoi: "Аой H"
@@ -9,9 +12,6 @@ l_akari: "Акари"
 l_kiritan: "Киритан"
 Hime_VOICE: "Химэ"
 Mikoto_VOICE: "Микото"
-springfield: "Springfield"
-hk416: "HK416"
-theumpnine: "UMP9"
 FLAG_CATEGORY_sakura: "Сакура"
 MAGIC: "Магические"
 HOMUNCULUS: "Искусственные люди"
