@@ -1,5 +1,7 @@
 ﻿l_russian:
 
+PR_trait_core_species_desc: "У этого вида больше шансов быть $pop_cat_PR_pop_cat_CORE_plural$"
+pop_cat_PR_pop_cat_UEP: "Модификатор расчета производственной революции"
 z_pr_production_SP: "§BТрудовые ресурсы SP Экономика§!"
 PR_var_plnt_HCpower: "Общее количество §Yкадров§! и §Gпоселений§!"
 PR_res_MAN: "§YРабочая сила§!"
@@ -452,8 +454,6 @@ job_PR_core_2c_gestalt_plural: "$job_PR_core_2c_gestalt$"
 job_PR_core_2c_gestalt_desc: "人力岗, 提供基本的/£consumer_goods£§H$consumer_goods$§!产出.\n§B$job_artisan_drone$§! are integrated in this job."
 mod_job_PR_core_2c_gestalt_add: "$job_PR_core_2c_gestalt$"
 PR_trait_core_species: "$z_pr$：Primary Species"
-PR_trait_core_species_desc: "This species has a higher chance of being $pop_cat_PR_pop_cat_CORE_plural$"
-pop_cat_PR_pop_cat_UEP: "Production Revolution Calculation Modifier"
 pop_cat_PR_pop_cat_UEP_plural: "$pop_cat_PR_pop_cat_UEP$s"
 pop_cat_PR_pop_cat_UEP_desc: "This stratum is used by Production Revolution for calculations.\n§HNote§!: Do §RNOT§! touch and/or modify."
 pop_cat_PR_pop_cat_UEP_drone: "$pop_cat_PR_pop_cat_UEP$"
