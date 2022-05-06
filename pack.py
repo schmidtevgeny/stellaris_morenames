@@ -69,6 +69,7 @@ def fix_data(s):
     for row in fixdata:
         s=s.replace(row[0],row[1])
     return s
+
 def save_ru(config):
     mark = "l_russian:"
     dirn = 'russian'
@@ -138,7 +139,7 @@ modules = [
     # loc
     1487654111, 1375388095, 1670045745, 2486026362,
     2166824852, 2617298932, 2615894270, 2609978732,
-    2037347735, 1982183037, 1830669482
+    2037347735, 1982183037, 1830669482, 2702693226
     ]
 print('load predef')
 config = configparser.ConfigParser()
@@ -151,22 +152,27 @@ print('scan')
 
 for module in modules:
     locpath = module_path + str(module) + "/localisation/"
-    # print(locpath)
     for fn in glob.iglob(locpath + "*" + en):
         load_file(fn, config, locpath)
-
-    for fn in glob.iglob(locpath + "*" + ru):
-        load_file(fn, config, locpath, True)
 
     for subsection in subsections:
         for fn in glob.iglob(locpath + subsection + "*" + en):
             load_file(fn, config, locpath)
 
-        for fn in glob.iglob(locpath + subsection + "*" + ru):
-            load_file(fn, config, locpath, True)
-
     for fn in glob.iglob(locpath + "english/*" + en):
         load_file(fn, config, locpath)
+
+with open('en.orig.ini', "w", encoding = 'utf-8') as config_file:
+    config.write(config_file)
+
+for module in modules:
+    locpath = module_path + str(module) + "/localisation/"
+    for fn in glob.iglob(locpath + "*" + ru):
+        load_file(fn, config, locpath, True)
+
+    for subsection in subsections:
+        for fn in glob.iglob(locpath + subsection + "*" + ru):
+            load_file(fn, config, locpath, True)
 
     for fn in glob.iglob(locpath + "russian/*" + ru):
         load_file(fn, config, locpath, True)

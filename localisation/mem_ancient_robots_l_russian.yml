@@ -70,7 +70,7 @@ mem_super_robot_army_desc: "Эти боевые роботы - продукт д
 mem_super_robot_army_limit_tooltip: "Хотя мы теперь полностью контролируем производственный комплекс, деталей у нас хватит лишь для производства ограниченного количества этих армий."
 mem_evil_robot_army: "Армия боевых роботов"
 mem_evil_robot_army_desc: "Эти боевые роботы - продукт древней технологии, которая выходит далеко за грань наших производственных возможностей."
-d_mem_strange_mountain: "£blocker  Необычная гора"
+d_mem_strange_mountain: "£blocker£ Необычная гора"
 d_mem_strange_mountain_desc: "Есть в этой горе что-то необычное..."
 mem_ancient_robots_chain_title: "Древние останки"
 mem_ancient_robots_chain_desc: "Ваши учёные откопали реликвии из далекого прошлого."
