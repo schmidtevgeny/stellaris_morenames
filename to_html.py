@@ -97,7 +97,6 @@ class locstring:
         self.value = self.value.replace(fr, to)
 
     def parse(self):
-
         s = self.value.replace('\\"', '"')
         s = html.escape(s)
 
@@ -110,31 +109,29 @@ class locstring:
         regex = r"£(\S*?)[£\s]"
         subst = "<img src=\"\\g<1>\">"
         s = re.sub(regex, subst, s, 0, re.MULTILINE)
-        s = '<html><body><p>'+s+'</p></body></html>'
+        s = '<html><body><p>' + s + '</p></body></html>'
         return s.replace('\\n', '<br/>')
 
 
-def process(config: configparser.ConfigParser, path):
+def process(config: configparser.ConfigParser, path, default={}):
     data = {}
-    default = {'sr_dark_matter': 'Темная материя'}
 
     for i in config.sections():
         for j in config[i]:
             data[j] = locstring(i + '/' + j, config[i][j])
 
     for i in default:
-        fr = '$'+i+'$'
+        fr = '$' + i + '$'
         to = default[i]
         for j in data:
             data[j].replace(fr, to)
 
     for i in data:
-        fr = '$'+i+'$'
+        fr = '$' + i + '$'
         to = data[i].value
         for j in data:
-            if i!=j:
+            if i != j:
                 data[j].replace(fr, to)
-
 
     soup = BeautifulSoup('<html><body></body></html>', 'lxml')
 
@@ -154,6 +151,9 @@ def process(config: configparser.ConfigParser, path):
 # config.optionxform = str
 print('scan')
 
+default_en = {'sr_dark_matter': 'dark matter'}
+default_ru = {'sr_dark_matter': 'Темная материя'}
+
 for module in modules:
     locpath = module_path + str(module) + "/localisation/"
     for fn in glob.iglob(locpath + "*" + en):
@@ -166,7 +166,7 @@ for module in modules:
     for fn in glob.iglob(locpath + "english/*" + en):
         load_file(fn, config_en, locpath)
 
-process(config_en, 'en-full.html')
+process(config_en, 'en-full.html', default_en)
 
 config_ru = configparser.ConfigParser()
 config_ru.optionxform = str
@@ -191,9 +191,9 @@ def remove_old(process, template):
         else:
             for j in process[i]:
                 if not j in template[i]:
-                    process.remove_option(i,j)
+                    process.remove_option(i, j)
 
 
-process(config_ru, 'ru.html')
-process(config_ru, 'en.html')
+process(config_ru, 'ru.html', default_ru)
+process(config_ru, 'en.html', default_en)
 
