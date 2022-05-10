@@ -1,0 +1,159 @@
+#!/usr/bin/python3
+import configparser
+import glob
+import os.path
+import re
+from bs4 import BeautifulSoup
+import html
+import click
+from lxml import etree
+
+'''
+Собрать языковые файлы со всех доступных модов в один пакет
+'''
+
+# done: добавить свои строки
+# done: сохранять не переведенные
+
+en = '_l_english.yml'
+ru = '_l_russian.yml'
+subsections = ["diplo_phrases/", "events/"]
+
+
+class LocString:
+    def __init__(self, path, name, value):
+        self.path = path
+        self.name = name
+        self.value = value
+
+    def parse(self, s):
+        return s
+
+    def get(self):
+        return self.value
+
+    def get_subst(self):
+        return []
+
+    def __str__(self):
+        return "{}/{}:{}".format(self.path, self.name, self.value)
+
+
+class Storage:
+    def __init__(self):
+        self.data = {}
+
+    def add(self, s: LocString):
+        key = s.path
+        if not key in self.data.keys():
+            self.data[key] = {}
+        self.data[key][s.name] = s
+
+    def __str__(self):
+        s = ""
+        for i, f in self.data.items():
+            s += "\n" + i
+            for j, l in f.items():
+                s += "\n    " + str(l)
+        return s
+
+
+def load_strings(storage: Storage, path, relpath):
+    regex = r"\s*(\S*):\d*\s*\"(.*)\""
+
+    f = open(path, encoding = 'utf-8')
+    data = "\n".join([x for x in f.read().split('\n') if x.strip() != '' and x.strip()[0] != '#'])
+    f.close()
+
+    matches = re.finditer(regex, data, re.MULTILINE)
+    rdata = []
+
+    for matchNum, match in enumerate(matches, start = 1):
+        key = match.group(1)
+        val = match.group(2)
+        storage.add(LocString(relpath, key, val))
+
+
+def make_maker(storage: Storage):
+    f = open("update.py", "w", encoding = "utf-8")
+    f.write('''import os
+import gettext
+
+gettext.install('update', './locale')    
+    
+base = 'loc/'
+if not os.path.exists(base+'russian'):
+    os.makedirs(base+'russian')
+if not os.path.exists(base+'diplo_phrases'):
+    os.makedirs(base+'diplo_phrases')
+if not os.path.exists(base+'events'):
+    os.makedirs(base+'events')
+
+''')
+
+    for i, fdata in storage.data.items():
+        of = i + '_l_russian.yml'
+        f.write("f = open(base+'" + of + "', 'w', encoding='utf-8')\n")
+
+        for j, l in fdata.items():
+            s = l.get()
+            f.write('key="{}"\n'.format(j))
+            if s.find('"') < 0:
+                f.write("value=_(r\"{}\")\n".format(l.get()))
+            elif s.find("'") < 0:
+                f.write("value=_(r'{}')\n".format(l.get()))
+            else:
+                f.write("value=_('''{}''')\n".format(l.get()))
+                # print(l)
+
+            f.write('f.write(\'{}: \"{}\"\\n\'.format(key, value))\n')
+
+        f.write("f.close()\n\n")
+    pass
+
+
+def make_memory():
+    pass
+
+
+# module_path = "test/"
+modules = [
+    1595876588, 1688887083, 946222466, 1067631798,
+    1890399946, 1121692237, 1311725711, 1333526620,
+    1623423360, 1780481482, 2604778880, 683230077,
+    1587178040, 1630649870, 2458945473, 2484636075,
+    2466607238, 2555609401, 1701916892, 2411818376,
+    1701915595, 1796418794, 1796402967, 1302897684,
+    1419304439, 1489142966, 1313138123, 2509070395,
+    727000451, 1885775216, 2028826064, 2458024521,
+    2293169684, 790903721,
+    2529002857, 2622652746, 2626285356, 2475302050,
+    # плагины переводов
+    # 1487654111, 1375388095, 1670045745, 2486026362,
+    # 2166824852, 2617298932, 2615894270, 2609978732,
+    # 2037347735, 1982183037, 1830669482, 2702693226
+    ]
+
+module_path = "C:/Program Files (x86)/Steam/steamapps/workshop/content/281990/"
+app_path = "C:/Program Files (x86)/Steam/steamapps/common/Stellaris/localisation/"
+storage = Storage()
+# load_strings(storage, "C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\281990\\2087871245\\localisation\\english\\fallen_weaponry_l_english.yml", "fallen_weaponry" )
+
+for module in modules:
+    locpath = module_path + str(module) + "/localisation/"
+    for fn in glob.iglob(locpath + "*" + en):
+        fr = os.path.basename(fn).replace('_l_english.yml', '')
+        load_strings(storage, fn, fr)
+
+    for subsection in subsections:
+        for fn in glob.iglob(locpath + subsection + "*" + en):
+            fr = subsection + os.path.basename(fn).replace('_l_english.yml', '')
+            load_strings(storage, fn, fr)
+
+    for fn in glob.iglob(locpath + "english/*" + en):
+        fr = 'russian/' + os.path.basename(fn).replace('_l_english.yml', '')
+        load_strings(storage, fn, fr)
+
+make_maker(storage)
+
+os.system("update.py")

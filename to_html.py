@@ -6,7 +6,7 @@ import re
 from bs4 import BeautifulSoup
 import html
 import click
-
+from lxml import etree
 '''
 Собрать языковые файлы со всех доступных модов в один пакет
 '''
@@ -86,6 +86,7 @@ class locstring:
     def parse(self):
         s = self.value.replace('\\"', '"')
         s = html.escape(s)
+        s = s.replace('⌠', '<').replace('⌡', '>')
 
         regex = r"\[(.*?)\]"
         subst = "<input value=\"\\g<1>\">"
@@ -98,6 +99,24 @@ class locstring:
         s = re.sub(regex, subst, s, 0, re.MULTILINE)
         s = '<html><body><p>' + s + '</p></body></html>'
         return s.replace('\\n', '<br/>')
+
+    def split(self):
+        s=self.value
+        regex = r"\[(.*?)\]"
+        subst = ""
+        s = re.sub(regex, subst, s, 0, re.MULTILINE)
+        regex = r"§(\w)(.*?)§!"
+        subst = "\\g<2>"
+        s = re.sub(regex, subst, s, 0, re.MULTILINE)
+        regex = r"£(\S*?)[£\s]"
+        subst = ""
+        s = re.sub(regex, subst, s, 0, re.MULTILINE)
+        regex = r"⌠.*?⌡"
+        subst = ""
+        s = re.sub(regex, subst, s, 0, re.MULTILINE)
+        s.split()
+
+        return re.split(r'[\.\?\!]|\\n', s)
 
 
 def process(config: configparser.ConfigParser):
@@ -124,7 +143,7 @@ def update_subst(data, default):
     with click.progressbar(length = len(default)) as bar:
         for i in default:
             fr = '$' + i + '$'
-            to = default[i]
+            to = '⌠a href="'+i+'"⌡'+default[i]+'⌠/a⌡'
             for j in data:
                 data[j].replace(fr, to)
             bar.update(1)
@@ -180,7 +199,7 @@ def save_data_limit(data, path, limit):
         soup.body.append(tag)
 
     with open(path.format(num), "w", encoding = 'utf-8') as config_file:
-        config_file.write(str(soup.prettify()))
+        config_file.write(str(soup.prettify(formatter="minimal")))
 
 
 module_path = "C:/Program Files (x86)/Steam/steamapps/workshop/content/281990/"
@@ -278,6 +297,9 @@ for key in default_en.keys():
         default_ru[key] = default_en[key]
 
 update_subst(data_ru, default_ru)
+save_data(data_ru, 'ru-full.html')
+save_data(data_ru_orig, 'ru-orig.html')
+
 
 data_en_crop = {}
 data_ru_crop = {}
@@ -287,7 +309,35 @@ for i in data_ru.keys():
         data_en_crop[i] = data_en[i]
         data_ru_crop[i] = data_ru[i]
 
-save_data_limit(data_ru_crop, 'tr-ru-{}.html', 1000)
-save_data_limit(data_en_crop, 'tr-en-{}.html', 1000)
+
+def save_tmx(en, ru, path):
+    root = etree.Element("tmx")
+    body = etree.SubElement(root, "body")
+    for i in ru.keys():
+        e = en[i]
+        r = ru[i]
+        ei = e.split()
+        ri=r.split()
+        if len(ei)==len(ri):
+            for j in range(len(ei)):
+                if ei[j]=='' or ri[j]=='' or ei[j]==ri[j]:
+                    continue
+                tu = etree.SubElement(body, 'tu')
+                tuv = etree.SubElement(tu, 'tuv', {'xml-lang': "en-US"})
+                seg = etree.SubElement(tuv, 'seg')
+                seg.text = ei[j]
+                tuv = etree.SubElement(tu, 'tuv', {'xml-lang': "ru"})
+                seg = etree.SubElement(tuv, 'seg')
+                seg.text = ri[j]
+
+    handle = etree.tostring(root, pretty_print = True, encoding = 'utf-8', xml_declaration = True)
+    applic = open(path, "wb")
+    applic.write(handle)
+    applic.close()
+
+
+save_tmx(data_en_crop, data_ru_crop, 'full.tmx')
+# save_data_limit(data_ru_crop, '{}-tr-ru.html', 2000)
+# save_data_limit(data_en_crop, '{}-tr-en.html', 2000)
 
 print("done")
