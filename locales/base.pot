@@ -1,0 +1,1249 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2022-05-10 22:23+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=cp1251\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: update.py:20
+msgid "Resilient"
+msgstr ""
+
+#: update.py:23
+msgid "This leader is resilient and in excellent physical condition, dramatically increasing life expectancy."
+msgstr ""
+
+#: update.py:26
+msgid "Trickster"
+msgstr ""
+
+#: update.py:29
+msgid "This leader fights deviously, relying on misdirection and surprise to get the better of the enemy."
+msgstr ""
+
+#: update.py:32
+msgid "Fleet Logistician"
+msgstr ""
+
+#: update.py:35
+msgid "This leader has mastered the field of logistics, and knows how to manage supplies to keep maintenance costs down."
+msgstr ""
+
+#: update.py:38
+msgid "Engineer"
+msgstr ""
+
+#: update.py:41
+msgid "This leader is a natural engineer, having the knowledge and skills to organize and oversee starship repairs without the benefit of a spacedock."
+msgstr ""
+
+#: update.py:44
+msgid "Aggressive"
+msgstr ""
+
+#: update.py:47
+msgid "This leader is an aggressive admiral, always looking to pour as much fire on the enemy as possible within the least amount of time."
+msgstr ""
+
+#: update.py:50
+msgid "Cautious"
+msgstr ""
+
+#: update.py:53
+msgid "This leader is a cautious admiral, avoiding unnecessary risks and taking care to always maintain formations in which fleet units can mutually support each other against the enemy."
+msgstr ""
+
+#: update.py:56
+msgid "Scout"
+msgstr ""
+
+#: update.py:59
+msgid "This leader an expert at reconnaissance, having the technical skill to always get the most out of long-range starship sensors."
+msgstr ""
+
+#: update.py:62
+msgid "Unyielding"
+msgstr ""
+
+#: update.py:65
+msgid "This leader refuses to even consider the possibility of retreat when battle has been joined, preferring instead to fight to the death if necessary."
+msgstr ""
+
+#: update.py:68
+msgid "Gale-Speed"
+msgstr ""
+
+#: update.py:71
+msgid "This leader believes that speed and rapid maneuvers are the keys to success in any space engagement."
+msgstr ""
+
+#: update.py:74
+msgid "Restrained"
+msgstr ""
+
+#: update.py:77
+msgid "This leader is unusually concerned with the lives of others, taking care to avoid unnecessary deaths among their own soldiers as well as any civilians caught in the fighting."
+msgstr ""
+
+#: update.py:80 update.py:359 update.py:53166
+msgid "Charismatic"
+msgstr ""
+
+#: update.py:83
+msgid "This inspiring leader has an undeniable charisma, being worshiped as a hero by the troops."
+msgstr ""
+
+#: update.py:86
+msgid "Butcher"
+msgstr ""
+
+#: update.py:89
+msgid "This leader is particularly skilled at inflicting casualties on the enemy, offering no quarter and expecting none in return."
+msgstr ""
+
+#: update.py:92
+msgid "Glory Seeker"
+msgstr ""
+
+#: update.py:95
+msgid "This leader is always in the thick of it, bucking the spirits of the troops by leading from the front despite the risks involved."
+msgstr ""
+
+#: update.py:98
+msgid "Army Logistician"
+msgstr ""
+
+#: update.py:101
+msgid "This leader can seemingly conjure up supplies from nowhere, decreasing the maintenance costs of ground forces."
+msgstr ""
+
+#: update.py:104
+msgid "Iron Fist"
+msgstr ""
+
+#: update.py:107
+msgid "This leader is infamous for their ruthless pursuit of efficiency, and is capable of getting the most out of slave labor."
+msgstr ""
+
+#: update.py:110
+msgid "Army Veteran"
+msgstr ""
+
+#: update.py:113
+msgid "This leader is a veteran of the armed forces, with intimate experience of its structural inefficiencies."
+msgstr ""
+
+#: update.py:116
+msgid "Retired Fleet Officer"
+msgstr ""
+
+#: update.py:119
+msgid "This leader is a former fleet officer, and is personally invested in promoting a strong inter-planetary presence."
+msgstr ""
+
+#: update.py:122
+msgid "Architectural Interest"
+msgstr ""
+
+#: update.py:125
+msgid "This leader cultivates a strong interest in architecture and construction techniques."
+msgstr ""
+
+#: update.py:128
+msgid "Agrarian Upbringing"
+msgstr ""
+
+#: update.py:131
+msgid "This leader was raised around hydroponic farms, and has several ideas on how agrarian yields may be improved."
+msgstr ""
+
+#: update.py:134
+msgid "Intellectual"
+msgstr ""
+
+#: update.py:137
+msgid "This leader is naturally inclined towards the sciences, and seeks to foster a curiosity about the natural world in their subjects."
+msgstr ""
+
+#: update.py:140
+msgid "Environmental Engineer"
+msgstr ""
+
+#: update.py:143
+msgid "This leader has a background in landscaping, eventually turning their attention towards larger projects."
+msgstr ""
+
+#: update.py:146
+msgid "Righteous"
+msgstr ""
+
+#: update.py:149
+msgid "This leader is incorruptable and harbors strong convictions regarding what is right and wrong."
+msgstr ""
+
+#: update.py:152
+msgid "Meticulous"
+msgstr ""
+
+#: update.py:155
+msgid "This leader is thorough in their examinations of unknown phenomena."
+msgstr ""
+
+#: update.py:158
+msgid "Spark of Genius"
+msgstr ""
+
+#: update.py:161
+msgid "This leader is prone to sudden bursts of inspiration."
+msgstr ""
+
+#: update.py:164
+msgid "Carefree"
+msgstr ""
+
+#: update.py:167
+msgid "This leader is perhaps less meticulous than others."
+msgstr ""
+
+#: update.py:170
+msgid "Roamer"
+msgstr ""
+
+#: update.py:173
+msgid "This leader was born to roam the stars."
+msgstr ""
+
+#: update.py:176
+msgid "Archaeologist"
+msgstr ""
+
+#: update.py:179
+msgid "§YAncient civilizations Anomalies_est_2:§!\\n   Anomaly Research Speed_est_2: §G+50.0%§!\\n   Anomaly Fail Risk_est_2: §G-25.0%§!"
+msgstr ""
+
+#: update.py:182
+msgid "This leader excels at the study of alien artifacts and structural remnants in the field."
+msgstr ""
+
+#: update.py:185
+msgid "$leader_trait_archaeologist$"
+msgstr ""
+
+#: update.py:188
+msgid "$leader_trait_archaeologist_desc$"
+msgstr ""
+
+#: update.py:191
+msgid "Maniacal"
+msgstr ""
+
+#: update.py:194
+msgid "This leader pursues their research with unusual fervor."
+msgstr ""
+
+#: update.py:197
+msgid "Custom AI Assistant"
+msgstr ""
+
+#: update.py:200
+msgid "This leader has created a simple neural network to help with data processing tasks."
+msgstr ""
+
+#: update.py:203
+msgid "Sentient AI Assistant"
+msgstr ""
+
+#: update.py:206
+msgid "This leader has created a complex neural network capable of independent decision-making and even introspection."
+msgstr ""
+
+#: update.py:209
+msgid "Expertise: Materials"
+msgstr ""
+
+#: update.py:212
+msgid "This leader is, following years of study, considered an expert within the field of Materials."
+msgstr ""
+
+#: update.py:215
+msgid "Expertise: Propulsion"
+msgstr ""
+
+#: update.py:218
+msgid "This leader is, following years of study, considered an expert within the field of Propulsion."
+msgstr ""
+
+#: update.py:221
+msgid "Expertise: Voidcraft"
+msgstr ""
+
+#: update.py:224
+msgid "This leader is, following years of study, considered an expert within the field of Voidcraft."
+msgstr ""
+
+#: update.py:227
+msgid "Expertise: Industry"
+msgstr ""
+
+#: update.py:230
+msgid "This leader is, following years of study, considered an expert within the field of Industry."
+msgstr ""
+
+#: update.py:233
+msgid "Expertise: Field Manipulation"
+msgstr ""
+
+#: update.py:236
+msgid "This leader is, following years of study, considered an expert within the field of Field Manipulation."
+msgstr ""
+
+#: update.py:239
+msgid "Expertise: Particles"
+msgstr ""
+
+#: update.py:242
+msgid "This leader is, following years of study, considered an expert within the field of Particles."
+msgstr ""
+
+#: update.py:245
+msgid "Expertise: Psionics"
+msgstr ""
+
+#: update.py:248
+msgid "This leader is, following years of study, considered an expert within the field of Psionics."
+msgstr ""
+
+#: update.py:251
+msgid "Expertise: Computing"
+msgstr ""
+
+#: update.py:254
+msgid "This leader is, following years of study, considered an expert within the field of Computing."
+msgstr ""
+
+#: update.py:257
+msgid "Expertise: New Worlds"
+msgstr ""
+
+#: update.py:260
+msgid "This leader is, following years of study, considered an expert on settling on New Worlds."
+msgstr ""
+
+#: update.py:263
+msgid "Expertise: Statecraft"
+msgstr ""
+
+#: update.py:266
+msgid "This leader is, following years of study, considered an expert within the field of Statecraft."
+msgstr ""
+
+#: update.py:269
+msgid "Expertise: Biology"
+msgstr ""
+
+#: update.py:272
+msgid "This leader is, following years of study, considered an expert within the field of Biology."
+msgstr ""
+
+#: update.py:275
+msgid "Expertise: Military Theory"
+msgstr ""
+
+#: update.py:278
+msgid "This leader is, following years of study, considered an expert within the field of Military Theory."
+msgstr ""
+
+#: update.py:281
+msgid "Recruiter"
+msgstr ""
+
+#: update.py:284
+msgid "This leader is particularly charismatic, and fresh recruits are practically lining up to serve their nation."
+msgstr ""
+
+#: update.py:287
+msgid "From the Ranks"
+msgstr ""
+
+#: update.py:290
+msgid "This leader rose through the ranks of military command."
+msgstr ""
+
+#: update.py:293 update.py:25122
+msgid "Fortifier"
+msgstr ""
+
+#: update.py:296
+msgid "This ruler understands the value in using military stations to secure territory."
+msgstr ""
+
+#: update.py:299
+msgid "Logistic Understanding"
+msgstr ""
+
+#: update.py:302
+msgid "This leader is well aware of the importance of properly-structured supply chains."
+msgstr ""
+
+#: update.py:305
+msgid "Military Pioneer"
+msgstr ""
+
+#: update.py:308
+msgid "This leader is enthusiastic about advancements in military technology and ship construction."
+msgstr ""
+
+#: update.py:311
+msgid "Warlike"
+msgstr ""
+
+#: update.py:314
+msgid "This leader does not shy away from conflict."
+msgstr ""
+
+#: update.py:317
+msgid "Architectural Sense"
+msgstr ""
+
+#: update.py:320
+msgid "This leader is an architect at heart, investing in more efficient construction practices."
+msgstr ""
+
+#: update.py:323 update.py:5817
+msgid "Frontier Spirit"
+msgstr ""
+
+#: update.py:326
+msgid "This leader is eager to reign over distant stars."
+msgstr ""
+
+#: update.py:329
+msgid "World Shaper"
+msgstr ""
+
+#: update.py:332
+msgid "This leader seeks to remake worlds in their image."
+msgstr ""
+
+#: update.py:335
+msgid "Home in the Sky"
+msgstr ""
+
+#: update.py:338
+msgid "This leader reaches for the stars."
+msgstr ""
+
+#: update.py:341
+msgid "Industrialist"
+msgstr ""
+
+#: update.py:344
+msgid "This leader has a firm grip on the means of production."
+msgstr ""
+
+#: update.py:347
+msgid "Eye for Talent"
+msgstr ""
+
+#: update.py:350
+msgid "This leader is considered to be unusually perceptive, spotting talent where others see only eccentricity or incompetence."
+msgstr ""
+
+#: update.py:353
+msgid "Deep Connections"
+msgstr ""
+
+#: update.py:356
+msgid "This leader is firmly entrenched in the labyrinthine web that makes up the political machine."
+msgstr ""
+
+#: update.py:362
+msgid "This leader is exceptionally charismatic, enforcing their will with ease."
+msgstr ""
+
+#: update.py:365
+msgid "Champion of the People"
+msgstr ""
+
+#: update.py:368
+msgid "This leader appears to genuinely care about their subjects."
+msgstr ""
+
+#: update.py:371
+msgid "Expansionist"
+msgstr ""
+
+#: update.py:374
+msgid "This leader aims to expand their borders."
+msgstr ""
+
+#: update.py:377
+msgid "Fertility Preacher"
+msgstr ""
+
+#: update.py:380
+msgid "This leader feels strongly about securing and protecting agrarian food sources."
+msgstr ""
+
+#: update.py:383
+msgid "Investor"
+msgstr ""
+
+#: update.py:386
+msgid "This leader is a shrewd economist, capable of maximizing financial potential."
+msgstr ""
+
+#: update.py:389
+msgid "Space Miner"
+msgstr ""
+
+#: update.py:392
+msgid "This leader recognizes just how vital the exploitation of offworld resources is for a star nation."
+msgstr ""
+
+#: update.py:395 update.py:7867
+msgid "Explorer"
+msgstr ""
+
+#: update.py:398
+msgid "This leader is known for their insatiable curiosity, valuing space exploration above all else."
+msgstr ""
+
+#: update.py:401
+msgid "Fleet Organizer"
+msgstr ""
+
+#: update.py:404
+msgid "This leader is an expert at organization, having the necessary micromanagement skills to command  very large starship formations."
+msgstr ""
+
+#: update.py:407
+msgid "Reformer"
+msgstr ""
+
+#: update.py:410
+msgid "This leader is a reformer, dedicated towards building the society of tomorrow."
+msgstr ""
+
+#: update.py:418 update.py:421 update.py:424 update.py:427 update.py:430
+#: update.py:433 update.py:436 update.py:439 update.py:442 update.py:445
+#: update.py:448 update.py:451 update.py:454 update.py:457 update.py:460
+#: update.py:463 update.py:466 update.py:469 update.py:472 update.py:475
+#: update.py:478 update.py:481 update.py:484 update.py:487 update.py:490
+#: update.py:493 update.py:496 update.py:499 update.py:502 update.py:505
+#: update.py:508 update.py:511 update.py:514 update.py:517 update.py:520
+#: update.py:523 update.py:526 update.py:529 update.py:532 update.py:535
+#: update.py:538 update.py:541 update.py:544 update.py:547 update.py:550
+#: update.py:553 update.py:556 update.py:559 update.py:562 update.py:565
+#: update.py:568 update.py:571 update.py:574 update.py:577 update.py:580
+#: update.py:583 update.py:586 update.py:589 update.py:592 update.py:595
+#: update.py:598 update.py:601 update.py:604 update.py:607 update.py:610
+#: update.py:613 update.py:616 update.py:619 update.py:622 update.py:625
+#: update.py:628 update.py:631 update.py:634 update.py:637 update.py:640
+#: update.py:643 update.py:646 update.py:649 update.py:652 update.py:655
+#: update.py:658 update.py:661 update.py:664 update.py:667 update.py:670
+#: update.py:673 update.py:676 update.py:679 update.py:682 update.py:685
+#: update.py:688 update.py:691 update.py:694 update.py:697 update.py:700
+#: update.py:703 update.py:706 update.py:709 update.py:712 update.py:715
+#: update.py:718 update.py:721 update.py:724 update.py:727 update.py:730
+#: update.py:733 update.py:736 update.py:739 update.py:742 update.py:745
+#: update.py:748 update.py:751 update.py:754 update.py:757 update.py:760
+#: update.py:763 update.py:766 update.py:769 update.py:772 update.py:775
+#: update.py:778 update.py:781 update.py:784 update.py:787 update.py:790
+#: update.py:793 update.py:796 update.py:799 update.py:802 update.py:805
+#: update.py:808 update.py:811 update.py:814 update.py:817 update.py:820
+#: update.py:823 update.py:826 update.py:829 update.py:832 update.py:835
+#: update.py:838 update.py:841 update.py:844 update.py:847 update.py:850
+#: update.py:853 update.py:856 update.py:859 update.py:862 update.py:865
+#: update.py:868 update.py:871 update.py:874 update.py:877 update.py:880
+#: update.py:883 update.py:886 update.py:889 update.py:892 update.py:895
+#: update.py:898 update.py:901 update.py:904 update.py:907 update.py:910
+#: update.py:913 update.py:916 update.py:919 update.py:922 update.py:925
+#: update.py:928 update.py:931 update.py:934 update.py:937 update.py:940
+#: update.py:943 update.py:946 update.py:949 update.py:952 update.py:955
+#: update.py:958 update.py:961 update.py:964 update.py:967 update.py:970
+#: update.py:973 update.py:976 update.py:979 update.py:982 update.py:985
+#: update.py:988 update.py:991 update.py:994 update.py:997 update.py:1000
+#: update.py:1003 update.py:1006 update.py:1009 update.py:1012 update.py:1015
+msgid "$tr_est_archivist_5$"
+msgstr ""
+
+#: update.py:1023 update.py:1026 update.py:1029 update.py:1032 update.py:1035
+#: update.py:1038 update.py:1041 update.py:1044 update.py:1047 update.py:1050
+#: update.py:1053 update.py:1056 update.py:1059 update.py:1062 update.py:1065
+#: update.py:1068 update.py:1071 update.py:1074 update.py:1077 update.py:1080
+#: update.py:1083 update.py:1086 update.py:1089 update.py:1092 update.py:1095
+#: update.py:1098 update.py:1101 update.py:1104 update.py:1107 update.py:1110
+#: update.py:1113 update.py:1116 update.py:1119 update.py:1122 update.py:1125
+#: update.py:1128 update.py:1131 update.py:1134 update.py:1137 update.py:1140
+#: update.py:1143 update.py:1146 update.py:1149 update.py:1152 update.py:1155
+#: update.py:1158 update.py:1161 update.py:1164 update.py:1167 update.py:1170
+#: update.py:1173 update.py:1176 update.py:1179 update.py:1182 update.py:1185
+#: update.py:3948
+msgid "Academy Traditions"
+msgstr ""
+
+#: update.py:1193 update.py:5967 update.py:95405 update.py:95411
+msgid "Machines of War"
+msgstr ""
+
+#: update.py:1196
+msgid "Our engineers have developed special battle machines to be fielded on the battlefields. These bipedal robotic walkers can be equipped with larger weapons and heavier armour that our usual troops."
+msgstr ""
+
+#: update.py:1199
+msgid "Titan"
+msgstr ""
+
+#: update.py:1202
+msgid "Titans"
+msgstr ""
+
+#: update.py:1205
+msgid "Titans are massive robotic walkers. With superior firepower and armour, these constructs can dominate any battlefield."
+msgstr ""
+
+#: update.py:1208
+msgid "Mechanical Knight"
+msgstr ""
+
+#: update.py:1211
+msgid "Mechanical Knights"
+msgstr ""
+
+#: update.py:1214
+msgid "Every Mechanical Knight is a small and custom made walker manned by a single soldier. Due to their vast number of design were every single knight is unique they have much utility on the battle field!"
+msgstr ""
+
+#: update.py:1217
+msgid "Militia Army"
+msgstr ""
+
+#: update.py:1220
+msgid "Militia Armies"
+msgstr ""
+
+#: update.py:1223
+msgid "To protect the planet, a certain portion of the population have been drafted into militia regiment."
+msgstr ""
+
+#: update.py:1226
+msgid "Drafted Slaves Army"
+msgstr ""
+
+#: update.py:1229
+msgid "Drafted Slaves Armies"
+msgstr ""
+
+#: update.py:1232
+msgid "While normally not used for combat, these slaves have been drafted to protect the planet."
+msgstr ""
+
+#: update.py:1235 update.py:1244
+msgid "Emergency Army"
+msgstr ""
+
+#: update.py:1238 update.py:1247
+msgid "Emergency Armies"
+msgstr ""
+
+#: update.py:1241 update.py:1250
+msgid "Our drones are natural warriors. If there is an emergency, every one of them is able to help defend their planet."
+msgstr ""
+
+#: update.py:1253
+msgid "Gardens of Beauty"
+msgstr ""
+
+#: update.py:1256
+msgid "The fabled gardens of beauty. The gardeners have filled it with plants from all over our empire, composing them to a symphony of vegetation. By most it is considered the single greatest work of art in this galaxy and the pinnacle of beauty."
+msgstr ""
+
+#: update.py:1259
+msgid "Monument of Memories"
+msgstr ""
+
+#: update.py:1262
+msgid "The Monument of Memories is one of the largest building in the galaxy, so large is its structure that it can be seen from space. It was built in honour of what has been, but some say that it is named from the fact that after one have seen it, it will never leave ones memories. "
+msgstr ""
+
+#: update.py:1265
+msgid "Stage of Glory"
+msgstr ""
+
+#: update.py:1268
+msgid "The most accomplished of performers travel from all over the galaxy to show their skill on the stage of glory. Every evening, the performances on this stage becomes the greatest show in this galaxy."
+msgstr ""
+
+#: update.py:1271
+msgid "Halls of Tranquillity"
+msgstr ""
+
+#: update.py:1274
+msgid "It is said that one can walk for hours in the halls of tranquillity and never see another soul. Yet these halls are filled with thousands, walking in quiet, in search for inspiration and understanding or inner peace. These halls seem endless, the hallways and chambers end only in darkness, not walls. Neither the ceiling high above can be seen, the pillars holding it up seemingly disappearing into the void."
+msgstr ""
+
+#: update.py:1277
+msgid "The Grand Museum"
+msgstr ""
+
+#: update.py:1280
+msgid "The Grand Museum contains the greatest collection of artefacts from this galaxy, and possibly even a few from beyond it. Items from this collection range from those that have played an important part in recent events, to items from civilizations long since gone. So large is the collection that one could spend an entire solar cycle walking through its galleries and exhibitions and yet not see it all."
+msgstr ""
+
+#: update.py:1283
+msgid "Gallery"
+msgstr ""
+
+#: update.py:1286
+msgid "Our galleries contain various exhibitions, from arts natural history, local culture to various archaeological artefacts collected from throughout our empire and galaxy."
+msgstr ""
+
+#: update.py:1289
+msgid "Planetary Archive"
+msgstr ""
+
+#: update.py:1292
+msgid "The archives spread across our world are used to keep the records of this galaxy. These buildings hold the greatest collection of information across the galaxy."
+msgstr ""
+
+#: update.py:1295
+msgid "Automated Mine"
+msgstr ""
+
+#: update.py:1298
+msgid "The Automated Mine is able to produce minerals with minimal supervision."
+msgstr ""
+
+#: update.py:1301
+msgid "Automated Power Plant"
+msgstr ""
+
+#: update.py:1304
+msgid "The Automated Power Plant is able to produce energy with minimal supervision."
+msgstr ""
+
+#: update.py:1307
+msgid "Automated Farm"
+msgstr ""
+
+#: update.py:1310
+msgid "The Automated Farm is able to produce food with minimal supervision."
+msgstr ""
+
+#: update.py:1313
+msgid "Blast Furnace"
+msgstr ""
+
+#: update.py:1316
+msgid "The Blast Furnace can significantly boost a planets alloy production."
+msgstr ""
+
+#: update.py:1319
+msgid "Engineers Guildhall I"
+msgstr ""
+
+#: update.py:1322
+msgid "The guildhall gathers engineers of all statuses and ranks."
+msgstr ""
+
+#: update.py:1325
+msgid "Engineers Guildhall II"
+msgstr ""
+
+#: update.py:1328
+msgid "$building_est_mechanicum_5_guild_of_engineers_1_desc$"
+msgstr ""
+
+#: update.py:1331
+msgid "Planetary Defense Cannon I"
+msgstr ""
+
+#: update.py:1334
+msgid "These cannons are able to destroy ships which are bombarding the planet."
+msgstr ""
+
+#: update.py:1337
+msgid "Planetary Defense Cannon II"
+msgstr ""
+
+#: update.py:1340 update.py:1346
+msgid "$building_est_militarism_4_defence_cannon_1_desc$"
+msgstr ""
+
+#: update.py:1343
+msgid "Planetary Defense Cannon III"
+msgstr ""
+
+#: update.py:1349
+msgid "Preservation"
+msgstr ""
+
+#: update.py:1352
+msgid "Every planet have their own natural habitat, unique in the galaxy. We must ensure that at least parts of it is preserved without disruption, to remain as it has before we arrived."
+msgstr ""
+
+#: update.py:1355
+msgid "Librarian: Astronomy"
+msgstr ""
+
+#: update.py:1358
+msgid "This librarian specializes in astronomy. This galaxy is filled with billions of celestial bodies, all which should be recorded into our archives. By accessing these archives this librarian can increase our research effort into physics. "
+msgstr ""
+
+#: update.py:1361
+msgid "Librarian: Mathematics"
+msgstr ""
+
+#: update.py:1364
+msgid "This librarian specializes in mathematics. Throughout the millennia our mathematicians have discovered countless of theorems, and constructed   a vast array of mathematical theories. This librarian knows how to access and search through our archives on mathematical theory, this can help our physicist research."
+msgstr ""
+
+#: update.py:1367
+msgid "Librarian: Electronics"
+msgstr ""
+
+#: update.py:1370
+msgid "This librarian specializes in electronics. When electricity first was discovered it lead to a revolution of our society. Since then millions of electronical devices have been constructed. The schematics for all of these have been recorded in case it might one day come of use. This librarian can use these databases to help our physics research."
+msgstr ""
+
+#: update.py:1373
+msgid "Librarian: Software"
+msgstr ""
+
+#: update.py:1376
+msgid "This librarian specializes in computer software. Since even before computers were first constructed we have made an endless number of programs which they can run. This librarian has specialized in recording and sorting these computer programs into huge databases. Knowledge about this software might help our physics research."
+msgstr ""
+
+#: update.py:1379
+msgid "Librarian: Cultures"
+msgstr ""
+
+#: update.py:1382
+msgid "This librarian specializes in cultures. Since the dawn of our civilization thousands of cultures have blossomed and died. Even more cultures have existed, and still exists, on other worlds. This librarian knows how to access our vast archives on cultures that have been, and still is. This information might help our research projects in society research. "
+msgstr ""
+
+#: update.py:1385
+msgid "Librarian: History"
+msgstr ""
+
+#: update.py:1388
+msgid "This librarian specializes in history. Every year passed is another year added to the history of our civilization, every events that passes should be added to our historical archives. This librarian works with recording these events and putting them into our archives. Their knowledge about our historical archives might help our society research."
+msgstr ""
+
+#: update.py:1391
+msgid "Librarian: Taxonomy"
+msgstr ""
+
+#: update.py:1394
+msgid "This librarian specializes in taxonomy. Even before the dawn of our civilization new species evolved and became extinct. They should all be recorded and classified, for every one of them their unique traits be established. This librarian specializess in recording various forms of life, and putting them into the right place in our databases. This librarian’s knowledge about our taxonomical archives might help our society research."
+msgstr ""
+
+#: update.py:1397
+msgid "Librarian: Communications"
+msgstr ""
+
+#: update.py:1400
+msgid "This librarian specializes in languages and other forms of communication. Thousands of languages have been spoken in our empire, and many are still spoken. Even throughout the galaxy there exist many forms of communications, many very different from our own. All these should be recorded, their quirks and rules pinned down. This librarian has travelled far recording different forms of communication and might help our society research."
+msgstr ""
+
+#: update.py:1403
+msgid "Librarian: War"
+msgstr ""
+
+#: update.py:1406
+msgid "This librarian specializes in wars. Throughout the ages many wars have been fought. For every one we have recorded every battle in as much details as possible. This librarian specializes in our databases on war, this knowledge might help our society research."
+msgstr ""
+
+#: update.py:1409
+msgid "Librarian: Chemistry"
+msgstr ""
+
+#: update.py:1412
+msgid "This librarian specializes in chemistry. Even before chemistry was a field we have been creating various compounds. Their numbers are now uncountable, and if it were not for our databases on chemical compounds and reactions many would have been lost in time. This librarian is well familiar with our chemical databases and can use this knowledge to help our engineering research. "
+msgstr ""
+
+#: update.py:1415
+msgid "Librarian: Geology"
+msgstr ""
+
+#: update.py:1418
+msgid "This librarian specializes in geology. As we reached into the stars the field of geology surged. The galaxy is filled with planets, all with their own distinct minerals, all of which have their own properties. This librarian has travelled far to collect samples for our geological archives. Knowledge about these archives might help our engineering research."
+msgstr ""
+
+#: update.py:1421
+msgid "Librarian: Architecture"
+msgstr ""
+
+#: update.py:1424
+msgid "This librarian specializes in architecture and construction.  The design for every building that we built must be sent to our archives of architecture. This librarian keeps these designs and help construct the systems for easy sorting and access to information. This might aid our research in engineering."
+msgstr ""
+
+#: update.py:1427
+msgid "Librarian: Mechanics"
+msgstr ""
+
+#: update.py:1430
+msgid "This librarian specializes in mechanics. The blueprints for every machine that is devised must be recorded in our archives. This librarian is responsible for sorting the blueprint into the databases for easy access. If possible, units of the machine created is also put into our archives. Knowledge about these machines created might help our engineering research."
+msgstr ""
+
+#: update.py:1433
+msgid "Keeper: Astronomy"
+msgstr ""
+
+#: update.py:1436
+msgid "This keeper specializes in astronomy. This galaxy is filled with billions of celestial bodies, all which should be recorded into our archives. By accessing these archives this keeper can increase our research effort into physics. "
+msgstr ""
+
+#: update.py:1439
+msgid "Keeper: Mathematics"
+msgstr ""
+
+#: update.py:1442
+msgid "This keeper specializes in mathematics. Throughout the millennia our mathematicians have discovered countless of theorems, and constructed   a vast array of mathematical theories. This keeper knows how to access and search through our archives on mathematical theory, this can help our physicist research."
+msgstr ""
+
+#: update.py:1445
+msgid "Keeper: Electronics"
+msgstr ""
+
+#: update.py:1448
+msgid "This keeper specializes in electronics. When electricity first was discovered it lead to a revolution of our society. Since then millions of electronical devices have been constructed. The schematics for all of these have been recorded in case it might one day come of use. This keeper can use these databases to help our physics research."
+msgstr ""
+
+#: update.py:1451
+msgid "Keeper: Software"
+msgstr ""
+
+#: update.py:1454
+msgid "This keeper specializes in computer software. Since even before computers were first constructed we have made an endless number of programs which they can run. This keeper has specialized in recording and sorting these computer programs into huge databases. Knowledge about this software might help our physics research."
+msgstr ""
+
+#: update.py:1457
+msgid "Keeper: Cultures"
+msgstr ""
+
+#: update.py:1460
+msgid "This keeper specializes in cultures. Since the dawn of our civilization thousands of cultures have blossomed and died. Even more cultures have existed, and still exists, on other worlds. This keeper knows how to access our vast archives on cultures that have been, and still is. This information might help our research projects in society research. "
+msgstr ""
+
+#: update.py:1463
+msgid "Keeper: History"
+msgstr ""
+
+#: update.py:1466
+msgid "This keeper specializes in history. Every year passed is another year added to the history of our civilization, every events that passes should be added to our historical archives. This keeper works with recording these events and putting them into our archives. Their knowledge about our historical archives might help our society research."
+msgstr ""
+
+#: update.py:1469
+msgid "Keeper: Taxonomy"
+msgstr ""
+
+#: update.py:1472
+msgid "This keeper specializes in taxonomy. Even before the dawn of our civilization new species evolved and became extinct. They should all me recorded and classified, for every one of them their unique traits be established. This keeper specializes in recording various forms of life, and putting them into the right place in our databases. This keeper’s knowledge about our taxonomical archives might help our society research."
+msgstr ""
+
+#: update.py:1475
+msgid "Keeper: Communications"
+msgstr ""
+
+#: update.py:1478
+msgid "This keeper specializes in languages and other forms of communication. Thousands of languages have been spoken in our empires, and many are still spoken. Even throughout the galaxy there exist many forms of communications, many very different from our own. All these should be recorded, their quirks and rules pinned down. This keeper has travelled far recording different forms of communication and might help our society research."
+msgstr ""
+
+#: update.py:1481
+msgid "Keeper: War"
+msgstr ""
+
+#: update.py:1484
+msgid "This keeper specializes in wars. Throughout the ages many wars have been fought. For every one we have recorded every battle in as much details as possible. This keeper specializes in our databases on war, this knowledge might help our society research."
+msgstr ""
+
+#: update.py:1487
+msgid "Keeper: Chemistry"
+msgstr ""
+
+#: update.py:1490
+msgid "This keeper specializes in chemistry. Even before chemistry was a field we have been creating various compounds. Their numbers are now uncountable, and if it were not for our databases on chemical compounds and reactions many would have been lost in time. This keeper is well familiar with our chemical databases and can use this knowledge to help our engineering research. "
+msgstr ""
+
+#: update.py:1493
+msgid "Keeper: Geology"
+msgstr ""
+
+#: update.py:1496
+msgid "This keeper specializes in geology. As we reached into the stars the field of geology surged. The galaxy is filled with planets, all with their own distinct minerals, all of which have their own properties. This keeper has travelled far to collect samples for our geological archives. Knowledge about these archives might help our engineering research."
+msgstr ""
+
+#: update.py:1499
+msgid "Keeper: Architecture"
+msgstr ""
+
+#: update.py:1502
+msgid "This keeper specializes in architecture and construction.  The design for every building that we built must be sent to our archives of architecture. This keeper keep these designs and help construct the systems for easy sorting and access to information. This might aid our research in engineering."
+msgstr ""
+
+#: update.py:1505
+msgid "Keeper: Mechanics"
+msgstr ""
+
+#: update.py:1508
+msgid "This keeper specializes in mechanics. The blueprints for every machine that is devised must be recorded in our archives. This keeper is responsible for sorting the blueprint into the databases for easy access. If possible, units of the machine created is also put into our archives. Knowledge about these machines created might help our engineering research."
+msgstr ""
+
+#: update.py:1511
+msgid "Chivalrous"
+msgstr ""
+
+#: update.py:1514
+msgid "This leader is respected by their peers for always doing what is right, and never wavering in times of trouble."
+msgstr ""
+
+#: update.py:1517 update.py:1523 update.py:1529 update.py:1535
+msgid "$leader_trait_admiral_est_chivalry$"
+msgstr ""
+
+#: update.py:1520 update.py:1526 update.py:1532 update.py:1538
+msgid "$leader_trait_admiral_est_chivalry_desc$"
+msgstr ""
+
+#: update.py:1541
+msgid "Hero"
+msgstr ""
+
+#: update.py:1544
+msgid "Due to brave action in battle, this leader is known as a hero in our empire. A living legend they enjoy respet and awe wherever they walk."
+msgstr ""
+
+#: update.py:1547 update.py:1553
+msgid "$leader_trait_admiral_est_chivalry_hero$"
+msgstr ""
+
+#: update.py:1550 update.py:1556
+msgid "$leader_trait_admiral_est_chivalry_hero_desc$"
+msgstr ""
+
+#: update.py:1559 update.py:6060
+msgid "Prestige of the Admiralty"
+msgstr ""
+
+#: update.py:1562
+msgid "This admiral is one of the most skilled and respected individuals in our society."
+msgstr ""
+
+#: update.py:1565
+msgid "$leader_trait_admiral_est_militarism_5$"
+msgstr ""
+
+#: update.py:1568
+msgid "$leader_trait_admiral_est_militarism_5_desc$"
+msgstr ""
+
+#: update.py:1571
+msgid "$tr_est_might_5$"
+msgstr ""
+
+#: update.py:1574
+msgid "$tr_est_might_5_delayed$"
+msgstr ""
+
+#: update.py:1577
+msgid "$leader_trait_admiral_est_might_5$"
+msgstr ""
+
+#: update.py:1580
+msgid "$leader_trait_admiral_est_might_5_desc$"
+msgstr ""
+
+#: update.py:1583 update.py:1589 update.py:1595 update.py:1601 update.py:1607
+msgid "Mystic"
+msgstr ""
+
+#: update.py:1586 update.py:1592 update.py:1598 update.py:1604 update.py:1610
+msgid "This leader is ascribed an array of supernatural powers. Which of them, if any, they actually possess is unknown."
+msgstr ""
+
+#: update.py:1613
+msgid "Cognition Central"
+msgstr ""
+
+#: update.py:1616
+msgid "By integrating themselves into the local drone networks this autonomous drone may amplify their capabilities greatly."
+msgstr ""
+
+#: update.py:1619 update.py:1625 update.py:1631 update.py:1637
+msgid "$leader_trait_admiral_est_cognition_central$"
+msgstr ""
+
+#: update.py:1622 update.py:1628 update.py:1634 update.py:1640
+msgid "$leader_trait_admiral_est_cognition_central_desc$"
+msgstr ""
+
+#: update.py:1643
+msgid "Powerful Governor"
+msgstr ""
+
+#: update.py:1646
+msgid "By enforcing strict restrictions on what power the federal government might wield, we have allocated additional power to our governors, who knows to weild it wisely."
+msgstr ""
+
+#: update.py:1649
+msgid "Inspiration"
+msgstr ""
+
+#: update.py:1652
+msgid "I see clearly now, both my purpose and my way to fulfil it."
+msgstr ""
+
+#: update.py:1655 update.py:1661 update.py:1667 update.py:1673 update.py:1679
+#: update.py:1685 update.py:1691 update.py:1697 update.py:1703 update.py:1709
+#: update.py:1715 update.py:1721
+msgid "$leader_trait_ruler_est_individualism_inspiration$"
+msgstr ""
+
+#: update.py:1658 update.py:1664 update.py:1670 update.py:1676 update.py:1682
+#: update.py:1688 update.py:1694 update.py:1700 update.py:1706 update.py:1712
+#: update.py:1718 update.py:1724
+msgid "$leader_trait_ruler_est_individualism_inspiration_desc$"
+msgstr ""
+
+#: update.py:1727
+msgid "Mining Bot"
+msgstr ""
+
+#: update.py:1730
+msgid "§LThese machines are built with the purpose of efficient mineral extraction.§!"
+msgstr ""
+
+#: update.py:1733 update.py:1736
+msgid "Galactic Fair"
+msgstr ""
+
+#: update.py:1739
+msgid "Delivered Play to Ambassadors"
+msgstr ""
+
+#: update.py:1742
+msgid "Friendship Monument"
+msgstr ""
+
+#: update.py:1745 update.py:1748
+msgid "$tr_est_aesthetics_3$"
+msgstr ""
+
+#: update.py:1751 update.py:1754 update.py:4368
+msgid "$tr_est_venerability_5$"
+msgstr ""
+
+#: update.py:1757 update.py:1760
+msgid "$tr_est_benevolence_3$"
+msgstr ""
+
+#: update.py:1763 update.py:1766
+msgid "$tr_est_chivalry_2$"
+msgstr ""
+
+#: update.py:1769 update.py:1772
+msgid "$mod_est_chivalry_finish_humility$"
+msgstr ""
+
+#: update.py:1775 update.py:3553
+msgid "$tr_est_confederacy_4$"
+msgstr ""
+
+#: update.py:1778 update.py:1781
+msgid "$tr_est_friendship_1$"
+msgstr ""
+
+#: update.py:1784 update.py:2249
+msgid "$est_greed_2_negotiations_1$"
+msgstr ""
+
+#: update.py:1787 update.py:2258
+msgid "$est_greed_2_negotiations_2$"
+msgstr ""
+
+#: update.py:1790 update.py:2267
+msgid "$est_greed_2_negotiations_3$"
+msgstr ""
+
+#: update.py:1793 update.py:1808
+msgid "$est_fury_1_name$"
+msgstr ""
+
+#: update.py:1796 update.py:1811
+msgid "$est_fury_2_name$"
+msgstr ""
+
+#: update.py:1799 update.py:1814
+msgid "$est_fury_3_name$"
+msgstr ""
+
+#: update.py:1802 update.py:1817
+msgid "$est_fury_4_name$"
+msgstr ""
+
+#: update.py:1805 update.py:1820
+msgid "$est_fury_5_name$"
+msgstr ""
+
+#: update.py:1823 update.py:3745
+msgid "$tr_est_mystery_adopt$"
+msgstr ""
+
+#: update.py:1826 update.py:1829 update.py:3748 update.py:3751
+msgid "$tr_est_philosophy_3$"
+msgstr ""
+
+#: update.py:1832 update.py:2435 update.py:2477
+msgid "$est_piracy_2_raiding_1$"
+msgstr ""
+
+#: update.py:1835 update.py:2444 update.py:2486
+msgid "$est_piracy_2_raiding_2$"
+msgstr ""
+
+#: update.py:1838 update.py:2453 update.py:2495
+msgid "$est_piracy_2_raiding_3$"
+msgstr ""
+
+#: update.py:1841
+msgid "Invite Foreign Colonists"
+msgstr ""
+
+#: update.py:1844
+msgid "We have contacts all over the galaxy. It would be possible for us to try and invite citizens from a foreign empire to start one of our new colonies."
+msgstr ""
+
+#: update.py:1847
+msgid "Gives us a selection of species from which we may gain a colony ship. We can also decline to invite any colonists, not having to pay the energy cost."
+msgstr ""
+
+#: update.py:1850
+msgid "$TRIGGER_FAIL$We may only invite colonists once every year."
+msgstr ""
+
+#: update.py:1853
+msgid "$TRIGGER_FAIL$No avaiable empire from which we can invite colonists."
+msgstr ""
+
+#: update.py:1856 update.py:2573
+msgid "Bribe Factions"
+msgstr ""
+
+#: update.py:1859
+msgid "$tr_est_greed_5_delayed$"
+msgstr ""
+
+#: update.py:1862
+msgid 
