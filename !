@@ -1,0 +1,13 @@
+locales/
++-- en
+¦   L-- LC_MESSAGES
+L-- es
+    L-- LC_MESSAGES
+
+xgettext -d base -o locales/base.pot main.py
+cp locales/base.pot locales/en/LC_MESSAGES/base.po
+cp locales/base.pot locales/es/LC_MESSAGES/base.po
+
+
+msgfmt -o locales/en/LC_MESSAGES/base.mo locales/en/LC_MESSAGES/base
+msgfmt -o locales/es/LC_MESSAGES/base.mo locales/es/LC_MESSAGES/base

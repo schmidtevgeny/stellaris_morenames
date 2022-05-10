@@ -57,8 +57,13 @@ class Storage:
                 s += "\n    " + str(l)
         return s
 
+def has_rus(s):
+    for ch in s:
+        if ch >= 'а' and ch <= 'я':
+            return True
+    return False
 
-def load_strings(storage: Storage, path, relpath):
+def load_strings(storage: Storage, path, relpath, russian:bool=False):
     regex = r"\s*(\S*):\d*\s*\"(.*)\""
 
     f = open(path, encoding = 'utf-8')
@@ -71,9 +76,10 @@ def load_strings(storage: Storage, path, relpath):
     for matchNum, match in enumerate(matches, start = 1):
         key = match.group(1)
         val = match.group(2)
-        storage.add(LocString(relpath, key, val))
+        if not russian or has_rus(val):
+            storage.add(LocString(relpath, key, val))
 
-
+# todo: substitution
 def make_maker(storage: Storage):
     f = open("update.py", "w", encoding = "utf-8")
     f.write('''import os
@@ -123,9 +129,9 @@ def make_memory(storage_en, storage_ru):
             for j, e in f_en.items():
                 if j in f_ru.keys():
                     r = f_ru[j]
-                    if r.get() != e.get():
-                        po.write('msgid "{}"\nmsgstr "{}"\n\n\n'.format(e.get().replace('"', '\\"'),
-                                                                        r.get().replace('"', '\\"')))
+                    if r.get() != e.get() and r.get() != '' and e.get()!='':
+                        po.write('msgid "{}"\nmsgstr "{}"\n\n\n'.format(e.get().replace('"', '\\"').replace('\n', ' ').strip(),
+                                                                        r.get().replace('"', '\\"').replace('\n', ' ').strip()))
     po.close()
     pass
 
@@ -170,21 +176,36 @@ def get_plugin_strings(storage: Storage):
 
 
 def get_original_strings(storage):
+    fr = 'base'
     for fn in glob.iglob(module_path + '*/*/*' + en):
-        fr = os.path.basename(fn).replace(en, '')
+        print(fn)
+        load_strings(storage, fn, fr)
+    for fn in glob.iglob(module_path + '*/*/*/*' + en):
+        print(fn)
         load_strings(storage, fn, fr)
     for fn in glob.iglob(app_path + 'english/*' + en):
-        fr = os.path.basename(fn).replace(en, '')
+        print(fn)
         load_strings(storage, fn, fr)
 
 
 def get_russian_strings(storage):
+    fr = 'base'
     for fn in glob.iglob(module_path + '*/*/*' + ru):
-        fr = os.path.basename(fn).replace(ru, '')
-        load_strings(storage, fn, fr)
+        print(fn)
+        load_strings(storage, fn, fr, True)
+    for fn in glob.iglob(module_path + '*/*/*/*' + ru):
+        print(fn)
+        load_strings(storage, fn, fr, True)
     for fn in glob.iglob(app_path + 'russian/*' + ru):
-        fr = os.path.basename(fn).replace(ru, '')
-        load_strings(storage, fn, fr)
+        print(fn)
+        load_strings(storage, fn, fr, True)
+    local = 'localisation.old/'
+    for fn in glob.iglob(local + '*' + ru):
+        print(fn)
+        load_strings(storage, fn, fr, True)
+    for fn in glob.iglob(local + '*/*' + ru):
+        print(fn)
+        load_strings(storage, fn, fr, True)
 
 
 get_plugin_strings(storage)
