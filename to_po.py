@@ -88,6 +88,9 @@ import gettext
 # gettext.install('messages')    
 lang_translations = gettext.translation('base', localedir='locales', languages=['ru'])
 lang_translations.install()
+
+def pre(s):
+    return s.replace('\n', '\\n')
     
 base = 'loc/'
 if not os.path.exists(base+'russian'):
@@ -114,7 +117,7 @@ if not os.path.exists(base+'events'):
                 f.write("value=_('''{}''')\n".format(l.get()))
                 # print(l)
 
-            f.write('f.write(\'{}: \"{}\"\\n\'.format(key, value))\n')
+            f.write('f.write(\'{}: \"{}\"\\n\'.format(key, pre(value)))\n')
 
         f.write("f.close()\n\n")
     pass
