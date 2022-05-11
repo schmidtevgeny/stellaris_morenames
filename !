@@ -1,6 +1,6 @@
 locales/
 +-- en
-�   L-- LC_MESSAGES
+¦   L-- LC_MESSAGES
 L-- es
     L-- LC_MESSAGES
 
@@ -11,3 +11,10 @@ cp locales/base.pot locales/es/LC_MESSAGES/base.po
 
 msgfmt -o locales/en/LC_MESSAGES/base.mo locales/en/LC_MESSAGES/base
 msgfmt -o locales/es/LC_MESSAGES/base.mo locales/es/LC_MESSAGES/base
+
+
+Блоккоты Blokkats
+Flusion
+Kattail
+Upkeep of на содержание
+Jobs  вакансии
