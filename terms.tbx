@@ -309,6 +309,54 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="anubis-3">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>ultrafractured world</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru-RU">
+          <tig>
+            <term>сверхразрушенный мир</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="anubis-24">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>kugelblitz</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru-RU">
+          <tig>
+            <term>Шаровая молния</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="anubis-26">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>systemcraft</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru-RU">
+          <tig>
+            <term>боевая звёздная система</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="anubis-27">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>blokkat-vester</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru-RU">
+          <tig>
+            <term>блоккот-коллектор</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>
