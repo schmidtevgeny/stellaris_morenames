@@ -82,7 +82,7 @@ def load_strings(storage: Storage, path, relpath, russian:bool=False):
 # todo: substitution
 def make_maker(storage: Storage):
     f = open("update.py", "w", encoding = "utf-8")
-    f.write('''import os
+    f.write(r'''import os
 import gettext
 
 # gettext.install('messages')    

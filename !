@@ -4,7 +4,7 @@ locales/
 L-- es
     L-- LC_MESSAGES
 
-xgettext -d base -o locales/base.pot main.py
+"C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\Tools\i18n\pygettext.py" -d base -o locales/base.pot main.py
 cp locales/base.pot locales/en/LC_MESSAGES/base.po
 cp locales/base.pot locales/es/LC_MESSAGES/base.po
 
