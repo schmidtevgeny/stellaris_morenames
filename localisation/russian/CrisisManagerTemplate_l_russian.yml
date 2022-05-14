@@ -1,7 +1,7 @@
 ﻿l_russian:
 
-CrisisManagerTemplateList.desc: "There are custom templates for some mods.\n$CmtWarn0$: You can make more templates on your own (and share them)."
-CrisisManagerTemplate_T001.title: "A Deadly Tempest"
+CrisisManagerTemplateList.desc: "There are custom templates for some mods.\n$CmtWarn0$: Вы можете сделать больше шаблонов самостоятельно (и поделиться ими)."
+CrisisManagerTemplate_T001.title: "Смертельная буря"
 CrisisManagerTemplate_T001.tooltip: "Greetings! There are only few fitting and increasing changes to the Default Template."
-CrisisManagerTemplate_T101.title: "A Deadly Tempest Template"
+CrisisManagerTemplate_T101.title: "Шаблон Смертельная буря"
 CrisisManagerTemplate_T101.tooltip: "Greetings! There are only few fitting and increasing changes to the Default Template."

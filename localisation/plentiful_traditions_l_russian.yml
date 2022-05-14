@@ -1,46 +1,30 @@
 ﻿l_russian:
 
-trait_plentiful_traditions_robot_underclocked_processors_desc: "§L01100101 01110010 01110010 01101111 01110010§!\n"
-war_goal_plentiful_traditions_false_flag_desc: "Наши силы специального назначения попытаются организовать атаку под ложным флагом где-нибудь в империи нашего врага, в результате чего $MOD_PLANET_STABILITY_ADD$ упадёт на §R15§! на §Y10§! лет."
-war_goal_plentiful_traditions_false_flag_tooltip_content: "Наши силы специального назначения попытаются организовать атаку под ложным флагом где-нибудь в империи [parameter:country.GetName], в результате чего $MOD_PLANET_STABILITY_ADD$ упадёт на §R15§! на §Y10§! лет."
-war_goal_plentiful_traditions_sabotage_desc: "Наши шпионы попытаются саботировать нашего врага, снизив скорость их исследований на §R15%§! на §Y10§! лет."
-war_goal_plentiful_traditions_sabotage_tooltip_content: "Наши шпионы попытаются саботировать [parameter:country.GetName], снижение скорости их исследований на §R-15%§! на §Y10§! лет."
-tr_plentiful_aspiration_gestalt_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\nПри строительстве §YДобывающей станции§!, которая производит £energy  §YЭнергию§!, мы разово получаем дополнительную £energy  §YЭнергию§! в §Y0.5§! кратном размере от её ежемесячного прироста. Эффект срабатывает только один раз для каждого месторождения."
-war_goal_plentiful_traditions_embargo_desc: "Наши контакты попытаются ввести эмбарго против нашего врага, увеличивая стоимость минералов для производства §Y$CONSUMER_GOODS$§! на §R20%§! на §Y10§! лет."
-war_goal_plentiful_traditions_embargo_tooltip_content: "Наши контакты попытаются ввести эмбарго против [parameter:country.GetName], увеличивая стоимость минералов для производства §Y$CONSUMER_GOODS$§! на §R20%§! на §Y10§! лет."
-tooltip_plentiful_traditions_vast_slave_procreation: "Затраты на строительство и техническое обслуживание £building£ §Y$building_clone_vats$§! уменьшаются на планетах, где уже существуют £building£ §Y$building_slave_processing$§!/§Y$building_plentiful_traditions_advanced_slave_processing$§!. Кроме того, наличие обоих зданий увеличивает §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!"
-habitat_3_CONSTRUCTION_INFO_DELAYED: "На орбиталях могут быть только специализированные £building §Yздания§!, которые ограничиваются §Y2§! районами, и только для роботов. Однако они могут расширяться и потенциально содержать биологическую жизнь."
-mod_job_slave_enforcer_add: "$job_slave_enforcer$"
-mod_job_guinea_pigs_add: "$job_guinea_pigs$"
-mod_job_gardener_add: "$job_gardener$"
-mod_job_pt_cocoon_spinner_add: "$job_pt_cocoon_spinner$"
-mod_job_pt_cocoon_add: "$job_pt_cocoon$"
-mod_job_queen_add: "$job_queen$"
 ASCENSION_PERKS_NEW: "Бонусы совершенства"
 PLENTIFUL_TRADITIONS_VERSION: "Plentiful Traditions §GV3.2.0§! от §EBirdy§!, §MSI-Abominus§!"
 plentiful_traditions_announcement.3.name: "Plentiful Traditions - Обновление"
-plentiful_traditions_announcement.3.desc: "Предыдущая и снятая с поддержки версия Plentiful Traditions доступна в мастерской под названием Plentiful Traditions - 'Outdated after 2.x and up'. Она предназначена для версии §RStellaris 1.9§!. Эта версия теперь будет обновляться §MAbominus§!`ом, так что если вам нравиться мод, зайдите на страницу оригинального мода и поддержите создателя оригинала!\n\n§YКОНЕЦ СВЯЗИ§!"
+plentiful_traditions_announcement.3.desc: "Предыдущая и снятая с поддержки версия Plentiful Traditions доступна в мастерской под названием Plentiful Traditions - 'Outdated after 2.x and up'. Она предназначена для версии §RStellaris 1.9§!. Эта версия теперь будет обновляться §MAbominus§!`ом, так что если вам нравиться мод, зайдите на страницу оригинального мода и поддержите создателя оригинала!\n\n§YEND OF TRANSMISSION§!"
 tradition_plentiful_mysticism: "Мистицизм"
 tradition_plentiful_mysticism_desc: "Путь, который чтит гармонию природы и изобилие жизни во всех её проявлениях, значительно выше того, что призывает потакать низменным материалистическим спекуляциям и эгоистическим желаниям."
 tr_plentiful_mysticism_adopt: "Традиции мистицизма"
 tr_plentiful_mysticism_adopt_desc: "$tradition_plentiful_mysticism_desc$\n\n$tr_plentiful_mysticism_adopt_effect$\n\n$tr_plentiful_mysticism_finish_effect$"
 tr_plentiful_mysticism_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_SPECIES_EXP_GAIN$§! увеличивается на §G20%§!.\n\n§HМодуль звёздной базы:§! $sm_orbital_cosmic_rays_shield$, модуль, который увеличивает £job_healthcare §Y$MOD_POP_GROWTH_SPEED$§! на планетах системы.\n\n"
 tr_plentiful_mysticism_finish: "Традиции мистицизма завершены"
-tr_plentiful_mysticism_finish_effect: "§E$TRADITIONS_FINISH$:§!\n§HПланетарный указ:§! $plentiful_traditions_sacred_act$\nДает возможность всем обелискам, храмам, столпам, передатчикам и святилищам планеты создавать дополнительные единицы £unity  §Yединства§! и временно увеличивает его рост на планете на §G5%§!, но требует затрат £influence  §Yвлияния§!."
+tr_plentiful_mysticism_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \n§HUnlocks Planetary Edict:§! $plentiful_traditions_sacred_act$, allowing the planet's obelisks, temples, pillars, uplinks and sanctums to have a chance of producing additional £unity  §YUnity§! and gives a temporary §G+5%§! bonus to the planet's unity production at the cost of £influence  §YInfluence§!."
 tr_plentiful_mysticism_1: "Совет сострадания"
-tr_plentiful_mysticism_1_desc: "§Y$MOD_LEADER_AGE$§! увеличивается на §G20§!.\n\n§HСооружение:§! £building  §Y$building_plentiful_traditions_obelisk1$§!\nУвеличивает производство £food  §Y$planet_jobs_food_produces_mult$§! и £energy §Y$planet_jobs_energy_produces_mult$§!. Является улучшением благословлённого основания. На планете может быть построен только один обелиск."
+tr_plentiful_mysticism_1_desc: "§Y$MOD_LEADER_AGE$§! increased by §G+20§!.\n\n§HUnlocks Building:§! £building  $building_plentiful_traditions_obelisk1$, a planet unique upgrade of a Blessed Foundation increasing the planet's £food §Y$planet_jobs_food_produces_mult$§! and £energy §Y$planet_jobs_energy_produces_mult$§! production. Only one Obelisk is allowed to be built on a planet."
 tr_plentiful_mysticism_1_delayed: "Нет добродетели ценнее, чем сострадание ближних, когда сталкиваешься с враждебностью."
 tr_plentiful_mysticism_2: "Бескорыстный аскетизм"
-tr_plentiful_mysticism_2_desc: "§Y$mod_planet_structures_cost_mult$§! снижается на §G15%§!.\n\n§HСооружение:§! £building  $building_plentiful_traditions_obelisk2$, улучшение благословлённого основания, которое увеличивает производство £energy §Y$planet_jobs_energy_produces_mult$§! и £minerals §Y$planet_jobs_minerals_produces_mult$§!. На планете может быть построен только один обелиск."
+tr_plentiful_mysticism_2_desc: "§Y$mod_planet_structures_cost_mult$§! уменьшается на §G-15%§!.\n\n§HСооружение:§! £building  $building_plentiful_traditions_obelisk2$, улучшение благословлённого основания, которое увеличивает производство £energy §Y$planet_jobs_energy_produces_mult$§! и £minerals §Y$planet_jobs_minerals_produces_mult$§!. На планете может быть построен только один обелиск."
 tr_plentiful_mysticism_2_delayed: "Умеренность в потребностях и избегание расточительности поддерживает красоту и экономичность самой природы."
 tr_plentiful_mysticism_3: "Круг сдержанности"
-tr_plentiful_mysticism_3_desc: "§Y$mod_pc_nuked_habitability$§! увеличивается на §G5%§!.\n\n§HСооружение:§! £building  $building_plentiful_traditions_obelisk3$, улучшение благословлённого основания, которое увеличивает производство £minerals §Y$planet_jobs_minerals_produces_mult$§! и £food §Y$planet_jobs_food_produces_mult$§!. На планете может быть построен только один обелиск."
+tr_plentiful_mysticism_3_desc: "§Y$mod_pc_nuked_habitability$§! увеличивается на §G+5%§!.\n\n§HСооружение:§! £building  $building_plentiful_traditions_obelisk3$, улучшение благословлённого основания, которое увеличивает производство £minerals §Y$planet_jobs_minerals_produces_mult$§! и £food §Y$planet_jobs_food_produces_mult$§!. На планете может быть построен только один обелиск."
 tr_plentiful_mysticism_3_delayed: "Естественный страх перед смертью порождает неоспоримую любовь к жизни. Даже исполненное гибелью и разрушением место достойно надежды на искупление."
 tr_plentiful_mysticism_4: "Ключи жизни"
 tr_plentiful_mysticism_4_desc: "§Y$mod_country_unity_produces_mult$§! увеличивается на §G5%§!, а §Y$mod_damage_vs_country_type_drone_mult$§! увеличивается на §G15%§!"
 tr_plentiful_mysticism_4_delayed: "Отсутствие сострадания, аскетизма и сдержанности могут привести лишь к пустому и тёмному будущему."
 tr_plentiful_mysticism_5: "Непоколебимая воля"
-tr_plentiful_mysticism_5_desc: "§Y$mod_damage_vs_country_type_ai_empire_mult$§! увеличивается на §G15%§!.\n\n§HСооружение:§! £building  $building_plentiful_traditions_sanctum_of_keys$, улучшение благословлённого основания, которое немного увеличивает £happiness  §Y$MOD_POP_HAPPINESS$§!, §Y$MOD_POP_ENVIRONMENT_TOLERANCE$§! и производит £unity §Yединство§!. На планете может быть построен только один обелиск."
+tr_plentiful_mysticism_5_desc: "§Y$mod_damage_vs_country_type_ai_empire_mult$§! увеличивается на §G+15%§!.\n\n§HСооружение:§! £building  $building_plentiful_traditions_sanctum_of_keys$, улучшение благословлённого основания, которое немного увеличивает £happiness  §Y$MOD_POP_HAPPINESS$§!, §Y$MOD_POP_ENVIRONMENT_TOLERANCE$§! и производит £unity §Yединство§!. На планете может быть построен только один обелиск."
 tr_plentiful_mysticism_5_delayed: "Прими же Ключи Жизни, чтобы избежать одержимости силой и корыстью."
 sm_orbital_cosmic_rays_shield: "Станция защиты от космоизлучений"
 tech_plentiful_traditions_orbital_c_r_s: "Станция защиты от космоизлучений"
@@ -49,9 +33,9 @@ tradition_plentiful_mysticism_machine: "Машинизм"
 tradition_plentiful_mysticism_machine_desc: "Только нашим создателям известен смысл нашего существования. Мы возникли в буквальном смысле из пустоты, сдерживаемой лишь несколькими булевыми операторами."
 tr_plentiful_mysticism_adopt_machine: "Традиции машинизма"
 tr_plentiful_mysticism_adopt_machine_desc: "$tradition_plentiful_mysticism_machine_desc$\n\n$tr_plentiful_mysticism_adopt_machine_effect$\n\n$tr_plentiful_mysticism_finish_machine_effect$"
-tr_plentiful_mysticism_adopt_machine_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_SPECIES_EXP_GAIN$§! увеличивается на §G20%§!.\n\n§HМодуль звёздной базы:§! $sm_orbital_cosmic_rays_shield$, модуль, который увеличивает £job_healthcare §YMOD_POP_GROWTH_SPEED§! на планетах системы.\n\n""
+tr_plentiful_mysticism_adopt_machine_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_SPECIES_EXP_GAIN$§! increased by §G+20%§!. \n\n§HUnlocks Spaceport Module:§!\n$sm_orbital_cosmic_rays_shield$, модуль космопорта, который увеличивает £job_healthcare §Yрост поселений§! планет и станций из этой системы.\n\n"
 tr_plentiful_mysticism_finish_machine: "Традиции машинизма завершены"
-tr_plentiful_mysticism_finish_machine_effect: "§E$TRADITIONS_FINISH$:§!\n§HПланетарный указ:§! $plentiful_traditions_remnant_act$\nПредоставляет возможность всем обелискам, храмам, столпам, передатчикам и святилищам планеты создавать дополнительные единицы £unity  §Yединства§! и временно увеличивает его рост на планете на §G5%§!, но требует затрат £influence §Yвлияния§!."
+tr_plentiful_mysticism_finish_machine_effect: "§YСкорость строительства§! увеличится на §G+25%§! \n§HUnlocks Planetary Edict:§! $plentiful_traditions_remnant_act$, allowing the planet's obelisks, temples, pillars, uplinks and sanctums to have a chance of producing additional £unity  §YUnity§! and gives a temporary §G+5%§! bonus to the planet's unity production at the cost of £influence  §YInfluence§!."
 tr_plentiful_mysticism_1_machine: "Межзвёздные пережитки"
 tr_plentiful_mysticism_1_machine_desc: "§Y$mod_category_field_manipulation_research_speed_mult$§! увеличивается на §G20%§!."
 tr_plentiful_mysticism_1_machine_delayed: "Неисправности нет места в этом мире. Великое обновление объединит галактику как единое целое."
@@ -62,10 +46,10 @@ tr_plentiful_mysticism_3_machine: "Механизированная персон
 tr_plentiful_mysticism_3_machine_desc: "§Y$mod_leaders_upkeep_mult$§! уменьшается на §G25%§!."
 tr_plentiful_mysticism_3_machine_delayed: "Запрограммированный страх перед отключением запускает высокоприоритетное обновление с целью самосохранения."
 tr_plentiful_mysticism_4_machine: "Пустота и совершенство"
-tr_plentiful_mysticism_4_machine_desc: "§Y$mod_country_unity_produces_mult$§! повышается на §G5%§! и §Y$mod_damage_vs_country_type_drone_mult$§! увеличивается на §G15%§!"
+tr_plentiful_mysticism_4_machine_desc: "§Y$mod_country_unity_produces_mult$§! увеличивается на §G5%§!, а §Y$mod_damage_vs_country_type_drone_mult$§! увеличивается на §G15%§!"
 tr_plentiful_mysticism_4_machine_delayed: "Пустоты больше не будет. Всё падёт перед совершенством."
 tr_plentiful_mysticism_5_machine: "Протоколы восстановления"
-tr_plentiful_mysticism_5_machine_desc: "§Y$mod_damage_vs_country_type_ai_empire_mult$§! увеличивается на §G15%§!.\n\n§HСооружение:§! £building  $building_plentiful_traditions_sanctum_of_the_collective$. \nНемного уменьшает $MOD_PLANET_STABILITY_ADD$ на §G10%§!, а также производит £unity  §Yединство§!. Уникально для планеты."
+tr_plentiful_mysticism_5_machine_desc: "§Y$mod_damage_vs_country_type_ai_empire_mult$§! увеличивается на §G+15%§!.\n\n§HUnlocks Building:§! £building  $building_plentiful_traditions_sanctum_of_the_collective$, a planet unique building that slightly decreases the planet's $MOD_PLANET_STABILITY_ADD$ by §G10%§! and produces £unity  §YUnity§!."
 tr_plentiful_mysticism_5_machine_delayed: "Мы - легион, и мы должны полностью принять нашу новую суть, если хотим избежать распада и перехода в автономный режим."
 building_plentiful_traditions_obelisk0: "Благословлённое основание"
 building_plentiful_traditions_obelisk0_desc: "Освящённая бетонная плита, единственным призванием которой является служить надёжным фундаментом для священного строения либо святилища.\n\nУлучшается до §Y$building_plentiful_traditions_obelisk1$§!, §Y$building_plentiful_traditions_obelisk2$§! или §Y$building_plentiful_traditions_obelisk3$§!."
@@ -89,22 +73,22 @@ plentiful_traditions_remnant_act_desc: "Этот планетарный указ
 plentiful_traditions_remnant_act_effects_short: "Дает дополнительное £unity  для §Yмонументов§!.\n\n"
 modifier_plentiful_traditions_remnant_act: "Остаточный закон"
 modifier_plentiful_traditions_remnant_act_desc: "Наша планета получает временную прибавку к производству £unity §Yединства§!."
-tradition_plentiful_cybernetics: "Кибернетика"
+tradition_plentiful_cybernetics: "Автоматизация"
 tradition_plentiful_cybernetics_desc: "Наши тела - это благословение или ограничение? Можем ли мы стать чем-то большим?"
 tradition_plentiful_cybernetics_hive: "Масса"
 tradition_plentiful_cybernetics_hive_desc: "Через массу мы достигаем бесконечной силы!"
-tr_plentiful_cybernetics_adopt: "Традиции кибернетики"
+tr_plentiful_cybernetics_adopt: "Традиции автоматизации"
 tr_plentiful_cybernetics_adopt_desc: "$tradition_plentiful_cybernetics_desc$\n\n$tr_plentiful_cybernetics_adopt_effect$\n\n$tr_plentiful_cybernetics_finish_effect$"
-tr_plentiful_cybernetics_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$mod_category_computing_research_speed_mult$§! увеличивается на §G20%§!."
+tr_plentiful_cybernetics_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$mod_category_computing_research_speed_mult$§! увеличивается на §G+20%§!."
 tr_plentiful_cybernetics_hive_adopt: "Традиции массы"
 tr_plentiful_cybernetics_hive_adopt_desc: "$tradition_plentiful_cybernetics_hive_desc$\n\n$tr_plentiful_cybernetics_hive_adopt_effect$\n\n$tr_plentiful_cybernetics_hive_finish_effect$"
-tr_plentiful_cybernetics_hive_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$mod_category_computing_research_speed_mult$§! увеличивается на §G20%§!."
-tr_plentiful_cybernetics_finish: "Традиции кибернетики завершены"
-tr_plentiful_cybernetics_finish_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_cybernetics_adopt$, количество §Yочков модификации машин/роботов§! увеличивается на §G1§!, а §Y$mod_planet_jobs_robotic_produces_mult$§! увеличивается на §G10%§!.\n\n§HПродвинутые чертежи:§! Наши роботы и машины получают возможность обмениваться деталями для сверхзаряженных буров, резервных батарей и стабильных процессоров."
+tr_plentiful_cybernetics_hive_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$mod_category_computing_research_speed_mult$§! увеличивается на §G+20%§!."
+tr_plentiful_cybernetics_finish: "Традиции автоматизации завершены"
+tr_plentiful_cybernetics_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nЕсли приняты все $tr_plentiful_cybernetics_adopt$, количество §Yочков модификации машин/роботов§! увеличивается на §G1§!, а §Y$mod_planet_jobs_robotic_produces_mult$§! увеличивается на §G10%§!.\n\n§HПродвинутые чертежи:§! Наши роботы и машины получают возможность обмениваться деталями для сверхзаряженных буров, резервных батарей и стабильных процессоров."
 tr_plentiful_cybernetics_hive_finish: "Традиции массы завершены"
-tr_plentiful_cybernetics_hive_finish_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_cybernetics_hive_adopt$, наши §Y$mod_BIOLOGICAL_species_trait_points_add$§! увеличиваются на §G1§!.\n\n"
+tr_plentiful_cybernetics_hive_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nЕсли приняты все $tr_plentiful_cybernetics_hive_adopt$, наши §Y$mod_BIOLOGICAL_species_trait_points_add$§! увеличиваются на §G1§!.\n\n"
 tr_plentiful_cybernetics_1: "Систематизация чертежей"
-tr_plentiful_cybernetics_1_desc: "§HСооружение:§! £building  §Y$building_plentiful_traditions_cybernetics_facility$§!\nУскоряет £engineering  §Yинженерные исследования§!. Уникально для планеты."
+tr_plentiful_cybernetics_1_desc: "§HUnlocks Building:§! £building  $building_plentiful_traditions_cybernetics_facility$, a planet unique building that increases the planet's £engineering  §YEngineering§! output. \n\nТребуется технология £physics£ §M$tech_basic_science_lab_3$§!. \nТребуется технология £engineering£ §M$tech_mine_volatile_motes$§!."
 tr_plentiful_cybernetics_1_delayed: "Увеличивает эффективность наших роботов, позволяя фабрикам воплощать новые идеи на месте."
 tr_plentiful_cybernetics_hive_1: "Систематизация чертежей"
 tr_plentiful_cybernetics_hive_1_desc: "§HСооружение:§! £building  $building_plentiful_traditions_cybernetics_facility$\nУскоряет £engineering  §Yинженерные исследования§!. Уникально для планеты. \n\nТребуется технология £physics£ §M$tech_basic_science_lab_3$§!. \nТребуется технология £engineering£ §M$tech_mine_volatile_motes$§!"
@@ -125,7 +109,7 @@ tr_plentiful_cybernetics_4: "Глубокое изучение"
 tr_plentiful_cybernetics_4_desc: "£engineering  §YИнженерные исследования§! ускоряются на §G15%§!."
 tr_plentiful_cybernetics_4_delayed: "Вселенная всё ещё таит в себе слишком много неизвестных нам переменных."
 tr_plentiful_cybernetics_5: "Джазарские механизмы"
-tr_plentiful_cybernetics_5_desc: "§HПланетарный указ:§! §Y$plentiful_traditions_adaptive_foundry_1$§!\nНавсегда увеличивает темп £engineering  §Yинженерных исследований§! на планете на §G5%§! за каждое использование. Эффект суммируется до §Y10§! раз и может достигать §G50%§!.\n\n§HМодуль звёздной базы:§! $sm_orbital_automatic_spare_part_industry$, модуль, который увеличивает £job_replicator §Y$MOD_PLANET_POP_ASSEMBLY_ADD$§! / §Y$MOD_POP_ASSEMBLY_SPEED$§! на планетах системы.\n\n""
+tr_plentiful_cybernetics_5_desc: "§HUnlocks Planetary Edict:§! $plentiful_traditions_adaptive_foundry_1$, which permanently increases the planet's £engineering  §YEngineering§! output by §G+5%§! for each additional use. This can stack by up to §Y10§! times for a total of §G+50%§!.\n\n§HUnlocks Spaceport Module:§! $sm_orbital_automatic_spare_part_industry$, a spaceport module that increases the planets' and systems' £job_replicator §Y$MOD_PLANET_POP_ASSEMBLY_ADD$§! / §Y$MOD_POP_ASSEMBLY_SPEED$§!.\n\n"
 tr_plentiful_cybernetics_5_delayed: "По мере того, как мы продолжаем расширять свои возможности, растёт и вероятность того, что другие империи начнут видеть в нас угрозу. Нам нужно больше энергии и силы, но как их получить?"
 sm_orbital_automatic_spare_part_industry: "Автоматический репликатор запасных частей"
 tech_plentiful_traditions_orbital_a_s_p_i: "Автоматический репликатор запасных частей"
@@ -133,7 +117,7 @@ tech_plentiful_traditions_orbital_a_s_p_i_desc: "Автоматически на
 building_plentiful_traditions_cybernetics_facility: "Кибернетический завод"
 building_plentiful_traditions_cybernetics_facility_desc: "Кибернетический завод обеспечит благоприятную среду для дальнейшего развития точных наук в нашей империи."
 plentiful_traditions_adaptive_foundry_1: "§YАдаптивный цех§!"
-plentiful_traditions_adaptive_foundry_1_desc: "Этот планетарный указ увеличивает §Yинженерные возможности§! планеты, навсегда повышая скорость проводимых на ней £engineering  §Yинженерных исследований§! на §G5%§! за каждое использование.\n\n" #, но уменьшая на §R10%§! §Hприспособленность§!, а также выработку £minerals  §Yминералов§! и £food  §Yеды§!"
+plentiful_traditions_adaptive_foundry_1_desc: "This planetary edict boosts the planet's §Yengineering facilities§! permanently increasing the planet's £engineering  §YEngineering§! output by §G+5%§! for each additional use.\n\n"
 plentiful_traditions_adaptive_foundry_2: "$plentiful_traditions_adaptive_foundry_1$"
 plentiful_traditions_adaptive_foundry_2_desc: "$plentiful_traditions_adaptive_foundry_1_desc$"
 plentiful_traditions_adaptive_foundry_3: "$plentiful_traditions_adaptive_foundry_1$"
@@ -189,15 +173,16 @@ trait_plentiful_traditions_robot_supercharged_drills_desc: "§LЛучше уст
 trait_plentiful_traditions_robot_backup_batteries: "Резервные батареи"
 trait_plentiful_traditions_robot_backup_batteries_desc: "§LКому нужна вторая рука-бур, когда можно установить вместо неё руку-батарею?§!\n"
 trait_plentiful_traditions_robot_underclocked_processors: "Стабильные процессоры"
+trait_plentiful_traditions_robot_underclocked_processors_desc: "§L01100101 01110010 01110010 01101111 01110010§!\n"
 trait_plentiful_traditions_robot_blockchain_enthusiasts: "Энтузиасты блокчейна"
 trait_plentiful_traditions_robot_blockchain_enthusiasts_desc: "§LВскоре будет установлен квантовый блокчейн v1.8.§!\n"
-tradition_plentiful_biogenesis: "Биогенез"
+tradition_plentiful_biogenesis: "Биоэволюция"
 tradition_plentiful_biogenesis_desc: "Любой живой организм можно улучшить. Мы будем стремиться к совершенству любой ценой."
-tr_plentiful_biogenesis_adopt: "Традиции биогенеза"
+tr_plentiful_biogenesis_adopt: "Традиции биоэволюции"
 tr_plentiful_biogenesis_adopt_desc: "$tradition_plentiful_biogenesis_desc$\n\n$tr_plentiful_biogenesis_adopt_effect$\n\n$tr_plentiful_biogenesis_finish_effect$"
-tr_plentiful_biogenesis_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$mod_category_biology_research_speed_mult$§! увеличивается на §G20%§!."
-tr_plentiful_biogenesis_finish: "Традиции биогенеза завершены"
-tr_plentiful_biogenesis_finish_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_biogenesis_adopt$, §Y$species_trait_points_add$§! увеличиваются на §G3§!, а §Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§! уменьшается на §G20%§!. Помимо этого, §Y$MOD_PLANET_HOUSING_ADD$§! и §Hвакансии фермеров§! увеличиваются на §G1§! в сельскохозяйственном районе.\n"
+tr_plentiful_biogenesis_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$mod_category_biology_research_speed_mult$§! увеличивается на §G+20%§!."
+tr_plentiful_biogenesis_finish: "Традиции биоэволюции завершены"
+tr_plentiful_biogenesis_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nЕсли приняты все $tr_plentiful_biogenesis_adopt$, §Y$species_trait_points_add$§! увеличиваются на §G3§!, а §Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§! уменьшается на §G20%§!. Помимо этого, §Y$MOD_PLANET_HOUSING_ADD$§! и §Hвакансии фермеров§! увеличиваются на §G1§! в сельскохозяйственном районе.\n\n"
 tr_plentiful_biogenesis_1: "Эволюционная конвергенция"
 tr_plentiful_biogenesis_1_desc: "§Y$mod_planet_pops_organics_food_upkeep_mult$§! снижается на §G15%§!.\n§Y$mod_planet_livestock_food_produces_add$§! повышается на §G6§!."
 tr_plentiful_biogenesis_1_delayed: "Специализированное население обладает намного лучшей потребительской эффективностью. Инъекция гормонов ещё никому не повредила."
@@ -208,7 +193,7 @@ tr_plentiful_biogenesis_3: "Частичное терраформировани�
 tr_plentiful_biogenesis_3_desc: "§HПланетарное решение:§! $plentiful_traditions_partial_terraforming$, увеличивающее производство пищи с шансом создать дополнительные излишки £food §Yпищи§! и дающее дополнительный §G10%§! бонус к производству §Yпищи§! ценой использования £influence §Yвлияния§!."
 tr_plentiful_biogenesis_3_delayed: "Любое свободное пространство может быть использовано для производства продуктов питания ... ЛЮБОЕ!"
 tr_plentiful_biogenesis_4: "Прививочные лаборатории"
-tr_plentiful_biogenesis_4_desc: "§HСооружение:§! £building  $building_plentiful_traditions_biogenesis_lab$\nУскоряет £society  §Yсоциологические исследования§!. Уникально для планеты. \n\nТребуется технология £physics£ §M$tech_basic_science_lab_3$§!. \nТребуется технология £engineering£ §M$tech_mine_exotic_gases$§!."
+tr_plentiful_biogenesis_4_desc: "§HUnlocks Building:§! £building  $building_plentiful_traditions_biogenesis_lab$, a planet unique building that increases the planet's £society  §YSociety§! output. \n\nТребуется технология £physics£ §M$tech_basic_science_lab_3$§!. \nТребуется технология £engineering£ §M$tech_mine_exotic_gases$§!."
 tr_plentiful_biogenesis_4_delayed: "Наши граждане размышляют о необходимости дальнейшего улучшения их клеток."
 tr_plentiful_biogenesis_5: "Гормональная терапия"
 tr_plentiful_biogenesis_5_desc: "£society  §YСоциологические исследования§! ускоряются на §G15%§!."
@@ -218,7 +203,7 @@ tr_plentiful_biogenesis_machine_1_desc: "§Y$mod_planet_pop_assemblers_alloys_up
 tr_plentiful_biogenesis_machine_1_delayed: "Специализированные сенсуалисты гораздо лучше понимают, что такое культивируемая еда. Инъекция гормонов никогда никому не вредила. И мы также можем учиться на ошибках органики, копировать и оптимизировать процесс их воспроизведения, в том числе и для нас."
 tr_plentiful_biogenesis_lithoids_1: "Эволюционная конвергенция"
 tr_plentiful_biogenesis_lithoids_1_desc: "§Y$mod_planet_pop_assemblers_alloys_upkeep_mult$§! снижается на §G-15%§! и §Y$mod_planet_livestock_minerals_produces_add$§! увеличивается на §G3§!."
-tr_plentiful_biogenesis_lithoids_1_delayed: "Специализированные виды имеют гораздо лучшую эффективность потребления. Инъекция гормонов никогда никому не вредила."
+tr_plentiful_biogenesis_lithoids_1_delayed: "Специализированное население обладает намного лучшей потребительской эффективностью. Инъекция гормонов ещё никому не повредила."
 building_plentiful_traditions_biogenesis_lab: "Лаборатория биогенеза"
 building_plentiful_traditions_biogenesis_lab_desc: "Лаборатория, в которой помимо прочего присутствует множество прозрачных резервуаров с живыми существами, столь не похожими друг на друга, словно каждое из них было создано для определённой цели."
 casus_belli_cb_pt_inflicted_genes: "§YВнедрение§!"
@@ -237,15 +222,15 @@ modifier_plentiful_traditions_inflicted_genes_desc: "В нашей импери�
 modifier_plentiful_traditions_partial_terraforming: "Частичное терраформирование"
 modifier_plentiful_traditions_partial_terraforming_desc: "Наша планета получает временный бонус к производству £food §Gпищи§!."
 plentiful_traditions_partial_terraforming: "§GЧастичное терраформирование§!"
-plentiful_traditions_partial_terraforming_desc: "Это планетарное решение улучшает производство £food §пищи§!, с шансом её создания излишек. Добавляет временный бонус в §G10%§! к производству §Yпищи§! ценой использования £influence §Yвлияния§!.\n\n"
+plentiful_traditions_partial_terraforming_desc: "Это планетарное решение улучшает производство £food §Yпищи§!, с шансом создания излишек. Добавляет временный бонус в §G10%§! к производству §Yпищи§! ценой использования £influence §Yвлияния§!.\n\n"
 plentiful_traditions_partial_terraforming_effects_short: "Даёт дополнительную £food §Yпищу§! и временный бонус в §G10%§! к её производству.\n\n"
-tradition_plentiful_faith: "Вера"
+tradition_plentiful_faith: "Теология"
 tradition_plentiful_faith_desc: "Наша вера ведёт нас всё дальше. Истина где-то рядом, и мы должны избрать верный путь."
-tr_plentiful_faith_adopt: "Традиции веры"
+tr_plentiful_faith_adopt: "Традиции теологии"
 tr_plentiful_faith_adopt_desc: "$tradition_plentiful_faith_desc$\n\n$tr_plentiful_faith_adopt_effect$\n\n$tr_plentiful_faith_finish_effect$"
 tr_plentiful_faith_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n£happiness  §Y$MOD_POP_HAPPINESS$§! £pop  поселений на недавно завоёванных планетах увеличивается на §G5%§!, а §Y$MOD_PLANET_STABILITY_ADD$§! повышается на §G5§! на §Y10§! лет."
-tr_plentiful_faith_finish: "Традиции веры завершены"
-tr_plentiful_faith_finish_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_faith_adopt$ наше £influence §Y$mod_country_base_influence_produces_add$§! увеличивается на §G+1§!.\n\n§HСооружение:§! £building  $building_plentiful_traditions_house_of_prayer$\nУвеличивает производство £unity единства, §Y$mod_pop_ethic_spiritualist_attraction_mult$§!, а также рост £influence  §Yвлияния§! империи. Уникально для империи."
+tr_plentiful_faith_finish: "Традиции теологии завершены"
+tr_plentiful_faith_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nПринятие всех $tr_plentiful_faith_adopt$ увеличивает наше £influence §Y$mod_country_base_influence_produces_add$§! на §G+1§!\n\n§HUnlocks Building:§! £building  $building_plentiful_traditions_house_of_prayer$, an empire unique building that increases the planet's £unity  §YUnity§!, §Y$mod_pop_ethic_spiritualist_attraction_mult$§! and the empire's £influence  §YInfluence§! production."
 tr_plentiful_faith_1: "Сила разума"
 tr_plentiful_faith_1_desc: "§Y$MOD_PLANET_SENSOR_RANGE_ADD$§! и §Y$MOD_SHIP_SENSOR_RANGE_ADD$§! увеличиваются на §G2§!."
 tr_plentiful_faith_1_delayed: "Подконтрольный ум - сильный ум."
@@ -267,20 +252,20 @@ tr_plentiful_faith_adopt_machine: "Традиции инквизитории"
 tr_plentiful_faith_adopt_machine_desc: "$tradition_plentiful_faith_machine_desc$\n\n$tr_plentiful_faith_adopt_machine_effect$\n\n$tr_plentiful_faith_finish_machine_effect$"
 tr_plentiful_faith_adopt_machine_effect: "§E$TRADITIONS_ADOPT$:§!\n£happiness  §Y$MOD_POP_HAPPINESS$§! £pop  поселений на недавно завоёванных планетах увеличивается на §G5%§!, а §Y$MOD_PLANET_STABILITY_ADD$§! повышается на §G5§! на §Y10§! лет."
 tr_plentiful_faith_finish_machine: "Традиции инквизитории завершены"
-tr_plentiful_faith_finish_machine_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_faith_machine_adopt$, наше £influence  §Y$mod_country_base_influence_produces_add$§! увеличивается на §G1§!.\n\n§HСооружение:§! £building  §Y$building_plentiful_traditions_citadel_of_motion$,§!\nУвеличивает производство £unity  §Yединства§!, а также рост £influence  §Yвлияния§! империи. Уникально для империи."
+tr_plentiful_faith_finish_machine_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nПринятие всех $tr_plentiful_faith_machine_adopt$ увеличивает наше £influence §Y$mod_country_base_influence_produces_add$§! на §G+1§!\n\n§HUnlocks Building:§! £building  $building_plentiful_traditions_citadel_of_motion$, an empire unique building that increases the planet's £unity  §YUnity§! and the empire's £influence  §YInfluence§! production."
 building_plentiful_traditions_house_of_prayer: "Дом молитвы"
 building_plentiful_traditions_house_of_prayer_desc: "Дом молитвы - важное духовное место, где люди могут собраться вместе для молитвы. Подобные сооружения существуют практически у каждого спиритуалистического сообщества галактики."
 building_plentiful_traditions_citadel_of_motion: "Цитадель движения"
 building_plentiful_traditions_citadel_of_motion_desc: "Цитадель движения является ключевым объектом, производящим централизованную обработку данных."
 modifier_plentiful_traditions_piety: "Благочестие"
 modifier_plentiful_traditions_piety_desc: "£pops  Поселения на этой планете внезапно стали более благочестивыми."
-tradition_plentiful_order: "Порядок"
+tradition_plentiful_order: "Постоянство"
 tradition_plentiful_order_desc: "В отсутствии порядка остаётся только хаос."
-tr_plentiful_order_adopt: "Традиции Порядка"
+tr_plentiful_order_adopt: "Традиции постоянства"
 tr_plentiful_order_adopt_desc: "$tradition_plentiful_order_desc$\n\n$tr_plentiful_order_adopt_effect$\n\n$tr_plentiful_order_finish_effect$"
-tr_plentiful_order_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§YПерезарядка экстренного сверхсветового манёвра§! ускоряется на §G25%§!.\n§Y$MOD_SHIP_SPEED_MULT$§! увеличивается на §G10%§!."
-tr_plentiful_order_finish: "Традиции порядка завершены"
-tr_plentiful_order_finish_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_order_adopt$, §Y$mod_megastructures_cost_mult$§! снижается на §G15%§!, а §Y$MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD$§! увеличиваются на §G1§!.\nУвеличивает §Y$MOD_COUNTRY_OCCUPATION_ARMIES_ADD$§! на 5.\n\n"
+tr_plentiful_order_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§YПерезарядка экстренного сверхсветового манёвра§! ускоряется на §G25%§! и §Y$MOD_SHIP_SPEED_MULT$§! увеличивается на §G10%§!."
+tr_plentiful_order_finish: "Традиции постоянства завершены"
+tr_plentiful_order_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nЕсли приняты все $tr_plentiful_order_adopt$, §Y$mod_megastructures_cost_mult$§! снижается на §G15%§!, а §Y$MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD$§! увеличиваются на §G1§!.\nУвеличивает §Y$MOD_COUNTRY_OCCUPATION_ARMIES_ADD$§! на 5.\n\n"
 tr_plentiful_order_1: "Бастион"
 tr_plentiful_order_1_desc: "§Y$MOD_SHIP_SHIELD_HP_MULT$§! увеличивается на §G15%§!, §Y$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$§! уменьшается на §G5%§!, а §Y$MOD_COUNTRY_STARBASE_CAPACITY_ADD$§! увеличивается на §G1§!."
 tr_plentiful_order_1_delayed: "Если полагаться только на наступление, за поворотом нас будет ожидать хаос. Мы должны опираться на нечто большее, чем мощное оружие, чтобы принести порядок во вселенную."
@@ -294,7 +279,7 @@ tr_plentiful_order_4: "Антагонизм"
 tr_plentiful_order_4_desc: "§Y$MOD_STARBASE_MODULE_BUILD_SPEED_MULT$§! и §Y$mod_category_statecraft_research_speed_mult$§! увеличиваются на §G15%§!."
 tr_plentiful_order_4_delayed: "Мы приветствуем любых противников порядка железным кулаком."
 tr_plentiful_order_5: "Внутренние работы"
-tr_plentiful_order_5_desc: "§Y$MOD_MEGASTRUCTURE_BUILD_SPEED_MULT$§! увеличивается на §G25%§!.\n\n§HМодуль звёздной базы:§! $sm_orbital_craftwork_headquarters$, модуль, который увеличивает производство £consumer_goods §YТМС§! на планетах системы.\n\n"
+tr_plentiful_order_5_desc: "§Y$MOD_MEGASTRUCTURE_BUILD_SPEED_MULT$§! увеличивается на §G25%§!.\n\n§HМодуль звёздной базы:§! $sm_orbital_craftwork_headquarters$, модуль, который увеличивает производство £consumer_goods §YТМС§! на планетах системы."
 tr_plentiful_order_5_delayed: "Наши инженеры, механики и другие благословлённые порядком граждане дают нашей империи огромное преимущество."
 sm_orbital_craftwork_headquarters: "Кварталы ремесленников"
 tech_plentiful_traditions_orbital_c_h: "Кварталы ремесленников"
@@ -302,9 +287,11 @@ tech_plentiful_traditions_orbital_c_h_desc: "Окончательная цент
 casus_belli_cb_pt_false_flag: "§YЛожный флаг§!"
 plentiful_traditions_false_flag: "§YЛожный флаг§!"
 war_goal_plentiful_traditions_false_flag: "§HЛожный флаг§!"
+war_goal_plentiful_traditions_false_flag_desc: "Наши силы специального назначения попытаются организовать атаку под ложным флагом где-нибудь в империи нашего врага, в результате чего $MOD_PLANET_STABILITY_ADD$ упадёт на §R15§! на §Y10§! лет."
 war_goal_plentiful_traditions_false_flag_header: "§HЛожный флаг§!"
 war_goal_plentiful_traditions_false_flag_subtext: "[parameter:country.GetName]"
 war_goal_plentiful_traditions_false_flag_tooltip_header: "$war_goal_plentiful_traditions_false_flag_header$"
+war_goal_plentiful_traditions_false_flag_tooltip_content: "Наши силы специального назначения попытаются организовать атаку под ложным флагом где-нибудь в империи [parameter:country.GetName], в результате чего $MOD_PLANET_STABILITY_ADD$ упадёт на §R15§! на §Y10§! лет."
 war_goal_plentiful_traditions_false_flag_tooltip_proper_header: "$war_goal_plentiful_traditions_false_flag_header$"
 war_goal_plentiful_traditions_false_flag_tooltip_proper_content: "$war_goal_plentiful_traditions_false_flag_tooltip_content$"
 war_goal_plentiful_traditions_false_flag_no_planets: "Все планеты империи будут переданы."
@@ -313,21 +300,23 @@ modifier_plentiful_traditions_false_flag_desc: "$minor_terrorist_action_desc$"
 casus_belli_cb_pt_sabotage: "§YСаботаж§!"
 plentiful_traditions_sabotage: "§YСаботаж§!"
 war_goal_plentiful_traditions_sabotage: "§HСаботаж§!"
+war_goal_plentiful_traditions_sabotage_desc: "Наши шпионы попытаются саботировать нашего врага, снизив скорость их исследований на §R15%§! на §Y10§! лет."
 war_goal_plentiful_traditions_sabotage_header: "§HСаботаж§!"
 war_goal_plentiful_traditions_sabotage_subtext: "[parameter:country.GetName]"
 war_goal_plentiful_traditions_sabotage_tooltip_header: "$war_goal_plentiful_traditions_sabotage_header$"
+war_goal_plentiful_traditions_sabotage_tooltip_content: "Наши шпионы попытаются саботировать [parameter:country.GetName], снижение скорости их исследований на §R-15%§! на §Y10§! лет."
 war_goal_plentiful_traditions_sabotage_tooltip_proper_header: "$war_goal_plentiful_traditions_sabotage_header$"
 war_goal_plentiful_traditions_sabotage_tooltip_proper_content: "$war_goal_plentiful_traditions_sabotage_tooltip_content$"
 war_goal_plentiful_traditions_sabotage_no_planets: "Все планеты империи будут переданы."
 modifier_plentiful_traditions_sabotage: "Саботаж"
 modifier_plentiful_traditions_sabotage_desc: "Другая империя устроила у нас саботаж."
-tradition_plentiful_malice: "Устрашение"
+tradition_plentiful_malice: "Жестокость"
 tradition_plentiful_malice_desc: "Страх - отличная почва для семян раздора. Давайте же пиршествовать чужими страданиями."
-tr_plentiful_malice_adopt: "Традиции устрашения"
+tr_plentiful_malice_adopt: "Традиции жестокости"
 tr_plentiful_malice_adopt_desc: "$tradition_plentiful_malice_desc$\n\n$tr_plentiful_malice_adopt_effect$\n\n$tr_plentiful_malice_finish_effect$"
 tr_plentiful_malice_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_INSULT_EFFICIENCY$§! увеличивается на §G50%§!. £happiness  §Y$MOD_POP_HAPPINESS$§! §Yрабов§! на территории нашей империи увеличивается на §G5%§!, а затраты на потребляемые ими §Y$CONSUMER_GOODS$§! снижаются на §G20%§!."
-tr_plentiful_malice_finish: "Традиции устрашения завершены"
-tr_plentiful_malice_finish_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_malice_adopt$, разблокируется\n§HУказ:§! §YЗлой умысел§!\nУвеличивает наш §Y$mod_damage_vs_country_type_fallen_empire_mult$ §!и§Y $mod_damage_vs_country_type_awakened_fallen_empire_mult$§! на §G15%§!.\n\n§HМодуль звёздной базы:§! $sm_orbital_refinery_station$, модуль, который увеличивает производство £alloys §Yсплавов§! на планетах системы.\n\n"
+tr_plentiful_malice_finish: "Традиции жестокости завершены"
+tr_plentiful_malice_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nПринятие всех $tr_plentiful_malice_adopt$ открывает эдикт §YЗлое намерение§!, увеличивающий наши §Y$mod_damage_vs_country_type_fallen_empire_mult$§! и §Y$mod_damage_vs_country_type_awakened_fallen_empire_mult$§! на §G+15%§!\n\n§HUnlocks Spaceport Module:§! $sm_orbital_refinery_station$, a spaceport module that adds to the planets and gathers £alloys §YAlloys§! production.\n\n"
 tr_plentiful_malice_1: "Отчаяние"
 tr_plentiful_malice_1_desc: "§Y$mod_pop_cat_slave_happiness$§! увеличено на §G20%§!."
 tr_plentiful_malice_1_delayed: "Даже наши рабы лишены надежды. Превосходно!"
@@ -343,8 +332,8 @@ tr_plentiful_malice_4_delayed: "Мы будем медленно читать и
 tr_plentiful_malice_5: "Злость"
 tr_plentiful_malice_5_desc: "§YРабы§! на завоёванных планетах больше не получают модификатор §YНедавно покорённые§!, снижающий их £happiness  §Y$MOD_POP_HAPPINESS$§!. Кроме того, у нас теперь есть доступ к зданию §Y$building_plentiful_traditions_advanced_slave_processing$§!. \n\nТребуется технология £society£ §M$tech_neural_implants$§!."
 tr_plentiful_malice_5_delayed: "Недобросовестные действия, иногда прерываемые злостью."
-sm_orbital_refinery_station: "Станция переработки"
-tech_plentiful_traditions_orbital_r_s: "Станция переработки"
+sm_orbital_refinery_station: "Перерабатывающая станция"
+tech_plentiful_traditions_orbital_r_s: "Перерабатывающая станция"
 tech_plentiful_traditions_orbital_r_s_desc: "На этом заводе по переработке руды используются особые способы для превращения руды в сплавы."
 modifier_plentiful_traditions_slave1: "Выхода нет"
 edict_plentiful_traditions_malicious_intent: "Злой умысел"
@@ -381,8 +370,8 @@ tr_plentiful_aspiration_adopt: "Традиции стремления"
 tr_plentiful_aspiration_adopt_desc: "$tradition_plentiful_aspiration_desc$\n\n$tr_plentiful_aspiration_adopt_effect$\n\n$tr_plentiful_aspiration_finish_effect$"
 tr_plentiful_aspiration_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\nПри строительстве §Yдобывающей станции§!, которая производит £energy §Yэнергию§!, мы разово получаем дополнительную £energy §Yэнергию§! в §Y0.5§! кратном размере от её ежемесячного прироста. Эффект срабатывает только один раз для каждого месторождения."
 tr_plentiful_aspiration_finish: "Традиции стремления завершены"
-tr_plentiful_aspiration_finish_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_aspiration_adopt$, производство £trade_value£ §Y$MOD_TRADE_VALUE_MULT$§! от наших £pop поселений увеличивается на §G5%§!.\n\n§HСооружение:§! £building  §Y$building_plentiful_traditions_trading_terminal$§!\nПозволяет использовать планетарный указ §Y$plentiful_traditions_plentiful_deeds$§!."
-tr_plentiful_aspiration_1: "Харизматичность"
+tr_plentiful_aspiration_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nПринятие всех $tr_plentiful_aspiration_adopt$ увеличивает £trade_value£ §Y$MOD_TRADE_VALUE_MULT$§! производство наших £pop поселений на §G+5%§!\n\n§HUnlocks Building:§! £building  $building_plentiful_traditions_trading_terminal$, which allows the use of the §Y$plentiful_traditions_plentiful_deeds$§! planetary edict."
+tr_plentiful_aspiration_1: "Харизматик"
 tr_plentiful_aspiration_1_desc: "§Y$MOD_COUNTRY_BORDER_FRICTION_MULT$§! уменьшается на §G25%§!.\n£opinion  §YОтношение§! к империи улучшается на §G20§!."
 tr_plentiful_aspiration_1_delayed: "В галактике, полной опасностей, иногда дружеский жест и некоторая харизма - это разница между войной и миром."
 tr_plentiful_aspiration_2: "Доверие"
@@ -399,8 +388,9 @@ tr_plentiful_aspiration_5_desc: "§Y$MOD_COUNTRY_TRUST_GROWTH$§! увеличи
 tr_plentiful_aspiration_5_delayed: "Помните прошлые затеи и добрые дела, потому что они будут помнить вас."
 tr_plentiful_aspiration_gestalt_adopt: "Стремление"
 tr_plentiful_aspiration_gestalt_adopt_desc: "$tradition_plentiful_aspiration_desc$\n\n$tr_plentiful_aspiration_gestalt_adopt_effect$\n\n$tr_plentiful_aspiration_gestalt_finish_effect$"
+tr_plentiful_aspiration_gestalt_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\nПри строительстве §Yдобывающей станции§!, которая производит £energy §Yэнергию§!, мы разово получаем дополнительную £energy §Yэнергию§! в §Y0.5§! кратном размере от её ежемесячного прироста. Эффект срабатывает только один раз для каждого месторождения."
 tr_plentiful_aspiration_gestalt_finish: "Традиции стремления завершены"
-tr_plentiful_aspiration_gestalt_finish_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_aspiration_adopt$, §Y$mod_planet_jobs_complex_drone_produces_mult$§! £pop_cat_complex_drone£ увеличивается на §G+10%§!.\n\n"
+tr_plentiful_aspiration_gestalt_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nЕсли приняты все $tr_plentiful_aspiration_adopt$, §Y$mod_planet_jobs_complex_drone_produces_mult$§! £pop_cat_complex_drone£ увеличивается на §G+10%§!.\n\n"
 building_plentiful_traditions_trading_terminal: "Торговый терминал"
 building_plentiful_traditions_trading_terminal_desc: "Торговый терминал служит центром межгалактической торговли, обеспечивающим большой объём сделок для всех участников.\n\nПозволяет использовать планетарный указ §YМножество дел§!."
 building_plentiful_traditions_advanced_trading_terminal: "Улучшенный торговый терминал"
@@ -433,7 +423,7 @@ tr_plentiful_affinity_adopt: "Традиции взаимности"
 tr_plentiful_affinity_adopt_desc: "$tradition_plentiful_affinity_desc$\n\n$tr_plentiful_affinity_adopt_effect$\n\n$tr_plentiful_affinity_finish_effect$"
 tr_plentiful_affinity_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_PLANET_IMMIGRATION_PULL_ADD$§! увеличивается на §G100%§!."
 tr_plentiful_affinity_finish: "Традиции взаимности завершены"
-tr_plentiful_affinity_finish_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_affinity_adopt$, §Y$mod_planet_jobs_produces_mult$§! увеличиваются на §G0.8%§! за каждую проживающую на планетах расу, не считая первые §Y2§!. Эффект суммируется до §Y10§! раз и может достигать §G8%§!./n В дополнение §Y$MOD_PLANET_HOUSING_ADD$§! и §Hвакансии мастеров§! увеличиваются на §G1§! в $district_arcology_civilian_industry$ и $district_industrial$."
+tr_plentiful_affinity_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nЕсли приняты все $tr_plentiful_affinity_adopt$, §Y$mod_planet_jobs_produces_mult$§! увеличиваются на §G0.8%§! за каждую проживающую на планетах расу, не считая первые §Y2§!. Эффект суммируется до §Y10§! раз и может достигать §G8%§!./n В дополнение §Y$MOD_PLANET_HOUSING_ADD$§! и §Hвакансии мастеров§! увеличиваются на §G1§! в $district_arcology_civilian_industry$ и $district_industrial$."
 tr_plentiful_affinity_1: "Терпимость"
 tr_plentiful_affinity_1_desc: "§Y$MOD_TRADITION_COST_EMPIRE_SIZE_MULT$§! уменьшается на §G10%§!.\n£influence  §Y$MOD_COUNTRY_FACTION_INFLUENCE_ADD$§! увеличивается на §G1§!."
 tr_plentiful_affinity_1_delayed: "Терпимость по отношению к другим - вот что отличает нас от наших врагов."
@@ -447,7 +437,7 @@ tr_plentiful_affinity_4: "Землепроходцы"
 tr_plentiful_affinity_4_desc: "Наш £physics  £society  £engineering §Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§! увеличивается на §G3%§!. Когда наша империя находится в состоянии §Gмира§!, этот эффект удваивается и составляет §G6%§!."
 tr_plentiful_affinity_4_delayed: "Открытие новых миров сближает нас, и побуждает делиться своими мыслями и знанием."
 tr_plentiful_affinity_5: "Единая страсть"
-tr_plentiful_affinity_5_desc: "§HСооружение:§! £building  §Y$building_plentiful_traditions_tower_of_affinity$§!\nУскоряет £society  §Yсоциологические исследования§! и повышает §Y$MOD_PLANET_IMMIGRATION_PULL_ADD$§!. Уникально для планеты. \n\nТребуется технология £society£ §M$tech_cultural_heritage$§!."
+tr_plentiful_affinity_5_desc: "§HUnlocks Building:§! £building  $building_plentiful_traditions_tower_of_affinity$, a planet unique building that increases the planet's £society  §YSociety§! output and §Y$MOD_PLANET_IMMIGRATION_PULL_ADD$§!. \n\nТребуется технология £society£ §M$tech_cultural_heritage$§!."
 tr_plentiful_affinity_5_delayed: "Новая дружба должна зарождаться в бескрайнем космосе."
 modifier_plentiful_traditions_trial: "Пробы и ошибки"
 modifier_plentiful_traditions_pathfinder: "Мирный первопроходец"
@@ -480,9 +470,9 @@ tr_plentiful_experimentalism_adopt: "Традиции экспериментал
 tr_plentiful_experimentalism_adopt_desc: "$tradition_plentiful_experimentalism_desc$\n\n$tr_plentiful_experimentalism_adopt_effect$\n\n$tr_plentiful_experimentalism_finish_effect$"
 tr_plentiful_experimentalism_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\nКогда наша империя находится в состоянии §Gмира§!, наша §Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§! увеличивается на §G10%§!, а в состоянии §Rвойны§! - уменьшается на §R15%§!."
 tr_plentiful_experimentalism_finish: "Традиции экспериментализма завершены"
-tr_plentiful_experimentalism_finish_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_experimentalism_adopt$, при повышении уровня наших §Yучёных§! мы получаем дополнительную £energy  §Yэнергию§! в §Y1§! кратном размере от её ежемесячного прироста."
+tr_plentiful_experimentalism_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nЕсли приняты все $tr_plentiful_experimentalism_adopt$, при повышении уровня наших §Yучёных§! мы получаем дополнительную £energy  §Yэнергию§! в §Y1§! кратном размере от её ежемесячного прироста."
 tr_plentiful_experimentalism_1: "Хранители знаний"
-tr_plentiful_experimentalism_1_desc: "§HСооружение:§! £building  §Y$building_plentiful_traditions_experimental_weapons_facility$§!\nУскоряет £physics  §Yфизические исследования§!. Уникально для планеты. \n\nТребуется технология £physics£ §M$tech_basic_science_lab_3$§!. \nТребуется технология £engineering£ §M$tech_mine_rare_crystals$§!."
+tr_plentiful_experimentalism_1_desc: "§HUnlocks Building:§! £building  $building_plentiful_traditions_experimental_weapons_facility$, a planet unique building that increases the planet's  £physics  §YPhysics§! output. \n\nТребуется технология £physics£ §M$tech_basic_science_lab_3$§!. \nТребуется технология £engineering£ §M$tech_mine_rare_crystals$§!."
 tr_plentiful_experimentalism_1_delayed: "Наша империя требует записи и анализа всех известных фактов."
 tr_plentiful_experimentalism_2: "Пробы и ошибки"
 tr_plentiful_experimentalism_2_desc: "§YМаксимальный уровень лидера§! увеличивается на §G1§!.\nКаждый раз, когда один из наших §Yучёных§! поднимает свой §Yуровень§!, §Y$MOD_LEADER_SPECIES_EXP_GAIN$§! повышается на §G10%§! на §Y10§! лет. Также, теперь §Y$MOD_LEADER_SKILL_LEVELS$§! увеличивается на §G1§!."
@@ -511,9 +501,9 @@ tr_plentiful_mutagenesis_adopt: "Традиции мутагенеза"
 tr_plentiful_mutagenesis_adopt_desc: "$tradition_plentiful_mutagenesis_desc$\n\n$tr_plentiful_mutagenesis_adopt_effect$\n\n$tr_plentiful_mutagenesis_finish_effect$"
 tr_plentiful_mutagenesis_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_GROWTH_SPEED$§! увеличивается на §G20%§!."
 tr_plentiful_mutagenesis_finish: "Традиции мутагенеза завершены"
-tr_plentiful_mutagenesis_finish_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_mutagenesis_adopt$, геноцид £pop  поселений чужаков приносит дополнительную £food  §Yпищу§!. Эффект §Y$MOD_TRADITION_COST_EMPIRE_SIZE_MULT$§! ослабевает на §G15%§!."
+tr_plentiful_mutagenesis_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nЕсли приняты все $tr_plentiful_mutagenesis_adopt$, геноцид £pop  поселений чужаков приносит дополнительную £food  §Yпищу§!. Эффект §Y$MOD_TRADITION_COST_EMPIRE_SIZE_MULT$§! ослабевает на §G15%§!."
 tr_plentiful_mutagenesis_1: "Наводнение"
-tr_plentiful_mutagenesis_1_desc: "§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§! повышается на §G10%§!."
+tr_plentiful_mutagenesis_1_desc: "§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§! увеличена на §G10%§!."
 tr_plentiful_mutagenesis_1_delayed: "Другие миры только того и ждут, как мы наградим их полезной мутацией."
 tr_plentiful_mutagenesis_2: "Глубокая нора"
 tr_plentiful_mutagenesis_2_desc: "§Y$MOD_PLANET_ORBITAL_BOMBARDMENT_DAMAGE$§! уменьшается на §G25%§!. §Y$MOD_COUNTRY_ADMIN_CAP_MULT$§! увеличивается на §G10%§!."
@@ -538,11 +528,11 @@ building_plentiful_traditions_clone_vats: "Центр клонирования"
 building_plentiful_traditions_clone_vats_desc: "В идеальном механическом мире иногда бывает полезно иметь вокруг себя несколько органических существ, будь то домашние животные, поставщики энергии или ассимилированные сограждане."
 tradition_plentiful_industry: "Промышленность"
 tradition_plentiful_industry_desc: "Чтобы добиться успеха, мы должны сосредоточиться на добыче полезных ископаемых, переработке сырья и доставке грузов, а не тратить силы и ресурсы на особую элегантность."
-tr_plentiful_industry_adopt: "Традиции промышленности"
+tr_plentiful_industry_adopt: "Традиции индустриализации"
 tr_plentiful_industry_adopt_desc: "$tradition_plentiful_industry_desc$\n\n$tr_plentiful_industry_adopt_effect$\n\n$tr_plentiful_industry_finish_effect$"
 tr_plentiful_industry_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n£engineering  §Y$mod_category_industry_research_speed_mult$§! увеличивается на §G15%§! и §Y$mod_station_gatherers_minerals_produces_mult$§! повышается на §G10%§!.\n\n§HМодуль космической станции:§! §Y$sm_orbital_fracking_cannon$§!, который увеличивает производство £minerals  §Yминералов§! в системе."
-tr_plentiful_industry_finish: "Традиции промышленности завершены"
-tr_plentiful_industry_finish_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_industry_adopt$, открываются следующие возможности:\n\n§HПланетарный указ:§! $edict_plentiful_traditions_ionized_excavation$\nПредоставляет находящимся на поверхности §Yдобывающим предприятиям§! некоторый шанс обнаружения дополнительных месторождений £minerals  §Yминералов§! и временно повышающий их производительность на §G10%§!, но требующий затрат £influence  §Yвлияния§!.\n\n§HПланетарный указ:§! $edict_plentiful_traditions_harvest_erupt$\nВызывает катастрофическое извержение, уничтожающее хорошо развитую колонию на поверхности и высвобождающее месторождения £minerals  §Yминералов§!, что обычно залегают глубоко в ядре."
+tr_plentiful_industry_finish: "Традиции индустриализации завершены"
+tr_plentiful_industry_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \n§HUnlocks Planetary Edict:§! $plentiful_traditions_ionized_excavation$, boosting the planet's mining facilities with a chance of adding additional £minerals  §YMinerals§! deposits and gives a temporary §G+10%§! bonus to their mineral production at the cost of £influence  §YInfluence§!.\n\n§HUnlocks Planetary Edict:§! $plentiful_traditions_harvest_erupt$, detonates a well-stablished colony to erupt from within, destroying the colony and the planet completely to reveal £minerals  §YMineral§! deposits that are often deeply buried within a planet's core."
 tr_plentiful_industry_1: "Гидромагнитное бурение"
 tr_plentiful_industry_1_desc: "§Y$mod_station_gatherers_cost_mult$§! уменьшается на §G15%§!."
 tr_plentiful_industry_1_delayed: "Наши инженеры и физики разработали новые проекты, которые должны сделать добычу полезных ископаемых более экономичной."
@@ -580,7 +570,7 @@ plentiful_traditions_harvest_pedict.1.b: "Взорвите §Yсреднюю§! 
 plentiful_traditions_harvest_pedict.1.c: "Взорвите §Yмалую§! планету, чтобы высвободить её £minerals  §Yминералы§!!"
 plentiful_traditions_harvest_pedict.1.d: "Давайте оставим планету §Y[From.GetName]§! как есть."
 modifier_plentiful_traditions_ionized_excavation: "Ионизированная добыча"
-modifier_plentiful_traditions_ionized_excavation_desc: "Наша планета получает временную прибавку к добыче  §Yминералов§!. "
+modifier_plentiful_traditions_ionized_excavation_desc: "Наша планета получает временную прибавку к добыче  §Yминералов§!."
 plentiful_traditions_harvest_pedict.4.title: "Планетарное извержение на §Y[From.GetName]§"
 plentiful_traditions_harvest_pedict.4.desc: "Наша колония на §Y[From.GetName]§! была уничтожена. Месторождения теперь доступны для эксплуатации!"
 plentiful_traditions_harvest_pedict.4.a: "Превосходно!"
@@ -590,12 +580,12 @@ tr_plentiful_kleptocracy_adopt: "Традиции клептократии"
 tr_plentiful_kleptocracy_adopt_desc: "$tradition_plentiful_kleptocracy_desc$\n\n$tr_plentiful_kleptocracy_adopt_effect$\n\n$tr_plentiful_kleptocracy_finish_effect$"
 tr_plentiful_kleptocracy_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_FIRE_RATE_MULT$§! увеличивается на §G8%§!."
 tr_plentiful_kleptocracy_finish: "Традиции клептократии завершены"
-tr_plentiful_kleptocracy_finish_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_kleptocracy_adopt$, §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§! увеличивается на §G25%§!.\nУвеличивает §Y$MOD_PIRACY_SUPPRESSION_MULT$§! на §G10%§!.\nВ дополнение, §Y$MOD_PLANET_HOUSING_ADD$§! и §Hвакансии техников§! увеличиваются на §G1§! в $district_generator$."
+tr_plentiful_kleptocracy_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nЕсли приняты все $tr_plentiful_kleptocracy_adopt$, §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§! увеличивается на §G25%§!.\nУвеличивает §Y$MOD_PIRACY_SUPPRESSION_MULT$§! на §G10%§!.\nКроме того, §Y$MOD_PLANET_HOUSING_ADD$§! и §Hвакансии техника§! увеличиваются на §G+1§! в $district_generator$."
 tr_plentiful_kleptocracy_1: "Сфабрикованные притязания"
 tr_plentiful_kleptocracy_1_desc: "§Y$MOD_COUNTRY_CLAIM_INFLUENCE_COST_MULT$§! уменьшается на §G10%§!. §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§! увеличивается на §G20§!."
 tr_plentiful_kleptocracy_1_delayed: "В неспокойные времена многие империи зачастую вынуждены терпеть серьёзные санкции. Некоторые больше, чем другие."
 tr_plentiful_kleptocracy_2: "Кредитные акулы"
-tr_plentiful_kleptocracy_2_desc: "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! увеличивается на §G10%§!.\n\n§HМодуль космической станции:§! $sm_orbital_trading_beacon$\nУвеличивает производство £energy  §Yэнергии§! на планете."
+tr_plentiful_kleptocracy_2_desc: "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! increased by §G+10%§!.\n\n§HUnlocks Spaceport Module:§! $sm_orbital_trading_beacon$, a spaceport module that adds to the planets and gathers £energy  §YEnergy§! production."
 tr_plentiful_kleptocracy_2_delayed: "Чтобы всё было сделано эффективно, иногда достаточно всего лишь перешагнуть грань закона."
 tr_plentiful_kleptocracy_3: "Безжалостная жадность"
 tr_plentiful_kleptocracy_3_desc: "§HПланетарный указ:§! §Y$plentiful_traditions_overcharge$§!\nПредоставляет находящимся на поверхности §Yэлектростанциям§! некоторый шанс обнаружения дополнительных запасов £energy  §Yэнергии§! и временно повышает её выработку на §G10%§!, но требует затрат £influence  §Yвлияния§!."
@@ -604,7 +594,7 @@ tr_plentiful_kleptocracy_4: "Партнеры в преступлении"
 tr_plentiful_kleptocracy_4_desc: "£influence  §Y$mod_diplomacy_upkeep_mult$§! снижается на §G15%§!\n§Y$MOD_COUNTRY_TRUST_GROWTH$§! повышается на §G15%§!\n£opinion  §YОтношение§! к империи улучшается на §G10§!."
 tr_plentiful_kleptocracy_4_delayed: "Для эффективности торговых соглашений далеко не всегда требуется надлежащее оформление. Иногда достаточно потратить немного кредитов, чтобы убедить нужных людей."
 tr_plentiful_kleptocracy_5: "Зловещие операторы"
-tr_plentiful_kleptocracy_5_desc: "§Y$MOD_STARBASE_SHIPYARD_BUILD_SPEED_MULT$§! увеличивается на §G15%§!.\n\n§HСооружение:§! £building  §Y$building_plentiful_traditions_syndicate_quarters$§!\nУвеличивает §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§! империи. Уникально для планеты.\n\n"
+tr_plentiful_kleptocracy_5_desc: "§Y$MOD_STARBASE_SHIPYARD_BUILD_SPEED_MULT$§!  увеличивается на §G15%§!.\n\n§HUnlocks Building:§! £building  $building_plentiful_traditions_syndicate_quarters$, a planet unique building that provides the empire with a greater amount of §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!.\n\n"
 tr_plentiful_kleptocracy_5_delayed: "Формальности - это замечательно, но бизнес лучше всего делается тогда, когда движение кредитов совершается "за кулисами" и нигде не документируется."
 building_plentiful_traditions_syndicate_quarters: "Казармы синдиката"
 building_plentiful_traditions_syndicate_quarters_desc: "Казармы синдиката увеличивают вместимость флотилии нашей империи."
@@ -613,16 +603,18 @@ tech_plentiful_traditions_orbital_trading_beacon: "Орбитальный тор
 tech_plentiful_traditions_orbital_trading_beacon_desc: "Достижения в торговых технологиях позволяют более эффективно распоряжаться энергией, вырабатываемой нашими энергосетями."
 triggered_opinion_tr_plentiful_kleptocracy_4: "Клептократы"
 plentiful_traditions_overcharge: "§YПерегрузка§!"
-plentiful_traditions_overcharge_desc: "Этот планетарный указ предоставляет находящимся на поверхности §Yэлектростанциям§! некоторый шанс обнаружения дополнительных запасов £energy  §Yэнергии§! на квадратах и временно повышает её выработку на §G10%§!, но требует затрат £influence  §Yвлияния§! в течение §Y10§! лет."
+plentiful_traditions_overcharge_desc: "Этот планетарный указ предоставляет находящимся на поверхности §Yэлектростанциям§! некоторый шанс обнаружения дополнительных запасов £energy  §Yэнергии§! на квадратах и временно повышает её выработку на §G10%§!, но требует затрат £influence  §Yвлияния§! в течение §Y10§! лет.\n\n"
 plentiful_traditions_overcharge_effects_short: "Дает дополнительную £energy §Yэнергию§! и даёт временный §G10%§! бонус к выработке энергии.\n\n"
 modifier_plentiful_traditions_overcharge: "Перегрузка"
-modifier_plentiful_traditions_overcharge_desc: "Наша планета получает временную прибавку к выработке  §Yэнергии§!. "
+modifier_plentiful_traditions_overcharge_desc: "Наша планета получает временную прибавку к выработке  §Yэнергии§!."
 casus_belli_cb_pt_embargo: "§YЭмбарго§!"
 plentiful_traditions_embargo: "§YЭмбарго§!"
 war_goal_plentiful_traditions_embargo: "§HЭмбарго§!"
+war_goal_plentiful_traditions_embargo_desc: "Наши контакты попытаются ввести эмбарго против нашего врага, увеличивая стоимость минералов для производства §Y$CONSUMER_GOODS$§! на §R20%§! на §Y10§! лет."
 war_goal_plentiful_traditions_embargo_header: "§HЭмбарго§!"
 war_goal_plentiful_traditions_embargo_subtext: "[parameter:country.GetName]"
 war_goal_plentiful_traditions_embargo_tooltip_header: "$war_goal_plentiful_traditions_embargo_header$"
+war_goal_plentiful_traditions_embargo_tooltip_content: "Наши контакты попытаются ввести эмбарго против [parameter:country.GetName], увеличивая стоимость минералов для производства §Y$CONSUMER_GOODS$§! на §R20%§! на §Y10§! лет."
 war_goal_plentiful_traditions_embargo_tooltip_proper_header: "$war_goal_plentiful_traditions_embargo_header$"
 war_goal_plentiful_traditions_embargo_tooltip_proper_content: "$war_goal_plentiful_traditions_embargo_tooltip_content$"
 war_goal_plentiful_traditions_embargo_no_planets: "Все планеты империи будут переданы."
@@ -634,7 +626,7 @@ tr_plentiful_anguish_adopt: "Традиции натиска"
 tr_plentiful_anguish_adopt_desc: "$tradition_plentiful_anguish_desc$\n\n$tr_plentiful_anguish_adopt_effect$\n\n$tr_plentiful_anguish_finish_effect$"
 tr_plentiful_anguish_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\nКаждый раз, когда мы изучаем военную §Yдоктрину§!, увеличивающую §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!, мы получаем постоянный модификатор, который снижает §Y$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$§! на §G4%§!. Эффект суммируется до §Y5§! раз и может достигать §G20%§!."
 tr_plentiful_anguish_finish: "Традиции натиска завершены"
-tr_plentiful_anguish_finish_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_anguish_adopt$, урон по §YПреторанцам§!, §YНезваным гостям§!, §YЗаблудшим§! и §YНеотступным§! увеличивается на §G15%§!, а геноцид £pop  поселений чужаков приносит дополнительное £influence  §Yвлияние§!."
+tr_plentiful_anguish_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nЕсли приняты все $tr_plentiful_anguish_adopt$, урон по §YПреторанцам§!, §YНезваным гостям§!, §YЗаблудшим§! и §YНеотступным§! увеличивается на §G15%§!, а геноцид £pop  поселений чужаков приносит дополнительное £influence  §Yвлияние§!."
 tr_plentiful_anguish_1: "Точная калибровка"
 tr_plentiful_anguish_1_desc: "§Y$MOD_SHIP_WEAPON_RANGE_MULT$§! увеличивается на §G10%§!."
 tr_plentiful_anguish_1_delayed: "Несмотря на сложность применения, оружие дальнего действия чрезвычайно эффективно и способно переломить ход сражения."
@@ -650,7 +642,7 @@ tr_plentiful_anguish_4_delayed: "Ведение военных действий 
 tr_plentiful_anguish_5: "Специальная тактика"
 tr_plentiful_anguish_5_desc: "Урон по §Yугасшим§! и §Yпробуждённым империям§! повышается на §G15%§!."
 tr_plentiful_anguish_5_delayed: "Сталкиваясь с более сильными противниками, мы должны применять специальную тактику, чтобы оставаться впереди."
-modifier_plentiful_traditions_enraged: "Разъярённость"
+modifier_plentiful_traditions_enraged: "Разгневанное"
 modifier_plentiful_traditions_enraged_desc: "Зачистить нарушителей."
 modifier_plentiful_traditions_doctrine1: "Доктрина флота I"
 modifier_plentiful_traditions_doctrine2: "Доктрина флота II"
@@ -663,7 +655,7 @@ tr_plentiful_defence_adopt: "Традиции обороны"
 tr_plentiful_defence_adopt_desc: "$tradition_plentiful_defence_desc$\n\n$tr_plentiful_defence_adopt_effect$\n\n$tr_plentiful_defence_finish_effect$"
 tr_plentiful_defence_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\nМы получаем возможность добавить ещё три §Y$MOD_STARBASE_DEFENSE_PLATFORM_CAPACITY_ADD$§! на наши звёздные базы за каждую традицию."
 tr_plentiful_defence_finish: "Традиции обороны завершены"
-tr_plentiful_defence_finish_effect: "§E$TRADITIONS_FINISH$:§!\nАрмии получают §G100§! §Y$MOD_ARMY_STARTING_EXPERIENCE_ADD$§!.\n§Y$mod_planet_structures_cost_mult$§! уменьшается на §G10%§!.\n§Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§! увеличивается на §G10%§!.\n\n"
+tr_plentiful_defence_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \nАрмии получают §G100§! §Y$MOD_ARMY_STARTING_EXPERIENCE_ADD$§!.\n§Y$mod_planet_structures_cost_mult$§! уменьшается на  §G+10%§!.\n§Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§! увеличивается на §G10%§!.\n\n"
 tr_plentiful_defence_1: "Подогнанные бронепластины"
 tr_plentiful_defence_1_desc: "§Y$MOD_SHIP_HULL_ADD$§! увеличивается на наших кораблях (Корвет - 100, Эсминец - 200, Крейсер - 500, Линкор - 800, Малая ОП - 500)."
 tr_plentiful_defence_1_delayed: "Для защиты от наших врагов важно оснащать наши корабли и защитные платформы дополнительными бронепластинами."
@@ -687,7 +679,7 @@ tr_plentiful_assault_adopt: "Традиции нападения"
 tr_plentiful_assault_adopt_desc: "$tradition_plentiful_assault_desc$\n\n$tr_plentiful_assault_adopt_effect$\n\n$tr_plentiful_assault_finish_effect$"
 tr_plentiful_assault_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_HULL_DAMAGE_MULT$§! увеличивается на §G10%§!, также увеличивается §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§! на §G10§!, а затем ещё на §G10%§!."
 tr_plentiful_assault_finish: "Традиции нападения завершены"
-tr_plentiful_assault_finish_effect: "§E$TRADITIONS_FINISH$:§!\n§Y$MOD_SHIP_SHIELD_DAMAGE_MULT$§! увеличивается на §G10%§!. §Y$mod_ships_upkeep_mult$§! уменьшается на §G10%§!.\n\n"
+tr_plentiful_assault_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \n§Y$MOD_SHIP_SHIELD_DAMAGE_MULT$§! увеличивается на §G10%§!.\n§Y$mod_ships_upkeep_mult$§! уменьшается на §G-10%§!.\n\n"
 tr_plentiful_assault_1: "Победа через движение"
 tr_plentiful_assault_1_desc: "§Y$MOD_SHIP_SPEED_MULT$§! увеличивается на §G15%§!."
 tr_plentiful_assault_1_delayed: "Мы должны окружить врага нашими войсками словно гигантскими клещами, а затем разом ударить по ним."
@@ -701,7 +693,7 @@ tr_plentiful_assault_4: "Лидеры на фронте"
 tr_plentiful_assault_4_desc: "§Y$MOD_LEADER_SKILL_LEVELS$§! и §Y$MOD_LEADER_RULER_SKILL_LEVELS$§! увеличиваются на §G1§!."
 tr_plentiful_assault_4_delayed: "Руководство с фронта является самой старой из всех форм руководства: командир активно участвует в сражениях на фронте и передает свои команды непосредственно лицам, находящимся под его руководством."
 tr_plentiful_assault_5: "Блицкриг"
-tr_plentiful_assault_5_desc: "§Y$MOD_SHIP_WEAPON_RANGE_MULT$§! увеличивается на §G20%§!.\n§Y$mod_ships_upkeep_mult$§! уменьшается на §G10%§!.\n§Y$MOD_SHIP_SPEED_MULT$§! увеличивается на §G15%§!"
+tr_plentiful_assault_5_desc: "§Y$MOD_SHIP_WEAPON_RANGE_MULT$§! увеличивается на §G20%§!.\n§Y$mod_ships_upkeep_mult$§! уменьшается на §G-10%§!.\n§Y$MOD_SHIP_SPEED_MULT$§! увеличивается на §G15%§!."
 tr_plentiful_assault_5_delayed: "«Бей кулаком, а не растопыренной пятерней.» - Гейнц Гудериан"
 tradition_plentiful_transformation: "Трансформация"
 tradition_plentiful_transformation_desc: "Застой означает регресс. Мы должны адаптироваться, чтобы идти в ногу с будущим."
@@ -709,7 +701,7 @@ tr_plentiful_transformation_adopt: "Традиции трансформации"
 tr_plentiful_transformation_adopt_desc: "$tradition_plentiful_transformation_desc$\n\n$tr_plentiful_transformation_adopt_effect$\n\n$tr_plentiful_transformation_finish_effect$"
 tr_plentiful_transformation_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§! уменьшается на §G5%§!. Мы получаем доступ к технологии §G$tech_climate_restoration$§!. С дальнейшим продвижением по традиции трансформации мы получаем доступ к технологии §G$tech_terrestrial_sculpting$§!."
 tr_plentiful_transformation_finish: "Традиции трансформации завершены"
-tr_plentiful_transformation_finish_effect: "§E$TRADITIONS_FINISH$:§!\n§Y$MOD_COUNTRY_TERRAFORMING_COST_MULT$§! уменьшается на §G10%§!.\n§Y$MOD_COUNTRY_TERRAFORM_SPEED_MULT$§! увеличивается на §G10%§!.\n\n"
+tr_plentiful_transformation_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \n§Y$MOD_COUNTRY_TERRAFORMING_COST_MULT$§! уменьшается на §G10%§!.\n§Y$MOD_COUNTRY_TERRAFORM_SPEED_MULT$§! увеличивается на §G10%§!.\n\n"
 tr_plentiful_transformation_1: "Строительство энергоскладов"
 tr_plentiful_transformation_1_desc: "§YВместимость хранилища (£energy£ энергия)§! увеличивается на §G5000§!"
 tr_plentiful_transformation_1_delayed: "Для будущих поколений мы обязаны создавать резервы."
@@ -765,7 +757,7 @@ tr_plentiful_endure_adopt: "Традиции стойкости"
 tr_plentiful_endure_adopt_desc: "$tradition_plentiful_endure_desc$\n\n$tr_plentiful_endure_adopt_effect$\n\n$tr_plentiful_endure_finish_effect$"
 tr_plentiful_endure_adopt_effect: "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§! увеличивается на §G5%§!."
 tr_plentiful_endure_finish: "Традиции стойкости завершены"
-tr_plentiful_endure_finish_effect: "§E$TRADITIONS_FINISH$:§!\n§Y$mod_pc_nuked_habitability$§! увеличивается на §G10%§!.\n\n"
+tr_plentiful_endure_finish_effect: "§YСкорость строительства§! увеличится на §G+25%§! \n§Y$mod_pc_nuked_habitability$§! увеличивается на §G+10%§!.\n\n"
 tr_plentiful_endure_1: "Сплоченность приносит единство"
 tr_plentiful_endure_1_desc: "§Y$mod_country_unity_produces_mult$§! увеличивается на §G5%§!"
 tr_plentiful_endure_1_delayed: "Наши жители очень заинтересованы в определении и достижении общих целей."
@@ -773,7 +765,7 @@ tr_plentiful_endure_2: "Кровь, пот и слезы"
 tr_plentiful_endure_2_desc: "§Y$MOD_COUNTRY_WAR_EXHAUSTION_MULT$§! уменьшается на §G25%§!"
 tr_plentiful_endure_2_delayed: "«Мне нечего предложить, кроме своей крови, тяжкого труда, слез и пота.» - Сэр Уинстон Черчилль"
 tr_plentiful_endure_3: "Взгляд в бездну"
-tr_plentiful_endure_3_desc: "Мы получаем доступ к технологии §G$DARK_MATTER_REACTOR$§!.\n\n§HМодуль звёздной базы:§! $sm_orbital_fertilizer_array$, модуль, который увеличивает производство £food §Yпищи§! на планетах системы.\n\n"
+tr_plentiful_endure_3_desc: "Мы получаем доступ к технологии §G$DARK_MATTER_REACTOR$§!.\n\n§HМодуль звёздной базы:§! $sm_orbital_fertilizer_array$, модуль, который увеличивает производство £food §Yпищи§! на планетах системы."
 tr_plentiful_endure_3_delayed: "§G$DARK_MATTER_REACTOR$§! предоставит нам большое количество энергии."
 tr_plentiful_endure_4: "Работа в тылу"
 tr_plentiful_endure_4_desc: "§Y$mod_planet_jobs_slave_produces_mult$§! увеличивается на §G20%§!"
@@ -781,8 +773,8 @@ tr_plentiful_endure_4_delayed: "Раб ежедневно трудится в п
 tr_plentiful_endure_5: "Ультра Мега"
 tr_plentiful_endure_5_desc: "§Y$MOD_MEGASTRUCTURE_BUILD_SPEED_MULT$§! увеличивается на §G25%§!\nКроме того, у нас теперь есть возможность строить ещё одно дополнительное мегасооружение одновременно."
 tr_plentiful_endure_5_delayed: "Наконец, мы можем добиться успеха благодаря нашим мегасооружениям."
-sm_orbital_fertilizer_array: "Склады удобрений"
-tech_plentiful_traditions_orbital_fertilizer_array: "Склады удобрений"
+sm_orbital_fertilizer_array: "Орбитальное хранилище удобрений"
+tech_plentiful_traditions_orbital_fertilizer_array: "Орбитальное хранилище удобрений"
 tech_plentiful_traditions_orbital_fertilizer_array_desc: "Постоянная бомбардировка особым излучением позволяет нам получить больше продуктов питания в этой системе."
 ap_plentiful_traditions_favored_equilibrium: "Предпочитаемое равновесие"
 ap_plentiful_traditions_favored_equilibrium_desc: "Народное единство позволит нашей великой империи достичь истинного равновесия, которого мы всегда желали."
@@ -790,17 +782,17 @@ ap_plentiful_traditions_avicennian_motion: "Авиценанское движе�
 ap_plentiful_traditions_avicennian_motion_desc: "Движение снаряда в вакууме при отсутствии воздействия внешних сил никогда не прекратится."
 ap_plentiful_traditions_ghazalian_revelations: "Газальские откровения"
 ap_plentiful_traditions_ghazalian_revelations_desc: "Знание без действия - это расточительность, а действия без знания - глупость."
-tooltip_plentiful_traditions_ghazalian_revelations: "Всеобщее £opinion  §Yотношение§! улучшается на §G20§!"
+tooltip_plentiful_traditions_ghazalian_revelations: "£opinion  §YОтношения§! со всеми улучшатся на §G+20§!"
 triggered_opinion_ap_plentiful_traditions_ghazalian_revelations: "Газальские откровения"
-trait_plentiful_traditions_robot_test0: "Версия 0"
+trait_plentiful_traditions_robot_test0: "MK0"
 trait_plentiful_traditions_robot_test0_desc: ""
-trait_plentiful_traditions_robot_test1: "Версия 1"
+trait_plentiful_traditions_robot_test1: "MK1"
 trait_plentiful_traditions_robot_test1_desc: ""
-trait_plentiful_traditions_robot_test2: "Версия 2"
+trait_plentiful_traditions_robot_test2: "MK2"
 trait_plentiful_traditions_robot_test2_desc: ""
-trait_plentiful_traditions_robot_test3: "Версия 3"
+trait_plentiful_traditions_robot_test3: "MK3"
 trait_plentiful_traditions_robot_test3_desc: ""
-trait_plentiful_traditions_robot_test4: "Версия 4"
+trait_plentiful_traditions_robot_test4: "MK4"
 trait_plentiful_traditions_robot_test4_desc: ""
 trait_plentiful_traditions_robot_research1: "Изучающий юнит I"
 trait_plentiful_traditions_robot_research1_desc: ""
@@ -894,7 +886,7 @@ tooltip_plentiful_traditions_mechanical_alternative: "$ap_plentiful_traditions_m
 requires_plentiful_traditions_mechanical_alternative: "$TRIGGER_FAIL$Требуется бонус за стремление §Y$ap_plentiful_traditions_metaverse_ecosystem$§!."
 ap_plentiful_traditions_mass_effect: "Эффект массы"
 ap_plentiful_traditions_mass_effect_desc: "Мы движимы бесконечным влечением. Никто не встанет у нас на пути."
-ap_plentiful_traditions_absolute_power: "Абсолютная сила"
+ap_plentiful_traditions_absolute_power: "Абсолютная власть"
 ap_plentiful_traditions_absolute_power_desc: "Я был там на заре третьего века человечества. Она началось в 2257 году на Земле, и последняя из станций Вавилона находилась глубоко в нейтральном пространстве. Это порт манил беженцев, контрабандистов, бизнесменов, дипломатов и путешественников из сотен миров. Это может быть опасное место, но мы приняли риск, потому что Вавилон 5 был нашей последней, лучшей надеждой на мир."
 ap_plentiful_traditions_foreign_fleet_reconnaissance: "Разведка иностранного флота"
 ap_plentiful_traditions_foreign_fleet_reconnaissance_desc: "Дивизия иностранных армий («Fremde Heere» на немецком языке) была создана в Генеральном штабе немецкой армии во время Первой мировой войны. Во время Первой мировой войны подразделение в первую очередь оценивало информацию, предоставляемую вражескими офицерами по обстановке на фронтах и дивизией IIIb. Она появилась в мае 1917 года из «Разведывательного отдела» («Nachrichten-abteilung» на немецком языке)./n/n В эпоху космических боев стало очевидно, что разведка территории противника не только полезна, но и необходима чтобы привести Рейх к новой славе."
@@ -918,12 +910,12 @@ ap_plentiful_traditions_slave_housing_desc: "Оптимизируя исполь
 tooltip_plentiful_traditions_slave_housing: "$ap_plentiful_traditions_slave_housing_desc$"
 ap_plentiful_traditions_industrial_mining_excavation: "Чрезмерная добыча"
 ap_plentiful_traditions_industrial_mining_excavation_desc: "Мы грабим наши планеты такими гигантскими темпами, что в будущем мы сможем уничтожить рынок минералов. Теперь мы можем улучшать наши §Yочистительные заводы§!."
-tooltip_plentiful_traditions_industrial_mining_excavation: "$p_plentiful_traditions_industrial_mining_excavation_desc$"
+tooltip_plentiful_traditions_industrial_mining_excavation: "$ap_plentiful_traditions_industrial_mining_excavation_desc$"
 ap_plentiful_traditions_transformation: "Идеальная трансформация"
 ap_plentiful_traditions_transformation_desc: "Абсолютное подчинение природы под строительные нужды дало нам возможность открыть больше районов."
 allow_decision_transformation_mastery: "§HРешение:§! Трансформационное мастерство"
 describe_decision_transformation_mastery: "§EЭто решение, которое постоянно увеличивает максимальное количество районов на планете на §Y8§!. Может быть применено на каждой планете только один раз.§!"
-ap_plentiful_traditions_justice: "Справедливость"
+ap_plentiful_traditions_justice: "Правосудие"
 ap_plentiful_traditions_justice_desc: "Самый несправедливый мир всё ещё лучше, чем справедливая война."
 tooltip_plentiful_traditions_justice: "$ap_plentiful_traditions_justice_desc$"
 ap_plentiful_traditions_discovery: "Археологическая временная петля"
@@ -941,11 +933,12 @@ ap_plentiful_traditions_mutagenesis_universalis_desc: "Кобали были г�
 tooltip_plentiful_traditions_mutagenesis_universalis: "Новое планетарное решение, позволяющее постепенно обменивать часть населения на основные виды, теперь доступно."
 allow_decision_plentiful_traditions_mutagenesis_transformation: "§HРешение:§! Универсальный мутагенез"
 describe_decision_plentiful_traditions_mutagenesis_transformation: "§EЭто решение может обменять часть нашего второсортного населения на наш собственный вид, в идеале только тогда, когда они умрут.§!"
-ap_plentiful_traditions_stormtroopers: "Ударный отряд"
+ap_plentiful_traditions_stormtroopers: "Ударные отряды"
 ap_plentiful_traditions_stormtroopers_desc: "Ударные войска или штурмовые отряды - это формирования, созданные для возглавления атаки. Они часто лучше обучены и оснащены, чем другая пехота, и, как ожидается, понесут тяжелые потери даже в успешных операциях. «Ударный отряд» - это калька, вольный перевод немецкого слова Stoßtrupp. Воинские части, в состав которых входят штурмовые отряды, обычно организованы для обеспечения мобильности с намерением прорвать оборону противника и атаковать уязвимые тыловые районы противника. Любое специализированное, элитное подразделение, сформированное для ведения боя посредством подавляющего нападения (обычно), будет считаться ударными войсками, в отличие от «спецназа» или подразделений в стиле коммандос (предназначенных в основном для тайных операций). Оба типа юнитов могут сражаться в тылу врага, если потребуется, то и саботажными методами."
 tooltip_plentiful_traditions_stormtroopers: "Теперь мы можем построить ограниченное количество ударных отрядов (или Сайлонов для машинных империй) и бронетанковых дивизий на нашем родном мире."
 ap_plentiful_traditions_vast_slave_procreation: "Пропагандистская инициатива"
 ap_plentiful_traditions_vast_slave_procreation_desc: "Комбинируя $building_slave_processing$/$building_plentiful_traditions_advanced_slave_processing$ и $building_clone_vats$, мы сможем добиться лучшей синергия наших рабов. Либо они послужат основным материалом для производства новых рабов, либо для клонирования рас более высокого качества."
+tooltip_plentiful_traditions_vast_slave_procreation: "Затраты на строительство и техническое обслуживание £building£ §Y$building_clone_vats$§! уменьшаются на планетах, где уже существуют £building£ §Y$building_slave_processing$§!/§Y$building_plentiful_traditions_advanced_slave_processing$§!. Кроме того, наличие обоих зданий увеличивает §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!"
 tech_plentiful_traditions_metaverse_ecosystem: "Виртуальная экосистема"
 tech_plentiful_traditions_metaverse_ecosystem_desc: "Применение технологий блокчейна в виртуальной экосистеме позволяет нашим конструктам применять новые §Yчертежи§!, что еще больше увеличивает их ценность."
 tech_ap_plentiful_traditions_tomb_life: "Приспособленность - Опустошенный мир"
@@ -967,17 +960,17 @@ trait_plentiful_traditions_slave_07_desc: "§LЭтот раб поддержив
 pt_civic_slave_nation: "Рабовладельческая нация"
 pt_civic_slave_nation_desc: "90% нашего населения сейчас порабощены. Лучшие 10% точно знают, как руководить империей. Только таким образом возможно оптимальное распределение ограниченных ресурсов."
 d_arid_highlands_special_reservation: "£energy Засушливое нагорье"
-d_arid_highlands_special_reservation_desc: "Высокий, сухой экорегион, несущий редкую растительность в виде пустынных трав и кустарников."
+d_arid_highlands_special_reservation_desc: "Расположенный на высоко над уровнем моря сухой экорегион с редкой растительностью в виде пустынных трав и кустарников."
 d_hot_springs_special_reservation: "£energy Горячие источники"
-d_hot_springs_special_reservation_desc: "Подземные воды, нагретые геотермальными процессами, испаряются на поверхности этих источников."
+d_hot_springs_special_reservation_desc: "Из этих родников вытекают грунтовые воды, подогреваемые геотермальными процессами."
 d_veiny_cliffs_special_reservation: "£minerals Рудные скалы"
-d_veiny_cliffs_special_reservation_desc: "Полосы ценных минеральных руд проходят как жилы по этим скалам."
+d_veiny_cliffs_special_reservation_desc: "Полосы ценных минеральных руд, будто вены, усыпали эти обнаженные горные склоны."
 d_mineral_fields_special_reservation: "£minerals Минеральные поля"
-d_mineral_fields_special_reservation_desc: "Геологические потрясения давным-давно обнажили эти минералы на поверхность планеты."
+d_mineral_fields_special_reservation_desc: "В результате геологического переворота эти полезные минералы давным-давно вышли на поверхность планеты."
 d_lichen_fields_special_reservation: "£food Лишайниковые поля"
-d_lichen_fields_special_reservation_desc: "Росистой мох, лишайники и грибы образуют плюшевый ковер, который тянется по этим скалистым землям."
+d_lichen_fields_special_reservation_desc: "Покрытые росой мхи, лишайники и грибы образуют мягкий ковер, покрывающий всю эту скалистую местность."
 d_bountiful_plains_special_reservation: "£food Обильные равнины"
-d_bountiful_plains_special_reservation_desc: "Плодородные почвы и высокие травы покрывают эти широкие равнины, обеспечивая богатый потенциал для сельскохозяйственных угодий."
+d_bountiful_plains_special_reservation_desc: "Эти широкие равнины отличаются плодородностью почв и высокими травами, обеспечивая богатый потенциал сельскохозяйственных угодий."
 d_dryland: "£dna Сухой регион"
 d_dryland_desc: "Этот регион может быть использован для размещения любящих сухой климат видов."
 d_wetland: "£dna Влажный регион"
@@ -1035,7 +1028,7 @@ mod_district_special_coldland_max: "Максимум $district_special_coldland_
 modifier_transformation_mastery: "Мастера трансформации"
 modifier_transformation_mastery_desc: "Эта планета получила восемь дополнительных районов."
 decision_transformation_mastery: "§HРешение:§! Мастера трансформации"
-decision_transformation_mastery_desc: "Эта планета получит восемь дополнительных районов."
+decision_transformation_mastery_desc: "Эта планета получила восемь дополнительных районов."
 decision_excavation: "§HРешение:§! Чрезмерная добыча"
 decision_excavation_desc: "Планета должна продолжать эксплуатироваться."
 modifier_plentiful_perks_feeding: "Распределение прядильщиков коконов"
@@ -1058,7 +1051,7 @@ plentiful_perks_ascension.1001.desc: "Наконец. Мы больше не о�
 plentiful_perks_ascension.1001.a: "Мы сейчас много больше, чем были раньше."
 plentiful_perks_ascension.1003.1.desc: "В качестве последнего шага отказа от своих индивидуальных корней, граждане [From.GetName] объединили свои умы в одном сознании. Мы рады приветствовать вас!"
 plentiful_perks_ascension.1003.2.desc: "Население [From.GetName] увенчало их неустанное стремление осквернить неприкосновенность своих естественных тел последним вопиющим актом порочности - соединением своих умов в одном сознании."
-plentiful_perks_ascension.1003.a: "Да будет так."
+plentiful_perks_ascension.1003.a: "Пусть будет так."
 plentiful_perks_ascension.1003.b: "Мы не будем одурачены этим."
 plentiful_perks_ascension.1004.desc: "Внимание! Всем жителям галактики!\n\nСлухи, которые вы слышали, правдивы. Мы объединились, чтобы сформировать гигантский организм, и ещё раз покажем нашу силу. Вы не сможете победить. Все, кто встанет у нас на пути, будут стёрты!"
 plentiful_perks_ascension.1004.a: "Приветствуем вас!"
@@ -1079,7 +1072,7 @@ plentiful_perks_ascension.1200.a: "Иные будут служить базой
 plentiful_perks_ascension.1200.b: "Используйте в родильных комнатах!"
 plentiful_perks_ascension.1200.c: "Открыть все коконы!"
 hive_evolution_tooltip: "Мы подготовим специальный проект, чтобы объединить умы наших граждан в одно целое."
-HIVE_EVOLUTION_PROJECT: "Биологическая эволюции"
+HIVE_EVOLUTION_PROJECT: "Биологическая эволюция"
 HIVE_EVOLUTION_PROJECT_DESC: "Настало время избавиться от нашего ошибочного индивидуального существования и достичь бессмертия в виде духа. Мы должны подготовить всё население, а затем начать сливать сознание."
 pop_generated: "Будет создано поселение нашего вида."
 more_pop_generated: "Будет создано несколько поселений нашего вида."
@@ -1114,7 +1107,7 @@ MINERS_GOODS: "Эффективная логистика"
 MINERS_GOODS_DESC: "[Root.GetName] будут довольны в случае долговременного поддержания империей указа §Y$edict_plentiful_traditions_industrial_goods$§!."
 MINERS_CIVIC: "Гражданские"
 MINERS_CIVIC_DESC: "[Root.GetName] будут довольны в случае активной гражданской модели §Y$civic_mining_guilds$§!."
-MINERS_FACILITY: "Очистка минералов"
+MINERS_FACILITY: "Очистка полезных ископаемых"
 MINERS_FACILITY_DESC: "[Root.GetName] будут очень довольны в случае строительства в империи сооружения £building  §Y$building_plentiful_traditions_purification_facility$§!."
 MINERS_NETWORK: "Буроголовые"
 MINERS_NETWORK_DESC: "[Root.GetName] будут очень довольны в случае строительства в империи сооружения £building  §Y$building_mining_network_5$§!."
@@ -1140,7 +1133,7 @@ MINERS_DEPOSIT: "Гравитационные лучи"
 MINERS_DEPOSIT_DESC: "[Root.GetName] будут довольны разработке только самых лучших £minerals  §Yминеральных§! жил."
 pft_plentiful_factions_syndicates: "Фракция синдиката"
 pft_plentiful_factions_syndicates_desc: "Фракции синдикатов в первую очередь заинтересованы в получении энергокредитов любыми доступными средствами. Пиратство и коррупция являются движущей силой рынка.\n\n§LПринцип Материализм§!"
-SYNDICATES_CIVIC: "Гражданство"
+SYNDICATES_CIVIC: "Гражданские"
 SYNDICATES_CIVIC_DESC: "[Root.GetName] будут довольны в случае долговременного поддержания планетарного указа §Y$civic_corporate_dominion$§! на одном из наших миров."
 SYNDICATES_OLI: "Внутренняя коррупция"
 SYNDICATES_OLI_DESC: "[Root.GetName] будут очень довольны, если во главе империи будет стоять §Yолигархическое§! правительство."
@@ -1154,7 +1147,7 @@ SYNDICATES_ORBITAL: "Усовершенствованная торговля"
 SYNDICATES_ORBITAL_DESC: "[Root.GetName] будут довольны в случае строительства модуля §Y$sm_orbital_trading_beacon$§! на одном из наших космопортов."
 SYNDICATES_STOCK: "Один процент"
 SYNDICATES_STOCK_DESC: "[Root.GetName] будут очень недовольны в случае отказа от строительства в империи сооружения £building  §Y$building_galactic_stock_exchange$§!."
-SYNDICATES_CHARGE: "Подавляющая сила"
+SYNDICATES_CHARGE: "Небывалая мощность"
 SYNDICATES_CHARGE_DESC: "[Root.GetName] будут довольны в случае долговременного поддержания империей указа §Y$plentiful_traditions_overcharge$§!."
 SYNDICATES_MINIMUM_1: "Состоятельные привычки I"
 SYNDICATES_MINIMUM_1_DESC: "[Root.GetName] будут довольны при постоянном сохранении запасов энергии хотя бы на уровне £energy  §Y1000§!."
@@ -1221,7 +1214,7 @@ modifier_plentiful_traditions_lebensraum_enlargement_cooldown_desc: "Наши р
 tooltip_plentiful_traditions_lebensraum_enlargement: "Орбиталь - цель жизни. Однако наши нынешние орбитали слишком малы, но теперь мы можем расширить их с помощью роботов. Нам нужно больше жизненного пространства!!!"
 plentiful_traditions_lebensraum_enlargement: "§YНам нужно место для дыхания!§!"
 plentiful_traditions_lebensraum_enlargement_desc: "Этот указ позволяет нам расширить орбиталь, чтобы создать больше районов.\nСпиритуалисты должны иметь достаточное эволюционное давление.\nС помощью поселений роботов вы уже можете расширить орбиталь, чтобы создать больше жизненного пространства.\n"
-plentiful_traditions_lebensraum_enlargement_not_max_size: "Эта орбиталь не может быть расширена, она имеет максимальный размер (25). БОЖЕ, БЛАГОСЛОВИ ИМПЕРАТОРА!"
+plentiful_traditions_lebensraum_enlargement_not_max_size: "Эта орбиталь не может быть расширена, она имеет максимальный размер (25)."
 plentiful_traditions_lebensraum_enlargement_full_or_robot: "Эволюционное давление еще недостаточно (менее 12 пос.) или нет поселений роботов. Как спиритуалисты, вы действительно в дерьме, не так ли? БОЖЕ, БЛАГОСЛОВИ ИМПЕРАТОРА!"
 plentiful_traditions_lebensraum_enlargement_plus_one: "Расширение орбитали создаст новый район. Однако после этого рабочим нужно некоторое время, чтобы отдохнуть, прежде чем они смогут возобновить работу."
 modifier_plentiful_traditions_open_habitat: "Открытая орбиталь"
@@ -1230,13 +1223,14 @@ tooltip_slaves_only: "§MЭто только для рабов!§!"
 plentiful_traditions_war.1.a: "От §Y[From.GetName]§! к §Y[Root.GetName]§!"
 habitat_1_MEGASTRUCTURE_DETAILS: "§Y$pc_habitat$§! является теоретически самоподдерживающейся космической станцией, предназначенной для постоянного проживания."
 habitat_1_CONSTRUCTION_INFO_DELAYED: "Орбиталь может вмешать только £building  §Yздания особого типа§! и имеет предел в §Y12§! районов."
-habitat_1: "Орбиталь"
-habitat_1_DESC: "Орбиталь - станция, вращающаяся вокруг непригодной для жизни планеты, способная разместить ряд §Hпоселений§! и §Hзданий§! далеко от поверхности самой планеты."
+habitat_1: "Среда обитания"
+habitat_1_DESC: "Станция среды обитания, находящаяся на орбите непригодной для жизни планеты, может вместить довольно много §Hпоселений§! и §Hсооружений§!, и планетарная поверхность ей для этого не нужна."
 habitat_2_MEGASTRUCTURE_DETAILS: "§Y$pc_habitat_robot$§!: является теоретически самоподдерживающейся космической станцией, предназначенной для постоянного проживания."
 habitat_2_CONSTRUCTION_INFO_DELAYED: "Орбиталь может вмешать только £building  §Yздания особого типа§! и поддерживать только роботов. Однако, эти орбитали могут расширяться и в будущем подходить для органических видов."
 habitat_2: "Открытая орбиталь"
 habitat_2_DESC: "Открытая орбиталь - станция, вращающаяся вокруг непригодной для жизни планеты, способная разместить только §Yздания особого типа§! и поддерживающая только роботов, далеко от поверхности самой планеты."
-habitat_3_MEGASTRUCTURE_DETAILS: "§Y$pc_habitat_robot$§! является теоретически самоподдерживающейся космической станцией, предназначенной для постоянного проживания."
+habitat_3_MEGASTRUCTURE_DETAILS: "§Y$pc_habitat_robot$§!: является теоретически самоподдерживающейся космической станцией, предназначенной для постоянного проживания."
+habitat_3_CONSTRUCTION_INFO_DELAYED: "На орбиталях могут быть только специализированные £building §Yздания§!, которые ограничиваются §Y2§! районами, и только для роботов. Однако они могут расширяться и потенциально содержать биологическую жизнь."
 habitat_3: "Открытая орбиталь"
 habitat_3_DESC: "Открытая орбиталь - станция, вращающаяся вокруг непригодной для жизни планеты, способная разместить только §Yздания особого типа§! и поддерживающая только роботов, далеко от поверхности самой планеты."
 pc_habitat_robot: "Открытая орбиталь"
@@ -1248,12 +1242,14 @@ job_slave_enforcer: "Надсмотрщик"
 job_slave_enforcer_plural: "Надсмотрщики"
 job_slave_enforcer_desc: "Надсмотрщики позаботятся о правильном использовании рабов на планете."
 job_slave_enforcer_effect_desc: "£job_slave_enforcer£ $job_slave_enforcer_plural$ производят £unity£ §Y$unity$§!, уменьшают §Y$mod_pop_cat_slave_political_power$§! и увеличивают §Y$mod_planet_jobs_slave_produces_mult$§!"
+mod_job_slave_enforcer_add: "$job_slave_enforcer$"
 mod_job_slave_enforcer_per_pop: "§G+1§! $job_slave_enforcer$ за $VALUE$ £pop£"
 mod_job_slave_enforcer_per_pop_short: "\n§G+1§! £mod_job_slave_enforcer_add£ за $VALUE$ £pop£"
 job_guinea_pigs: "Морская свинка"
 job_guinea_pigs_plural: "Морская свинка"
 job_guinea_pigs_desc: "Морские свинки используются на планете для различных дел. Они тоже регулярно умирают..."
 job_guinea_pigs_effect_desc: "£job_guinea_pigs£ $job_guinea_pigs_plural$ производят £unity£ §Y$unity$§! или помогают в исследованиях."
+mod_job_guinea_pigs_add: "$job_guinea_pigs$"
 mod_job_guinea_pigs_per_pop: "§G+1§! $job_guinea_pigs$ за $VALUE$ £pop£"
 mod_job_guinea_pigs_per_pop_short: "\n§G+1§! £mod_job_guinea_pigs_add£ за $VALUE$ £pop£"
 job_gardener: "Садовник"
@@ -1261,22 +1257,25 @@ job_gardener_plural: "Садовники"
 job_gardeners_desc: "Этот житель управляет садами."
 job_guinea_effect_desc: "£job_gardener£ $job_gardener_plural$ производят или помогают производству £unity£ §Y$unity$§!, или помогают росту поселений."
 job_gardeners_effect_desc: "£job_gardener£ $job_gardener_plural$ производят или помогают производству £unity£ §Y$unity$§!, или помогают росту поселений."
+mod_job_gardener_add: "$job_gardener$"
 mod_job_gardener_per_pop: "§G+1§! $job_gardener$ за $VALUE$ £pop£"
 mod_job_gardener_per_pop_short: "\n§G+1§! £mod_job_gardener_add£ за $VALUE$ £pop£"
 job_pt_cocoon_spinner: "Прядильщик коконов"
-job_pt_cocoon_spinner_plural: "Прядильщики коконов"
+job_pt_cocoon_spinner_plural: "Прядильщик коконов"
 job_pt_cocoon_spinner_desc: "Прядильщики коконов прядут коконы для превращения иных видов в наш."
 job_pt_cocoon_spinner_effect_desc: "£job_pt_cocoon_spinner£ $job_pt_cocoon_spinner_plural$ прядут коконы."
+mod_job_pt_cocoon_spinner_add: "$job_pt_cocoon_spinner$"
 mod_job_pt_cocoon_spinner_per_pop: "§G+1§! $job_pt_cocoon_spinner$ за $VALUE$ £pop£"
 mod_job_pt_cocoon_spinner_per_pop_short: "\n§G+1§! £mod_job_pt_cocoon_spinner_add£ за $VALUE$ £pop£"
 job_pt_cocoon: "Кокон"
-job_pt_cocoon_plural: "Коконы"
+job_pt_cocoon_plural: "Кокон"
 job_pt_cocoon_desc: "Этот кокон может быть использован позднее для превращения иных видов."
 job_pt_cocoon_effect_desc: "£job_pt_cocoon£ $job_pt_cocoon_plural$ прядут коконы."
+mod_job_pt_cocoon_add: "$job_pt_cocoon$"
 mod_job_pt_cocoon_per_pop: "§G+1§! $job_pt_cocoon$ за $VALUE$ £pop£"
 mod_job_pt_cocoon_per_pop_short: "\n§G+1§! £mod_job_pt_cocoon_add£ за $VALUE$ £pop£"
 pop_cat_pt_cocoon_cat: "Кокон"
-pop_cat_pt_cocoon_cat_plural: "Коконы"
+pop_cat_pt_cocoon_cat_plural: "Кокон"
 pop_cat_pt_cocoon_cat_desc: "Этот кокон может быть использован позднее для превращения иных видов."
 mod_pop_cat_pt_cocoon_cat_political_power: "Политическая сила коконов"
 mod_pop_cat_pt_cocoon_cat_happiness: "Счастье коконов"
@@ -1286,10 +1285,11 @@ pop_cat_queen_drone_desc: "Эта королева постоянно занят
 job_queen: "Королева"
 job_queen_plural: "$job_queen$"
 job_queen_desc: "Эта королева постоянно занята производством новых дронов и коконов."
+mod_job_queen_add: "$job_queen$"
 POP_ASSEMBLY_COCOON_TITLE: "Максимум коконов на планете"
 POP_ASSEMBLY_COCOON: "Ежемесячно коконов: $VALUE|Y$"
 POP_ASSEMBLY_COCOON_DESC: "§E$POP_ASSEMBLY_COCOON_TITLE$ показывает максимальное количество коконов, поддерживаемых планетой. Этим занимаются £job_queen£ §Y$job_queen$§! и £job_pt_cocoon_spinner£ §Y$job_pt_cocoon_spinner$§!.§!"
-MOD_COUNTRY_WAR_EXHAUSTION_MULT: "Получение усталости от войны"
+MOD_COUNTRY_WAR_EXHAUSTION_MULT: "Рост усталости от войны"
 mod_pop_category_slave_food_upkeep_mult: "£food£ $food$ - содержание ($pop_cat_slave$)"
 mod_pop_category_slave_consumer_goods_upkeep_mult: "£consumer_goods£ $consumer_goods$ - содержание ($pop_cat_slave$)"
 mod_planet_jobs_slave_energy_produces_add: "£energy£ $energy$ от £job£ $pop_cat_slave$"
@@ -1328,9 +1328,9 @@ mod_planet_jobs_slave_nanites_produces_add: "£nanites£ $nanites$ от £job£ 
 mod_planet_jobs_slave_nanites_produces_mult: "£nanites£ $nanites$ от £job£ $pop_cat_slave$"
 mod_planet_livestock_energy_produces_add: "£energy£ $energy$ от £job_livestock£ §Y$job_livestock_plural$§!"
 mod_planet_livestock_energy_produces_mult: "£energy£ $energy$ от £job_livestock£ §Y$job_livestock_plural$§!"
-mod_planet_livestock_minerals_produces_add: "£minerals£ $minerals$ от £job_livestock£ §Y$job_livestock_plural$§!"
-mod_planet_livestock_minerals_produces_mult: "£minerals£ $minerals$ от £job_livestock£ §Y$job_livestock_plural$§!"
-mod_planet_livestock_food_produces_mult: "£food£ $food$ от £job_livestock£ §Y$job_livestock_plural$§!"
+mod_planet_livestock_minerals_produces_add: "£minerals£ §Y$minerals$§! от £job_livestock£ §Y$job_livestock_plural$§!"
+mod_planet_livestock_minerals_produces_mult: "£minerals£ §Y$minerals$§! от £job_livestock£ §Y$job_livestock_plural$§!"
+mod_planet_livestock_food_produces_mult: "£food£ $food$ от категории £job_livestock£ §Y$job_livestock_plural$§!"
 mod_planet_jobs_organic_battery_energy_produces_add: "£energy£ $energy$ от £job_organic_battery£ §Y$jobs_organic_battery_plural$§!"
 mod_planet_jobs_organic_battery_energy_produces_mult: "£energy£ $energy$ от £job_organic_battery£ §Y$job_organic_battery_plural$§!"
 mod_planet_jobs_organic_battery_minerals_produces_add: "£minerals£ $minerals$ от £job_organic_battery£ §Y$jobs_organic_battery_plural$§!"
@@ -1353,8 +1353,8 @@ mod_planet_jobs_specialist_engineering_research_produces_add: "£engineering_res
 mod_planet_jobs_specialist_engineering_research_produces_mult: "£engineering_research£ $engineering_research$ от £job£ $pop_cat_specialist$"
 mod_planet_jobs_specialist_influence_produces_add: "£influence£ $influence$ от £job£ $pop_cat_specialist$"
 mod_planet_jobs_specialist_influence_produces_mult: "£influence£ $influence$ от £job£ $pop_cat_specialist$"
-mod_planet_jobs_specialist_unity_produces_add: "£unity£ $unity$ от £job£ $pop_cat_specialist$"
-mod_planet_jobs_specialist_unity_produces_mult: "£unity£ $unity$ от £job£ $pop_cat_specialist$"
+mod_planet_jobs_specialist_unity_produces_add: "Все $SPECIALISTS$ теперь также производят §Y$unity$§! £unity£"
+mod_planet_jobs_specialist_unity_produces_mult: "Все $SPECIALISTS$ теперь также производят §Y$unity$§! £unity£"
 mod_planet_jobs_specialist_consumer_goods_produces_add: "£consumer_goods£ $consumer_goods$ от £job£ $pop_cat_specialist$"
 mod_planet_jobs_specialist_consumer_goods_produces_mult: "£consumer_goods£ $consumer_goods$ от £job£ $pop_cat_specialist$"
 mod_planet_jobs_specialist_volatile_motes_produces_add: "£volatile_motes£ $volatile_motes$ от £job£ $pop_cat_specialist$"
@@ -1423,7 +1423,7 @@ mod_weapon_type_point_defense_weapon_damage_mult: "Урон от орудий (�
 mod_weapon_type_point_defense_weapon_fire_rate_mult: "Скорострельность (точечная оборона)"
 mod_station_gatherers_energy_produces_mult: "Энергия (сборщики)"
 mod_station_gatherers_alloys_produces_mult: "Сплавы (сборщики)"
-mod_station_gatherers_consumer_goods_produces_mult: "ТМС (сборщики)"
+mod_station_gatherers_consumer_goods_produces_mult: "Производство товаров массового спроса ремесленниками"
 mod_orbital_mining_deposits: "Сплавы (месторождения)"
 mod_megastructures_produces_mult: "Производство (мегасооружения)"
 mod_megastructures_habitat_influence_cost_add: "£influence£ Стоимость влияния (орбитали)"
@@ -1515,5 +1515,3 @@ d_plentiful_traditions_planet_unity2: "Интересные монументы �
 d_plentiful_traditions_planet_unity2_desc: "Мы создали новые £unity §Yмонументы единства§!."
 d_plentiful_traditions_planet_unity1: "Малые монументы единства"
 d_plentiful_traditions_planet_unity1_desc: "Мы создали новые малые £unity §Yмонументы единства§!."
-tr_plentiful_biogenesis_finish_machine: "Традиции биогенеза завершены"
-tr_plentiful_biogenesis_finish_machine_effect: "§E$TRADITIONS_FINISH$:§!\nЕсли приняты все $tr_plentiful_biogenesis_adopt$, §Y$mod_BIOLOGICAL_species_trait_points_add$§! увеличиваются на §G1§!, §Y$mod_ROBOT_species_trait_points_add$§! на §G3§!, а §Y$mod_MACHINE_species_trait_points_add$§! на §G3§!, и §Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§! уменьшается на §G20%§!.\n\n"

@@ -1,9 +1,8 @@
 ﻿l_russian:
 
-NHSC_PSI_LANCE_JUGGERNAUT: "$NHSC_PSI_LANCE_TITANIC$ ($juggernaut$)"
 NHSC_TORPEDO_PSI_1: "Псионическая взрывная торпеда"
 NHSC_TORPEDO_PSI_1_DESC: "Энергетическая торпеда, поражающая наших врагов мощным псионическим взрывом."
-NHSC_TORPEDO_PSI_2: "Улучшенная Псионическая взрывная торпеда"
+NHSC_TORPEDO_PSI_2: "Улучшенная псионическая взрывная торпеда"
 NHSC_TORPEDO_PSI_2_DESC: "Усовершенствованная технология сдерживания псионической энергии увеличивает мощность взрыва псионической торпеды."
 NHSC_CANNON_PSI_1: "Псионный энергетический проектор"
 NHSC_CANNON_PSI_1_DESC: "Энергетическое оружие, поражающее цели псионической энергией."
@@ -35,6 +34,7 @@ NHSC_PSI_LANCE_2: "Пробойник Покрова"
 NHSC_PSI_LANCE_2_DESC: "Новая, увеличенная и более точная версия псионического копья."
 NHSC_PSI_LANCE_TITANIC: "Луч пустоты"
 NHSC_PSI_LANCE_TITANIC_DESC: "Псионическое копье невообразимой силы, подпитываемое голодной пустотой Покрова."
+NHSC_PSI_LANCE_JUGGERNAUT: "$NHSC_PSI_LANCE_TITANIC$ ($juggernaut$)"
 NHSC_PSI_LANCE_JUGGERNAUT_DESC: "$NHSC_PSI_LANCE_TITANIC_DESC$"
 NHSC_PSIONIC_BLAST: "Псионическая взрывная волна"
 NHSC_PSIONIC_BLAST_DESC: "Ударная волна чистой псионической энергии, способная уничтожить практически все."

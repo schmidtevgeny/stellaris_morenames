@@ -12,7 +12,7 @@ TECH_UNLOCK_L_GATE_TITLE: "§HВозможность:§! $tech_lgate_constructio
 TECH_UNLOCK_L_GATE_DESC: "Эта технология откроет возможность строить и активировать §EL-врата§! в пределах принадлежащего нам пространства."
 civic_gateway_worshiper: "Хранитель врат"
 civic_gateway_worshiper_desc: "Давным-давно древняя раса предшественников, Дессану, вступила в контакт с этим обществом. Дессану, несомненно, оставили свой след на них как на примитивах, предоставив им технологии и развив их. Почитая Дессану как богов, это общество поклоняется L-вратам как святым реликвиям. Их общество построено таким образом, чтобы соблюдать завет с Дессану. Этот завет был клятвой сохранить L-врата в их спящем состоянии."
-civic_gateway_worshiper_effects: "Роной мир - §YИдеальный мир§! (Размер: £planetsize£ §Y25§!)\nМожет заселить только §YИдеальные миры§!§YУказ:§! Освятить L-врата\nГарантирует §YL-врата§! в вашей домашней системе.\nИсследование §YОткрыть L-врата§! §RЗАПРЕЩЕНО§!\n§YУникальная квестовая линия§! чтобы разгадать тайну происхождения вида и понять, при чем тут L-врата."
+civic_gateway_worshiper_effects: "Homeworld is a §YGaia World§! (Size: £planetsize£ §Y25§!)\nCan only settle §YGaia Worlds§!\n§YРазблокирует эдикт:§! Освятить L-Gate\nGuarantees an §YL-Gate§! in your home system.\n§YПонимание L-врат§! исследование §RDisabled§!\n§YUnique Questlines§! to unravel the mystery of the species origin and how the L-Gates play into it all."
 edict_consecrate_lgate: "Освятить L-врата"
 requires_1_lgate: "§RТребуется 1§! §YL-врата§!"
 edict_lgate_guardian: "Хранитель L-врат"
