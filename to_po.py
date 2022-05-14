@@ -142,6 +142,11 @@ def make_memory(storage_en, storage_ru):
                     if r.get() != e.get() and r.get() != '' and e.get()!='':
                         po.write('msgid "{}"\nmsgstr "{}"\n\n\n'.format(e.get().replace('"', '\\"').replace('\n', ' ').strip(),
                                                                         r.get().replace('"', '\\"').replace('\n', ' ').strip()))
+                        el = e.get().replace('"', '\\"').replace('\\\\', '\\n').replace('\\n', '\n').strip().split('\n')
+                        rl = r.get().replace('"', '\\"').replace('\\\\', '\\n').replace('\\n', '\n').strip().split('\n')
+                        if len(el)==len(rl):
+                            for i in range(len(el)):
+                                po.write('msgid "{}"\nmsgstr "{}"\n\n\n'.format(el[i], rl[i]))
     po.close()
     pass
 

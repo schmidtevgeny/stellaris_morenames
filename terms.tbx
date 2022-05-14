@@ -381,6 +381,42 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="schmi-2">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>zousa</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru-RU">
+          <tig>
+            <term>зуса</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="schmi-3">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>hrae-mc</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru-RU">
+          <tig>
+            <term>михаэ</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="schmi-4">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>sonya soul</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru-RU">
+          <tig>
+            <term>соня соул</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>
