@@ -357,6 +357,30 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="schmi-0">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>build speed</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru-RU">
+          <tig>
+            <term>скорость, с которой строится</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="schmi-1">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>Shipyards</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru-RU">
+          <tig>
+            <term>корабельная верфь</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>

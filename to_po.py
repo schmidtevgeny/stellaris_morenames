@@ -106,16 +106,23 @@ if not os.path.exists(base+'events'):
         of = i + '_l_russian.yml'
         f.write("f = open(base+'" + of + "', 'w', encoding='utf-8')\n")
         f.write('f.write("l_russian:\\n\\n")\n\n')
-        for j, l in fdata.items():
-            s = l.get()
+        for j, l in fdata.items():            
             f.write('key="{}"\n'.format(j))
-            if s.find('"') < 0:
-                f.write("value=_(r\"{}\")\n".format(l.get()))
-            elif s.find("'") < 0:
-                f.write("value=_(r'{}')\n".format(l.get()))
-            else:
-                f.write("value=_('''{}''')\n".format(l.get()))
-                # print(l)
+            strings = l.get().replace('\\\\', '\\').replace('\\n', '\n').split('\n')
+            
+            valitems = []
+            for s in strings:
+                if s=='':
+                    valitems.append("\"\"")
+                    print('empty string {}'.format(j))
+                elif s.find('"') < 0:
+                    valitems.append("_(r\"{}\")".format(s))
+                elif s.find("'") < 0:
+                    valitems.append("_(r'{}')".format(s))
+                else:
+                    valitems.append("_('''{}''')".format(s))
+                    
+            f.write('value="\\\\n".join([{}])\n'.format(', '.join(valitems)))
 
             f.write('f.write(\'{}: \"{}\"\\n\'.format(key, pre(value)))\n')
 
