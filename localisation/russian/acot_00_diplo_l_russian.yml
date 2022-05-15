@@ -190,7 +190,7 @@ leviathans.5106.f2.reply: "Настоятельно рекомендую не д
 leviathans.5106.f3.reply: "Your current fleet seems to be on par with the records used to measure its strength. However, that record may be outdated so expect losses."
 leviathans.5106.f4.reply: "Your fleet appears to be stronger than your adversary. But the statistics are outdated, so it is best to account for possible casualties."
 leviathans.590.name: "Hire a Scientist"
-leviathans.590.desc: "We are willing to pledge the services of one of professor-rank scientists to your cause.\n\nYou will have to provide them with resources and necessities, as well as a sum of credits to our Order. We assume these terms are reasonable, yes?"
+leviathans.590.desc: "We are willing to pledge the services of one of professor-rank scientists to your cause.\n\nВы должны будете предоставить им ресурсы и предметы первой необходимости, а также сумму кредитов нашему ордену. Мы полагаем, что эти условия разумны, да?"
 leviathans.590.a: "Конечно. Вы получите пожертвование."
 leviathans.590.a.reply: "Отлично. Пусть профессор хорошо послужит вам в ваших начинаниях!"
 leader_trait_acot_curator_archon: "Куратор Архонт"

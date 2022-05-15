@@ -1,0 +1,1 @@
+D:\work\app\lokalize-22.04.0-1122-windows-msvc2019_64-cl\bin\msgfmt.exe base.po -obase.mo   
