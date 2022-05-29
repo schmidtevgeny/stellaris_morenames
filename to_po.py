@@ -17,8 +17,10 @@ from lxml import etree
 
 en = '_l_english.yml'
 ru = '_l_russian.yml'
-subsections = ["diplo_phrases/", "events/"]
+subsections = ["diplo_phrases/", "events/"] #,'formats/','namelists/']
 
+#--------
+#localisation_synced
 
 class LocString:
     def __init__(self, path, name, value):
@@ -98,12 +100,9 @@ def pre(s):
 base = 'localisation/'
 if not os.path.exists(base+'russian'):
     os.makedirs(base+'russian')
-if not os.path.exists(base+'diplo_phrases'):
-    os.makedirs(base+'diplo_phrases')
-if not os.path.exists(base+'events'):
-    os.makedirs(base+'events')
-
 ''')
+    for section in subsections:
+        f.write("if not os.path.exists(base+'"+section+"'):\n    os.makedirs(base+'"+section+"')\n")
 
     for i, fdata in storage.data.items():
         of = os.path.basename(i + '_l_russian.yml')
