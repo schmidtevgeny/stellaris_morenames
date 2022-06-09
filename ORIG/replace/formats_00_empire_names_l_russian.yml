@@ -1,0 +1,7 @@
+﻿l_russian:
+ format.species: "[This.GetSpeciesAdj]"
+ format_noun.mercenary.1: "<mercenary_names>"
+ format_noun.mercenary.2: "<mercenary_names>"
+ format_noun.salvager.1: "<salvager_names>"
+ format_noun.shroudwalker.1: "<shroudwalker_groups>"
+ format_noun.shroudwalker.2: "<shroudwalker_names>"

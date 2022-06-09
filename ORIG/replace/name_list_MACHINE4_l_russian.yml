@@ -1,0 +1,13 @@
+﻿l_russian:
+ MACHINE4_xxTACTICALSEIZURESQUAD_SEQ: "$C$-й отряд тактического захвата"
+ MACHINE4_xxFORTIFICATIONASSIGNMENT_SEQ: "$C$-е укреплённые формирования"
+ MACHINE4_xxHEAVYDEMOLITIONS_SEQ: "$C$-е тяжёлые разрушители"
+ MACHINE4_xxERADICATOR_SEQ: "$C$-е уничтожители"
+ MACHINE4_xxCYBERNETICAEGIS_SEQ: "$C$-е кибернетические заградители"
+ MACHINE4_xxCYBERNETICONSLAUGHT_SEQ: "$C$-е кибернетические подавители"
+ MACHINE4_xxREPLICAREGIMENT_SEQ: "$C$-е копированные подразделения"
+ MACHINE4_xxDREADREGIMENT_SEQ: "$C$-е подразделения ужаса"
+ MACHINE4_xxOCCUPATIONASSIGNMENT_SEQ: "$C$-е оккупационные формирования"
+ MACHINE4_PRIMITIVEARMYxx_SEQ: "Примитивная армия $C$"
+ MACHINE4_INDUSTRIALARMYxx_SEQ: "Индустриальная армия $C$"
+ MACHINE4_POSTATOMICARMYxx_SEQ: "Постъядерная армия $C$"

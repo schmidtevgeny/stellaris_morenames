@@ -1,0 +1,13 @@
+﻿l_russian:
+ EMPIRE_DESIGN_florin: "Флоринский Механат"
+ EMPIRE_DESIGN_florin_desc: "Когда-то Флорисса была пустынной засушливой планетой. Однако флоринские генетики выяснили, что их далёкий предок однажды приобрёл редкую мутацию, благодаря которой в считанные столетия захватил всю поверхность Флориссы. Нынешним разнообразием растительной жизни планета обязана именно той судьбоносной мутации.\n\nФлорины быстро осознали всю слабость органического естества и очень рано создали первых автоматонов.\n\nИ вот, флорины устремляют свои взгляды к звёздам. Они уверены, что не одиноки во Вселенной. Безграничные знания ждут..."
+
+ PRESCRIPTED_ship_prefix_florin: "ISB"
+ PRESCRIPTED_species_name_florin: "Флорин"
+ PRESCRIPTED_species_plural_florin: "Флорины"
+ PRESCRIPTED_species_adjective_florin: "Флорин"
+ PRESCRIPTED_adjective_florin: "Флорин"
+ PRESCRIPTED_planet_name_florin: "Флорисса"
+ PRESCRIPTED_system_name_florin: "Риндария"
+ PRESCRIPTED_ruler_name_florin: "Риндера Красный Лист"
+ PRESCRIPTED_ruler_title_florin: "Мехаган"
