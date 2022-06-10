@@ -1,0 +1,63 @@
+Manpower        Рабочая сила
+Blokkat
+Jobs
+
+
+
+
+
+
+
+
+Output  Производство
+Upkeep  Содержание
+Efficiency      Эффективность
+Workshop        Места
+Ultilization    Утилизация
+Total Manpower        Общая рабочая сила
+
+Exospheric Mineral      редких минералов
+Stellar Systemcraft     Боевая звездная система
+Attack Moon     Боевая луна
+Behemoth Planetcraft    Боевая планета
+
+precursor       предтечи
+fallen  угасшие
+
+Unlocks Edict   Открывает решение:
+
+Malicious Intent        Злое намерение
+Juggernaut      Джагернаут
+
+birch world
+aeternite
+bow     нос корабля
+stern   корма
+katzen
+aiondia
+carrier носитель        
+dessanu
+s.u.c.c.        к.в.а.у.в.
+g.l.u.e.        с.к.о.т.ч.
+e.h.o.f.
+
+zweiblio
+tropiana
+skyhooks        небесные крюки
+morthwyl        мортхвил
+
+farchnad
+solarium
+fusion
+kattail
+Louf Cereless Hornsfelt
+kleinlakien isle
+katzprotekrotat
+ultrafractured world
+kugelblitz
+blokkat-vester  блоккот-коллектор</term>
+build speed
+Shipyards       верфь
+zousa
+hrae-mc         михаэ
+sonya soul
