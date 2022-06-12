@@ -4,3 +4,6 @@ localisation
 *.html
 /loc
 memory.po
+*~
+~*
+.~*
