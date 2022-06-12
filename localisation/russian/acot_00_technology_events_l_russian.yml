@@ -101,7 +101,7 @@ acot_ships.8.a.explain: "Это действие удалит эмиссар и 
 acot_ships.8.b: "Нет, нет, нет, это не наша цель. Отмените приказ."
 acot_ships.9.name: "Терраформирующий пилон готов"
 acot_ships.9.desc: "Эмиссар успешно приземлился на поверхность §E[root.GetName]§! и развернулся в столице. Терраформирующий пилон внутри корабля может быть использован для немедленного изменения конфигурации экосистемы планеты в нужную спецификацию. Техники ждут ваших приказов."
-acot_ships.9.desc.broken: "The Emissary has finished deploying its terraforming agents on the planet. Coated in invisible hard-light micromatters, the devastated planet can now be repaired into proper shape."
+acot_ships.9.desc.broken: "Эмиссар закончил развертывание своих агентов терраформирования на планете. Покрытая невидимыми микроматрасами жесткого света, опустошенная планета теперь может быть восстановлена в надлежащую форму."
 acot_ships.9.a: "Нет, планета и так прекрасна."
 acot_ships.9.b: "Переформируйте ее в идеальный мир."
 acot_ships.9.c: "Планета станет миром машин."

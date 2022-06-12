@@ -39,7 +39,7 @@ mod_station_researchers_society_research_produces_mult: "Производств�
 mod_station_researchers_engineering_research_produces_mult: "Производство очков исследований £engineering  инженерии"
 sm_shield_module: "Генератор щита"
 sm_shield_module_desc: "Добавляет больше щитов на звёздную базу."
-sm_armor_module: "Защита бронёй"
+sm_armor_module: "Бронепластина"
 sm_armor_module_desc: "Добавляет больше брони на звёздную базу."
 sm_pd_battery: "Система ПКО"
 sm_pd_battery_desc: "Добавляет два слота ПКО на звёздную базу."
