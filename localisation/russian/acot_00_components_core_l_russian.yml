@@ -1,7 +1,7 @@
 ﻿l_russian:
 
 ai_behaviour: "Основной компьютер"
-special_ship_slot: "Special Ship Slot"
+special_ship_slot: "Специальный слот для корабля"
 acot_tactical_computers: "Тактические компьютеры диктуют кораблям как им следует маневрировать против своих врагов."
 acot_support_defense_aura: "Оборонительная аура защитника"
 acot_support_offense_aura: "Наступательная аура интердиктора"
