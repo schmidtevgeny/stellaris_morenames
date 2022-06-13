@@ -1,10 +1,10 @@
 ﻿l_russian:
 
-megalist_title: "Список мегаструктур"
-megalist_desc: ""
-MEGALIST_ENTRY: "[This.GetName] в системе [This.solar_system.Star.GetName]"
-MEGALIST_ENTRY_DESC: ""
-megalist_building_title: "Обновление списока мегаструктур"
-megalist_building_desc: ""
-MEGALIST_BUILDING_ENTRY: "[This.GetName] в системе [This.solar_system.Star.GetName]"
-MEGALIST_BUILDING_ENTRY_DESC: ""
+  MEGALIST_BUILDING_ENTRY:0 "[This.GetName] в системе [This.solar_system.Star.GetName]"
+  MEGALIST_BUILDING_ENTRY_DESC:0 ""
+  MEGALIST_ENTRY:0 "[This.GetName] в системе [This.solar_system.Star.GetName]"
+  MEGALIST_ENTRY_DESC:0 ""
+  megalist_building_desc:0 ""
+  megalist_building_title:0 "Обновление списока мегаструктур"
+  megalist_desc:0 ""
+  megalist_title:0 "Список мегаструктур"

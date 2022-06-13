@@ -23,10 +23,12 @@ subsections = ["diplo_phrases/", "events/"] #,'formats/','namelists/']
 #localisation_synced
 
 class LocString:
-    def __init__(self, path, name, value):
+    def __init__(self, path, name, value, num):
         self.path = path
         self.name = name
         self.value = value
+        self.num = num
+        self.pos = 0
 
     def parse(self, s):
         return s
@@ -39,7 +41,8 @@ class LocString:
 
     def __str__(self):
         return "{}/{}:{}".format(self.path, self.name, self.value)
-
+    def __lt__(self, other):
+        return self.pos<other.pos
 
 class Storage:
     def __init__(self):
@@ -47,6 +50,7 @@ class Storage:
 
     def add(self, s: LocString):
         key = s.path
+        s.pos = len(self.data)
         if not key in self.data.keys():
             self.data[key] = {}
         self.data[key][s.name] = s
@@ -68,7 +72,7 @@ def has_rus(s):
 
 
 def load_strings(storage: Storage, path, relpath, russian: bool = False):
-    regex = r"\s*(\S*):\d*\s*\"(.*)\""
+    regex = r"\s*(\S*):(\d*)\s*\"(.*)\""
 
     f = open(path, encoding = 'utf-8')
     data = "\n".join([x for x in f.read().split('\n') if x.strip() != '' and x.strip()[0] != '#'])
@@ -79,9 +83,10 @@ def load_strings(storage: Storage, path, relpath, russian: bool = False):
 
     for matchNum, match in enumerate(matches, start = 1):
         key = match.group(1)
-        val = match.group(2)
+        num = match.group(2)
+        val = match.group(3)
         if not russian or has_rus(val):
-            storage.add(LocString(relpath, key, val))
+            storage.add(LocString(relpath, key, val, num))
 
 
 # todo: substitution
@@ -103,6 +108,8 @@ if not os.path.exists(base+'russian'):
 ''')
     for section in subsections:
         f.write("if not os.path.exists(base+'"+section+"'):\n    os.makedirs(base+'"+section+"')\n")
+    for section in ['replace', 'replace/russian']:
+        f.write("if not os.path.exists(base+'"+section+"'):\n    os.makedirs(base+'"+section+"')\n")
 
     for i, fdata in storage.data.items():
         of = os.path.basename(i + '_l_russian.yml')
@@ -110,8 +117,11 @@ if not os.path.exists(base+'russian'):
 
         f.write("f = open(base+'" + of + "', 'w', encoding='utf-8-sig')\n")
         f.write('f.write("l_russian:\\n\\n")\n\n')
-        for j, l in fdata.items():
-            f.write('key="{}"\n'.format(j))
+        keys = sorted(fdata)
+
+        for j in keys:
+            l = fdata[j]
+            f.write('key="{}:{}"\n'.format(j, l.num))
             strings = l.get().replace('\\\\', '\\').replace('\\n', '\n').split('\n')
 
             valitems = []
@@ -128,7 +138,7 @@ if not os.path.exists(base+'russian'):
 
             f.write('value="\\\\n".join([{}])\n'.format(', '.join(valitems)))
 
-            f.write('f.write(\'{}: \"{}\"\\n\'.format(key, pre(value)))\n')
+            f.write('f.write(\'  {} \"{}\"\\n\'.format(key, pre(value)))\n')
 
         f.write("f.close()\n\n")
     pass
@@ -168,7 +178,7 @@ def get_plugin_strings(storage: Storage):
     # module_path = "test/"
     modules = [
         # base
-        790903721, 2028826064, 1885775216, 1313138123, 1419304439, 1796418794, 1701916892, 2484636075, 683230077,
+        790903721,  2028826064, 1885775216, 1313138123, 1419304439, 1796418794, 1701916892, 2484636075, 683230077,
         1121692237, 2509070395, 1630649870, 2466607238, 2608299476, 1890399946, 1623423360, 1333526620, 1311725711,
         2293169684, 1067631798, 946222466, 1688887083, 1419304439, 2458945473, 1504307690, 2288335512
         # full
@@ -202,6 +212,13 @@ def get_plugin_strings(storage: Storage):
             fr = 'russian/' + os.path.basename(fn).replace(en, '')
             load_strings(storage, fn, fr)
 
+        # replace
+        for fn in glob.iglob(locpath + "replace/*" + en):
+            fr = 'replace/' + os.path.basename(fn).replace(en, '')
+            load_strings(storage, fn, fr)
+        for fn in glob.iglob(locpath + "replace/english/*" + en):
+            fr = 'replace/russian/' + os.path.basename(fn).replace(en, '')
+            load_strings(storage, fn, fr)
 
 def get_original_strings(storage):
     fr = 'base'
@@ -243,6 +260,7 @@ storage_ru = Storage()
 
 get_original_strings(storage_en)
 get_russian_strings(storage_ru)
+
 
 make_maker(storage)
 make_memory(storage_en, storage_ru)
