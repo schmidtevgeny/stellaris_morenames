@@ -95,7 +95,7 @@ lang_translations = gettext.translation('base', localedir='locales', languages=[
 lang_translations.install()
 
 def pre(s):
-    return s.replace('\n', '\\n')
+    return s.replace('\n', '\\n').replace('"', "'")
     
 base = 'localisation/'
 if not os.path.exists(base+'russian'):
