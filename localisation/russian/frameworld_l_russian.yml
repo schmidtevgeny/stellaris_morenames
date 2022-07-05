@@ -195,7 +195,7 @@
   frameworld_defense_army:0 "$pc_giga_frameworld$ сеть дронов"
   frameworld_defense_army_desc:0 "Оборонительные подразделения специализируются на уникальных условиях, возникающих при ведении боевых действий на эклектичной конструкции $pc_giga_frameworld$ и вокруг нее."
   frameworld_defense_army_plural:0 "$pc_giga_frameworld$ сеть дронов"
-  frameworld_defensive_station:0 "Defensive Perimeter"
+  frameworld_defensive_station:0 "Оборонительная станция"
   frameworld_defensive_station_plural:0 "Оборонительные секции"
   frameworld_defensive_station_section_1:0 "Основной"
   frameworld_defensive_station_section_2:0 "Звездный бастион"
