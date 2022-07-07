@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2022-07-06 23:37+0300\n"
-"PO-Revision-Date: 2022-07-06 23:49+0300\n"
-"Last-Translator: schmi <schmidte@list.ru>\n"
+"PO-Revision-Date: 2022-07-07 10:20+0300\n"
+"Last-Translator: anubis <schmidte@list.ru>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
 "=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 "Generated-By: pygettext.py 1.5\n"
-"X-Generator: Lokalize 22.04.0\n"
+"X-Generator: Lokalize 22.04.2\n"
 
 #: update.py:26
 msgid "Age Range of Recruited Leaders"
@@ -27,39 +27,39 @@ msgstr "Доступное количество черт"
 
 #: update.py:32
 msgid "$MOD_TD_TRAIT_POINT_ADD$: §R-4§!"
-msgstr ""
+msgstr "$MOD_TD_TRAIT_POINT_ADD$: §R-4§!"
 
 #: update.py:35 update.py:53
 msgid "$MOD_TD_TRAIT_POINT_ADD$: §G+2§!"
-msgstr ""
+msgstr "$MOD_TD_TRAIT_POINT_ADD$: §G+2§!"
 
 #: update.py:38
 msgid "$MOD_LEADER_SPECIES_EXP_GAIN$: §G+25%§!"
-msgstr ""
+msgstr "$MOD_LEADER_SPECIES_EXP_GAIN$: §G+25%§!"
 
 #: update.py:38
 msgid "$MOD_TD_LEADER_AGE_RANGE$: §R48-70§!"
-msgstr ""
+msgstr "$MOD_TD_LEADER_AGE_RANGE$: §R48-70§!"
 
 #: update.py:41
 msgid "$MOD_TD_TRAIT_POINT_ADD$: §R-2§!"
-msgstr ""
+msgstr "$MOD_TD_TRAIT_POINT_ADD$: §R-2§!"
 
 #: update.py:44 update.py:56
 msgid "$MOD_TD_TRAIT_POINT_ADD$: §R-1§!"
-msgstr ""
+msgstr "$MOD_TD_TRAIT_POINT_ADD$: §R-1§!"
 
 #: update.py:47
 msgid "$MOD_TD_TRAIT_POINT_ADD$: §G+4§!"
-msgstr ""
+msgstr "$MOD_TD_TRAIT_POINT_ADD$: §G+4§!"
 
 #: update.py:50
 msgid "$MOD_TD_LEADER_AGE_RANGE$: §G10-18§!"
-msgstr ""
+msgstr "$MOD_TD_LEADER_AGE_RANGE$: §G10-18§!"
 
 #: update.py:59
 msgid "$MOD_TD_TRAIT_POINT_ADD$: §G+1§!"
-msgstr ""
+msgstr "$MOD_TD_TRAIT_POINT_ADD$: §G+1§!"
 
 #: update.py:62
 msgid "$MOD_LEADER_AGE$: §G+80§!"
@@ -67,7 +67,7 @@ msgstr "$MOD_LEADER_AGE$: §G+80§!"
 
 #: update.py:62
 msgid "$MOD_TD_LEADER_AGE_RANGE$: §R56-100§!"
-msgstr ""
+msgstr "$MOD_TD_LEADER_AGE_RANGE$: §R56-100§!"
 
 #: update.py:65
 msgid "£alloys£ $alloys$ from £job_livestock£ §Y$job_livestock_plural$§!"
@@ -88,7 +88,7 @@ msgstr ""
 
 #: update.py:77
 msgid "Pop £food£ $food$ Upkeep"
-msgstr ""
+msgstr "Расход £food£еды на поселения"
 
 #: update.py:80
 msgid "Pop £minerals£ $minerals$ Upkeep"
@@ -994,7 +994,7 @@ msgstr "$trait_td_born_to_rule$"
 
 #: update.py:530
 msgid "$trait_td_born_to_rule_desc$"
-msgstr ""
+msgstr "$trait_td_born_to_rule_desc$"
 
 #: update.py:533
 msgid "$trait_td_heroism$"
@@ -1186,11 +1186,11 @@ msgstr ""
 
 #: update.py:629
 msgid "$trait_td_basic_cybernetics$"
-msgstr ""
+msgstr "$trait_td_basic_cybernetics$"
 
 #: update.py:632
 msgid "$trait_td_basic_cybernetics_desc$"
-msgstr ""
+msgstr "$trait_td_basic_cybernetics_desc$"
 
 #: update.py:635
 msgid "$trait_td_big$"
@@ -1202,27 +1202,27 @@ msgstr "$trait_td_big_desc$"
 
 #: update.py:641
 msgid "$trait_td_controlled_metabolism$"
-msgstr ""
+msgstr "$trait_td_controlled_metabolism$"
 
 #: update.py:644
 msgid "$trait_td_controlled_metabolism_desc$"
-msgstr ""
+msgstr "$trait_td_controlled_metabolism_desc$"
 
 #: update.py:647
 msgid "$trait_td_dimensional_absent$"
-msgstr ""
+msgstr "$trait_td_dimensional_absent$"
 
 #: update.py:650
 msgid "$trait_td_dimensional_absent_desc$"
-msgstr ""
+msgstr "$trait_td_dimensional_absent_desc$"
 
 #: update.py:653
 msgid "$trait_td_efficient_metabolism$"
-msgstr ""
+msgstr "$trait_td_efficient_metabolism$"
 
 #: update.py:656
 msgid "$trait_td_efficient_metabolism_desc$"
-msgstr ""
+msgstr "$trait_td_efficient_metabolism_desc$"
 
 #: update.py:659
 msgid "$trait_td_energivore$"
@@ -1270,7 +1270,7 @@ msgstr "$trait_td_healing_factor$"
 
 #: update.py:692
 msgid "$trait_td_healing_factor_desc$"
-msgstr ""
+msgstr "$trait_td_healing_factor_desc$"
 
 #: update.py:695
 msgid "Holey"
@@ -1350,7 +1350,7 @@ msgstr "$trait_td_nanoorganisms$"
 
 #: update.py:734
 msgid "$trait_td_nanoorganisms_desc$"
-msgstr ""
+msgstr "$trait_td_nanoorganisms_desc$"
 
 #: update.py:737
 msgid "$trait_td_paradise_lost$"
@@ -1358,7 +1358,7 @@ msgstr "$trait_td_paradise_lost$"
 
 #: update.py:740
 msgid "$trait_td_paradise_lost_desc$"
-msgstr ""
+msgstr "$trait_td_paradise_lost_desc$"
 
 #: update.py:743
 msgid "$trait_td_parasite$"
@@ -1374,7 +1374,7 @@ msgstr "$trait_td_phantom_pain$"
 
 #: update.py:752
 msgid "$trait_td_phantom_pain_desc$"
-msgstr ""
+msgstr "$trait_td_phantom_pain_desc$"
 
 #: update.py:755
 msgid "Rock Salt"
@@ -1408,11 +1408,11 @@ msgstr "$trait_td_small_desc$"
 
 #: update.py:773
 msgid "$trait_td_terrible_punishment$"
-msgstr ""
+msgstr "$trait_td_terrible_punishment$"
 
 #: update.py:776
 msgid "$trait_td_terrible_punishment_desc$"
-msgstr ""
+msgstr "$trait_td_terrible_punishment_desc$"
 
 #: update.py:779
 msgid "$trait_td_tiny$"
@@ -1424,11 +1424,11 @@ msgstr "$trait_td_tiny_desc$"
 
 #: update.py:785
 msgid "$trait_td_vestigial_psionic$"
-msgstr ""
+msgstr "$trait_td_vestigial_psionic$"
 
 #: update.py:788
 msgid "$trait_td_vestigial_psionic_desc$"
-msgstr ""
+msgstr "$trait_td_vestigial_psionic_desc$"
 
 #: update.py:791
 msgid "$trait_td_virus$"
@@ -1591,7 +1591,7 @@ msgstr "$trait_td_translucent_skin$"
 
 #: update.py:872
 msgid "$trait_td_translucent_skin_desc$"
-msgstr ""
+msgstr "$trait_td_translucent_skin_desc$"
 
 #: update.py:875
 msgid "Monopole"
@@ -1853,7 +1853,7 @@ msgstr "$trait_td_harmonization$"
 
 #: update.py:1004
 msgid "$trait_td_harmonization_desc$"
-msgstr ""
+msgstr "$trait_td_harmonization_desc$"
 
 #: update.py:1007
 msgid "Precocious"
@@ -2390,7 +2390,7 @@ msgstr "Псионический осциллятор"
 
 #: update.py:1268
 msgid "$trait_td_rbot_psionic_emulators_desc$"
-msgstr ""
+msgstr "$trait_td_rbot_psionic_emulators_desc$"
 
 #: update.py:1271
 msgid "Quality Control"
@@ -2614,7 +2614,7 @@ msgstr "$trait_td_dragon_scales$"
 
 #: update.py:1382
 msgid "$trait_td_dragon_scales_desc$"
-msgstr ""
+msgstr "$trait_td_dragon_scales_desc$"
 
 #: update.py:1385
 msgid "Rite of Succession"
@@ -4041,7 +4041,7 @@ msgstr ""
 
 #: update.py:1951
 msgid "£influence£ +0.5"
-msgstr ""
+msgstr "£influence£ +0.5"
 
 #: update.py:1951
 msgid "£society£ +5"
@@ -4057,11 +4057,11 @@ msgstr "£energy£ +7"
 
 #: update.py:1960
 msgid "£engineering£ +8"
-msgstr ""
+msgstr "£engineering£ +8"
 
 #: update.py:1963
 msgid "£engineering£ +1"
-msgstr ""
+msgstr "£engineering£ +1"
 
 #: update.py:1963
 msgid "£physics£ +2"
@@ -4320,7 +4320,7 @@ msgstr ""
 
 #: update.py:2154
 msgid "($DEFAULT_GENDER$ §R$planet_automation_setting_disabled$§!)"
-msgstr ""
+msgstr "($DEFAULT_GENDER$ §R$planet_automation_setting_disabled$§!)"
 
 #: update.py:2157
 msgid ""
@@ -4330,7 +4330,7 @@ msgstr ""
 
 #: update.py:2160
 msgid "$DISABLE$ for AI-player"
-msgstr ""
+msgstr "$DISABLE$ для ИИ"
 
 #: update.py:2163
 msgid "$ENABLE$ for AI-player"
@@ -5875,7 +5875,7 @@ msgstr ""
 
 #: update.py:3135
 msgid "$col_default$ Synthetic"
-msgstr ""
+msgstr "$col_default$ Synthetic"
 
 #: update.py:3138
 msgid "$col_default_desc$"
@@ -5899,7 +5899,7 @@ msgstr "$edict_unique_perk_menu$"
 
 #: update.py:3153
 msgid "$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$"
-msgstr ""
+msgstr "$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$"
 
 #: update.py:3156
 msgid "$TRIGGER_FAIL$We can only have 3 Utopian Projects."
@@ -5925,11 +5925,11 @@ msgstr "$ap_aggressive_hivemind$"
 
 #: update.py:3173
 msgid "$ap_aggressive_hivemind_desc$"
-msgstr ""
+msgstr "$ap_aggressive_hivemind_desc$"
 
 #: update.py:3173
 msgid "$ap_aggressive_hivemind_tooltip$"
-msgstr ""
+msgstr "$ap_aggressive_hivemind_tooltip$"
 
 #: update.py:3176
 msgid "Evolved Swarm"
@@ -5982,7 +5982,7 @@ msgstr "§HРазблокирует функцию:§! Новые черты л�
 #: update.py:3206 update.py:3218 update.py:3845 update.py:3851 update.py:3857
 #: update.py:3863 update.py:3869 update.py:3875 update.py:3902
 msgid "$tech_stellar_manipulation_2_desc$."
-msgstr ""
+msgstr "$tech_stellar_manipulation_2_desc$."
 
 #: update.py:3209
 msgid "§HUnlocks Feature:§! §BPlanetary Program:§! $ap_pc_eco$"
@@ -6010,7 +6010,7 @@ msgstr "§HРазблокирует функцию:§! §BПланетарная
 
 #: update.py:3212 update.py:3896
 msgid "$tech_stellar_manipulation_1_desc$."
-msgstr ""
+msgstr "$tech_stellar_manipulation_1_desc$."
 
 #: update.py:3215
 msgid "§HUnlocks Feature:§! §BPlanetary Program:§! §YAsteroids§!"
@@ -6022,7 +6022,7 @@ msgstr "§HРазблокирует функцию:§! §BПланетарная
 
 #: update.py:3224 update.py:3908
 msgid "$tech_stellar_manipulation_3_desc$."
-msgstr ""
+msgstr "$tech_stellar_manipulation_3_desc$."
 
 #: update.py:3227
 msgid "§HUnlocks Feature:§! §BPlanetary Program:§! §YPerfect World§!"
@@ -6038,11 +6038,11 @@ msgstr "Пробуждение Падшей Империи"
 
 #: update.py:3239
 msgid "$ap_fallen_disciple_tooltip_3$"
-msgstr ""
+msgstr "$ap_fallen_disciple_tooltip_3$"
 
 #: update.py:3239
 msgid "$edict_awaken_fallen_empire_desc$"
-msgstr ""
+msgstr "$edict_awaken_fallen_empire_desc$"
 
 #: update.py:3242
 msgid "§HUnlocks Feature:§! Improved Black Hole Exploitation"
@@ -6120,7 +6120,7 @@ msgstr "Производит §Y5 Энергетические кредиты§!
 #: update.py:3284 update.py:3308 update.py:3434 update.py:3452 update.py:3458
 #: update.py:8300 update.py:8318 update.py:8324
 msgid "$CIVILIAN_FACTORY_AUX_PHYSICS$"
-msgstr ""
+msgstr "$CIVILIAN_FACTORY_AUX_PHYSICS$"
 
 #: update.py:3287
 msgid "Produces §Y6 Engineering Research§! £engineering£."
@@ -6273,7 +6273,7 @@ msgstr "$ZERO_POINT_REACTOR$"
 
 #: update.py:3416 update.py:8282
 msgid "$CIVILIAN_FACTORY_AUX_ALLOY$"
-msgstr ""
+msgstr "$CIVILIAN_FACTORY_AUX_ALLOY$"
 
 #: update.py:3419
 msgid "Produces §Y9 Alloys§! £alloys£ for §R9 Minerals§! £minerals£."
@@ -6281,7 +6281,7 @@ msgstr "Производит §Y9 Сплавы§! £alloys£ из §R9 Мине�
 
 #: update.py:3422 update.py:8288
 msgid "$CIVILIAN_FACTORY_AUX_CONSUMER$"
-msgstr ""
+msgstr "$CIVILIAN_FACTORY_AUX_CONSUMER$"
 
 #: update.py:3425
 msgid ""
@@ -6292,7 +6292,7 @@ msgstr ""
 
 #: update.py:3428 update.py:8294
 msgid "$CIVILIAN_FACTORY_AUX_ENERGY$"
-msgstr ""
+msgstr "$CIVILIAN_FACTORY_AUX_ENERGY$"
 
 #: update.py:3431
 msgid "Produces §Y15 $energy$§! £energy£."
@@ -6312,7 +6312,7 @@ msgstr "Производит §Y18 Еды§! £food£."
 
 #: update.py:3446 update.py:8312
 msgid "$CIVILIAN_FACTORY_AUX_MINERAL$"
-msgstr ""
+msgstr "$CIVILIAN_FACTORY_AUX_MINERAL$"
 
 #: update.py:3449
 msgid "Produces §Y15 Minerals§! £minerals£."
@@ -6328,7 +6328,7 @@ msgstr "Производит §Y18 $society_research$§! £society£."
 
 #: update.py:3464 update.py:8330
 msgid "$CIVILIAN_FACTORY_AUX_UNITY$"
-msgstr ""
+msgstr "$CIVILIAN_FACTORY_AUX_UNITY$"
 
 #: update.py:3467
 msgid "Produces §Y15 Unity§! £unity£."
@@ -6570,7 +6570,7 @@ msgstr "$tech_living_metal_armor$"
 
 #: update.py:3614
 msgid "$tech_living_metal_armor_desc$"
-msgstr ""
+msgstr "$tech_living_metal_armor_desc$"
 
 #: update.py:3617
 msgid "$ap_machine_core$"
@@ -6590,11 +6590,11 @@ msgstr "$ap_mechanical_prophet$"
 
 #: update.py:3626
 msgid "$ap_mechanical_prophet_desc$"
-msgstr ""
+msgstr "$ap_mechanical_prophet_desc$"
 
 #: update.py:3626
 msgid "$ap_mechanical_prophet_tooltip_2$"
-msgstr ""
+msgstr "$ap_mechanical_prophet_tooltip_2$"
 
 #: update.py:3629
 msgid "Medium $tech_living_metal_armor$"
@@ -6610,7 +6610,7 @@ msgstr "$ap_mega_hive_mind_desc$"
 
 #: update.py:3635
 msgid "$ap_mega_hive_mind_tooltip_2$"
-msgstr ""
+msgstr "$ap_mega_hive_mind_tooltip_2$"
 
 #: update.py:3638
 msgid "Mother Cloud Section"
@@ -6678,7 +6678,7 @@ msgstr "§GНанитовый§! Артиллерийский носовая ч�
 
 #: update.py:3680
 msgid "$NANITE_CARRIER_MID_CRUISER$"
-msgstr "§GНанитовая§! несущая палуба"
+msgstr "$NANITE_CARRIER_MID_CRUISER$"
 
 #: update.py:3683
 msgid "§GNanite§! Carrier Mid"
@@ -6702,7 +6702,7 @@ msgstr "§GНанит§! Середина защиты"
 
 #: update.py:3698
 msgid "$NANITE_DEFENSE_STERN_DESTROYER$"
-msgstr "§GНанитовая§! защитная корма"
+msgstr "$NANITE_DEFENSE_STERN_DESTROYER$"
 
 #: update.py:3701
 msgid "§GNanite§! Defense Stern"
@@ -6718,7 +6718,7 @@ msgstr "Эта система содержит §YПуть через нанит
 
 #: update.py:3713 update.py:3716
 msgid "$NANITE_HEAVY_TITAN_BOW$"
-msgstr "§GНанитовый§! тяжелый нос"
+msgstr "$NANITE_HEAVY_TITAN_BOW$"
 
 #: update.py:3719
 msgid "§GNanite§! Heavy Section"
@@ -6726,7 +6726,7 @@ msgstr "§GНанит§! Тяжелая секция"
 
 #: update.py:3722
 msgid "$NANITE_HEAVY_TITAN_STERN$"
-msgstr "§GНанитовая§! тяжелая корма"
+msgstr "$NANITE_HEAVY_TITAN_STERN$"
 
 #: update.py:3725
 msgid "§GNanite§! Heavy Bow"
@@ -6754,7 +6754,7 @@ msgstr "§HРазблокирует функцию:§! Секции нанито
 
 #: update.py:3743
 msgid "$NANITE_SNIPER_TITAN_BOW$"
-msgstr "§GНанитовый§! снайперский нос"
+msgstr "$NANITE_SNIPER_TITAN_BOW$"
 
 #: update.py:3746
 msgid "§GNanite§! Artillery Mid"
@@ -6762,7 +6762,7 @@ msgstr "§GНанит§! Средняя артиллерия"
 
 #: update.py:3749 update.py:3755
 msgid "$NANITE_SNIPER_STERN_CRUISER$"
-msgstr "§GНанитовая§! снайперская палуба"
+msgstr "$NANITE_SNIPER_STERN_CRUISER$"
 
 #: update.py:3752
 msgid "§GNanite§! Sniper Stern"
@@ -6774,15 +6774,15 @@ msgstr "§GНанит§! Снайперская носовая часть"
 
 #: update.py:3761
 msgid "$NANITE_MULTI_BOW_DESTROYER$"
-msgstr "§GНанитовый§! универсальный нос"
+msgstr "$NANITE_MULTI_BOW_DESTROYER$"
 
 #: update.py:3764 update.py:3767
 msgid "$NANITE_STANDARD_TITAN_MID$"
-msgstr "§GНанитовая§! универсальная палуба"
+msgstr "$NANITE_STANDARD_TITAN_MID$"
 
 #: update.py:3770
 msgid "$NANITE_STANDARD_TITAN_STERN$"
-msgstr "§GНанитовая§! универсальная корма"
+msgstr "$NANITE_STANDARD_TITAN_STERN$"
 
 #: update.py:3773
 msgid "§GNanite§! Standard Mid"
@@ -6814,7 +6814,7 @@ msgstr "§GНанит§! Колосс роя"
 
 #: update.py:3794
 msgid "$NANITE_TORPEDO_BOW_DESTROYER$"
-msgstr "§GНанитовый§! торпедный нос"
+msgstr "$NANITE_TORPEDO_BOW_DESTROYER$"
 
 #: update.py:3797
 msgid "§GNanite§! Torpedo Bow"
@@ -6830,7 +6830,7 @@ msgstr "§GНанит§! Торпедная секция"
 
 #: update.py:3806
 msgid "$NANITE_TORPEDO_MID_CRUISER$"
-msgstr "§GНанитовая§! торпедная палуба"
+msgstr "$NANITE_TORPEDO_MID_CRUISER$"
 
 #: update.py:3809
 msgid "§GNanite§! Torpedo Mid"
@@ -6838,7 +6838,7 @@ msgstr "§GНанит§! Средняя торпеда"
 
 #: update.py:3812 update.py:3815
 msgid "$NANITE_TORPEDO_TITAN_STERN$"
-msgstr "§GНанитовая§! торпедная корма"
+msgstr "$NANITE_TORPEDO_TITAN_STERN$"
 
 #: update.py:3818
 msgid "§GNanite§! Torpedo Stern"
@@ -6961,7 +6961,7 @@ msgstr "Конструкция рекомпозера"
 
 #: update.py:3926 update.py:9092
 msgid "$decision_recomposer_life_to_ai_desc$"
-msgstr ""
+msgstr "$decision_recomposer_life_to_ai_desc$"
 
 #: update.py:3929
 msgid "Ship Upgrade Operations"
@@ -7200,7 +7200,7 @@ msgstr "$ap_utopian_realisation$"
 
 #: update.py:4052
 msgid "$ap_utopian_realisation_desc$"
-msgstr ""
+msgstr "$ap_utopian_realisation_desc$"
 
 #: update.py:4055
 msgid ""
@@ -7279,7 +7279,7 @@ msgstr "$domesticated_ameoba$"
 
 #: update.py:4082
 msgid "$domesticated_amoeba_tooltip_1$ $domesticated_amoeba_tooltip_2$"
-msgstr ""
+msgstr "$domesticated_amoeba_tooltip_1$ $domesticated_amoeba_tooltip_2$"
 
 #: update.py:4085
 msgid "$domesticated_cloud$"
@@ -7287,7 +7287,7 @@ msgstr "$domesticated_cloud$"
 
 #: update.py:4085
 msgid "$domesticated_cloud_tooltip_1$ $domesticated_cloud_tooltip_2$"
-msgstr ""
+msgstr "$domesticated_cloud_tooltip_1$ $domesticated_cloud_tooltip_2$"
 
 #: update.py:4088
 msgid "$domesticated_crystal$"
@@ -7295,7 +7295,7 @@ msgstr "$domesticated_crystal$"
 
 #: update.py:4088
 msgid "$domesticated_crystals_tooltip_1$ $domesticated_crystals_tooltip_2$"
-msgstr ""
+msgstr "$domesticated_crystals_tooltip_1$ $domesticated_crystals_tooltip_2$"
 
 #: update.py:4091
 msgid "Talking about that, what should be done next?"
@@ -7317,7 +7317,7 @@ msgstr "$domesticated_drone$"
 
 #: update.py:4094
 msgid "$domesticated_drones_tooltip_1$ $domesticated_drones_tooltip_2$"
-msgstr ""
+msgstr "$domesticated_drones_tooltip_1$ $domesticated_drones_tooltip_2$"
 
 #: update.py:4097
 msgid "Space Domestication Completed"
@@ -7352,7 +7352,7 @@ msgstr "$domesticated_tiyanki$"
 
 #: update.py:4115
 msgid "$domesticated_tiyanki_tooltip_1$ $domesticated_tiyanki_tooltip_2$"
-msgstr ""
+msgstr "$domesticated_tiyanki_tooltip_1$ $domesticated_tiyanki_tooltip_2$"
 
 #: update.py:4118
 msgid ""
@@ -8413,6 +8413,8 @@ msgid ""
 "===> §G[This.expedition_sector_resources_motes]§! §Y$volatile_motes$§!: "
 "£volatile_motes£"
 msgstr ""
+"===> §G[This.expedition_sector_resources_motes]§! §Y$volatile_motes$§!: "
+"£volatile_motes£"
 
 #: update.py:4541
 msgid ""
@@ -11683,7 +11685,7 @@ msgstr ""
 
 #: update.py:5825
 msgid "$decision_deep_scanner$ Ready on §H$PLANET|Y$§!"
-msgstr ""
+msgstr "$decision_deep_scanner$ Готово на §H$PLANET|Y$§!"
 
 #: update.py:5828
 msgid ""
@@ -11695,7 +11697,7 @@ msgstr ""
 
 #: update.py:5831
 msgid "$decision_deep_scanner$ Ready on §H[Root.GetName]§!"
-msgstr ""
+msgstr "$decision_deep_scanner$ Готово на §H[Root.GetName]§!"
 
 #: update.py:5834
 msgid ""
@@ -13929,7 +13931,7 @@ msgstr "$ap_void_expedition_desc$"
 
 #: update.py:6734
 msgid "$ap_void_expedition_tooltip_2$"
-msgstr ""
+msgstr "$ap_void_expedition_tooltip_2$"
 
 #: update.py:6737
 msgid "§H$ap_adv_colonisation$§! Temporal Shelter"
@@ -13937,7 +13939,7 @@ msgstr "§H$ap_adv_colonisation$§! Временное убежище"
 
 #: update.py:6743
 msgid "$adv_colonisation_temporal_job$"
-msgstr ""
+msgstr "$adv_colonisation_temporal_job$"
 
 #: update.py:6749
 msgid "Aggressive Marketing Target"
@@ -17170,7 +17172,7 @@ msgstr "Нанопроизводство Уровень-2"
 
 #: update.py:7961 update.py:7967
 msgid "$building_auto_drone_facility_1_desc$"
-msgstr ""
+msgstr "$building_auto_drone_facility_1_desc$"
 
 #: update.py:7964
 msgid "Nano Production Facility Tier-3"
@@ -17193,7 +17195,7 @@ msgstr "Нано-инженерный кампус Тип-.2"
 
 #: update.py:7979 update.py:7985 update.py:7991 update.py:7997
 msgid "$building_auto_engineering_campus_1_desc$"
-msgstr ""
+msgstr "$building_auto_engineering_campus_1_desc$"
 
 #: update.py:7982
 msgid "Nano-Engineering Campus Tier-3"
@@ -17223,7 +17225,7 @@ msgstr "'Нано-фермерский комплекс Тип-2"
 
 #: update.py:8009 update.py:8015 update.py:8021 update.py:8027
 msgid "$building_auto_farming_complex_1_desc$"
-msgstr ""
+msgstr "$building_auto_farming_complex_1_desc$"
 
 #: update.py:8012
 msgid "Nano-Farming Complex Tier-3"
@@ -17253,7 +17255,7 @@ msgstr "Ярус нанодобывающего комплекса тип-2"
 
 #: update.py:8039 update.py:8045 update.py:8051 update.py:8057
 msgid "$building_auto_mining_complex_1_desc$"
-msgstr ""
+msgstr "$building_auto_mining_complex_1_desc$"
 
 #: update.py:8042
 msgid "Nano-Mining Complex Tier-3"
@@ -17283,7 +17285,7 @@ msgstr "Кампус Нано-Физики Ярус-2"
 
 #: update.py:8069 update.py:8075 update.py:8081 update.py:8087
 msgid "$building_auto_physics_campus_1_desc$"
-msgstr ""
+msgstr "$building_auto_physics_campus_1_desc$"
 
 #: update.py:8072
 msgid "Nano-Physics Campus Tier-3"
@@ -17313,7 +17315,7 @@ msgstr "Нано-электростанция Тип-2"
 
 #: update.py:8099 update.py:8105 update.py:8111 update.py:8117
 msgid "$building_auto_power_plant_1_desc$"
-msgstr ""
+msgstr "$building_auto_power_plant_1_desc$"
 
 #: update.py:8102
 msgid "Nano-Power Plant Tier-3"
@@ -17344,7 +17346,7 @@ msgstr "Нано-социологический кампус Тип-2"
 
 #: update.py:8129 update.py:8135 update.py:8141 update.py:8147
 msgid "$building_auto_sociological_campus_1_desc$"
-msgstr ""
+msgstr "$building_auto_sociological_campus_1_desc$"
 
 #: update.py:8132
 msgid "Nano-Sociological Campus Tier-3"
@@ -17442,7 +17444,7 @@ msgstr "Нанитовая фабрика Уровень-2"
 
 #: update.py:8213 update.py:8219
 msgid "$building_nanite_facility_1_desc$"
-msgstr ""
+msgstr "$building_nanite_facility_1_desc$"
 
 #: update.py:8216
 msgid "Nanite Facility Tier-3"
@@ -17496,7 +17498,7 @@ msgstr "§YИзбранный правитель:§! Превентивный к
 
 #: update.py:8252
 msgid "$chosen_ruler_job_orientation_normal$"
-msgstr ""
+msgstr "$chosen_ruler_job_orientation_normal$"
 
 #: update.py:8258
 msgid "§Y$ap_chosen_ruler$:§! Job Orientation"
@@ -17581,7 +17583,7 @@ msgstr "$civilian_industrial_ship$ Компоненты"
 
 #: update.py:8354
 msgid "$civilian_factory_components_DESC$"
-msgstr ""
+msgstr "$civilian_factory_components_DESC$"
 
 #: update.py:8357
 msgid "Giga Industrial Ships"
@@ -18162,7 +18164,7 @@ msgstr "Сбор влияния"
 
 #: update.py:8921
 msgid "$ap_advanced_government_1_desc$"
-msgstr ""
+msgstr "$ap_advanced_government_1_desc$"
 
 #: update.py:8924
 msgid "$TRIGGER_FAIL$Requires at least 10 pops following the country ethics."
@@ -18222,6 +18224,7 @@ msgstr "$TRIGGER_FAIL$Требуется органического населе
 msgid ""
 "$TRIGGER_FAIL$The Decision §Y$ap_genius_cloning$§! has a cooldown of 1 Year."
 msgstr ""
+"$TRIGGER_FAIL$Решение §Y$ap_genius_cloning$§! имеет время действия 2 года."
 
 #: update.py:8963
 msgid ""
@@ -18440,7 +18443,7 @@ msgstr "$ap_primitives_creation$"
 
 #: update.py:9074 update.py:9083
 msgid "$ap_primitives_creation_desc$"
-msgstr ""
+msgstr "$ap_primitives_creation_desc$"
 
 #: update.py:9077
 msgid ""
@@ -18551,7 +18554,7 @@ msgstr "$ap_self_aware_colony$"
 
 #: update.py:9137
 msgid "$ap_self_aware_colony$ Menu"
-msgstr ""
+msgstr "Меню $ap_self_aware_colony$"
 
 #: update.py:9143
 msgid ""
@@ -18602,7 +18605,7 @@ msgstr "$ap_stellar_manipulation$"
 
 #: update.py:9155
 msgid "$ap_stellar_manipulation_desc$"
-msgstr ""
+msgstr "$ap_stellar_manipulation_desc$"
 
 #: update.py:9158
 msgid ""
@@ -19552,7 +19555,7 @@ msgstr "§BВключить планетарную программу§!"
 
 #: update.py:9731
 msgid "$ap_stellar_manipulation_instruction$."
-msgstr ""
+msgstr "$ap_stellar_manipulation_instruction$."
 
 #: update.py:9734
 msgid "$Sector_Z749$ Menu"
@@ -19582,7 +19585,7 @@ msgstr "§BПроект космического создания §!"
 
 #: update.py:9746
 msgid "$ap_space_engineers_instruction$."
-msgstr ""
+msgstr "$ap_space_engineers_instruction$."
 
 #: update.py:9749
 msgid "£sr_dark_matter£ §BSystem Localization§! £sr_dark_matter£"
@@ -20075,7 +20078,7 @@ msgstr "Конгресс технократов §BВычислительная 
 #: update.py:10256 update.py:10268 update.py:10280 update.py:13613
 #: update.py:13619 update.py:13625
 msgid "$ap_flourishing_technocracy_desc$"
-msgstr ""
+msgstr "$ap_flourishing_technocracy_desc$"
 
 #: update.py:10259
 msgid "Technocrate Congress §BField Manipulation§!"
@@ -20136,8 +20139,7 @@ msgstr "$STRING_ambassador_CAP$"
 #: update.py:10778 update.py:10796 update.py:10808 update.py:10820
 #: update.py:10832 update.py:10844
 msgid "$PS_JOB_DESC$"
-msgstr ""
-"Королевы Улья дают новую жизнь улью. Они являются волей проявления Разума."
+msgstr "$PS_JOB_DESC$"
 
 #: update.py:10343
 msgid ""
@@ -20211,7 +20213,7 @@ msgstr "Ботаники"
 
 #: update.py:10385 update.py:10997
 msgid "$AQUATIC4_SHIP_Builder$"
-msgstr "Прораб"
+msgstr "$AQUATIC4_SHIP_Builder$"
 
 #: update.py:10391
 msgid "Builder Drone"
@@ -20365,7 +20367,7 @@ msgstr "$job_hive_queen_effect_desc$"
 
 #: update.py:10481
 msgid "$job_royal_guard_effect_desc$"
-msgstr ""
+msgstr "$job_royal_guard_effect_desc$"
 
 #: update.py:10484
 msgid "$queen_swarm$"
@@ -20771,7 +20773,7 @@ msgstr "Дрон-контрабандист"
 
 #: update.py:10739
 msgid "$job_smuggler_drone_effect_desc$"
-msgstr ""
+msgstr "$job_smuggler_drone_effect_desc$"
 
 #: update.py:10739
 msgid "$job_spy_drone_effect_desc$"
@@ -20972,7 +20974,7 @@ msgstr "Дрон-сборщик сокровищ"
 
 #: update.py:10862
 msgid "$job_treasures_collector_desc$"
-msgstr ""
+msgstr "$job_treasures_collector_desc$"
 
 #: update.py:10865
 msgid ""
@@ -21213,7 +21215,7 @@ msgstr ""
 
 #: update.py:10991
 msgid "$HUMAN2_SHIP_Behemoth$"
-msgstr "Бегемот"
+msgstr "$HUMAN2_SHIP_Behemoth$"
 
 #: update.py:10994
 msgid "This leader has improved the ship hulls of his fleet."
@@ -21253,7 +21255,7 @@ msgstr ""
 
 #: update.py:11015
 msgid "$DESTROYER$"
-msgstr "Разрушитель"
+msgstr "$DESTROYER$"
 
 #: update.py:11018
 msgid ""
@@ -21356,7 +21358,7 @@ msgstr ""
 
 #: update.py:11069
 msgid "$HUMAN2_SHIP_Merciless$"
-msgstr "Безжалостный"
+msgstr "$HUMAN2_SHIP_Merciless$"
 
 #: update.py:11072
 msgid ""
@@ -21392,7 +21394,7 @@ msgstr "Этот лидер легко справляется с техноло�
 
 #: update.py:11093
 msgid "$MP_GAMESETUP_EMPIRE_ICON_OBSERVER$"
-msgstr "Наблюдательный"
+msgstr "$MP_GAMESETUP_EMPIRE_ICON_OBSERVER$"
 
 #: update.py:11096
 msgid ""
@@ -21484,7 +21486,7 @@ msgstr ""
 
 #: update.py:11141
 msgid "$HUMAN2_SHIP_Sniper$"
-msgstr "Снайпер"
+msgstr "$HUMAN2_SHIP_Sniper$"
 
 #: update.py:11144
 msgid ""
@@ -21942,15 +21944,15 @@ msgstr ""
 
 #: update.py:11663
 msgid "$mod_ship_colonizer_cost_mult$"
-msgstr ""
+msgstr "$mod_ship_colonizer_cost_mult$"
 
 #: update.py:11666 update.py:11681
 msgid "$mod_country_base_anti_matter_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_anti_matter_produces_add$"
 
 #: update.py:11669 update.py:11687
 msgid "$mod_country_base_automatic_drone_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_automatic_drone_produces_add$"
 
 #: update.py:11672
 msgid "Monthly £alloys£ Alloys"
@@ -21958,7 +21960,7 @@ msgstr "Ежемесячно £alloys£ Сплавы"
 
 #: update.py:11675
 msgid "$mod_country_base_alloys_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_alloys_produces_add$"
 
 #: update.py:11678
 msgid "Monthly £anti_matter£ Anti Matters"
@@ -21974,7 +21976,7 @@ msgstr "Ежемесячный прирост £consumer_goods£ товаров 
 
 #: update.py:11693
 msgid "$mod_country_base_consumer_goods_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_consumer_goods_produces_add$"
 
 #: update.py:11696
 msgid "Monthly £engineering£ Engineering Research"
@@ -21982,11 +21984,11 @@ msgstr "Ежемесячный прирост £engineering£ инженерны
 
 #: update.py:11699
 msgid "$mod_country_base_engineering_research_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_engineering_research_produces_add$"
 
 #: update.py:11702
 msgid "$mod_country_base_exotic_gases_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_exotic_gases_produces_add$"
 
 #: update.py:11705
 msgid "Monthly £nanites£ Nanites"
@@ -21994,7 +21996,7 @@ msgstr "Ежемесячный прирост £nanites£ нанитов"
 
 #: update.py:11708 update.py:11744
 msgid "$mod_country_base_nanites_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_nanites_produces_add$"
 
 #: update.py:11711
 msgid "Monthly £physics£ Physics Research"
@@ -22002,11 +22004,11 @@ msgstr "Ежемесячный прирост £physics£ физических �
 
 #: update.py:11714
 msgid "$mod_country_base_physics_research_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_physics_research_produces_add$"
 
 #: update.py:11717
 msgid "$mod_country_base_rare_crystals_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_rare_crystals_produces_add$"
 
 #: update.py:11720
 msgid "Monthly £society£ $society_research$"
@@ -22014,19 +22016,19 @@ msgstr ""
 
 #: update.py:11723
 msgid "$mod_country_base_society_research_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_society_research_produces_add$"
 
 #: update.py:11726 update.py:11789
 msgid "$mod_country_base_sr_dark_matter_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_sr_dark_matter_produces_add$"
 
 #: update.py:11729 update.py:11792
 msgid "$mod_country_base_sr_living_metal_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_sr_living_metal_produces_add$"
 
 #: update.py:11732 update.py:11795
 msgid "$mod_country_base_sr_zro_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_sr_zro_produces_add$"
 
 #: update.py:11735
 msgid "Monthly £treasures£ Treasures"
@@ -22034,11 +22036,11 @@ msgstr "Ежемесячно £treasures£ Сокровища"
 
 #: update.py:11738 update.py:11798
 msgid "$mod_country_base_treasures_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_treasures_produces_add$"
 
 #: update.py:11741
 msgid "$mod_country_base_volatile_motes_produces_add$"
-msgstr ""
+msgstr "$mod_country_base_volatile_motes_produces_add$"
 
 #: update.py:11747
 msgid "£alloys£ Alloys Storage Capacity"
@@ -22210,7 +22212,7 @@ msgstr "§G+1§! $job_botanist$ на $VALUE$ £pop£"
 
 #: update.py:11885
 msgid "$AQUATIC4_SHIP_Builder$ Jobs"
-msgstr "$AQUATIC4_SHIP_Builder$ Работа"
+msgstr "$AQUATIC4_SHIP_Builder$"
 
 #: update.py:11888
 msgid "$job_builder_drone$ Jobs"
@@ -22234,7 +22236,7 @@ msgstr "§G+1§! $AQUATIC4_SHIP_Builder$ на $VALUE$ £pop£"
 
 #: update.py:11903
 msgid "$CONSTRUCTOR$ Jobs"
-msgstr "$CONSTRUCTOR$ Работа"
+msgstr "$CONSTRUCTOR$"
 
 #: update.py:11906
 msgid "§G+1§! $CONSTRUCTOR$ Job per $VALUE$ Pops"
@@ -22246,7 +22248,7 @@ msgstr "§G+1§! $CONSTRUCTOR$ на $VALUE$ £pop£"
 
 #: update.py:11912
 msgid "$TRIGGER_CONTROLLER$ Jobs"
-msgstr "$TRIGGER_CONTROLLER$ Работа"
+msgstr "$TRIGGER_CONTROLLER$"
 
 #: update.py:11915
 msgid "$job_controller_drone$ Jobs"
@@ -22270,7 +22272,7 @@ msgstr "§G+1§! $TRIGGER_CONTROLLER$ на $VALUE$ £pop£"
 
 #: update.py:11930
 msgid "$RT_DIRECTOR$ Jobs"
-msgstr "$RT_DIRECTOR$ Работа"
+msgstr "$RT_DIRECTOR$"
 
 #: update.py:11933
 msgid "§G+1§! $RT_DIRECTOR$ Job per $VALUE$ Pops"
@@ -22462,7 +22464,7 @@ msgstr "§G+1§! $job_player$ на $VALUE$ £pop£"
 
 #: update.py:12074
 msgid "$RT_PROTECTOR$ Jobs"
-msgstr "$RT_PROTECTOR$ Работа"
+msgstr "$RT_PROTECTOR$"
 
 #: update.py:12077
 msgid "§G+1§! $RT_PROTECTOR$ Job per $VALUE$ Pops"
@@ -22546,7 +22548,7 @@ msgstr "§G+1§! $job_secret_alchimist$ на $VALUE$ £pop£"
 
 #: update.py:12137
 msgid "$NECROID1_SHIP_Smuggler$ Jobs"
-msgstr "$NECROID1_SHIP_Smuggler$ Работа"
+msgstr "$NECROID1_SHIP_Smuggler$"
 
 #: update.py:12140
 msgid "$job_smuggler_drone$ Jobs"
@@ -22847,7 +22849,7 @@ msgstr ""
 
 #: update.py:12359
 msgid "$MOD_BRANCH_OFFICE_VALUE_MULT$"
-msgstr ""
+msgstr "$MOD_BRANCH_OFFICE_VALUE_MULT$"
 
 #: update.py:12362
 msgid "Building £exotic_gases£ $exotic_gases$ Upkeep"
@@ -22998,7 +23000,7 @@ msgstr "Боевое уклонение кораблей-колоний"
 
 #: update.py:12455
 msgid "$mod_shipsize_civilian_factory_hull_mult$"
-msgstr ""
+msgstr "$mod_shipsize_civilian_factory_hull_mult$"
 
 #: update.py:12458
 msgid "$civilian_factory$ Hull Points"
@@ -23006,7 +23008,7 @@ msgstr "$civilian_factory$ Очки корпуса"
 
 #: update.py:12461
 msgid "$mod_shipsize_civilian_industrial_ship_hull_mult$"
-msgstr ""
+msgstr "$mod_shipsize_civilian_industrial_ship_hull_mult$"
 
 #: update.py:12464
 msgid "$civilian_industrial_ship$ Hull Points"
@@ -23058,7 +23060,7 @@ msgstr "Облако Матери Тиянки"
 
 #: update.py:12500 update.py:13448
 msgid "$NAME_Nanite_Factory$"
-msgstr "Нанитовый завод"
+msgstr "$NAME_Nanite_Factory$"
 
 #: update.py:12503
 msgid ""
@@ -23140,7 +23142,7 @@ msgstr "£treasures£ §YНастоящие сокровища§! £treasures£"
 
 #: update.py:12557 update.py:12560 update.py:12563
 msgid "$opinion_treasures_present_good$"
-msgstr ""
+msgstr "$opinion_treasures_present_good$"
 
 #: update.py:12566
 msgid "§YAscended Destiny§!"
@@ -23457,7 +23459,7 @@ msgstr ""
 
 #: update.py:12761
 msgid "$research_assistance_protocol_req$"
-msgstr ""
+msgstr "$research_assistance_protocol_req$"
 
 #: update.py:12764
 msgid ""
@@ -23479,7 +23481,7 @@ msgstr "Потребительские товары £consumer_goods£"
 #: update.py:12902 update.py:12938 update.py:12956 update.py:12992
 #: update.py:13016
 msgid "$ruler_colony_nothing_policy_name$"
-msgstr ""
+msgstr "$ruler_colony_nothing_policy_name$"
 
 #: update.py:12788
 msgid "Unity £unity£"
@@ -23519,7 +23521,7 @@ msgstr "$STARBASE_BUILDINGS$"
 
 #: update.py:12848
 msgid "$MEGASTRUCTURE_SELECTION_PICK_TYPE$"
-msgstr ""
+msgstr "$MEGASTRUCTURE_SELECTION_PICK_TYPE$"
 
 #: update.py:12860
 msgid "$STARBASE_SHIPS$"
@@ -23579,15 +23581,15 @@ msgstr "$Trading$"
 
 #: update.py:12974
 msgid "$rare_crystals$ £rare_crystals£"
-msgstr ""
+msgstr "$rare_crystals$ £rare_crystals£"
 
 #: update.py:12980
 msgid "$exotic_gases$ £exotic_gases£"
-msgstr ""
+msgstr "$exotic_gases$ £exotic_gases£"
 
 #: update.py:12986
 msgid "$volatile_motes$ £volatile_motes£"
-msgstr ""
+msgstr "$volatile_motes$ £volatile_motes£"
 
 #: update.py:12998
 msgid "Energy"
@@ -23607,7 +23609,7 @@ msgstr "Белая дыра"
 
 #: update.py:13034
 msgid "$military_assault_protocol_req$"
-msgstr ""
+msgstr "$military_assault_protocol_req$"
 
 #: update.py:13037
 msgid ""
@@ -23839,7 +23841,7 @@ msgstr "$ap_stability_celebration$"
 
 #: update.py:13169 update.py:13175
 msgid "$ap_stability_celebration_desc$"
-msgstr ""
+msgstr "$ap_stability_celebration_desc$"
 
 #: update.py:13178
 msgid "Summoned Leviathan"
@@ -24012,7 +24014,7 @@ msgstr "Больше защитных часовых II"
 
 #: update.py:13277 update.py:13283
 msgid "$tech_defense_sentinels_1_desc$"
-msgstr ""
+msgstr "$tech_defense_sentinels_1_desc$"
 
 #: update.py:13280
 msgid "More Defense Sentinels III"
@@ -24069,7 +24071,7 @@ msgstr ""
 
 #: update.py:13319 update.py:13385
 msgid "$TECH_UNLOCK_CIVILIAN_SHIP_CONSTRUCTION_DESC$"
-msgstr ""
+msgstr "$TECH_UNLOCK_CIVILIAN_SHIP_CONSTRUCTION_DESC$"
 
 #: update.py:13322
 msgid "Secret: Food Farming"
@@ -24101,7 +24103,7 @@ msgstr ""
 
 #: update.py:13340
 msgid "$mod_shipsize_battleship_hull_mult$ increased by §G+15%§!"
-msgstr ""
+msgstr "$mod_shipsize_battleship_hull_mult$ увеличен на §G+15%§!"
 
 #: update.py:13343
 msgid "Advanced Hive Corvette Hulls"
@@ -24109,7 +24111,7 @@ msgstr ""
 
 #: update.py:13349
 msgid "$mod_shipsize_corvette_hull_mult$ increased by §G+15%§!"
-msgstr ""
+msgstr "$mod_shipsize_corvette_hull_mult$ увеличен на §G+15%§!"
 
 #: update.py:13352
 msgid "Advanced Hive Cruiser Hulls"
@@ -24256,7 +24258,7 @@ msgstr "$nanite_gateway_DESC$"
 
 #: update.py:13466
 msgid "$NANITES_SHIP_SECTION$"
-msgstr "Нанитовые корабельные секции"
+msgstr "$NANITES_SHIP_SECTION$"
 
 #: update.py:13469
 msgid ""
@@ -24736,7 +24738,7 @@ msgstr "$pc_legendary_forge$ Предпочтение"
 
 #: update.py:13727
 msgid "$trait_pc_savannah_preference_desc$"
-msgstr ""
+msgstr "$trait_pc_savannah_preference_desc$"
 
 #: update.py:13730
 msgid "Appreciated"
@@ -25435,11 +25437,11 @@ msgstr ""
 
 #: update.py:14473 update.py:14479
 msgid "$AAR_PM_torchlight_BACKFIRE_1$"
-msgstr ""
+msgstr "$AAR_PM_torchlight_BACKFIRE_1$"
 
 #: update.py:14476 update.py:14482
 msgid "$AAR_PM_torchlight_BACKFIRE_1_desc$"
-msgstr ""
+msgstr "$AAR_PM_torchlight_BACKFIRE_1_desc$"
 
 #: update.py:14485
 msgid "$AAR_PM_torchlight_GESTALT$"
@@ -26097,7 +26099,7 @@ msgstr "Поддержка от вассала"
 
 #: update.py:14710
 msgid "$AAR_mod_cntr_vassal_support$"
-msgstr ""
+msgstr "$AAR_mod_cntr_vassal_support$"
 
 #: update.py:14713
 msgid "$AAR_DEC_nzt48$"
@@ -26508,7 +26510,7 @@ msgstr ""
 
 #: update.py:14902
 msgid "$SUBJECT_DESC_AAR_SBJ_tributary$§!"
-msgstr ""
+msgstr "$SUBJECT_DESC_AAR_SBJ_tributary$§!"
 
 #: update.py:14902
 msgid ""
@@ -26642,7 +26644,7 @@ msgstr "Корабли уровня §Y$colossus$/$juggernaut$§!"
 
 #: update.py:14944
 msgid "$AAR_MEGA_webway_NODE$ maintain method:"
-msgstr ""
+msgstr "Способ поддержания $AAR_MEGA_webway_NODE$:"
 
 #: update.py:14944
 msgid ""
@@ -26951,7 +26953,7 @@ msgstr "§RВнимание： §!Вы не контролируете ни од
 
 #: update.py:15031
 msgid "$AAR_title_WEBWAY_nexus_done$"
-msgstr ""
+msgstr "$AAR_title_WEBWAY_nexus_done$"
 
 #: update.py:15034
 msgid "Remote activation $AAR_MEGA_webway_NODE$"
@@ -27746,7 +27748,7 @@ msgstr "Содержание $pop_cat_specialist$"
 
 #: update.py:15400
 msgid "$pop_cat_worker$ Upkeep"
-msgstr ""
+msgstr "$pop_cat_worker$ - содержание"
 
 #: update.py:15403
 msgid "$colossus$ Build Cost"
@@ -28077,7 +28079,7 @@ msgstr ""
 
 #: update.py:15604
 msgid "$MOD_STARBASE_TRADE_PROTECTION_ADD$"
-msgstr ""
+msgstr "$MOD_STARBASE_TRADE_PROTECTION_ADD$"
 
 #: update.py:15607
 msgid "Believe in the Central"
