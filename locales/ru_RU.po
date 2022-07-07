@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2022-07-06 23:37+0300\n"
-"PO-Revision-Date: 2022-07-07 10:20+0300\n"
+"PO-Revision-Date: 2022-07-07 14:10+0300\n"
 "Last-Translator: anubis <schmidte@list.ru>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
 "Language: ru_RU\n"
@@ -12530,23 +12530,23 @@ msgstr ""
 
 #: update.py:6221
 msgid "§R2000§! £alloys£ §YAND§! §R1000§! £energy£"
-msgstr ""
+msgstr "§R2000§! £alloys£ §YИ§! §R1000§! £energy£"
 
 #: update.py:6224
 msgid "§R5000§! £alloys£ §YAND§! §R2000§! £energy£"
-msgstr ""
+msgstr "§R5000§! £alloys£ §YИ§! §R2000§! £energy£"
 
 #: update.py:6227
 msgid "§R10000§! £alloys£ §YAND§! §R4000§! £energy£"
-msgstr ""
+msgstr "§R10000§! £alloys£ §YИ§! §R4000§! £energy£"
 
 #: update.py:6230
 msgid "§R20000§! £alloys£ §YAND§! §R8000§! £energy£"
-msgstr ""
+msgstr "§R20000§! £alloys£ §YИ§! §R8000§! £energy£"
 
 #: update.py:6233
 msgid "§R40000§! £alloys£ §YAND§! §R16000§! £energy£"
-msgstr ""
+msgstr "§R40000§! £alloys£ §YИ§! §R16000§! £energy£"
 
 #: update.py:6236
 msgid "Investment Amount"
@@ -17607,27 +17607,27 @@ msgstr "£alloys£ +5"
 
 #: update.py:8372
 msgid "£anti_matter£ +1"
-msgstr ""
+msgstr "£anti_matter£ +1"
 
 #: update.py:8375
 msgid "£anti_matter£ +2"
-msgstr ""
+msgstr "£anti_matter£ +2"
 
 #: update.py:8378
 msgid "£anti_matter£ +3"
-msgstr ""
+msgstr "£anti_matter£ +3"
 
 #: update.py:8381
 msgid "£anti_matter£ +4"
-msgstr ""
+msgstr "£anti_matter£ +4"
 
 #: update.py:8384
 msgid "£anti_matter£ +5"
-msgstr ""
+msgstr "£anti_matter£ +5"
 
 #: update.py:8387
 msgid "£anti_matter£ +6"
-msgstr ""
+msgstr "£anti_matter£ +6"
 
 #: update.py:8390
 msgid "Auto Factory"
@@ -17908,11 +17908,11 @@ msgstr "$d_energy_9$"
 
 #: update.py:8726
 msgid "£exotic_gases£ +2"
-msgstr ""
+msgstr "£exotic_gases£ +2"
 
 #: update.py:8729
 msgid "£exotic_gases£ +3"
-msgstr ""
+msgstr "£exotic_gases£ +3"
 
 #: update.py:8732
 msgid "$d_food_10$"
@@ -17983,7 +17983,7 @@ msgstr "£rare_crystals£ +3"
 
 #: update.py:8789
 msgid "Research Center"
-msgstr ""
+msgstr "Исследовательский центр"
 
 #: update.py:8795
 msgid "Unit Assembler Slot - 1"
@@ -18063,7 +18063,7 @@ msgstr "£volatile_motes£ +2"
 
 #: update.py:8864
 msgid "£volatile_motes£ +3"
-msgstr ""
+msgstr "£volatile_motes£ +3"
 
 #: update.py:8867
 msgid "Civilian Cargo §YFocus Departure§!: §GOn§!"
