@@ -240,7 +240,7 @@
   acot_precursor_databank.900.emiss.infodata: "§EНеобходимое количество баллов: 200§!"
   acot_precursor_databank.900.emiss.response: "О да, есть один проект, который должен быть продвинутым колонизационным судном. Это должно быть оно, сейчас передаю основные данные."
   acot_precursor_databank.900.enigmalith: "Что-нибудь связанное с мегаструктурой?"
-  acot_precursor_databank.900.enigmalith.infodata: "§ERequired Score: 600!"
+  acot_precursor_databank.900.enigmalith.infodata: "§EНеобходимое количество баллов: 600§!"
   acot_precursor_databank.900.enigmalith.response: "Мегаструктуры? Есть и такая. Возможно, ты уже видел некоторые из них, это Enigmaliths. Автоматизированные генераторы ресурсов. Полезны для производства пустоты и звездной эне... прости, я имею в виду в твоей галактике, это темная материя, темная энергия и, возможно, более продвинутые стратегические ресурсы, если в них добавить схемы пропеллеров."
   acot_precursor_databank.900.escort: "Как насчет Эскорта?"
   acot_precursor_databank.900.escort.infodata: "§EНеобходимое количество баллов: 100§!"
