@@ -417,6 +417,18 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="schmi-5">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>blokkat scrap</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru-RU">
+          <tig>
+            <term>обломки блоккотов</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>
