@@ -202,8 +202,10 @@ def save_data_limit(data, path, limit):
         config_file.write(str(soup.prettify(formatter="minimal")))
 
 
-module_path = "C:/Program Files (x86)/Steam/steamapps/workshop/content/281990/"
-app_path = "C:/Program Files (x86)/Steam/steamapps/common/Stellaris/localisation/"
+#module_path = "C:/Program Files (x86)/Steam/steamapps/workshop/content/281990/"
+module_path = "E:/SteamLibrary/steamapps/workshop/content/281990/"
+#app_path = "C:/Program Files (x86)/Steam/steamapps/common/Stellaris/localisation/"
+app_path = "E:/SteamLibrary/steamapps/common/Stellaris/localisation/"
 # module_path = "test/"
 modules = [
     1595876588, 1688887083, 946222466, 1067631798,

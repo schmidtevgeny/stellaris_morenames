@@ -124,7 +124,8 @@ def save_en(config):
         config.write(config_file)
 
 
-module_path = "C:/Program Files (x86)/Steam/steamapps/workshop/content/281990/"
+#module_path = "C:/Program Files (x86)/Steam/steamapps/workshop/content/281990/"
+module_path = "E:/SteamLibrary/steamapps/workshop/content/281990/"
 modules = [
     1595876588, 1688887083, 946222466, 1067631798,
     1890399946, 1121692237, 1311725711, 1333526620,

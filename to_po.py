@@ -17,10 +17,11 @@ from lxml import etree
 
 en = '_l_english.yml'
 ru = '_l_russian.yml'
-subsections = ["diplo_phrases/", "events/"] #,'formats/','namelists/']
+subsections = ["diplo_phrases/", "events/"]  # ,'formats/','namelists/']
 
-#--------
-#localisation_synced
+
+# --------
+# localisation_synced
 
 class LocString:
     def __init__(self, path, name, value, num):
@@ -41,8 +42,10 @@ class LocString:
 
     def __str__(self):
         return "{}/{}:{}".format(self.path, self.name, self.value)
+
     def __lt__(self, other):
-        return self.pos<other.pos
+        return self.pos < other.pos
+
 
 class Storage:
     def __init__(self):
@@ -107,9 +110,9 @@ if not os.path.exists(base+'russian'):
     os.makedirs(base+'russian')
 ''')
     for section in subsections:
-        f.write("if not os.path.exists(base+'"+section+"'):\n    os.makedirs(base+'"+section+"')\n")
+        f.write("if not os.path.exists(base+'" + section + "'):\n    os.makedirs(base+'" + section + "')\n")
     for section in ['replace', 'replace/russian']:
-        f.write("if not os.path.exists(base+'"+section+"'):\n    os.makedirs(base+'"+section+"')\n")
+        f.write("if not os.path.exists(base+'" + section + "'):\n    os.makedirs(base+'" + section + "')\n")
 
     for i, fdata in storage.data.items():
         of = os.path.basename(i + '_l_russian.yml')
@@ -167,8 +170,11 @@ def make_memory(storage_en, storage_ru):
 
 
 storage = Storage()
-module_path = "C:/Program Files (x86)/Steam/steamapps/workshop/content/281990/"
-app_path = "C:/Program Files (x86)/Steam/steamapps/common/Stellaris/localisation/"
+#module_path = "C:/Program Files (x86)/Steam/steamapps/workshop/content/281990/"
+module_path = "E:/SteamLibrary/steamapps/workshop/content/281990/"
+#app_path = "C:/Program Files (x86)/Steam/steamapps/common/Stellaris/localisation/"
+app_path = "E:/SteamLibrary/steamapps/common/Stellaris/localisation/"
+
 
 # todo: localisation_synced
 # common
@@ -181,8 +187,8 @@ def get_plugin_strings(storage: Storage):
         # 790903721,  2028826064, 1885775216, 1313138123, 1419304439, 1796418794, 1701916892, 2484636075, 683230077,
         # 1121692237, 2509070395, 1630649870, 2466607238, 2608299476, 1890399946, 1623423360, 1333526620, 1311725711,
         # 2293169684, 1067631798, 946222466,  1688887083, 1419304439, 2458945473, 1504307690, 2288335512,
-    	# 2060393654, 2030472413, 2028670202, 2027064352,
-	    # 1928831043, 1693982756, 1199002146,
+        # 2060393654, 2030472413, 2028670202, 2027064352,
+        # 1928831043, 1693982756, 1199002146,
         # ext
         1688887083,
         946222466,
@@ -219,7 +225,7 @@ def get_plugin_strings(storage: Storage):
         790903721,
         2060393654,
         1489142966,
-        2660548454,
+        # 2660548454, # аналог гигаструктур. китайский. перевода нет
         1780481482,
         2111178476,
         1928831043,
@@ -242,6 +248,22 @@ def get_plugin_strings(storage: Storage):
         ]
     for module in modules:
         locpath = module_path + str(module) + "/localisation/"
+        if module == 2660548454:
+            ch = '_l_simp_chinese.yml'
+            for fn in glob.iglob(locpath + "*" + ch):
+                fr = os.path.basename(fn).replace(ch, '')
+                load_strings(storage, fn, fr)
+
+            for subsection in subsections:
+                for fn in glob.iglob(locpath + subsection + "*" + ch):
+                    fr = subsection + os.path.basename(fn).replace(ch, '')
+                    load_strings(storage, fn, fr)
+
+            for fn in glob.iglob(locpath + "simp_chinese/*" + ch):
+                fr = 'russian/' + os.path.basename(fn).replace(ch, '')
+                load_strings(storage, fn, fr)
+
+
         for fn in glob.iglob(locpath + "*" + en):
             fr = os.path.basename(fn).replace(en, '')
             load_strings(storage, fn, fr)
@@ -263,36 +285,37 @@ def get_plugin_strings(storage: Storage):
             fr = 'replace/russian/' + os.path.basename(fn).replace(en, '')
             load_strings(storage, fn, fr)
 
+
 def get_original_strings(storage):
     fr = 'base'
     for fn in glob.iglob(module_path + '*/*/*' + en):
-        print(fn)
+        # print(fn)
         load_strings(storage, fn, fr)
     for fn in glob.iglob(module_path + '*/*/*/*' + en):
-        print(fn)
+        # print(fn)
         load_strings(storage, fn, fr)
     for fn in glob.iglob(app_path + 'english/*' + en):
-        print(fn)
+        # print(fn)
         load_strings(storage, fn, fr)
 
 
 def get_russian_strings(storage):
     fr = 'base'
     for fn in glob.iglob(module_path + '*/*/*' + ru):
-        print(fn)
+        # print(fn)
         load_strings(storage, fn, fr, True)
     for fn in glob.iglob(module_path + '*/*/*/*' + ru):
-        print(fn)
+        # print(fn)
         load_strings(storage, fn, fr, True)
     for fn in glob.iglob(app_path + 'russian/*' + ru):
-        print(fn)
+        # print(fn)
         load_strings(storage, fn, fr, True)
     local = 'localisation.old/'
     for fn in glob.iglob(local + '*' + ru):
-        print(fn)
+        # print(fn)
         load_strings(storage, fn, fr, True)
     for fn in glob.iglob(local + '*/*' + ru):
-        print(fn)
+        # print(fn)
         load_strings(storage, fn, fr, True)
 
 
@@ -303,7 +326,6 @@ storage_ru = Storage()
 
 get_original_strings(storage_en)
 get_russian_strings(storage_ru)
-
 
 make_maker(storage)
 make_memory(storage_en, storage_ru)
