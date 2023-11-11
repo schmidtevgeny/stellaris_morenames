@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/morenames.iml" filepath="$PROJECT_DIR$/.idea/morenames.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fix_lang.iml" filepath="$PROJECT_DIR$/.idea/fix_lang.iml" />
     </modules>
   </component>
 </project>

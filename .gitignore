@@ -1,6 +1,5 @@
 .idea
 bk
-localisation
 *.html
 /loc
 memory.po
