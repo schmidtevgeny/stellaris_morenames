@@ -215,6 +215,7 @@ def make_memory(storage_en, storage_ru):
     po = open('memory.po', 'w', encoding = 'utf-8')
 
     for i, f_en in storage_en.data.items():
+        print('section ' + i )
         if i in storage_ru.data.keys():
             f_ru = storage_ru.data[i]
             for j, e in f_en.items():
@@ -307,6 +308,9 @@ def get_original_strings(storage):
     for fn in glob.iglob(module_path + '*/*/*/*' + en):
         # print(fn)
         load_strings(storage, fn, fr)
+    for fn in glob.iglob(module_path + '*/*/*/*/*' + en):
+        # print(fn)
+        load_strings(storage, fn, fr)
     for fn in glob.iglob(app_path + 'english/*' + en):
         # print(fn)
         load_strings(storage, fn, fr)
@@ -320,9 +324,13 @@ def get_russian_strings(storage):
     for fn in glob.iglob(module_path + '*/*/*/*' + ru):
         # print(fn)
         load_strings(storage, fn, fr, True)
+    for fn in glob.iglob(module_path + '*/*/*/*/*' + ru):
+        # print(fn)
+        load_strings(storage, fn, fr, True)
     for fn in glob.iglob(app_path + 'russian/*' + ru):
         # print(fn)
         load_strings(storage, fn, fr, True)
+
     local = 'localisation.old/'
     for fn in glob.iglob(local + '*' + ru):
         # print(fn)
