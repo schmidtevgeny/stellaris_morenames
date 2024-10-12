@@ -237,18 +237,46 @@ def make_memory(storage_en, storage_ru):
 storage = Storage()
 #module_path = "C:/Program Files (x86)/Steam/steamapps/workshop/content/281990/"
 #app_path = "C:/Program Files (x86)/Steam/steamapps/common/Stellaris/localisation/"
-module_path = "E:/SteamLibrary/steamapps/workshop/content/281990/"
-app_path = "E:/SteamLibrary/steamapps/common/Stellaris/localisation/"
+# module_path = "E:/SteamLibrary/steamapps/workshop/content/281990/"
+module_path = "C:/Users/schmi/Documents/Paradox Interactive/Stellaris/mod/"
+# app_path = "E:/SteamLibrary/steamapps/common/Stellaris/localisation/"
+app_path = "E:/GOG Games/Stellaris/localisation/"
 
-modules = []
+modules = [946222466
+,1121692237
+,1410753850
+,1419304439
+,1481972266
+,1504307690
+,1587178040
+,1588784686
+,1623423360
+,1630649870
+,1693982756
+,1780481482
+,1890399946
+,2028670202
+,2178603631
+,2288335512
+,2956750503
+,2976573664
+,"tl/681483874"
+,"tl/2617298932"
+,"tl/2645981075"
+,"tl/2696538662"
+,"tl/2810284852"
+,"tl/2943075915"
 
-f = open ('mods.json', encoding='utf-8')
-config = f.read()
-f.close()
-config = json.loads(config)
-for mod in config['mods']:
-    modules.append(mod['steamId'])
-    print(mod)
+
+]
+
+# f = open ('mods.json', encoding='utf-8')
+# config = f.read()
+# f.close()
+# config = json.loads(config)
+# for mod in config['mods']:
+#     modules.append(mod['steamId'])
+#     print(mod)
 
 # todo: localisation_synced
 # common
@@ -256,7 +284,7 @@ for mod in config['mods']:
 # prescripted_countries
 def get_plugin_strings(storage: Storage):
     # module_path = "test/"
-    
+    print(module_path)
     for module in modules:
         locpath = module_path + str(module) + "/localisation/"
         if module == 2660548454:
